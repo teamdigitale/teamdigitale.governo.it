@@ -1,109 +1,109 @@
 ---
 certifiedemaillist:
   en: "certified e-mail list"
-  it: TODO_certifiedemaillist
+  it: "Elenco PEC"
 CodeNotValid:
   en: "Incorrect code!"
-  it: TODO_CodeNotValid
+  it: "Codice non valido!"
 Contacts:
   en: "Contacts"
-  it: TODO_Contacts
+  it: "Contatti"
 CookieSr:
   en: "This website uses several types of cookies: technical, analytic adn third-party. By continuing navigation you agree to the use of cookies."
-  it: TODO_CookieSr
+  it: "Questo sito utilizza cookie tecnici, analytics e di terze parti. Proseguendo nella navigazione accetti l'utilizzo dei cookie."
 Detail:
   en: "Detail"
-  it: TODO_Detail
+  it: "Dettaglio"
 DigitalTransformationTeamBr:
   en: "DIGITAL<br/>TRANSFORMATION<br/>TEAM"
-  it: TODO_DigitalTransformationTeamBr
+  it: "TEAM PER LA<br/>TRASFORMAZIONE<br/>DIGITALE"
 EmailAddresses:
   en: "E-mail"
-  it: TODO_EmailAddresses
+  it: "Indirizzi di posta elettronica"
 emaillist:
   en: "e-mail list"
-  it: TODO_emaillist
+  it: "Elenco e-Mail"
 EnglishVersion:
   en: "English version"
-  it: TODO_EnglishVersion
+  it: "Versione inglese"
 FollowUs:
   en: "Follow us on:"
-  it: TODO_FollowUs
+  it: "Seguici su:"
 fortheDigitalAgenda:
   en: "for the Digital Agenda"
-  it: TODO_fortheDigitalAgenda
+  it: "per l'attuazione dell'Agenda Digitale"
 GovernmentCommissioner:
   en: "Government Commissioner"
-  it: TODO_GovernmentCommissioner
+  it: "Commissario Straordinario"
 ItalianGovernment:
   en: "Italian Government"
-  it: TODO_ItalianGovernment
+  it: "Presidenza del Consiglio dei Ministri"
 ItalianVersion:
   en: "Italian version"
-  it: TODO_ItalianVersion
+  it: "Versione italiana"
 Italy:
   en: "Italy"
   it: "Italia"
 LegalNotes:
   en: "Legal notes"
-  it: TODO_LegalNotes
+  it: "Note legali"
 Month:
   en: "Month"
-  it: TODO_Month
+  it: "Mese"
 Navigation:
   en: "Navigation"
-  it: TODO_Navigation
+  it: "Navigazione"
 No:
   en: "No"
-  it: TODO_No
+  it: "No"
 PhoneNumbers:
   en: "Phone numbers"
-  it: TODO_PhoneNumbers
+  it: "Recapiti telefonici"
 PrivacyPolicy:
   en: "Privacy policy"
-  it: TODO_PrivacyPolicy
+  it: "Privacy policy"
 ScrollToTop:
   en: "Back to top"
-  it: TODO_ScrollToTop
+  it: "Torna all'inizio del contenuto"
 Submit:
   en: "Submit"
-  it: TODO_Submit
+  it: "Invia"
 Switchboard:
   en: "Telephone"
-  it: TODO_Switchboard
+  it: "Centralino"
 Year:
   en: "Year"
-  it: TODO_Year
+  it: "Anno"
 Yes:
   en: "Yes"
-  it: TODO_Yes
+  it: "Si"
 DigitalTransformationTeam:
   en: "Digital Transformation Team"
-  it: TODO_DigitalTransformationTeam
+  it: "Team per la Trasformazione Digitale"
 Back:
   en: "Back"
-  it: TODO_Back
+  it: "Indietro"
 Close:
   en: "Close"
-  it: TODO_Close
+  it: "Chiudi"
 AnnualCompensation:
   en: "Annual Compensation"
-  it: TODO_AnnualCompensation
+  it: "Compenso su base annua"
 Months:
   en: "months"
-  it: TODO_Months
+  it: "mesi"
 PeriodProvided:
   en: "Period Provided"
-  it: TODO_PeriodProvided
+  it: "Periodo previsto"
 StartDate:
   en: "Start Date"
-  it: TODO_StartDate
+  it: "Data inizio"
 FirstInTeam:
   en: "The first ones who joined our team:*"
-  it: TODO_FirstInTeam
+  it: "Ecco i nuovi ingressi nel nostro team:"
 Waiting:
   en: "Translations of these biographies by the person in charge."
   it: TODO_Waiting
 ApprovedOn:
   en: "Approved by the Court of Auditors"
-  it: TODO_ApprovedOn
+  it: "Registrazione in Corte dei Conti"
