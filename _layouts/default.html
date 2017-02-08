@@ -144,7 +144,7 @@
         </header>
 
     </div><!-- container -->
-    {{ page.content | markdownify }}
+    {{ content }}
 
     <a href="#page_top" title="{{ site.data.t.ScrollToTop[page.lang] }}" class="sr-only">{{ site.data.t.ScrollToTop[page.lang] }}</a>
     @if (ViewBag.Galleries != null)
