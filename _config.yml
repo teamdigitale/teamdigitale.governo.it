@@ -9,9 +9,17 @@ index:
   it:
   en: en/index.html
 url: "https://teamdigitale.governo.it"
+
+#
+# Social links
+#
 twitter_username:
   it: teamdigitaleIT
   en: ITdigitalteam
+medium_address:
+  it: https://medium.com/team-per-la-trasformazione-digitale
+  en: https://medium.com/team-per-la-trasformazione-digitale/tagged/english-language
+linkedin_address: https://www.linkedin.com/company/teamdigitale
 
 # Build settings
 markdown: kramdown
