@@ -1,0 +1,10 @@
+<div class="text-center navbar-top-link" style=" margin-top:10px; padding-top:5px; border-top: solid 1px #013366 ">
+  {% for menu_page in site.html_pages %}
+    {% if menu_page.lang == page.lang %}
+      <text>
+        <a href="{{ menu_page.url }}">{{ menu_page.title }}</a>
+        &nbsp;
+      </text>
+    {% endif %}
+  {% endfor %}
+</div>
