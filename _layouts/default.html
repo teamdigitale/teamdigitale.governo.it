@@ -115,10 +115,10 @@
                     <div class="col-xs-3 navbar__logo_container">
                         <a tabindex="-1" @Html.Raw(ViewBag.Culture == "it" ? "href='/'" : "href='/en'")>
 
-                            <img alt="" src="~/images/loghi/demo.png" class="navbar__logo navbar__logo__digital img-responsive">
+                            <img alt="" src="/images/loghi/demo.png" class="navbar__logo navbar__logo__digital img-responsive">
                         </a>
                         <a tabindex="-1" href="http://www.governo.it">
-                            <img alt="" src="~/images/loghi/governo.svg" class="hidden-xs hidden-sm navbar__logo" style="">
+                            <img alt="" src="/images/loghi/governo.svg" class="hidden-xs hidden-sm navbar__logo" style="">
                         </a>
 
                     </div>
@@ -277,7 +277,6 @@
 
 
     <script src="/js/combined-b95a138e9e.js"></script>
-    @RenderSection("scripts", required: false)
     <script type="text/javascript">
         $("#modalHurryUp").modal('show');
     </script>
