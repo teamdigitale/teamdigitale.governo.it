@@ -70,7 +70,7 @@
     <link href="/styles/font-awesome.min.css" rel="stylesheet" />
 </head>
 <body>
-    @Html.Action("Side", "Nav")
+    {% include nav_side.html %}
     <!--[if lt IE 8]>
         <p class="browserupgrade">Versioni di Explorer inferiori alla 8 non sono supportate.
         Puoi effettuare un <a href="//browsehappy.com/"> aggiornamento del browser </a> per visualizzare correttamente il sito.</p>
@@ -140,7 +140,7 @@
                 <span></span>
             </a>
             <!-- navbar header container -->
-            @Html.Action("Top", "Nav")
+            {% include nav_top.html %}
         </header>
 
     </div><!-- container -->
