@@ -1,3 +1,8 @@
+{% if page.lang == "it" %}
+{% assign homepage_href = "/" %}
+{% else %}
+{% assign homepage_href = "/" | append page.lang %}
+{% endif %}
 <!doctype html>
 <!--[if lt IE 7]>      <html class="lt-ie9 lt-ie8 lt-ie7" lang="it"> <![endif]-->
 <!--[if IE 7]>         <html class="lt-ie9 lt-ie8" lang="it"> <![endif]-->
@@ -110,7 +115,7 @@
                 </div>
                 <div class="row">
                     <div class="col-xs-3 navbar__logo_container">
-                        <a tabindex="-1" @Html.Raw(ViewBag.Culture == "it" ? "href='/'" : "href='/en'")>
+                        <a tabindex="-1" href="{{ homepage_href }}">
 
                             <img alt="" src="/images/loghi/demo.png" class="navbar__logo navbar__logo__digital img-responsive">
                         </a>
@@ -123,7 +128,7 @@
                     </div>
                     <div class="col-md-5 col-xs-5 team-nav">
                         <div style="padding-left:5px; padding-top:1px;">
-                            <a tabindex="-1" style="color:white;" @Html.Raw(ViewBag.Culture == "it" ? "href='/'" : "href='/en'")>
+                            <a tabindex="-1" style="color:white;" href="{{ homepage_href }}")>
 
                                 {{ site.data.t.DigitalTransformationTeamBr[page.lang] }}
 
@@ -144,7 +149,7 @@
     {{ content }}
 
     <a href="#page_top" title="{{ site.data.t.ScrollToTop[page.lang] }}" class="sr-only">{{ site.data.t.ScrollToTop[page.lang] }}</a>
-    
+
     <!--<aside class="lg-partecipa clearfix hidden-print">
         <h3>
             <i class="glyphicon glyphicon-edit"> </i>
@@ -204,8 +209,6 @@
 
             <div class="row">
                 <ul class="col-xs-12 footer__links clearfix">
-                    <li><a @Html.Raw(ViewBag.Culture == "it" ? "" : "href='/'") title="{{ site.data.t.ItalianVersion[page.lang] }}">{{ site.data.t.ItalianVersion[page.lang] }}</a></li>
-                    <li><a @Html.Raw(ViewBag.Culture == "en" ? "" : "href='/en'") title="{{ site.data.t.EnglishVersion[page.lang] }}">{{ site.data.t.EnglishVersion[page.lang] }}</a></li>
                     <li><a href="http://www.governo.it/privacy-policy" title="{{ site.data.t.PrivacyPolicy[page.lang] }}" target="_blank">{{ site.data.t.PrivacyPolicy[page.lang] }}</a></li>
                     <li><a href="http://www.governo.it/note-legali" title="{{ site.data.t.LegalNotes[page.lang] }}" target="_blank">{{ site.data.t.LegalNotes[page.lang] }}</a></li>
                     <li></li>
