@@ -144,33 +144,7 @@
     {{ content }}
 
     <a href="#page_top" title="{{ site.data.t.ScrollToTop[page.lang] }}" class="sr-only">{{ site.data.t.ScrollToTop[page.lang] }}</a>
-    @if (ViewBag.Galleries != null)
-    {
-        <aside class="lg-partecipa clearfix hidden-print">
-            @foreach (var gallery in (List<Gallery>)ViewBag.Galleries)
-            {
-                <div class="container">
-                    <h3 style="color:white">
-                        <i class="glyphicon glyphicon-file"> </i>
-                        @gallery.Name<br>
-                    </h3>
-                    <div style="color:white">
-                        @Html.Raw(gallery.ShortPost)
-                    </div>
-                    @foreach (var img in gallery.GalleryImages.OrderBy(o => o.Position))
-                    {
-                        <img src="@img.SmallImagePath" style="max-width:200px" class="img-responsive" />
-                    }
-
-                </div>
-            }
-
-
-        </aside>
-    }
-
-
-
+    
     <!--<aside class="lg-partecipa clearfix hidden-print">
         <h3>
             <i class="glyphicon glyphicon-edit"> </i>
