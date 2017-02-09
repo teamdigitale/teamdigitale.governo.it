@@ -8,6 +8,8 @@ is_new: false
 twitter_user: valeriopaolini
 medium_user:
 linkedin_url: https://it.linkedin.com/in/valeriopaolini
+ref: valerio-paolini
+parent_ref: team
 ---
 Ho 46 anni, vivo a Bologna, sono sposato e padre di una nativa digitale. La mia passione per la tecnologia dell’informazione è cominciata da giovanissimo e, dopo l’immancabile stagione del Commodore 64, è diventata seria quando, a quindici anni, posto di fronte all’alternativa tra un computer Apple e il motorino, non esitai a preferire il primo. Pagai qualche prezzo, ma credo sia stata una delle scelte migliori di sempre.
 

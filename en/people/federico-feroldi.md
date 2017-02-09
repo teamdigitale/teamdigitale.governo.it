@@ -8,6 +8,8 @@ is_new: false
 twitter_user: cloudify
 medium_user:
 linkedin_url: http://linkedin.com/in/feroldi
+ref: federico-feroldi
+parent_ref: team
 ---
 I was 6 when my hands landed on a computer for the first time. It was a ZX80 that my father used to teach me the basics of programming. Coding software became first my passion, then my profession. In the ‘80s and ‘90s I began to experiment with communication networks with BBSs first, then Fidonet and finally the Internet.
 

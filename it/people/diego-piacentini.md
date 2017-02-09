@@ -8,6 +8,8 @@ is_new: false
 twitter_user: diegopia
 medium_user: diegopia
 linkedin_url: https://www.linkedin.com/in/diego-piacentini-612597/it
+ref: diego-piacentini
+parent_ref: team
 ---
 Diego Piacentini ha iniziato una nuova attività dal mese di agosto 2016, lavorerà per due anni pro bono per il Governo italiano, dando il proprio aiuto nella trasformazione digitale della Pubblica Amministrazione.
 

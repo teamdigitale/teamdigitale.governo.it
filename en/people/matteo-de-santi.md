@@ -8,6 +8,8 @@ is_new: false
 twitter_user: matteo_desanti
 medium_user:
 linkedin_url: https://www.linkedin.com/in/matteodesanti
+ref: matteo-de-santi
+parent_ref: team
 ---
 When I was in high school I began experimenting with the mythical Amiga, the IT expressive potential, trying at the same time to make what I was designing actually work, doing my best to have it interactive.
 

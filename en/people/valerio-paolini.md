@@ -8,6 +8,8 @@ is_new: false
 twitter_user: valeriopaolini
 medium_user:
 linkedin_url: https://it.linkedin.com/in/valeriopaolini
+ref: valerio-paolini
+parent_ref: team
 ---
 I’m 46, I live in Bologna, I’m married and the father of a digital native.  My passion for IT started when I was very young. Immediately after the inevitable Commodore 64 season everything became very serious when, at 15, I had to choose between an Apple Computer and a scooter: I didn’t have a single doubt and I took the Apple. It wasn’t cheap, but I believe it was one of my best choices ever.
 

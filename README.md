@@ -1,5 +1,19 @@
 # Sito web teamdigitale.governo.it
 
+## Struttura del sito
+
+### Gerarchia delle pagine
+
+Ogni pagina ha una variabile `ref` che funge da identificatore della pagina
+indipendente dalla lingua (i.e. due pagine con lo stesso contenuto ma in
+lingue diverse hanno lo stesso valore di `ref`). Questo meccanismo viene
+usato per creare link indipendenti dalla lingua e per creare una relazione
+tra le pagine con uguale contenuto ma in lingue diverse.
+
+Inoltre ogni pagina può avere una variabile opzionale `parent_ref` che,
+se impostata, rende la pagina "figlia" della pagina configurata come _parent_. Questo meccanismo è usato per definire la gerarchia delle
+pagine e configurare i menù di navigazione.
+
 ## Come contribuire
 
 ### Richiesta di modifiche e segnalazione di problemi

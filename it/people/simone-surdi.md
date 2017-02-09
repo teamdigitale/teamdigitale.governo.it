@@ -8,6 +8,8 @@ is_new: false
 twitter_user: simosurdi
 medium_user:
 linkedin_url:
+ref: simone-surdi
+parent_ref: team
 ---
 Mi sono laureato in Fisica alla Scuola Normale Superiore di Pisa e ho proseguito gli studi iniziando un dottorato in Fisica Applicata al California Institute of Technology (Pasadena - USA). Tra i miei principali interessi c’era la realizzazione di computer quantistici attraverso metodi topologici.
 

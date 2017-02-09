@@ -8,6 +8,8 @@ is_new: false
 twitter_user: guidoscorza
 medium_user: guidoscorza
 linkedin_url:
+ref: guido-scorza
+parent_ref: team
 ---
 I graduated in Law in 1996 at LUISS University with a thesis on the legal protection of software and I then obtained a PhD in legal informatics and computer law at the University of Bologna.
 

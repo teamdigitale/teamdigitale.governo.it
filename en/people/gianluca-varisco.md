@@ -8,6 +8,8 @@ is_new: false
 twitter_user: gvarisco
 medium_user:
 linkedin_url: https://www.linkedin.com/in/gvarisco
+ref: gianluca-varisco
+parent_ref: team
 ---
 I moved my first steps into IT when I was thirteen, intrigued by the magic world of IRC networks and the open source software communities, a true model of collaborative development. Being born curious and  addicted to new technologies, I spent many years  banging my head against Linux, eager to understand its working principles and learn its secrets. I used my free time to take part in many international projects such as Slackware, Fedora, KDE. I also took part in Google’s first "Highly Open Participation Student", a contest involving high school students in producing a variety of  open source code, documentation and training materials for the ten participating organizations.
 

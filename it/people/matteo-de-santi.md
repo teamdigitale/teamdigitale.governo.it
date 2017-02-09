@@ -8,6 +8,8 @@ is_new: false
 twitter_user: matteo_desanti
 medium_user:
 linkedin_url: https://www.linkedin.com/in/matteodesanti
+ref: matteo-de-santi
+parent_ref: team
 ---
 Al liceo ho iniziato a sperimentare con il mitico Amiga le possibilità espressive offerte dall'informatica, cercando, però, sempre il modo di "far funzionare" ciò che disegnavo, di renderlo interattivo.
 

@@ -8,6 +8,8 @@ is_new: false
 twitter_user: marisandralizzi
 medium_user: marisandralizzi
 linkedin_url: https://it.linkedin.com/in/marisandra-lizzi-972337
+ref: marisandra-lizzi
+parent_ref: team
 ---
 Sono  laureata in Scienze Politiche Indirizzo Economico e specializzata in Relazioni Pubbliche in un Master presso l’Istituto Superiore di Comunicazione (oggi IED). Giornalista pubblicista, dopo essermi occupata di Marketing e Formazione nei primi anni della mia carriera, dal 1998 ho fatto delle mie principali passioni, lettura, scrittura e Internet la mia professione. Da quella data, infatti, lavoro nel settore delle Relazioni Pubbliche con un focus particolare sull’ufficio stampa, prima in agenzia, presso Mavellia MS&L, poi in azienda e in seguito in Mirandola Comunicazione, agenzia che ho fondato nel 2002 su una collina tra il verde e i boschi dell’Appennino emiliano. Diverse le collaborazioni con enti di formazione su tematiche legate all’ufficio stampa, alla gestione di eventi e alle relazioni pubbliche in ambito di innovazione avanzata.
 

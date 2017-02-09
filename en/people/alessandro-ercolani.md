@@ -8,6 +8,8 @@ is_new: false
 twitter_user: giuxale
 medium_user:
 linkedin_url: https://it.linkedin.com/in/alessandroercolani
+ref: alessandro-ercolani
+parent_ref: team
 ---
 I’ve been a programmer for the last 14 years. Unfortunately or by pure luck, I still have the healthy enthusiasm of a kid. I started late, I was already 24. After a few work experiences and after being a neet (not engaged in education, employment or training), there’s hope for everyone, I enrolled in college to improve my situation. In 2006 I got my degree in Cognitive Sciences and IT at Trento University and in 2009 I got my Master in Computer Sciences at Bolzano University: I have a passion for computational neuro sciences.
 

@@ -8,6 +8,8 @@ is_new: false
 twitter_user: guidoscorza
 medium_user: guidoscorza
 linkedin_url:
+ref: guido-scorza
+parent_ref: team
 ---
 Mi sono laureato in Giurisprudenza nel 1996, alla LUISS con una tesi sulla tutela giuridica del software e ho poi conseguito un dottorato di ricerca in informatica giuridica e diritto dell’informatica presso l’Università degli Studi di Bologna.
 

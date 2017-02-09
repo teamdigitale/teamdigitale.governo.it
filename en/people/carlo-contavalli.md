@@ -8,6 +8,8 @@ is_new: false
 twitter_user: CarloContavalli
 medium_user: ccontavalli
 linkedin_url:
+ref: carlo-contavalli
+parent_ref: team
 ---
 My story is similar to that of many other computer enthusiasts. I started as a child, first with an old MSX, then the DOS, and finally discovered GNU/Linux and Free Software (free as in free speech, not free beer).
 

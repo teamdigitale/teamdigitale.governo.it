@@ -8,6 +8,8 @@ is_new: false
 twitter_user: mccalv
 medium_user:
 linkedin_url:
+ref: mirko-calvaresi
+parent_ref: team
 ---
 I am passionate about the web up from 1996 when I made my first web site on virtual communities described by Howard Rheingold, but I think the best definition of the technologies that I love has given Italo Calvino in "American Lessons":
 

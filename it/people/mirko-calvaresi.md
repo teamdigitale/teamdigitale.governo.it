@@ -8,6 +8,8 @@ is_new: false
 twitter_user: mccalv
 medium_user:
 linkedin_url:
+ref: mirko-calvaresi
+parent_ref: team
 ---
 Sono appassionato di WEB dal 1996, quando ho realizzato il mio primo sito web sulle comunità virtuali descritte da Howard Rheingold, ma penso che la definizione migliore delle tecnologie che amo l’abbia data Italo Calvino in “Lezioni Americane” parlando di letteratura:
 

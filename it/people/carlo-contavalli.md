@@ -8,6 +8,8 @@ is_new: false
 twitter_user: CarloContavalli
 medium_user: ccontavalli
 linkedin_url:
+ref: carlo-contavalli
+parent_ref: team
 ---
 La mia è una storia simile a quella di molti altri ragazzi appassionati di informatica e di programmazione. Ho iniziato ancora bambino, prima con un vecchio MSX, poi il DOS, e infine scoprendo GNU/Linux e il Software Libero.
 

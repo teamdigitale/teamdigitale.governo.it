@@ -8,6 +8,8 @@ is_new: false
 twitter_user: marisandralizzi
 medium_user: marisandralizzi
 linkedin_url: https://it.linkedin.com/in/marisandra-lizzi-972337
+ref: marisandra-lizzi
+parent_ref: team
 ---
 I majored in Political Science, oriented in Economics, and I specialized in Public Relations with a Master’s Degree from the Istituto Superiore di Comunicazione (currently the IED). As a freelance journalist, after dealing with marketing and training in the early years of my career, I’ve been focusing since 1998 on my main passions: reading, writing and the Internet. Since that date, in fact, I’ve been working in the field of public relations, with a particular focus on press office activities, first with an agency, Mavellia MS&L, then at a company level and later through the agency Mirandola Comunicazione, which I founded in 2002 on a hill among the green fields and woods of the Emilian Apennines. Several collaborations with educational institutions on topics related to press office activities, event management and public relations with an advanced innovative approach.
 

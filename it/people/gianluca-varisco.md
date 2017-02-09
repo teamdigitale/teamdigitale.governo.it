@@ -8,6 +8,8 @@ is_new: false
 twitter_user: gvarisco
 medium_user:
 linkedin_url: https://www.linkedin.com/in/gvarisco
+ref: gianluca-varisco
+parent_ref: team
 ---
 Ho mosso i primi passi nell'informatica all'età di 13 anni, incuriosito dal magico mondo delle reti IRC e delle comunità legate al software libero come modello di sviluppo collaborativo. Appassionato di nuove tecnologie e curioso per natura, ho speso svariati anni a sbattere la testa giorno e notte su Linux, cercando di capirne i segreti e il funzionamento. Nel tempo libero ho contribuito a diversi progetti internazionali come Slackware, Fedora, KDE e preso parte al primo "Highly Open Participation Student", programma organizzato da Google con l'intento di coinvolgere gli studenti di scuola superiore nello sviluppo di codice open source, creazione, documentazione e materiale di formazione per conto di dieci organizzazioni.
 
