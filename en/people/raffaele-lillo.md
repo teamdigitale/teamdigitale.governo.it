@@ -8,6 +8,8 @@ is_new: false
 twitter_user: lilloraffa
 medium_user:
 linkedin_url: https://www.linkedin.com/in/raffaelelillo
+ref: raffaele-lillo
+parent_ref: team
 ---
 Professionally, I would define myself  a “Business Scientist”, with expertise in machine learning and predictive analytics, and interested in their applications in the context of business and management.
 

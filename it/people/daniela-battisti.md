@@ -8,6 +8,8 @@ is_new: false
 twitter_user:
 medium_user:
 linkedin_url:
+ref: daniela-battisti
+parent_ref: team
 ---
 Ho una Laurea in Lettere Classiche (Università degli Studi di Urbino) e un Ph.D. in Classics (Rutgers). Sono nata professionalmente come filologa classica, uno di quegli strani individui che studiano papiri e manoscritti in Greco e Latino, con una specializzazione sui temi della retorica antica e della propaganda politica e ideologica nell’antichità e  nell’antropologia culturale.
 

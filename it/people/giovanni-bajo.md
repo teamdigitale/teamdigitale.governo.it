@@ -8,6 +8,8 @@ is_new: false
 twitter_user: giovannibajo
 medium_user: giovannibajo
 linkedin_url: https://www.linkedin.com/in/giovannibajo
+ref: giovanni-bajo
+parent_ref: team
 ---
 Ho iniziato a programmare fin da piccolo, su un fido Commodore 64 che papà mi comprò in giovane età. Dopo un breve inizio nell’industria dei videogiochi, ho conosciuto Linux e il mondo del software libero, e mi ci sono dedicato completamente e con passione, costruendomi una carriera prima da consulente e poi da imprenditore.
 

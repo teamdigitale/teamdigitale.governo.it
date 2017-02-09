@@ -8,6 +8,8 @@ is_new: false
 twitter_user: lore77
 medium_user: lorenzofabbri
 linkedin_url: https://it.linkedin.com/in/lorenzofabbri
+ref: lorenzo-fabbri
+parent_ref: team
 ---
 Era la fine di settembre quando lessi che stava nascendo un gruppo di lavoro per la trasformazione digitale del Paese e mi trovai a pensare: “Ecco, questo è quello che mi piacerebbe davvero fare”. E dopo pochi mesi, eccomi qui: all’interno del Team mi occuperò di Content Design, quindi di analisi dei contesti, comprensione dei bisogni, organizzazione dei contenuti e dei servizi, con un’attenzione particolare alla semplificazione.
 

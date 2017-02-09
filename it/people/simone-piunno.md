@@ -8,6 +8,8 @@ is_new: false
 twitter_user: spiunno
 medium_user: simonepiunno
 linkedin_url: https://it.linkedin.com/in/simone-piunno-a94ba91
+ref: simone-piunno
+parent_ref: team
 ---
 Fin da piccolo ho sempre avuto la passione per l'Informatica e il mio primo programma l'ho scritto su un Commodore VIC20 quando ero ancora alle medie.  A fine anni 80, prima che arrivasse Internet, avevo già conosciuto la potenza della rete con le BBS Fidonet, che usavo per scambiare messaggi elettronici con amici in tutta Italia, facendo arrabbiare i miei genitori con i fischi del modem a 1200 bps e soprattutto per le salate bollette della SIP.  
 

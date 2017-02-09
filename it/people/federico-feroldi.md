@@ -8,6 +8,8 @@ is_new: false
 twitter_user: cloudify
 medium_user:
 linkedin_url: http://linkedin.com/in/feroldi
+ref: federico-feroldi
+parent_ref: team
 ---
 Ho messo le mani per la prima volta su un computer all'età di 6 anni. Era uno ZX80 su cui mio padre mi insegnò i primi rudimenti di programmazione. Da quel momento l'informatica è diventata la mia passione e in seguito la mia professione. Tra gli anni '80 e '90 ho iniziato a esplorare il mondo delle reti di comunicazione, tramite BBS, Fidonet e successivamente attraverso Internet.
 

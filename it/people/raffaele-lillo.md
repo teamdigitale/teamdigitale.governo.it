@@ -8,6 +8,8 @@ is_new: false
 twitter_user: lilloraffa
 medium_user:
 linkedin_url: https://www.linkedin.com/in/raffaelelillo
+ref: raffaele-lillo
+parent_ref: team
 ---
 Professionalmente mi definirei un “Business Scientist”, appassionato di Machine Learning e Predictive Analytics e interessato alle loro applicazioni in ambito business e management.
 

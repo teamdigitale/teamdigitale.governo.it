@@ -8,6 +8,8 @@ is_new: false
 twitter_user: diegopia
 medium_user: diegopia
 linkedin_url: https://www.linkedin.com/in/diego-piacentini-612597/it
+ref: diego-piacentini
+parent_ref: team
 ---
 Diego Piacentini has started in August 2016 a new activity, working pro-bono for two years for the Italian government and helping with the digital transformation of the Public Administration.
 

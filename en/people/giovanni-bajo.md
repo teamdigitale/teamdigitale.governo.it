@@ -8,6 +8,8 @@ is_new: false
 twitter_user: giovannibajo
 medium_user: giovannibajo
 linkedin_url: https://www.linkedin.com/in/giovannibajo
+ref: giovanni-bajo
+parent_ref: team
 ---
 I started programming as a child, on a trusty Commodore 64 that Dad bought me when I was young. After a brief start in the videogame industry, I met Linux and the free software world, and I decided to dedicate myself to it, completely and passionately, building my career first as a consultant and then as an entrepreneur.
 

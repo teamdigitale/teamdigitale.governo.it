@@ -8,6 +8,8 @@ is_new: false
 twitter_user: spiunno
 medium_user: simonepiunno
 linkedin_url: https://it.linkedin.com/in/simone-piunno-a94ba91
+ref: simone-piunno
+parent_ref: team
 ---
 My passion for computers began when I was a kid and I wrote my program on a Commodore VIC20 when I was a toddler.   In the late 80s, before commercial Internet, I had already discovered the power of the network thanks to Fidonet BBSs that I used to exchange electronic messages with faraway friends, upsetting my parents with the sync noise of by 1200bps modem and more importantly with the high cost of telephone bills.
 
@@ -24,5 +26,3 @@ I am a curious guy and I am always investigating innovative technological trends
 When I don't work, with my wife Francesca we take care of our 6 months daughter Isabella and sometimes I enjoy singing with a gospel choir.
 
 I am one of those who never left because I was so lucky to find in Italy exciting international workplaces, with advanced projects and (most importantly) brilliant people who also became dear friends.   Indeed it's thanks to them that I got in touch with Diego.   I hoped for years that a digital strategy eventually became a national priority and when Diego asked me to join the team I was excited to accept this challenge.
-
- 
