@@ -99,16 +99,13 @@
             <div class="navbar-header container">
                 <div class="row follow-and-language ">
                     <div class="col-xs-12 text-right hidden-xs">
-                        <a @Html.Raw(ViewBag.Culture == "it" ? "" : "href='/'") title="{{ site.data.t.ItalianVersion[page.lang] }}" class="swich-language" style="display:inline-block; border: solid 1px white; padding:0 5px; margin: 0 6px; text-decoration:none; @Html.Raw(ViewBag.Culture == "it" ? ";color:#06c; background-color:white" : "") ">IT</a>
-                        &nbsp;
-                        <a @Html.Raw(ViewBag.Culture == "en" ? "" : "href='/en'") title="{{ site.data.t.EnglishVersion[page.lang] }}" class="swich-language" style="display:inline-block; border: solid 1px white; padding:0 5px; margin:0 6px; text-decoration:none; @Html.Raw(ViewBag.Culture == "en" ? ";color:#06c; background-color:white" : "")">EN</a>
-                        &nbsp; &nbsp;
-                        {% include follow.html %}
+                      {% include lang_switch.html %}
+                      &nbsp;
+                      &nbsp;
+                      {% include follow.html %}
                     </div>
                     <div class="col-xs-12 text-right hidden-sm hidden-md hidden-lg">
-                        <a @Html.Raw(ViewBag.Culture == "it" ? "" : "href='/'") title="{{ site.data.t.ItalianVersion[page.lang] }}" class="swich-language" style="display:inline-block; border: solid 1px white; padding:0 5px; margin: 0 6px; text-decoration:none; @Html.Raw(ViewBag.Culture == "it" ? ";color:#06c; background-color:white" : "") ">IT</a>
-                        &nbsp;
-                        <a @Html.Raw(ViewBag.Culture == "en" ? "" : "href='/en'") title="{{ site.data.t.EnglishVersion[page.lang] }}" class="swich-language" style="display:inline-block; border: solid 1px white; padding:0 5px; margin:0 6px; text-decoration:none; @Html.Raw(ViewBag.Culture == "en" ? ";color:#06c; background-color:white" : "")">EN</a>
+                        {% include lang_switch.html %}
                     </div>
                 </div>
                 <div class="row">

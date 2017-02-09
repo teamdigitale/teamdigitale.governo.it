@@ -1,0 +1,6 @@
+{% for linked_page in site.pages | sort: 'lang' | reverse %}
+  {% if linked_page.ref == page.ref %}
+  <a href="{{ linked_page.url }}" title="{{ site.data.t.ItalianVersion[page.lang] }}" class="swich-language" style="display:inline-block; border: solid 1px white; padding:0 5px; margin: 0 6px; text-decoration:none; {% if linked_page.lang == page.lang %}color:#06c; background-color:white{% endif %}">{{ linked_page.lang | upcase }}</a>
+  {% endif %}
+{% endfor %}
+&nbsp;
