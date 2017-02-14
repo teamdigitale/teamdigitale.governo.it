@@ -4781,21 +4781,3 @@ $(document).ready(function () {
         $("div.bhoechie-tab>div.bhoechie-tab-content").eq(index).addClass("active");
     });
 });
-
-
-$(function () {
-    console.info(location.pathname);
-    //todo job and eglish
-    if (location.pathname == "/" | location.pathname == "/en") {
-        $('#navbar a:first-child').addClass('active');
-    } else if (location.pathname.indexOf("jobs") !== -1) {
-        $('#navbar a:nth-child(2)').addClass('active');
-    }
-    else if (location.pathname.indexOf("people") !== -1) {
-        $('#navbar a:first-child').addClass('active');
-    }
-    else {
-        $('#navbar a[href^="' + location.pathname + '"]').addClass('active');
-    }
-
-});
