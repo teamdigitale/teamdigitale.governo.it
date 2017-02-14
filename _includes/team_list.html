@@ -1,0 +1,20 @@
+<ul>
+{% for one_page in site.pages %}
+  {% if one_page.layout == "people" and one_page.lang == page.lang %}
+    <div class="row" style="margin-bottom:15px;">
+        <div class="col-xs-2">
+            <a href="{{ one_page.url }}">
+                <img class="img-circle img-responsive" src="/upload/_res7ef20ec3-55a0-4d96-b508-51b8fdbe9a84.jpg" alt="{{ one_page.title }}">
+            </a>
+        </div>
+        <div class="col-xs-10">
+            <h3 class="team-item-title">
+                <a href="{{ one_page.url }}">{{ one_page.title }}</a>
+                &nbsp;
+            </h3>
+            <p class="team-item-subtitle"><b>{{ one_page.role }}</b></p>
+        </div>
+    </div>
+  {% endif %}
+{% endfor %}
+</ul>
