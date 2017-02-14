@@ -1,0 +1,41 @@
+{% assign posts_per_row = 3 %}
+{% assign max_rows = 3 %}
+{% assign posts = site.medium_feed | where: "medium_detected_lang", page.lang %}
+{% assign cover_post = posts.first %}
+{% assign max_other_posts = posts_per_row | times: max_rows %}
+{% assign other_posts = posts | tail | take: max_other_posts %}
+{% assign tot_other_posts = other_posts.size %}
+{% assign tot_post_rows = other_posts.size | divided_by: posts_per_row | floor %}
+
+<div id="medium" style="min-height:100px;">
+
+  <div class="row" style="margin-top: 30px;">
+    <div class="col-xs-1"></div>
+    <div class="col-xs-12">
+      <small></small>
+      <h3 class="team-item-title">
+        <a href="{{ cover_post.medium_url }}" target="_blank" style="text-decoration: none;">{{ cover_post.medium_title }}</a>
+      </h3>
+      <img src="https://cdn-images-1.medium.com/fit/t/800/240/{{ cover_post.medium_preview_image_id }}" class="img-responsive" style="margin: 2px;">
+      <p class="team-item-subtitle">{{ cover_post.medium_subtitle }}</p>
+    </div>
+  </div>
+
+  {% for row_i in (1..tot_post_rows) %}
+    {% assign post_i_start = row_i | minus: 1 | times: posts_per_row %}
+    {% assign post_i_end = row_i | times: posts_per_row | min_of: tot_other_posts | minus: 1 %}
+    <div class="row" style="margin-top: 30px;">
+      {% for post_i in (post_i_start..post_i_end) %}
+        {% assign this_post = other_posts[post_i] %}
+        <div class="col-md-4">
+          <img src="https://cdn-images-1.medium.com/fit/t/800/240/{{ this_post.medium_preview_image_id }}" class="img-responsive">
+          <h3 class="team-item-title">
+            <a href="{{ this_post.medium_url }}" target="_blank" style="text-decoration: none;">{{ this_post.medium_title }}</a>
+          </h3>
+          <p class="team-item-subtitle">{{ this_post.medium_subtitle }}</p>
+        </div>
+      {% endfor %}
+    </div>
+  {% endfor %}
+
+</div>
