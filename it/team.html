@@ -6,12 +6,6 @@ permalink: /it/47-content.htm
 layout: default
 ---
 
-<h1>People</h1>
+<h2>Il Team</h2>
 
-<ul>
-{% for one_page in site.pages %}
-  {% if one_page.layout == "people" and one_page.lang == page.lang %}
-    <li><a href="{{ one_page.url }}">{{ one_page.title }}</a> - {{ one_page.role }}</li>
-  {% endif %}
-{% endfor %}
-</ul>
+{% include team_list.html %}
