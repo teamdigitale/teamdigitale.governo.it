@@ -7,7 +7,12 @@ tutte le pagine del sito che:
 <div class="text-center navbar-top-link" style=" margin-top:10px; padding-top:5px; border-top: solid 1px #013366 ">
   {% for menu_page in site.html_pages %}
     {% if menu_page.lang == page.lang and menu_page.parent_ref == nil %}
-        <a href="{{ menu_page.url }}">{{ menu_page.title }}</a>
+        {% if menu_page.ref == page.ref or menu_page.ref == page.parent_ref %}
+          {% assign isActive = true %}
+        {% else %}
+          {% assign isActive = false %}
+        {% endif %}
+        <a href="{{ menu_page.url }}" {% if isActive %}class="active"{% endif %}>{{ menu_page.title }}</a>
         &nbsp;
     {% endif %}
   {% endfor %}
