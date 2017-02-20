@@ -21,6 +21,9 @@ medium_address:
   en: https://medium.com/team-per-la-trasformazione-digitale/tagged/english-language
 linkedin_address: https://www.linkedin.com/company/teamdigitale
 
+# Medium posts importer
+medium_archive_url: https://medium.com/team-per-la-trasformazione-digitale
+
 # Build settings
 markdown: kramdown
 theme: minima
