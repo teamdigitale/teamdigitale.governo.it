@@ -5,6 +5,9 @@ var pngquant = require('imagemin-pngquant');
 var jpegtran = require('imagemin-jpegtran');
 var gifsicle = require('imagemin-gifsicle');
 var minifyHTML = require('gulp-minify-html');
+var autoprefixer = require('gulp-autoprefixer');
+var uncss = require('gulp-uncss');
+var cleanCss = require('gulp-clean-css');
 
 gulp.task('jekyll', function() {
   return gulp.src('index.html', {
@@ -31,4 +34,15 @@ gulp.task('optimize-html', function() {
 			quotes: true
 		}))
 		.pipe(gulp.dest('_site/'));
+});
+
+gulp.task('optimize-css', function() {
+   return gulp.src('_site/**/*.css')
+	   // .pipe(autoprefixer())
+	   // .pipe(uncss({
+		 //   html: ['_site/**/*.html'],
+		 //   ignore: []
+	   // }))
+	   .pipe(cleanCss({keepBreaks: false}))
+	   .pipe(gulp.dest('_site/'));
 });
