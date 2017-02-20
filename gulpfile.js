@@ -8,6 +8,9 @@ var minifyHTML = require('gulp-minify-html');
 var autoprefixer = require('gulp-autoprefixer');
 var uncss = require('gulp-uncss');
 var cleanCss = require('gulp-clean-css');
+var concat = require('gulp-concat');
+var rename = require('gulp-rename');
+var uglify = require('gulp-uglify');
 
 gulp.task('jekyll', function() {
   return gulp.src('index.html', {
@@ -45,4 +48,13 @@ gulp.task('optimize-css', function() {
 	   // }))
 	   .pipe(cleanCss({keepBreaks: false}))
 	   .pipe(gulp.dest('_site/'));
+});
+
+gulp.task('optimize-js', function() {
+    return gulp.src("js/*.js")
+        .pipe(concat('scripts.js'))
+        // .pipe(gulp.dest("_site/js"))
+        .pipe(rename('scripts.min.js'))
+        .pipe(uglify())
+        .pipe(gulp.dest("_site/js"));
 });
