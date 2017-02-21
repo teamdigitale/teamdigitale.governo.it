@@ -19,3 +19,12 @@
 
   roles:
     - { role: geerlingguy.nginx }
+
+  tasks:
+    - name: "Document root directory"
+      file:
+        path: "{{ web_document_root }}"
+        owner: root
+        group: root
+        state: directory
+        mode: 0755
