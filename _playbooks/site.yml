@@ -1,0 +1,21 @@
+---
+- name: Configure roles on web server
+  hosts: all
+  vars:
+    web_document_root: "/var/www/teamdigitale.governo.it"
+    # NGINX role, see https://galaxy.ansible.com/geerlingguy/nginx/
+    nginx_remove_default_vhost: true
+    nginx_sendfile: "on"
+    nginx_tcp_nopush: "on"
+    nginx_tcp_nodelay: "on"
+    nginx_server_tokens: "off"
+    nginx_ppa_use: true
+    nginx_ppa_version: "stable"
+    nginx_vhosts:
+      - listen: "80"
+        server_name: "teamdigitale.governo.it"
+        root: "{{ web_document_root }}"
+        index: "index.html"
+
+  roles:
+    - { role: geerlingguy.nginx }
