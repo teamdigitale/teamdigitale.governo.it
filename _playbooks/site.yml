@@ -1,6 +1,7 @@
 ---
 - name: Configure roles on web server
   hosts: all
+  become: true
   vars:
     web_document_root: "/var/www/teamdigitale.governo.it"
     # NGINX role, see https://galaxy.ansible.com/geerlingguy/nginx/
@@ -11,6 +12,11 @@
     nginx_server_tokens: "off"
     nginx_ppa_use: true
     nginx_ppa_version: "stable"
+    nginx_extra_http_options: |
+      add_header X-Frame-Options DENY;
+      add_header X-Content-Type-Options nosniff;
+      add_header X-XSS-Protection "1; mode=block";
+      add_header Referrer-Policy "no-referrer";
     nginx_vhosts:
       - listen: "80"
         server_name: "teamdigitale.governo.it"
@@ -18,6 +24,7 @@
         index: "index.html"
         extra_parameters: |
           expires $expires;
+          add_header Strict-Transport-Security "max-age=31536000; includeSubdomains;";
 
   tasks:
     - name: "NGINX cache expire config map"
