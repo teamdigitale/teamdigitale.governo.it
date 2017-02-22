@@ -16,11 +16,23 @@
         server_name: "teamdigitale.governo.it"
         root: "{{ web_document_root }}"
         index: "index.html"
-
-  roles:
-    - { role: geerlingguy.nginx }
+        extra_parameters: |
+          expires $expires;
 
   tasks:
+    - name: "NGINX cache expire config map"
+      copy:
+        content: |
+          # Expires map
+          map $sent_http_content_type $expires {
+              default                    off;
+              text/html                  epoch;
+              text/css                   max;
+              application/javascript     max;
+              ~image/                    max;
+          }
+        dest: /etc/nginx/conf.d/expires_map.conf
+
     - name: "Document root directory"
       file:
         path: "{{ web_document_root }}"
@@ -28,3 +40,6 @@
         group: root
         state: directory
         mode: 0755
+
+  roles:
+    - { role: geerlingguy.nginx }
