@@ -1,7 +1,7 @@
 {% if page.lang == "it" %}
-{% assign homepage_href = "/" %}
+  {% assign homepage_href = "/" %}
 {% else %}
-{% assign homepage_href = "/" | append: page.lang %}
+  {% assign homepage_href = "/" | append: page.lang %}
 {% endif %}
 <!doctype html>
 <!--[if lt IE 7]>      <html class="lt-ie9 lt-ie8 lt-ie7" lang="it"> <![endif]-->
@@ -28,32 +28,7 @@
       {% endif %}
     {% endfor %}
 
-    <!-- for Google -->
-    <meta name="description" content="{{ site.description[page.lang] }}">
-    <meta property="og:description" content="{{ site.description[page.lang] }}" />
-
-    <!--
-    <meta name="keywords" content="" />
-    <meta name="author" content="" />
-    <meta name="copyright" content="" />
-    <meta name="application-name" content="" />
-    -->
-    <!-- for Facebook and LinkedIn -->
-    <meta property="og:title" content="{{ page.title }}" />
-    <meta property="og:type" content="article" />
-    <!-- <meta property="og:image" content="@(ViewBag.CardImage == null ? Request.Url.GetLeftPart(UriPartial.Authority) + "/images/logo_big.png" : Request.Url.GetLeftPart(UriPartial.Authority) + ViewBag.CardImage)" /> -->
-    <meta property="og:url" content="{{ page.path | absolute_url }}" />
-
-    <!-- for Twitter -->
-    <meta name="twitter:card" content="summary_large_image" />
-    <!-- <meta name="twitter:domain" content="@Request.Url.Host" /> -->
-    <meta name="twitter:title" content="{{ page.title }}" />
-    {% if !page.description.empty? %}
-        <meta name="twitter:description" content="{{ page.description }}" />
-    {% endif %}
-
-    <!-- <meta name="twitter:image" content="@(ViewBag.CardImage == null ? Request.Url.GetLeftPart(UriPartial.Authority) + "/images/logo_big.png" : Request.Url.GetLeftPart(UriPartial.Authority) + ViewBag.CardImage)" /> -->
-    <meta name="twitter:url" content="{{ page.path | absolute_url }}" />
+    {% include seo.html %}
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
