@@ -22,6 +22,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>{{ site.title[page.lang] }} - {{ page.title }}</title>
 
+    {% for other_lang_page in site.pages %}
+      {% if other_lang_page.ref == page.ref and other_lang_page.lang != page.lang %}
+        <link rel="alternate" hreflang="{{ other_lang_page.lang }}" href="{{ other_lang_page.url }}" />
+      {% endif %}
+    {% endfor %}
 
     <!-- for Google -->
     <meta name="description" content="{{ site.description[page.lang] }}">
