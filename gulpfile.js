@@ -13,6 +13,8 @@ if (fs.existsSync(configFile)) {
   gutil.log("No local config found at [" + configFile + "]");
 }
 
+const runSequence = require('run-sequence');
+const clean = require('gulp-clean');
 const shell = require('gulp-shell');
 const imagemin = require('gulp-imagemin');
 const pngquant = require('imagemin-pngquant');
@@ -59,7 +61,7 @@ gulp.task('optimize-html', function() {
 });
 
 gulp.task('optimize-css', function() {
-  return gulp.src('_site/**/*.css')
+  return gulp.src('styles/*.css')
     // .pipe(autoprefixer())
     // .pipe(uncss({
     //   html: ['_site/**/*.html'],
@@ -68,7 +70,7 @@ gulp.task('optimize-css', function() {
     .pipe(cleanCss({
       keepBreaks: false
     }))
-    .pipe(gulp.dest('_site/'));
+    .pipe(gulp.dest('_site/styles'));
 });
 
 gulp.task('optimize-js', function() {
@@ -80,7 +82,25 @@ gulp.task('optimize-js', function() {
     .pipe(gulp.dest("_site/js"));
 });
 
-if(config.stagingServer) {
+gulp.task('clean', function() {
+  return gulp.src('_site', {
+      read: false
+    })
+    .pipe(clean());
+});
+
+gulp.task('build', function(cb) {
+  runSequence(
+    'clean',
+    'jekyll', [
+      'optimize-js',
+      'optimize-css',
+      'optimize-html',
+      'optimize-images'
+    ], cb);
+});
+
+if (config.stagingServer) {
   gulp.task('publish-staging', function() {
     return gulp.src('_site/**')
       .pipe(rsync({
