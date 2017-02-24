@@ -4,13 +4,15 @@ tutte le pagine del sito che:
 - hanno la stessa lingua della pagina corrente
 - non hanno un "parent_ref" definito
 {% endcomment %}
+{% assign same_lang_pages = (site.html_pages | where: "lang", page.lang %}
+{% assign sorted_pages = (same_lang_pages | sort: "menu_position") %}
 <div class="row row-offcanvas row-offcanvas-left">
     <div id="sidebar" class="sidebar-offcanvas">
         <nav data-offset-bottom="250" data-offset-top="0" data-spy="_affix" tabindex="0" id="menu" class="hidden-print">
             <h2 class="sr-only">{{ site.data.t.DigitalTransformationTeam[page.lang] }}</h2>
             <ul class="nav navmenu">
-                {% for menu_page in site.html_pages %}
-                  {% if menu_page.lang == page.lang and menu_page.parent_ref == nil %}
+                {% for menu_page in sorted_pages %}
+                  {% if menu_page.parent_ref == nil %}
                     <li>
                         <a href="{{ menu_page.url }}">{{ menu_page.title }}</a>
                     </li>
