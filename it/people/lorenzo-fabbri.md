@@ -11,7 +11,7 @@ linkedin_url: https://it.linkedin.com/in/lorenzofabbri
 ref: lorenzo-fabbri
 parent_ref: team
 ---
-Era la fine di settembre quando lessi che stava nascendo un gruppo di lavoro per la trasformazione digitale del Paese e mi trovai a pensare: “Ecco, questo è quello che mi piacerebbe davvero fare”. E dopo pochi mesi, eccomi qui: all’interno del Team mi occuperò di Content Design, quindi di analisi dei contesti, comprensione dei bisogni, organizzazione dei contenuti e dei servizi, con un’attenzione particolare alla semplificazione.
+Era la fine di settembre quando lessi che stava nascendo un gruppo di lavoro per la trasformazione digitale del Paese e mi trovai a pensare: “*Ecco, questo è quello che mi piacerebbe davvero fare*”. E dopo pochi mesi, eccomi qui: all’interno del Team mi occuperò di *Content Design*, quindi di analisi e comprensione dei bisogni degli utenti, organizzazione dei contenuti e dei servizi, con un’attenzione particolare alla semplificazione.
 
 Laureato cum laude nel 2001 a Bologna nelle Scienze della Comunicazione di Umberto Eco, ho conseguito nel 2003 un Master in Marketing Communication alla Cattolica di Milano e attualmente frequento un Executive MBA alla Luiss di Roma. Professore a contratto a La Sapienza di Roma dal 2006 al 2010, tengo lezioni e seminari all’Università di Firenze, al Master di Editoria di Roma (La Sapienza), a Pisa (Laboratorio culture digitali) e a Milano (IULM). Sono collaboratore della rivista Problemi dell’informazione (Il Mulino), speaker e supporter dell’Internet Festival di Pisa.
 
@@ -19,8 +19,8 @@ Mi occupo di comunicazione da quindici anni e negli ultimi dieci ho partecipato 
 
 ***
 
-Ricordo la volta in cui davvero ho capito come funziona Google ed è stato uno shock e quella in cui ho capito che potevo passare i weekend a fare binge watching (ed è stato uno shock). E poi il dibattito con il babbo sulla qualità di Wikipedia e le chiacchiere infinite con un amico per stabilire “cosa sia una community” (no, Facebook non c’era ancora). Internet è la forma della nostra cultura, è la terra dei curiosi. Internet non lo puoi catturare, semmai è lui che ti cattura. Almeno per me è stato così.
+Ricordo la volta in cui davvero ho capito come funziona Google ed è stato uno shock e quella in cui ho capito che potevo passare i weekend a fare *binge watching* (ed è stato uno shock). E poi il dibattito con il babbo sulla qualità di Wikipedia e le chiacchiere infinite con un amico per stabilire “cosa sia una community” (no, Facebook non c’era ancora). Internet è la forma della nostra cultura, è la terra dei curiosi. Internet non lo puoi catturare, semmai è lui che ti cattura. Almeno per me è stato così.
 
-Se non sono online, è perché sto leggendo Le favole al telefono, La bella addormentata nel fosso (adattamento) o qualche altra storia insieme ai piccoli Caterina e Leonardo. Se non sono a Roma, è perché amo viaggiare, specialmente con Angela.
+Se non sono online, è perché sto leggendo *Le favole al telefono*, *La bella addormentata nel fosso* (adattamento) o qualche altra storia insieme ai piccoli Caterina e Leonardo. Se non sono a Roma, è perché amo viaggiare, specialmente con Angela.
 
 Il decreto di nomina è in fase di registrazione presso la Corte dei Conti.
