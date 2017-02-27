@@ -17,7 +17,7 @@ Ho speso buona parte della mia vita professionale a trovare e organizzare connes
 
 Un'altra esperienza significativa è stata con SMS.it, pionieri del mobile Internet, dove ho progettato e realizzato il sistema di invio SMS da web, tutt'ora in funzione.
 
-Sono membro del board of advisors di Epeerahtee Ltd, startup inglese impegnata nell'offrire telefonia internazionale a tariffe locali, dove fornisco la mia esperienza sulle tecnologie open source e sulle architetture dei sistemi per il mondo mobile.
+Sono membro del *board of advisors* di Epeerahtee Ltd, startup inglese impegnata nell'offrire telefonia internazionale a tariffe locali, dove fornisco la mia esperienza sulle tecnologie *open source* e sulle architetture dei sistemi per il mondo mobile.
 
 Ho avuto l’opportunità di lavorare con persone provenienti da ogni parte del mondo, che mi ha permesso di apprezzare e valorizzare le differenze culturali e professionali.
 
