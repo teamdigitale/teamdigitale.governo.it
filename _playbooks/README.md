@@ -14,8 +14,10 @@ $ brew install ansible
 $ ansible-galaxy install -r requirements.yml
 ```
 
-## Lancia i playbook
+## Lancia il playbook
 
 ```
 $ ansible-playbook -i "myhost," site.yml
 ```
+
+Dove `myhost` è l'host di cui fare il setup.
