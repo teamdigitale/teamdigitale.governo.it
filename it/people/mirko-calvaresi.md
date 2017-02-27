@@ -13,7 +13,7 @@ parent_ref: team
 ---
 Sono appassionato di WEB dal 1996, quando ho realizzato il mio primo sito web sulle comunità virtuali descritte da Howard Rheingold, ma penso che la definizione migliore delle tecnologie che amo l’abbia data Italo Calvino in “Lezioni Americane” parlando di letteratura:
 
-Leggerezza, Rapidità, Esattezza, Visibilità, Molteplicità, Coerenza
+*Leggerezza*, *Rapidità*, *Esattezza*, *Visibilità*, *Molteplicità*, *Coerenza*
 
 L’opportunità di unirmi a questo straordinario team è arrivata mentre lavoravo a Zurigo per una multinazionale americana, Epam, con il ruolo di Lead Developer e Solution Architect, da cui mi sono dimesso per partecipare a questo progetto.
 
