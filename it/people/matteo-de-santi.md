@@ -39,4 +39,4 @@ L'altra grande "fuga dalla realtà" me l'ha concessa il teatro. Ho fondato insie
 
 In tutti gli altri (sempre troppo pochi) momenti ho accanto la mia lungimirante compagna e la mia irrefrenabile figlioletta di due anni: campionesse, ahimè, nel prendermi poco sul serio e nell'impedirmi qualunque forma di noia. Grazie ad entrambe per essere, ogni giorno, il mio personalissimo spettacolo di fuochi d'artificio.
 
-In attesa della definizione della convenzione con Infocamere
+Il decreto di nomina è in fase di registrazione presso la Corte dei Conti.
