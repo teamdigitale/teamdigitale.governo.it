@@ -17,15 +17,15 @@ Durante gli anni trascorsi negli Stati Uniti per conseguire il Ph.D. ho  svilupp
 
 Sono approdata per caso alla Presidenza del Consiglio - Forum per la Società dell’Informazione alla fine del 1999, inizio 2000.  Ho proseguito la mia carriera nel pubblico prima presso il Centro Tecnico (poi confluito nel CNIPA), poi presso Innovazione Italia e infine in INVITALIA.  Sono stata Coordinatore del Centro Studi di Lucio Stanca,  Ministro per l’Innovazione e le Tecnologie dal 2001 al 2006.
 
-Mi sono sempre occupata di temi di policy relativi all’economia digitale (e-commerce, indicatori per la misurazione della società dell’informazione, contenuti digitali per l’education, Public Sector Information, evoluzione del diritto d’autore, partecipative web, codici di condotta per Internet e minori, ICT and Gender, ecc.) e delle strategie nazionali e regionali per l’innovazione.
+Mi sono sempre occupata di temi di policy relativi all’economia digitale (e-commerce, indicatori per la misurazione della società dell’informazione, contenuti digitali per l'education, Public Sector Information, evoluzione del diritto d’autore, *partecipative web*, codici di condotta per Internet e minori, ICT and Gender, ecc.) e delle strategie nazionali e regionali per l’innovazione.
 
 Ho gestito numerosi progetti pubblici volti alla diffusione dell’Information Technology nell’ambito di diversi livelli dell’Amministrazione Pubblica centrale e locale, esperienza che mi ha insegnato a considerare gli aspetti pratici e organizzativi che grandi progetti di natura tecnologica richiedono per essere implementati. La strada dalle politiche alla pratica non è mai semplice.
 
-Dal 2001 seguo i lavori dell'Organizzazione per la cooperazione e lo sviluppo economico (OCSE) sull’economia digitale. Dal 2013 sono vice-Chair del Bureau direttivo del Committee on Digital Economy Policies; sono stata Chair del WPIE - Working Party on the Information Economy nel periodo 2005-2013.
+Dal 2001 seguo i lavori dell'*Organizzazione per la cooperazione e lo sviluppo economico* (OCSE) sull’economia digitale. Dal 2013 sono *vice-Chair* del *Bureau direttivo del Committee on Digital Economy Policies*; sono stata *Chair* del *WPIE - Working Party on the Information Economy* nel periodo 2005-2013.
 
-Sono componente dell’Office of Distinguished Friends -London Business School.
+Sono componente dell’*Office of Distinguished Friends* - *London Business School*.
 
-Guardo alla realtà pensando spesso agli unknowns-unknowns, ed è per questo che non ho mai smesso di studiare e di sfidarmi in nuove situazioni di lavoro o di apprendimento.
+Guardo alla realtà pensando spesso agli *unknowns-unknowns*, ed è per questo che non ho mai smesso di studiare e di sfidarmi in nuove situazioni di lavoro o di apprendimento.
 
 Ho due figlie: Cecilia (Master in International Affairs – Columbia University 2016) che risiede e lavora a Washington DC e Marianna che studia Economia. Lorenzo, mio marito, una Laurea in Matematica e un Ph.D. in Economics (University of Pennsylvania), ha lavorato presso gli AT&T Bell Laboratories (Murray Hill, NJ); nel corso della nostra vita in comune, ho imparato a riscoprire la visione rinascimentale che esiste un unico approccio alla conoscenza e alla ricerca, indipendentemente dalle discipline.
 
