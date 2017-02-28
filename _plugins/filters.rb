@@ -18,6 +18,12 @@ module LiquidFilters
     [input, other].min
   end
 
+  # Sorts array of objects by surname, requires field name that
+  # contains the full name
+  def sort_by_surname(input, fullname_field)
+    input.sort_by { |i| i[fullname_field].downcase.split(/ /)[1] }
+  end
+
 end
 
 Liquid::Template.register_filter(LiquidFilters)
