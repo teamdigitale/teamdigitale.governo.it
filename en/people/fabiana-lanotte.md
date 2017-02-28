@@ -1,15 +1,14 @@
-title	lang	permalink	layout	role	is_new	twitter_user	medium_user	linkedin_url	ref	parent_ref
-Fabiana Lanotte
-en
+---
+title: Fabiana Lanotte
+lang: en
 
-people
-Software Developer
-true
+layout: people
+role: Software Developer
+is_new: true
 
-
-fabiana-lanotte
-team
-
+ref: fabiana-lanotte
+parent_ref: team
+---
 I’m a software developer and a woman - in short, an outlier in the italian context.
 
 However, it’s hard for me to fit into a single definition: I know several programming languages, but I'm also an expert in big data, data mining, web mining, data science and I’m passionate of scientific research.
