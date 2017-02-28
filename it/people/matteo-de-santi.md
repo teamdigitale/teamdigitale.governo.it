@@ -1,5 +1,5 @@
 ---
-title: Matte de Santi
+title: Matteo de Santi
 lang: it
 permalink: /it/people/34-profile.htm
 layout: people
