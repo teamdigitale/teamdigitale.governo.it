@@ -22,3 +22,5 @@ I learned about the Digital Transformation Team while I was in Italy, after almo
 The Digital Transformation Team is, for me, a concrete opportunity to prove that we can be competitive on the international stage, we can improve the day to day life of our fellow citizens, we can contribute to push our country’s technological growth, and we can showcase the Italian talents so admired and sought-after abroad. A unique challenge with many important personal implications. By moving to another town I will have much less time to spend with Luisa, my wife and friend, with whom I have experienced so many adventures and who has gave me love and moral support since the beginning, leading me to accept this opportunity. I will do my best to give the Team my 20 years of experience in developing web technologies and products. My goal? Making the Italian digital infrastructure a model for the European and world communities.
 
 The act of appointment is being registered at the Court of Auditors
+
+Start Date:  January 9th, 2017 subject to confirmation of the Court of Auditors
