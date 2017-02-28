@@ -11,7 +11,7 @@ linkedin_url: https://www.linkedin.com/in/gvarisco
 ref: gianluca-varisco
 parent_ref: team
 ---
-I moved my first steps into IT when I was thirteen, intrigued by the magic world of IRC networks and the open source software communities, a true model of collaborative development. Being born curious and  addicted to new technologies, I spent many years  banging my head against Linux, eager to understand its working principles and learn its secrets. I used my free time to take part in many international projects such as Slackware, Fedora, KDE. I also took part in Google’s first "Highly Open Participation Student", a contest involving high school students in producing a variety of  open source code, documentation and training materials for the ten participating organizations.
+I moved my first steps into IT when I was thirteen, intrigued by the magic world of IRC networks and the open source software communities, a true model of collaborative development. Being born curious and  addicted to new technologies, I spent many years  banging my head against Linux, eager to understand its working principles and learn its secrets. I used my free time to take part in many international projects such as Slackware, Fedora, KDE. I also took part in Google’s first *"Highly Open Participation Student"*, a contest involving high school students in producing a variety of  open source code, documentation and training materials for the ten participating organizations.
 
 I was barely eighteen back in 2007 when Red Hat hired me for developing their corporate websites and managing some of their infrastructure projects. At that time, I also invested quite some time in contributing back to the communities operating both the Fedora and One Laptop Per Child (OLPC) projects. Being hired by such great firms when you are so young really energizes and fulfils you, but at the same time it forces you to give up on your studies, although hanging something on the wall would have made it easier to explain what I do for living. Maybe.
 
@@ -24,3 +24,5 @@ In my role I will be assessing (and improving) security and cybersecurity infras
 Proudly a geek, I enjoy reading as a means of disconnecting from reality and to satisfy my eagerness to learn.  When I’m not working I love to travel around the world to explore new places and cultures.
 
 The act of appointment is being registered at the Court of Auditors
+
+Start Date:  January 9th, 2017 subject to confirmation of the Court of Auditors
