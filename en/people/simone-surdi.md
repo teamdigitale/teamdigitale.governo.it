@@ -22,3 +22,11 @@ On February 10th I read the news that Diego Piacentini was going to return to It
 I'm part of the Global Shapers Community of the World Economic Forum, a non-profit association for the promotion of projects featuring a strong social impact.
 
 I love music: I earned a diploma in Piano at the Niccolò Paganini Conservatory in Genova.
+
+Start Date:  October 21, 2016
+
+Period Provided: until September 16, 2018
+
+Annual Compensation:  € 80,000
+
+Approved by the Court of Auditors:  November 29, 2016
