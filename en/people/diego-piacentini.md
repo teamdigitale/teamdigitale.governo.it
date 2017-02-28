@@ -22,3 +22,7 @@ Diego is on the Board of the Maasai Association, supporting education and health
 Diego serves as member of the Advisory Board and is a prominent mentor of Endeavor Global.
 
 Diego holds a degree in Economics from Bocconi University of Milan and was awarded “Bocconiano dell’anno” in 2010.
+
+Start Date:  September 16, 2016
+
+Period Provided: until September 16, 2018
