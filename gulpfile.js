@@ -100,18 +100,34 @@ gulp.task('build', function(cb) {
     ], cb);
 });
 
-if (config.stagingServer) {
+if (config.staging) {
   gulp.task('publish-staging', function() {
     return gulp.src('_site/**')
       .pipe(rsync({
         root: '_site',
-        hostname: config.stagingServer,
-        destination: config.stagingPath,
-        port: config.stagingPort,
+        hostname: config.staging.server,
+        destination: config.staging.path,
+        port: config.staging.port,
         recursive: true,
         compress: true
       }));
   });
 } else {
   gutil.log("No config for staging publish, task will be disabled");
+}
+
+if (config.production) {
+  gulp.task('publish-production', function() {
+    return gulp.src('_site/**')
+      .pipe(rsync({
+        root: '_site',
+        hostname: config.production.server,
+        destination: config.production.path,
+        port: config.production.port,
+        recursive: true,
+        compress: true
+      }));
+  });
+} else {
+  gutil.log("No config for production publish, task will be disabled");
 }

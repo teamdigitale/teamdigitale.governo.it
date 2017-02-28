@@ -12,7 +12,7 @@ Le configurazioni base del sito si trovano in `_config.yml`:
 * `email`: E-Mail per contatti
 * `description`: Descrizione del sito, per ogni lingua supportata
 * `url`: URL di base del sito
-* `twitter_username`: username Twitter del team per ogni lingua supportata (senza `@`) 
+* `twitter_username`: username Twitter del team per ogni lingua supportata (senza `@`)
 `medium_address`: Link al profilo Medium del team per ogni lingua supportata
 `linkedin_address`: Link al profilo LinkedIn del team
 `medium_archive_url`: URL da cui scaricare post Medium (vedi sotto)
@@ -59,13 +59,13 @@ I post Medium inclusi nell'homepage vengono sincronizzato ad ogni generazione de
 
 I post di Medium vengono scaricati dall'URL impostato nella configurazione `medium_archive_url` (nel file `_config`).
 
-La logica che sincronizza i post si trova nel plugin custom `_plugins/MediumImporter.rb`. 
+La logica che sincronizza i post si trova nel plugin custom `_plugins/MediumImporter.rb`.
 
 ### Traduzioni
 
 I template del sito utilizzano alcune traduzioni in modo dinamico (che non sono contenute nel testo della pagina).
 
-Queste traduzioni si trovano nel file `_data/t.yml`. 
+Queste traduzioni si trovano nel file `_data/t.yml`.
 
 ## How-To
 
@@ -73,7 +73,7 @@ Queste traduzioni si trovano nel file `_data/t.yml`.
 
 Creare la pagina statica in ogni directory delle lingue supportate (es. `it` e `en`).
 
-È utile prendere un'altra pagina statica come base. 
+È utile prendere un'altra pagina statica come base.
 
 ### Creazione di una pagina profilo
 
@@ -95,7 +95,7 @@ Oltre a generare il sito, questo comando pubblica il sito in locale all'indirizz
 
 ### Come generare il sito per la pubblicazione
 
-La generazione del sito per la pubblicazione richiede un po' più di tempo poiché comprende una serie di ottimizzazioni che rendono il sito più performante. 
+La generazione del sito per la pubblicazione richiede un po' più di tempo poiché comprende una serie di ottimizzazioni che rendono il sito più performante.
 
 In questo caso la generazione viene fatta tramite `gulp`:
 
@@ -104,6 +104,29 @@ $ gulp build
 ```
 
 Il risultato della generazione di troverà nella directory `_site`.
+
+### Pubblicare il sito
+
+Per pubblicare il sito negli ambienti di _staging_ e _produzione_ è
+necessario creare un file _json_ nella propria home directory con questo
+formato:
+
+```
+{
+  "staging": {
+    "server": "...",
+    "path": "...",
+    "port": ...
+  },
+  "production": {
+    "server": "...",
+    "path": "...",
+    "port": ...
+  },
+}
+```
+
+Dove `server` è nel formato `user@host`, `path` è il percorso completo alla directory di pubblicazione e `port` è la porta SSH per accedere al server (la pubblicazione avviene tramite _rsync_ via SSH).
 
 ## Come contribuire
 
