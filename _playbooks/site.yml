@@ -63,6 +63,19 @@
           ssl_ciphers EECDH+CHACHA20:EECDH+AES128:RSA+AES128:EECDH+AES256:RSA+AES256:EECDH+3DES:RSA+3DES:!MD5;
           expires $expires;
           add_header Strict-Transport-Security "max-age=31536000; includeSubdomains;";
+          # nginx gzip_static does not add Vary header for fonts.
+          location ~* \.(?:eot|ttf|svg)$ {
+            expires max;
+            add_header Vary Accept-Encoding;
+            add_header Cache-Control public;
+            access_log off;
+          }
+          # woff fonts should not be zipped.
+          location ~* \.(?:woff|woff2)$ {
+            expires max;
+            add_header Cache-Control public;
+            access_log off;
+          }
       - listen: "80 default_server"
         server_name: "teamdigitale.governo.it"
         extra_parameters: |
@@ -80,6 +93,7 @@
               text/css                   max;
               application/javascript     max;
               ~image/                    max;
+              ~fonts/                    max;
           }
         dest: /etc/nginx/conf.d/expires_map.conf
 
