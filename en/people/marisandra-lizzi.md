@@ -26,3 +26,11 @@ I write a lot, but my name doesn't appear often times. I love interpreting the s
 The courage and ability to manage all this comes from Mauro, my partner in life and adventure, who, after having trod the stages of theaters all over the world, decided to take root and take care of us. For a while he dedicated his managerial skills to the theater and then he magically transferred them to our life, to nurture our dreams and those of our children, Carlotta, 14, who is passionate about singing and music, and Riccardo, 10, who loves basketball and chess. They’re the ones who give me the strength I need. They’re the biggest fans when it comes to this team’s mission, and they're the reason that I’ve enthusiastically taken up this beautiful challenge.
 
 I attend bio-energy courses, as they give me an opportunity to bring together all my different roles, as a mother, wife and worker, which are all such important sources of positive energy in my life.
+
+Start Date:  October 21, 2016
+
+Period Provided: until January 31, 2017 - the extension of appointment, up to September 16, 2018, is being registered at the Court of Auditors
+
+Annual Compensation:  € 80,000
+
+Approved by the Court of Auditors:  November 29, 2016 - Pending confirmation for the extension
