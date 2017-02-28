@@ -1,6 +1,8 @@
+{% assign same_lang_pages = site.pages | where: "lang", page.lang %}
+{% assign people_pages = same_lang_pages | where: "layout", "people" %}
+{% assign sorted_people_pages = people_pages | sort_by_surname: "title" %}
 <ul>
-{% for one_page in site.pages %}
-  {% if one_page.layout == "people" and one_page.lang == page.lang %}
+{% for one_page in sorted_people_pages %}
     <div class="row" style="margin-bottom:15px;">
         <div class="col-xs-2">
             <a href="{{ one_page.url }}">
@@ -18,6 +20,5 @@
             <p class="team-item-subtitle"><b>{{ one_page.role }}</b></p>
         </div>
     </div>
-  {% endif %}
 {% endfor %}
 </ul>
