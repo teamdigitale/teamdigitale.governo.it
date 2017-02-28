@@ -22,3 +22,11 @@ I’ve always been passionate about coding and problem solving, I studied betwee
 Before joining the Italian Digital Transformation Team, I was Director of Advanced Analytics for the Interactive division of IGT (parent company of Lottomatica), where I worked since 2007. In IGT I  started up and led the data scientist team (Interactive Division) and the quants team (Sports betting division). In short, I’ve been focused on utilizing data mining and machine learning techniques to build “intelligent” applications.
 
 Outside of the office I’m: Laura’s husband, a fencer, a keen crime books reader, and a “very amateur” guitarist.
+
+Start Date:  October 24, 2016
+
+Period Provided: until September 16, 2018
+
+Annual Compensation:  € 120,000
+
+Approved by the Court of Auditors:  November 29, 2016
