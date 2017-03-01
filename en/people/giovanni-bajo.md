@@ -26,3 +26,11 @@ When Diego contacted me, I was curious about the initiative at the beginning, bu
 I started working when I was 19 years old and have been pursuing my graduate studies in Computer Science at the University of Florence over the years, and I hope to eventually be able to discuss my thesis in 2017.
 
 In terms of my private life, I try to spend my free time with Alessandra, who has been my wife and partner in life for 12 years now, and who puts up with me and supports me even when I am unable to dedicate to her the time she deserves.
+
+Start Date:  October 31, 2016
+
+Period Provided: until September 16, 2018
+
+Annual Compensation:  € 78,000
+
+Approved by the Court of Auditors:  November 29, 2016

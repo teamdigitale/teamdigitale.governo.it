@@ -35,3 +35,5 @@ After sending my resume, meeting Diego and the incredible team he managed to put
 So I took a leave of absence from my job and agreed to move to Rome for some time with my whole family. And, who knows, maybe my little munchkins will improve their Italian and avoid sentences like "I'm gratting my gambe" in the future.
 
 The act of appointment is being registered at the Court of Auditors
+
+Start Date:  January 16th, 2017 subject to confirmation of the Court of Auditors

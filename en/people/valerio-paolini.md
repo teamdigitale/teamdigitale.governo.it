@@ -26,3 +26,5 @@ At the time of my studies, interrupted with a few regrets because I had to get t
 I was intrigued by Diego Piacentini’s introduction to the project and I was moved by the unique opportunity to give back a service to my country. I have made myself available to this modern, ambitious and exciting challenge.
 
 I love Star Wars and James Bond movies: my favorite character is Q, the wizard in charge of technologies, played historically by Desmond Llewellyn. I love jazz and easy listening music. I am not a soccer fan, but every time my friends managed to bring me to a game, their team always wins.
+
+Start Date:  January 9th, 2017 subject to confirmation of the Court of Auditors
