@@ -33,4 +33,4 @@ I did not know Diego personally. I met him briefly and talked to him for about 1
 
 I applied for the International Relations position because I strongly believed in the Team’s vision. I am very enthusiastic about the prospect of contributing to the Team’s mission.
 
-Pending the definition of the agreement with Invitalia
+Start Date: January 1st March 2017 subject to confirmation of the Court of Auditors
