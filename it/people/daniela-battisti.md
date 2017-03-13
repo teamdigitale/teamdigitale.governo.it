@@ -35,4 +35,4 @@ Non conoscevo Diego, se non per averlo incontrato e parlato con lui per 10 minut
 
 Ho mandato la mia candidatura per la Posizione di “Relazioni Internazionali” mossa dalla convinzione della necessità di un Team con questa visione. Sono entusiasta di poter contribuire a questa missione.
 
-In attesa della definizione della convenzione con Invitalia
+Data inizio: 1 marzo 2017 previa conferma della Corte dei Conti
