@@ -22,3 +22,11 @@ Il 10 febbraio leggo sui giornali che Diego Piacentini sarebbe tornato in Italia
 Faccio parte della Global Shapers’ Community del World Economic Forum, una associazione senza scopo di lucro per la promozione di progetti a forte impatto sociale.
 
 Amante della musica, mi sono diplomato in Pianoforte al Conservatorio Niccolò Paganini di Genova.
+
+Data inizio:  21 ottobre 2016
+
+Periodo previsto: fino al 16 settembre 2018
+
+Compenso su base annua:  € 80.000
+
+Registrazione in Corte dei Conti:  29 novembre 2016

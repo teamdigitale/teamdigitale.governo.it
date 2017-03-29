@@ -34,3 +34,11 @@ Probabilmente, però, se son qui, significa che ci siamo piaciuti e abbiamo cond
 Coincidenze e circostanze fortuite, in questa occasione, mi hanno premiato e ne sono felice ma sono al tempo stesso consapevole che avrò bisogno di un confronto franco e continuo con la comunità di riferimento, straordinariamente ricca di talenti ed eccellenze.
 
 Curioso di natura, appassionato di tecnologia e innovazione - sono stato indeciso fino all'ultimo tra iscrivermi a giurisprudenza o ingegneria e alla fine avevo scelto di fare il giornalista [ma poi il destino ha fatto il resto!] - adoro studiare, capire, leggere e scrivere.
+
+Data inizio:  31 ottobre 2016
+
+Periodo previsto: fino al 16 settembre 2018
+
+Compenso su base annua:  € 75.000
+
+Registrazione in Corte dei Conti:  29 novembre 2016
