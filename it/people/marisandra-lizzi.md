@@ -26,3 +26,12 @@ Scrivo moltissimo, ma firmo pochissimo. Adoro impersonare lo stile delle persone
 Il coraggio e la regia di tutto questo viene dal mio compagno di vita e di avventura, Mauro Sarina, che dopo aver calcato le scene di teatri in tutto il mondo, ha deciso di mettere radici e occuparsi di noi. Per un po’ la regia è stata dedicata al teatro, poi si è magicamente trasferita alla vita, alla regia dei nostri sogni e di quelli dei nostri ragazzi, Carlotta, 14 anni, con la passione per il canto e la musica, Riccardo, 10 anni con la passione del basket e degli scacchi. Sono loro a darmi la forza. Sono loro il primo tifo sfegatato per la missione di questo team. Ed è per loro che affronto con entusiasmo questa bellissima sfida.
 
 Frequento corsi di bioenergetica che sono un’ulteriore sintesi per quel benessere generale che coinvolge tutti i miei ambiti, di mamma, moglie e lavoratrice.
+
+Data inizio:  21 ottobre 2016
+
+Periodo previsto: fino al 31 gennaio 2017 - Il decreto di prolungamento della nomina al 16 settembre 2018 è in fase di registrazione presso la Corte dei Conti.
+
+Compenso su base annua:  € 80.000
+
+Registrazione in Corte dei Conti:  29 novembre 2016 - Prolungamento mandato in attesa conferma.
+

@@ -22,3 +22,11 @@ Prima di unirmi al Team Digitale sono stato Director of Advanced Analytics nella
 L’incontro con il Team per la Trasformazione Digitale è stato una scoperta casuale e imprevista (serendipity, direbbero oltreoceano), resa possibile da conoscenze professionali in comune. Dopo una breve conversazione con Diego, mi sono subito appassionato all’idea di creare una startup agile all’interno della complessa macchina della Pubblica Amministrazione italiana.
 
 Fuori dal lavoro, sono: marito di Laura, schermidore, lettore accanito di gialli e, di tanto in tanto, strimpello la chitarra.
+
+Data inizio:  24 ottobre 2016
+
+Periodo previsto: fino al 16 settembre 2018
+
+Compenso su base annua:  € 120.000
+
+Registrazione in Corte dei Conti:  29 novembre 2016

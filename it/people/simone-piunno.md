@@ -26,3 +26,11 @@ Sono molto curioso e costantemente impegnato a investigare trend tecnologici inn
 Quando non lavoro, a casa insieme a mia moglie Francesca, coccoliamo nostra figlia Isabella che ha appena sei mesi e quando il tempo me lo permette mi emoziono cantando in un coro gospel.
 
 Faccio parte di quelli che non se ne sono mai andati perché ho avuto la fortuna di trovare in Italia ambienti stimolanti, internazionali, con progetti d’avanguardia e soprattutto brillanti compagni di viaggio che regolarmente sono diventati cari amici.  È stato proprio uno di questi a presentarmi a Diego.  Da anni speravo che il tema di una strategia digitale si imponesse finalmente nell'agenda nazionale e quando Diego mi ha proposto di entrare nella squadra ho accettato entusiasta questa sfida.
+
+Data inizio:  14 novembre 2016
+
+Periodo previsto: fino al 16 settembre 2018
+
+Compenso su base annua:  € 150.000
+
+Registrazione in Corte dei Conti:  29 novembre 2016
