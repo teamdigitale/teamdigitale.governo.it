@@ -8,6 +8,8 @@ menu_position: 4
 ---
 # Lavora con noi
 
+Vogliamo entrare in contatto con professionisti che condividano il nostro [manifesto tecnologico](https://teamdigitale.governo.it/it/1-content.htm). Un modo per lavorare insieme a noi alla costruzione dei nuovi servizi pubblici digitali del Paese è partecipare a [Developers Italia](https://developers.italia.it/), la nuova community di sviluppatori lanciata nel mese di marzo dal Team per la trasformazione digitale. Inoltre, anche se al momento non ci sono posizioni aperte, puoi inviare la tua candidatura al nostro indirizzo teamdigitale@governo.it
+
 ## Nota Bene
 
 Non dimentichiamo che lavoreremo in un ambiente governativo. Avremo l’opportunità di collaborare  in ogni ambito della Pubblica Amministrazione con persone incredibilmente brillanti e intelligenti, con grande volontà e con il sincero desiderio di migliorare e “fare la cosa giusta”. Ci sono, infatti, team moderni e innovativi e isole di eccellenza, in grado di ottenere molto con poche risorse.
