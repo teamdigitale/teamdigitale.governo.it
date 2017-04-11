@@ -1,0 +1,52 @@
+{% assign same_lang_pages = site.pages | where: "lang", page.lang %}
+{% assign people_pages = same_lang_pages | where: "layout", "people" %}
+{% assign sorted_people_pages = people_pages | sort_by_surname: "title" %}
+{% for one_page in sorted_people_pages %}
+
+<hr />
+
+<table cellpadding="0" cellspacing="0" width="320" style="color:#0066CC;font-family:tahoma,sans-serif;font-size:16px;">
+    <tr>
+        <td colspan="6" height="15"></td>
+    </tr>
+    <tr>
+        <td colspan="4"></td>
+        <td>
+            {{ one_page.title }}
+            <br />
+            <i style="font-size:12px;">{{ one_page.role }}</i>
+        </td>
+
+        <td></td>
+    </tr>
+    <tr>
+        <td colspan="6" height="15"></td>
+    </tr>
+    <tr>
+        <td valign="middle" width="40" height="40" style="height:40px;">
+            <table width="40" height="40" style="background-color:#0066CC;width:40px; height:40px;" cellpadding="3" cellspacing="0">
+                <tr>
+                    <td valign="middle" align="center">
+                        <span style="color:#FFFFFF;font-family:tahoma,sans-serif;font-size:27px;font-weight:500;">&#xB7;D</span>
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td width="20"></td>
+        <td width="1" align="right" valign="middle" style="border-right: solid 1px #0066CC;"></td>
+        <td width="20"></td>
+        <td align="left" valign="middle" style="color:#0066CC;font-family:tahoma,sans-serif;font-size:12px; vertical-align:middle;">
+            <b>{{ site.data.t.DigitalTransformationTeamBr[page.lang] }}</b>
+            <br />
+            <i>{{ site.data.t.ItalianGovernment[page.lang] }}</i>
+        </td>
+        <td></td>
+    </tr>
+    <tr>
+        <td colspan="4"></td>
+        <td valign="top"><a style="color:#0066CC;font-size:11px;" href="https://teamdigitale.governo.it/">teamdigitale.governo.it</a></td>
+        <td width="40" height="70" style="height:70px; border-bottom: solid 5px #65dbde;"></td>
+    </tr>
+</table>
+
+{% endfor %}
