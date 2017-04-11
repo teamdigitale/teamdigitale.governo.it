@@ -8,7 +8,7 @@ tutte le pagine del sito che:
 {% assign sorted_pages = (same_lang_pages | sort: "menu_position") %}
 <div class="text-center navbar-top-link" style=" margin-top:10px; padding-top:5px; border-top: solid 1px #013366 ">
   {% for menu_page in sorted_pages %}
-    {% if menu_page.parent_ref == nil %}
+    {% if menu_page.parent_ref == nil and menu_page.menu_position != nil %}
         {% if menu_page.ref == page.ref or menu_page.ref == page.parent_ref %}
           {% assign isActive = true %}
         {% else %}

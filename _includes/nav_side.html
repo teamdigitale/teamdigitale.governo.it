@@ -12,7 +12,7 @@ tutte le pagine del sito che:
             <h2 class="sr-only">{{ site.data.t.DigitalTransformationTeam[page.lang] }}</h2>
             <ul class="nav navmenu">
                 {% for menu_page in sorted_pages %}
-                  {% if menu_page.parent_ref == nil %}
+                  {% if menu_page.parent_ref == nil and menu_page.menu_position != nil %}
                     <li>
                         <a href="{{ menu_page.url }}">{{ menu_page.title }}</a>
                     </li>
