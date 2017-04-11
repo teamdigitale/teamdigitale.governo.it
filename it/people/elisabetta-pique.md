@@ -1,7 +1,7 @@
 ---
 title: Alessandro Ercolani
 lang: it
-permalink: /it/people/29-profile.htm
+permalink: /it/people/elisabetta.htm
 layout: people
 role: Metrics e Analytics
 is_new: false
