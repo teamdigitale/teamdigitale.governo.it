@@ -67,21 +67,48 @@ I template del sito utilizzano alcune traduzioni in modo dinamico (che non sono 
 
 Queste traduzioni si trovano nel file `_data/t.yml`.
 
-## How-To
+## Modifica dei contenuti del sito (principianti)
 
-### Creazione di una pagina statica
+### Preparazione
 
-Creare la pagina statica in ogni directory delle lingue supportate (es. `it` e `en`).
+Se vuoi apportare modifiche ai contenuti del sito, devi avere un account Github. L'account Github è gratuito e [facilissimo da creare](https://www.youtube.com/watch?v=ezxRcdJ8glM)!
 
-È utile prendere un'altra pagina statica come base.
+Il prossimo passo consiste nel richiedere l'accesso come collaboratore al nostro sito. Puoi chiedere a Giovanni o Federico di darti l'accesso, mandandogli il tuo username Github. Una volta che verrai aggiunto come collaboratore, riceverai una e-mail automatica di invito a collaborare sul repository del sito del team. Dopo aver accettato l'invito nella mail, sarai pronto a proporre modifiche al sito!
 
-### Creazione di una pagina profilo
+Giuhub è molto facile da usare e dispone di un'interfaccia web che ti permette di apportare e proporre modifiche, come un vero hacker! Puoi prendere familiarità con l'interfaccia web guardando [questo video di 10 minuti](https://www.youtube.com/watch?v=6lGItUBUK5s) che spiega come apportare modifiche in modo semplice e visuale.
 
-Creare la pagina profilo in ogni directory delle lingue supportate (es. `it/people` e `en/people`).
+Complimenti! Ora sei pronto per contribuire al nostro sito web seguendo questi passi:
 
-È utile prendere un'altra pagina profilo come base.
+1. Sfoglia i contenuti del sito fino a trovare la pagina che vuoi modificare, per esempio [questa](https://github.com/teamdigitale/teamdigitale.governo.it/blob/master/it/missione.md) è la pagina in Italiano della nostra mission.
+2. Clicca sull'icona della matita che vedi in alto a destra per apportare le modifiche al documento. (se non vedi l'icona o se l'icona non è cliccabile, significa che la tua richiesta di essere collaboratore al sito non è ancora stata accettata)
+3. Apporta le modifiche al documento tramite l'editor web. Per utilizzare stili diversi nel testi (titoli, grassetti, ecc...) devi usare una [convenzione di scrittura che si chiama Markdown](https://guides.github.com/features/mastering-markdown/).
+4. Una volta soddisfatto delle tue modifiche, prosegui con la proposta in fondo alla pagina, nella sezione __Commit changes__. Metti una breve descrizione della modifica da te proposta, seleziona l'opzione __Create a new branch__ e poi clicca su __Commit changes__. Non ti preoccupare, non puoi fare danni! Questo processo produce solo una proposta di modifica che poi dovrà essere approvata!
+5. Nella pagina successiva clicca su __Create pull request__ per confermare la tua richiesta di integrazione delle modifiche nella versione principale del sito.
+6. Congratulazioni! La tua proposta è ora in fase di approvazione! Se vuoi accelerare il processo di approvazione, copia il link della pagina in cui ti trovi nella chat del sito e chiedi a Giovanni o Federico di controllare e pubblicare le modifiche.
 
-### Come generare il sito mentre si lavora sui contenuti
+### Creazione di una nuova pagina generica
+
+Creare la pagina sotto forma di file con estensione `.md` in ogni directory delle lingue supportate (es. `it` e `en`).
+
+La pagina deve avere l'intestazione con i metadati necessari alla pubblicazione, è utile prendere un'altra pagina statica come base.
+
+Se è la prima volta che crei una pagina, chiedi a Giovanni o Federico di aiutarti.
+
+### Creazione o modifica di una pagina profilo
+
+Le pagine profilo di ogni membro del team si trovano nella directory `people` sotto ogni directory delle lingue supportate (es. `it/people` e `en/people`).
+
+Nella creazione di una nuova pagina è utile prendere il contenuto di un profilo esistente come base di partenza.
+
+Ricordati di usare [Markdown](https://guides.github.com/features/mastering-markdown/) per impostare gli stili del testo.
+
+### Richiesta di modifiche e segnalazione di problemi
+
+Per ogni idea o segnalazione di problemi, usare le _issue_ di Github del progetto.
+
+## Modifica dei contenuti del sito (avanzati)
+
+### Come generare automaticamente il sito mentre si lavora sui contenuti o la struttura
 
 Jekyll prevede la possibilità di generare automaticamente il sito ogni volta che viene fatta una modifica.
 
@@ -105,7 +132,7 @@ $ gulp build
 
 Il risultato della generazione di troverà nella directory `_site`.
 
-### Pubblicare il sito
+### Pubblicare il sito in staging e produzione
 
 Per pubblicare il sito negli ambienti di _staging_ e _produzione_ è
 necessario creare un file _json_ nella propria home directory con questo
@@ -128,11 +155,7 @@ formato:
 
 Dove `server` è nel formato `user@host`, `path` è il percorso completo alla directory di pubblicazione e `port` è la porta SSH per accedere al server (la pubblicazione avviene tramite _rsync_ via SSH).
 
-## Come contribuire
-
-### Richiesta di modifiche e segnalazione di problemi
-
-Per ogni idea o segnalazione di problemi, usare le _issue_ di Github del progetto.
+## Come contribuire al codice
 
 ### Dipendenze
 
