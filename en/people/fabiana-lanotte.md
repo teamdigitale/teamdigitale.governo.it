@@ -4,7 +4,7 @@ lang: en
 
 layout: people
 role: Software Developer
-is_new: true
+is_new: false
 
 ref: fabiana-lanotte
 parent_ref: team
