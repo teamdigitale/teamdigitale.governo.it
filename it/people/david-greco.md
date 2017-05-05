@@ -1,12 +1,12 @@
 ---
 title: David Greco
 lang: it
-permalink: /it/people/39-profile.htm
+permalink: /it/people/david-greco.html
 layout: people
 role: Big Data Architect
 is_new: true
 twitter_user: davidgreco
-medium_user: @dgreco
+medium_user: dgreco
 linkedin_url: https://it.linkedin.com/in/davgreco
 ref: david-greco
 parent_ref: team
