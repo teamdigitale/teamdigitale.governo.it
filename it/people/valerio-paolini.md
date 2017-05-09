@@ -26,3 +26,11 @@ Al tempo degli studi, che interruppi non senza rammarico per l’urgenza di entr
 Incuriosito dalla presentazione del progetto di Diego Piacentini e spinto dall’opportunità unica di rendere un servizio al nostro Paese, mi sono messo a disposizione di questa sfida moderna, ambiziosa e stimolante.
 
 Adoro i film di Guerre Stellari e di James Bond: il mio personaggio preferito è sempre stato Q, il responsabile delle tecnologie interpretato storicamente da Desmond Llewellyn. Mi piacciono il jazz e la musica easy listening. Non seguo il calcio, ma le poche volte che i miei amici sono riusciti a portarmi allo stadio la loro squadra ha sempre vinto.
+
+Data inizio: 9 gennaio 2017
+
+Periodo previsto: fino al 16 settembre 2018
+
+Compenso su base annua: € 80.000
+
+Registrazione in Corte dei Conti: 3 maggio 2017

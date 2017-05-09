@@ -27,4 +27,10 @@ I was intrigued by Diego Piacentini’s introduction to the project and I was mo
 
 I love Star Wars and James Bond movies: my favorite character is Q, the wizard in charge of technologies, played historically by Desmond Llewellyn. I love jazz and easy listening music. I am not a soccer fan, but every time my friends managed to bring me to a game, their team always wins.
 
-Start Date:  January 9th, 2017 subject to confirmation of the Court of Auditors
+Start Date: January 9, 2017
+
+Period Provided: until September 16, 2018
+
+Annual Compensation:  € 80,000
+
+Approved by the Court of Auditors:  May 3, 2017

@@ -25,6 +25,10 @@ My wife is Maria Pia, which bears my absences with great intelligence. She is my
 
 When I met Diego (before I knew him for his professional achievements in the world) I was excited and thrilled for the Digital Team project. A person like Diego who decides to devote part of their lives to contribute to the growth of the country, it is only a model to follow. I was immediately excited about the challenge and I think it's an opportunity not to be missed to modernize Italy.
 
-The act of appointment is being registered at the Court of Auditors
+Start Date: December 5, 2016
 
-Start Date:  subject to confirmation of the Court of Auditors
+Period Provided: until September 16, 2018
+
+Annual Compensation:  € 100,000
+
+Approved by the Court of Auditors:  January 9, 2017

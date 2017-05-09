@@ -23,4 +23,10 @@ Once I really figured out how Google works, it was shocking. And when I figured 
 
 If I’m not online, it’s because I’m reading *Le favole al telefono*, *La bella addormentata nel fosso (an adaptation)* or some other stories with my kids Caterina and Leonardo. If I’m not in Rome, it’s because I love travelling, especially with Angela.
 
-The act of appointment is being registered at the Court of Auditors
+Start Date: January 9, 2017
+
+Period Provided: until September 16, 2018
+
+Annual Compensation:  € 90,000
+
+Approved by the Court of Auditors:  May 3, 2017

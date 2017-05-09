@@ -4,7 +4,7 @@ lang: en
 
 layout: people
 role: Software Developer
-is_new: true
+is_new: false
 
 ref: fabiana-lanotte
 parent_ref: team
@@ -33,6 +33,10 @@ When I found out that Diego Piacentini was creating a team for the digitization 
 
 And now here I am, with my good ol’ suitcase, ready to relocate for a new great experience.
 
-Start Date:  January 15th, 2017 subject to confirmation of the Court of Auditors
+Start Date: January 15, 2017
 
-Approved by the Court of Auditors:  The act of appointment is being registered at the Court of Auditors
+Period Provided: until September 16, 2018
+
+Annual Compensation:  € 60,000
+
+Approved by the Court of Auditors:  May 3, 2017

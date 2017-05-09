@@ -23,7 +23,7 @@ L’incontro con il Team per la Trasformazione Digitale è stato una scoperta ca
 
 Fuori dal lavoro, sono: marito di Laura, schermidore, lettore accanito di gialli e, di tanto in tanto, strimpello la chitarra.
 
-Data inizio:  24 ottobre 2016
+Data inizio: 24 ottobre 2016
 
 Periodo previsto: fino al 16 settembre 2018
 

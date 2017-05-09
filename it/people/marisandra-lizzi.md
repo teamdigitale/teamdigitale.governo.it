@@ -27,11 +27,10 @@ Il coraggio e la regia di tutto questo viene dal mio compagno di vita e di avven
 
 Frequento corsi di bioenergetica che sono un’ulteriore sintesi per quel benessere generale che coinvolge tutti i miei ambiti, di mamma, moglie e lavoratrice.
 
-Data inizio:  21 ottobre 2016
+Data inizio: 1 febbraio 2017
 
-Periodo previsto: fino al 31 gennaio 2017 - Il decreto di prolungamento della nomina al 16 settembre 2018 è in fase di registrazione presso la Corte dei Conti.
+Periodo previsto: fino al 16 settembre 2018
 
 Compenso su base annua:  € 80.000
 
-Registrazione in Corte dei Conti:  29 novembre 2016 - Prolungamento mandato in attesa conferma.
-
+Registrazione in Corte dei Conti:  3 maggio 2017

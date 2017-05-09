@@ -26,5 +26,10 @@ Sono sposato con Maria Pia, che sopporta le mie assenze con grande intelligenza.
 
 Conoscevo Diego solo di fama per i suoi successi professionali in aziende di frontiera globali. Quando ho letto il suo post in cui chiamava a raccolta quanti volessero contribuire alla missione di modernizzare il Paese, ho scritto d’impulso e di lì a poco ho avuto l’opportunità di conoscerlo personalmente. Il progetto mi ha entusiasmato sin dall’inizio e sono davvero felice di poter lavorare per una persona come lui che ha deciso di dedicare parte della propria vita per contribuire alla crescita del Paese.
 
-Il decreto di nomina è in fase di registrazione presso la Corte dei Conti.
-Data inizio: a partire dalla data di conferma della Corte dei Conti
+Data inizio: 5 dicembre 2016
+
+Periodo previsto: fino al 16 settembre 2018
+
+Compenso su base annua: € 100.000
+
+Registrazione in Corte dei Conti: 9 gennaio 2017

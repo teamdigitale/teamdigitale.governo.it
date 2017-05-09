@@ -34,6 +34,10 @@ When I read about Team Digitale, I thought it was an incredible opportunity for 
 After sending my resume, meeting Diego and the incredible team he managed to put together, I became convinced that this was a once in a lifetime opportunity to bring about change.
 So I took a leave of absence from my job and agreed to move to Rome for some time with my whole family. And, who knows, maybe my little munchkins will improve their Italian and avoid sentences like "I'm gratting my gambe" in the future.
 
-The act of appointment is being registered at the Court of Auditors
+Start Date: January 9, 2017
 
-Start Date:  January 16th, 2017 subject to confirmation of the Court of Auditors
+Period Provided: until September 16, 2018
+
+Annual Compensation:  € 100,000
+
+Approved by the Court of Auditors:  May 3, 2017

@@ -25,4 +25,10 @@ Ho conosciuto Diego al mio primo colloquio per entrare nel team, dopo essere sta
 
 Sono un uomo molto fortunato, ho trovato una donna splendida senza la quale non sarei qui (ma probabilmente ancora nelle terre di mezzo a cercare me stesso), ho un figlio di quattro anni che mi adora, e uno di uno che aveva talmente fretta di venire al mondo che è nato tra le mie mani in un distributore di benzina. E poi farò il lavoro dei miei sogni, se non è fortuna questa.
 
-Il decreto di nomina è in fase di registrazione presso la Corte dei Conti.
+Data inizio: 15 gennaio 2017
+
+Periodo previsto: fino al 16 settembre 2018
+
+Compenso su base annua: € 90.000
+
+Registrazione in Corte dei Conti: 3 maggio 2017

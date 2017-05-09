@@ -39,4 +39,10 @@ L'altra grande "fuga dalla realtà" me l'ha concessa il teatro. Ho fondato insie
 
 In tutti gli altri (sempre troppo pochi) momenti ho accanto la mia lungimirante compagna e la mia irrefrenabile figlioletta di due anni: campionesse, ahimè, nel prendermi poco sul serio e nell'impedirmi qualunque forma di noia. Grazie ad entrambe per essere, ogni giorno, il mio personalissimo spettacolo di fuochi d'artificio.
 
-Il decreto di nomina è in fase di registrazione presso la Corte dei Conti.
+Data inizio: 17 febbraio 2017
+
+Periodo previsto: fino al 16 settembre 2018
+
+Compenso su base annua: € 95.000
+
+Registrazione in Corte dei Conti: 10 aprile 2017

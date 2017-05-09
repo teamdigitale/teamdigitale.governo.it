@@ -21,4 +21,10 @@ Quando sono venuto a conoscenza del progetto del Team per la Trasformazione Digi
 
 Il Team per la Trasformazione Digitale è per me un’opportunità concreta per dimostrare che anche noi possiamo essere competitivi a livello internazionale, per migliorare la vita dei cittadini, per contribuire a dare una spinta tecnologica al nostro Paese e per far emergere il talento per cui gli Italiani all'estero sono ammirati e ricercati. Una sfida unica con risvolti importanti anche a livello personale. Cambiando città, passerò molto meno tempo con Luisa, mia moglie e amica, con cui ho vissuto tante avventure e che mi ha appoggiato fin da subito, spingendomi ad accettare questa opportunità. Cercherò di mettere a disposizione del Team la mia ventennale esperienza nello sviluppo di tecnologie e di prodotti web con l'obiettivo di realizzare la visione di portare l'infrastruttura digitale italiana a essere un modello per la comunità europea e mondiale.
 
-Il decreto di nomina è in fase di registrazione presso la Corte dei Conti.
+Data inizio: 9 gennaio 2017
+
+Periodo previsto: fino al 16 settembre 2018
+
+Compenso su base annua: € 100.000
+
+Registrazione in Corte dei Conti: 3 maggio 2017
