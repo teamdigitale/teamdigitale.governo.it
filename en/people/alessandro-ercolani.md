@@ -25,4 +25,10 @@ I met Diego during my interview process, after having been selected in a short l
 
 I’m a lucky man. I found a wonderful woman; without her I would not be here now, but probably still fighting in Middle Earth searching for myself. I have a 4 year old son who adores me and another child just one year old who was so eager to arrive in this world that he was born in my hands in a gas station. I will have the job of my dreams. Call it luck!
 
-The act of appointment is being registered at the Court of Auditors
+Start Date: January 15, 2017
+
+Period Provided: until September 16, 2018
+
+Annual Compensation:  € 90,000
+
+Approved by the Court of Auditors:  May 3, 2017

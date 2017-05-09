@@ -23,6 +23,10 @@ In my role I will be assessing (and improving) security and cybersecurity infras
 
 Proudly a geek, I enjoy reading as a means of disconnecting from reality and to satisfy my eagerness to learn.  When I’m not working I love to travel around the world to explore new places and cultures.
 
-The act of appointment is being registered at the Court of Auditors
+Start Date: January 9, 2017
 
-Start Date:  January 9th, 2017 subject to confirmation of the Court of Auditors
+Period Provided: until September 16, 2018
+
+Annual Compensation:  € 150,000
+
+Approved by the Court of Auditors:  May 3, 2017

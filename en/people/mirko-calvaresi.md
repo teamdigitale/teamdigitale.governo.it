@@ -31,4 +31,10 @@ I am intrigued to the project for the clean and simple style of his presentation
 
 My passions are my wife Barbara and my sons Leonardo and Vittoria, who take me by the hand to the earth to the things that really matter.
 
-The act of appointment is being registered at the Court of Auditors
+Start Date: January 31, 2017
+
+Period Provided: until September 16, 2018
+
+Annual Compensation:  € 80,000
+
+Approved by the Court of Auditors:  May 3, 2017

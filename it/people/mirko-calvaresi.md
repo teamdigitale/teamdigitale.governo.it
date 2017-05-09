@@ -31,4 +31,10 @@ Mi sono incuriosito al progetto per lo stile semplice ed essenziale della sua pr
 
 Le mie passioni sono mia moglie Barbara e i miei figli Leonardo e Vittoria, che ogni giorno mi riportano per mano sulla terra alle cose che veramente contano.
 
-Il decreto di nomina è in fase di registrazione presso la Corte dei Conti.
+Data inizio: 31 gennaio 2017
+
+Periodo previsto: fino al 16 settembre 2018
+
+Compenso su base annua: € 80.000
+
+Registrazione in Corte dei Conti: 3 maggio 2017

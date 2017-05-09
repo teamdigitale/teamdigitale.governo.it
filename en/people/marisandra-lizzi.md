@@ -27,10 +27,10 @@ The courage and ability to manage all this comes from Mauro, my partner in life 
 
 I attend bio-energy courses, as they give me an opportunity to bring together all my different roles, as a mother, wife and worker, which are all such important sources of positive energy in my life.
 
-Start Date:  October 21, 2016
+Start Date: February 1, 2017
 
-Period Provided: until January 31, 2017 - the extension of appointment, up to September 16, 2018, is being registered at the Court of Auditors
+Period Provided: until September 16, 2018
 
 Annual Compensation:  € 80,000
 
-Approved by the Court of Auditors:  November 29, 2016 - Pending confirmation for the extension
+Approved by the Court of Auditors:  May 3, 2017

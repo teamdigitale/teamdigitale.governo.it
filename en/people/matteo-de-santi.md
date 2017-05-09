@@ -35,4 +35,10 @@ As a way to survive in this word of codes and vectors I dedicate any time I can 
 
 I don’t have much spare time, but what little there is I spend with my farsighted companion and my irrepressible 2 year old daughter, who is great at not taking to me too seriously and keeps me from ever becoming bored. Thanks to both of them for being, every day, my very personal fireworks show.
 
-The act of appointment is being registered at the Court of Auditors
+Start Date: February 17, 2017
+
+Period Provided: until September 16, 2018
+
+Annual Compensation:  € 95,000
+
+Approved by the Court of Auditors:  April 10, 2017

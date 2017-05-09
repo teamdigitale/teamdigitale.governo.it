@@ -23,4 +23,10 @@ Ricordo la volta in cui davvero ho capito come funziona Google ed è stato uno s
 
 Se non sono online, è perché sto leggendo *Le favole al telefono*, *La bella addormentata nel fosso* (adattamento) o qualche altra storia insieme ai piccoli Caterina e Leonardo. Se non sono a Roma, è perché amo viaggiare, specialmente con Angela.
 
-Il decreto di nomina è in fase di registrazione presso la Corte dei Conti.
+Data inizio: 9 gennaio 2017
+
+Periodo previsto: fino al 16 settembre 2018
+
+Compenso su base annua: € 90.000
+
+Registrazione in Corte dei Conti: 3 maggio 2017

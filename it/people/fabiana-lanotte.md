@@ -4,9 +4,9 @@ lang: it
 layout: people
 role: Software Developer
 is_new: false
-twitter_user: 
+twitter_user:
 medium_user:
-linkedin_url: 
+linkedin_url:
 ref: fabiana-lanotte
 parent_ref: team
 ---
@@ -20,7 +20,7 @@ Sono cofondatrice di una startup innovativa la cui missione è quella di monitor
 
 Quest'esperienza mi ha insegnato molto. Ho imparato a realizzare prodotti, piuttosto che prototipi come avveniva in università.
 
-Ho conosciuto il mondo della pubblica amministrazione e la burocrazia, fatte di “scartoffie”, postille, marche da bollo e da tanta carta. 
+Ho conosciuto il mondo della pubblica amministrazione e la burocrazia, fatte di “scartoffie”, postille, marche da bollo e da tanta carta.
 
 Sono una studentessa di dottorato, ormai in dirittura d'arrivo, presso l'Università di Bari.
 
@@ -28,12 +28,16 @@ Durante gli anni di dottorato ho avuto modo di scoprire il mondo della ricerca s
 
 Grazie al dottorato ho avuto modo di lavorare per otto mesi presso l'Università dell’Illinois, una delle più importanti università di computer science. Qui ho avuto modo di collaborare e confrontarmi con un team eterogeneo per cultura, competenze e abitudini.
 
-Infine ho lavorato come *big data architect* in un'azienda italiana che combina ingegneria e *data science* per realizzare prodotti capaci di estrarre conoscenza da montagne di dati. 
+Infine ho lavorato come *big data architect* in un'azienda italiana che combina ingegneria e *data science* per realizzare prodotti capaci di estrarre conoscenza da montagne di dati.
 
 Quando ho appreso la notizia che Diego Piacentini stava formando un team per la digitalizzazione e trasformazione del Paese, mi son subito candidata. Durante l'iter di colloqui che ho affrontato per questa posizione, ho avuto modo di conoscere alcuni membri del team, persone brillanti e professionali con cui mettere a fattor comune le mie conoscenze e competenze.
 
 Ed ora eccomi qui, con la solita valigia, pronta a trasferirmi per una nuova grande esperienza.
 
-Data inizio:  15 gennaio 2017 previa conferma della Corte dei Conti
+Data inizio: 15 gennaio 2017
 
-Registrazione in Corte dei Conti:  Il decreto di nomina è in fase di registrazione presso la Corte dei Conti
+Periodo previsto: fino al 16 settembre 2018
+
+Compenso su base annua: € 60.000
+
+Registrazione in Corte dei Conti: 3 maggio 2017

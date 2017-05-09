@@ -25,4 +25,12 @@ I am a curious guy and I am always investigating innovative technological trends
 
 When I don't work, with my wife Francesca we take care of our 6 months daughter Isabella and sometimes I enjoy singing with a gospel choir.
 
-I am one of those who never left because I was so lucky to find in Italy exciting international workplaces, with advanced projects and (most importantly) brilliant people who also became dear friends.   Indeed it's thanks to them that I got in touch with Diego.   I hoped for years that a digital strategy eventually became a national priority and when Diego asked me to join the team I was excited to accept this challenge.
+I am one of those who never left because I was so lucky to find in Italy exciting international workplaces, with advanced projects and (most importantly) brilliant people who also became dear friends.   Indeed it's thanks to them that I got in touch with Diego. I hoped for years that a digital strategy eventually became a national priority and when Diego asked me to join the team I was excited to accept this challenge.
+
+Start Date: November 14, 2016
+
+Period Provided: until September 16, 2018
+
+Annual Compensation:  € 150,000
+
+Approved by the Court of Auditors:  November 29, 2016

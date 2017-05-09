@@ -21,4 +21,10 @@ Il mio compito sarà quello di valutare e migliorare le infrastrutture, i proces
 
 Orgogliosamente geek, utilizzo la lettura come scusa per estraniarmi dalla realtà e per appagare la sete di sapere. Quando non lavoro, amo viaggiare alla scoperta di posti nuovi e conoscere culture diverse.
 
-Il decreto di nomina è in fase di registrazione presso la Corte dei Conti.
+Data inizio: 9 gennaio 2017
+
+Periodo previsto: fino al 16 settembre 2018
+
+Compenso su base annua: € 150.000
+
+Registrazione in Corte dei Conti: 3 maggio 2017

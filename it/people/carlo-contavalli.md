@@ -35,4 +35,10 @@ Mandato il curriculum, incontrato Diego e conosciute le persone incredibili che 
 
 Ho quindi preso aspettativa dal mio lavoro e accettato di trasferirmi per qualche tempo a Roma con tutta la famiglia (e chissà che anche i piccolini non migliorino il loro italiano e che in futuro evitino frasi come “I’m gratting my gambe”).
 
-Il decreto di nomina è in fase di registrazione presso la Corte dei Conti.
+Data inizio: 9 gennaio 2017
+
+Periodo previsto: fino al 16 settembre 2018
+
+Compenso su base annua: € 100.000
+
+Registrazione in Corte dei Conti: 3 maggio 2017
