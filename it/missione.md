@@ -38,3 +38,4 @@ _Per ora è un decalogo, poi chissà_
 8. Saremo aperti e trasparenti; pubblicheremo documenti che illustrino quello che abbiamo costruito, le decisioni prese, gli errori commessi e i benefici che abbiamo rilevato
 9. Avremo una visione di lungo termine, ma identificheremo anche le tappe intermedie che ci permetteranno di offrire rapidamente valore ai cittadini italiani
 10. Continueremo ad imparare; non ci limiteremo a questi principi e ne aggiungeremo di nuovi
+
