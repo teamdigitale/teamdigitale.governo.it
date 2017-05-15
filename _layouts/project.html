@@ -1,0 +1,36 @@
+{% capture proj_page_content %}
+<h2>{{ page.title }}</h2>
+{% if page.people != nil %}
+	<div class="row project__people">
+	{% for ppage in page.people %}
+		{% assign same_lang_pages = site.pages | where: "lang", page.lang %}
+		{% assign people_pages = same_lang_pages | where: "ref", ppage %}
+
+		{% for person in people_pages %}
+			<article class="col-sm-4 project__people__person">
+				<a href="{{ person.url }}">
+	                <img class="img-circle img-responsive" src="/images/team/{{ person.ref }}.jpg" alt="{{ person.title }}">
+	            </a>
+				<h1 class="h4">{{person.title}}</h1>
+				<h2 class="h5">{{person.role}}</h2>
+			</article>
+		{% endfor %}
+	{% endfor %}
+	</div>
+
+{% endif %}
+
+<div class="row">
+<div class="col-md-9">
+	{{ content }}
+</div>
+<div class="col-md-3">
+{{ content | toc_only }}
+
+</div>
+
+</div>
+
+
+{% endcapture %}
+{% include layout_base.html content=proj_page_content %}
