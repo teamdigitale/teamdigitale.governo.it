@@ -1,12 +1,12 @@
 ---
-title: Progetti
-lang: it
+title: Projects
+lang: en
 ref: projects
 menu_position: 0
-permalink: /it/progetti.htm
+permalink: /en/projects.htm
 layout: default
 ---
 
-<h2>I Progetti</h2>
+<h2>Projects</h2>
 
 {% include projects_list.html %}

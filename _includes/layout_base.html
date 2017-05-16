@@ -50,6 +50,7 @@
     <link rel="stylesheet" href="/styles/icons.css" />
     <link rel="stylesheet" href="/styles/share.css" />
     <link rel="stylesheet" href="/styles/current.css" />
+    <link rel="stylesheet" href="/assets/main.css" />
     <link href="/styles/dialog.css" rel="stylesheet" />
     <link href="/styles/font-awesome.min.css" rel="stylesheet" />
 </head>
@@ -223,8 +224,27 @@
             g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
             })();
         </script>
+        <!-- Twitter integration -->
+        <script>window.twttr = (function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0],
+            t = window.twttr || {};
+          if (d.getElementById(id)) return t;
+          js = d.createElement(s);
+          js.id = id;
+          js.src = "https://platform.twitter.com/widgets.js";
+          fjs.parentNode.insertBefore(js, fjs);
+
+          t._e = [];
+          t.ready = function(f) {
+            t._e.push(f);
+          };
+
+          return t;
+        }(document, "script", "twitter-wjs"));
+        </script>
         <noscript><p><img src="//teamdigitale.piwikpro.com/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
         <!-- End Piwik Code -->
+
     </footer>
 
     <a href="#page_top" title="{{ site.data.t.ScrollToTop[page.lang] }}" class="scrollto_top"><span><span class="sr-only">{{ site.data.t.ScrollToTop[page.lang] }}</span></span></a>

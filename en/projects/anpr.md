@@ -1,15 +1,12 @@
 ---
-title: ANPR - Anagrafe nazionale popolazione residente
-lang: it
-permalink: /it/projects/anpr.htm
+title: ANPR - Anagrafe English
+lang: en
+permalink: /en/projects/anpr.htm
 layout: project
 ref: anpr
 parent_ref: projects
 people: [alessandro-ercolani, daniela-battisti]
 toc: true
-twitter_tags: anpr
-medium_tags: anpr
-forum_tags: anpr
 ---
 
 ### In breve
@@ -28,8 +25,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at congue a
 
 > FORUM DEVELOPERS ITALIA
 
-{% include twitter_feed.html
-          title='vito'
-          hashtag='spid'
-          width=300
-          %}
+> ANPR su twitter
