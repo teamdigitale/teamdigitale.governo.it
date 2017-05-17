@@ -1,3 +1,21 @@
+#navbar {
+	&.navbar {
+		padding-bottom: 0;
+	}
+	.navbar-top-link {
+		padding-bottom: 5px !important;
+		a {
+			
+			&.active {
+			background-color: transparent !important;
+			border-bottom: 3px solid #8bc5ff;
+			padding-bottom: 3px !important;
+			}
+		}
+	}
+
+}
+
 .section-nav {
     margin: 0;
     list-style: none;

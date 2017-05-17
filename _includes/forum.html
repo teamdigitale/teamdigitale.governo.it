@@ -1,0 +1,23 @@
+{% assign endpoint = include.endpoint %}
+{% assign category = include.category %}
+{% assign limit = include.limit %}
+
+<div class="forumIntegration" 
+     data-endpoint="{{endpoint}}" 
+     data-category="{{category}}"
+     data-limit="{{limit}}">
+	<div class="forumIntegration__header">
+		<div class="forumIntegration__header__developers">
+		<a href="https://developers.italia.it/"><img src="https://developers.italia.it/assets/icons/logo-it.png">
+		Developers.italia.it
+		</a>
+		</div>
+		{% if include.title != nil %}
+		<span class="forumIntegration__header__title">{{include.title}}</span>
+		{% endif %}
+	</div>
+	<div class="forumIntegration__body">
+		<div class="forumIntegration__row">
+		</div>
+	</div>
+</div>

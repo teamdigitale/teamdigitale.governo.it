@@ -28,8 +28,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at congue a
 
 > FORUM DEVELOPERS ITALIA
 
-{% include twitter_feed.html
-          title='vito'
-          hashtag='spid'
-          width=300
-          %}
+{% include twitter_follow.html %}
+
+{% include forum.html
+		   title='Dal Forum'
+		   endpoint='top'
+		   category='spid'
+		   limit=2 %}
