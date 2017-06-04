@@ -34,7 +34,9 @@ gems:
   - jekyll-feed
   - jekyll-sitemap
 exclude:
+  - vendor
   - README.md
   - Gemfile
   - Gemfile.lock
   - node_modules
+  - circle.yml

@@ -1,0 +1,15 @@
+---
+machine:
+  ruby:
+    version: 2.2.3
+  node:
+    version: 5.0.0
+compile:
+  override:
+    - gulp build
+test:
+  override:
+    - "true"
+general:
+  artifacts:
+    - "_site"
