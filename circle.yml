@@ -6,10 +6,18 @@ machine:
     version: 5.0.0
 compile:
   override:
+    - mkdir -p ~/.ssh
+    - echo $TEAMDIGITALE_SSH_CONF | base64 -D > ~/.ssh/config
+    - echo $TEAMDIGITALE_CONF | base64 -D > ~/.teamdigitale_site.json
     - gulp build
 test:
   override:
     - "true"
+deployment:
+  production:
+    branch: master
+    commands:
+      - gulp publish-production
 general:
   artifacts:
     - "_site"
