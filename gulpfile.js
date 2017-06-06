@@ -113,7 +113,12 @@ if (config.staging || process.env.TEAMDIGITALE_SITE_STAGING_SERVER) {
         destination: publish_destination,
         port: publish_port,
         recursive: true,
-        compress: true
+        compress: true,
+        chmod: 'g+rwx',
+        chown: 'www-data:www-data',
+        perms: true,
+        owner: true,
+        group: true,
       }));
   });
 } else {
