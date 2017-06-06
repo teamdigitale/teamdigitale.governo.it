@@ -102,12 +102,16 @@ gulp.task('build', function(cb) {
 
 if (config.staging) {
   gulp.task('publish-staging', function() {
+    var publish_server = process.env.TEAMDIGITALE_SITE_STAGING_SERVER || config.staging.server;
+    var publish_destination = process.env.TEAMDIGITALE_SITE_STAGING_PATH || config.staging.path;
+    var publish_port = process.env.TEAMDIGITALE_SITE_STAGING_PORT || config.staging.port;
+
     return gulp.src('_site/**')
       .pipe(rsync({
         root: '_site',
-        hostname: config.staging.server,
-        destination: config.staging.path,
-        port: config.staging.port,
+        hostname: publish_server,
+        destination: publish_destination,
+        port: publish_port,
         recursive: true,
         compress: true
       }));
@@ -118,12 +122,16 @@ if (config.staging) {
 
 if (config.production) {
   gulp.task('publish-production', function() {
+    var publish_server = process.env.TEAMDIGITALE_SITE_PRODUCTION_SERVER || config.production.server;
+    var publish_destination = process.env.TEAMDIGITALE_SITE_PRODUCTION_PATH || config.production.path;
+    var publish_port = process.env.TEAMDIGITALE_SITE_PRODUCTION_PORT || config.production.port;
+
     return gulp.src('_site/**')
       .pipe(rsync({
         root: '_site',
-        hostname: config.production.server,
-        destination: config.production.path,
-        port: config.production.port,
+        hostname: publish_server,
+        destination: publish_destination,
+        port: publish_port,
         recursive: true,
         compress: true
       }));
