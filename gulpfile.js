@@ -100,7 +100,7 @@ gulp.task('build', function(cb) {
     ], cb);
 });
 
-if (config.staging) {
+if (config.staging || process.env.TEAMDIGITALE_SITE_STAGING_SERVER) {
   gulp.task('publish-staging', function() {
     var publish_server = process.env.TEAMDIGITALE_SITE_STAGING_SERVER || config.staging.server;
     var publish_destination = process.env.TEAMDIGITALE_SITE_STAGING_PATH || config.staging.path;
@@ -120,7 +120,7 @@ if (config.staging) {
   gutil.log("No config for staging publish, task will be disabled");
 }
 
-if (config.production) {
+if (config.production || process.env.TEAMDIGITALE_SITE_PRODUCTION_SERVER) {
   gulp.task('publish-production', function() {
     var publish_server = process.env.TEAMDIGITALE_SITE_PRODUCTION_SERVER || config.production.server;
     var publish_destination = process.env.TEAMDIGITALE_SITE_PRODUCTION_PATH || config.production.path;
