@@ -7,8 +7,7 @@ machine:
 compile:
   override:
     - mkdir -p ~/.ssh
-    - echo $TEAMDIGITALE_SSH_CONF | base64 -D > ~/.ssh/config
-    - echo $TEAMDIGITALE_CONF | base64 -D > ~/.teamdigitale_site.json
+    - echo $TEAMDIGITALE_SSH_CONF | base64 -d > ~/.ssh/config
     - gulp build
 test:
   override:
