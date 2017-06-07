@@ -1,6 +1,6 @@
 $(function() {
 	var teamdigitale_data = {
-		forumUrl : 'https://forum.developers.italia.it/',
+		forumUrl : 'https://forum.italia.it/',
 		forumTag : '.forumIntegration',
 		forumEndpoints : {
 			'latest': 'latest.json',
@@ -30,8 +30,7 @@ $(function() {
 		      $.each( list, function( index, item ){
 		      	var appTitle = '<a href="'+teamdigitale_data.forumUrl+'/t/'+item.slug+'">'+item.title+'</a>';
 		      	var appDate = new Date(item.last_posted_at);
-				$elbody.append('<div class="forumIntegration__title">'+appTitle+'</div>');
-				$elbody.append('<div class="forumIntegration__count">'+item.posts_count+'</div>');
+				$elbody.append('<div class="forumIntegration__title">'+appTitle+'<span class="forumIntegration__count badge">'+item.posts_count+'</span></div>');
 				$elbody.append('<div class="forumIntegration__lastpost">'+appDate.toLocaleDateString()+'</div>');
 			  });
 

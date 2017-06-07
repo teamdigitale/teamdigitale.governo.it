@@ -1,19 +1,24 @@
-{% assign endpoint = include.endpoint %}
-{% assign category = include.category %}
-{% assign limit = include.limit %}
+{% assign endpoint = page.forum_criteria %}
+{% assign category = page.forum_tag %}
+{% assign limit = page.forum_limit %}
 
 <div class="forumIntegration" 
      data-endpoint="{{endpoint}}" 
      data-category="{{category}}"
      data-limit="{{limit}}">
 	<div class="forumIntegration__header">
-		<div class="forumIntegration__header__developers">
-		<a href="https://developers.italia.it/"><img src="https://developers.italia.it/assets/icons/logo-it.png">
-		Developers.italia.it
-		</a>
+		<div class="forumIntegration__header__developers row">
+		<div class="col-xs-2 text-right">
+			<img src="https://developers.italia.it/assets/icons/logo-it.png">
 		</div>
+		<div class="col-xs-10 forumIntegration__header__link">
+			<a href="https://forum.italia.it/">
+			Forum.italia.it
+			</a>
+		</div>
+		</div><!--/.forumIntegration__header__developers-->
 		{% if include.title != nil %}
-		<span class="forumIntegration__header__title">{{include.title}}</span>
+		<span class="forumIntegration__header__title">Forum</span>
 		{% endif %}
 	</div>
 	<div class="forumIntegration__body">
@@ -21,3 +26,4 @@
 		</div>
 	</div>
 </div>
+

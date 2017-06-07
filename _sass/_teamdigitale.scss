@@ -53,6 +53,60 @@
 		}
 	}
 }
+.forumIntegration {
+	border: 1px solid #ddd;
+	margin: 10px 0;
+	.forumIntegration__header {
+		background-color: #06C;
+		.forumIntegration__header__developers {
+			a {
+				color: #fff;
+				text-decoration: none !important;
+				margin-top: 12px;
+				display: block;
+			}
+			img {
+				width: 64px;
+				max-width: 100%;
+				display: inline-block;
+			}
+		}
+
+	}
+	.forumIntegration__body {
+		padding: 12px;
+		font-size: 16px;
+		line-height: 20px;
+		.badge {
+			background-color: #aaa;
+			margin-left: 8px;
+		}
+		div:nth-child(2) {
+			border-top: none !important;
+		}
+	}
+	.forumIntegration__title {
+		padding-top: 12px;
+		border-top: 1px solid #ddd;
+	}
+	.forumIntegration__header__link {
+		padding: 0;
+	}
+	.forumIntegration__lastpost {
+		margin-bottom: 10px;
+	}
+}
+.medium_project {
+	figure {
+		width: 100%;
+		img {
+			width: 100%;
+		}
+	}
+	a {
+		text-decoration: none !important;
+	}
+}
 
 /* OVERRIDE SPECIFICO IN CASO DI LAYOUT PROJECT */
 
