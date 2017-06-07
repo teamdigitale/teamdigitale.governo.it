@@ -8818,13 +8818,13 @@ div.bhoechie-tab div.bhoechie-tab-content:not(.active) {
 }
 /*  bhoechie tab */
 
-#navbar > div.text-center > a {
+#navbar .navbar-top-link__item a {
     color: white;
     text-decoration: none;
     padding: 0 6px;
 }
 
-    #navbar > div.text-center > a.active {
+    #navbar .navbar-top-link__item a.active {
         background-color: #1F77D2;
         color: white;
     }

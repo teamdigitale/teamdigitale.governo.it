@@ -1,6 +1,5 @@
 {% assign posts = site.medium_feed | where: "medium_detected_lang", page.lang %}
-{% assign posts = posts | where_exp: "item", "item.medium_tagsarray contains 'developer'" %}
-
+{% assign posts = posts | where_exp: "item", "item.medium_tagsarray contains page.medium_tag" %}
 {% for post in (posts) limit:1 %}
 <div class="panel panel-default medium_project">
   <div class="panel-body">

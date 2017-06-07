@@ -8,7 +8,7 @@ parent_ref: projects
 people: [carlo-contavalli, mirko-calvaresi]
 toc: true
 twitter_tags: anpr
-medium_tags: anpr
+medium_tag: anpr
 forum_tag: anpr
 forum_criteria: top
 forum_limit: 3

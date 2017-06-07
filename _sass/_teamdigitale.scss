@@ -1,4 +1,7 @@
 #navbar {
+	.navbar-top-link__item {
+		display: inline-block;
+	}
 	&.navbar {
 		padding-bottom: 0;
 	}
@@ -13,8 +16,46 @@
 			}
 		}
 	}
+	.navbar-top-link .projects {
+		position: relative;
+		& > a:after {
+			content: '\f078';
+			display: inline;
+			color: #fff;
+			font-family: 'FontAwesome';
+			margin-left: 4px;
+			font-size: 16px;
+		} 
+	}
+
+	.navbar-projectslist {
+		position: absolute;
+		z-index: 99;
+		width: 280px;
+		margin: 6px 0;
+		list-style: none;
+		background-color: #06C;
+		padding: 14px 10px;
+		li {
+			text-align: left;
+			font-size: 18px !important;
+			line-height: 22px !important;
+			margin-bottom: 10px;
+			a {
+				padding: 0;
+				display: block;
+				white-space: normal;
+				cursor: pointer;		
+			}
+			a:hover {
+				background-color: transparent;
+			}
+		}
+	}
 
 }
+
+
 
 .section-nav {
     margin: 0;

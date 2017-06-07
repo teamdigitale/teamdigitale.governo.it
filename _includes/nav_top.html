@@ -6,6 +6,8 @@ tutte le pagine del sito che:
 {% endcomment %}
 {% assign same_lang_pages = (site.html_pages | where: "lang", page.lang %}
 {% assign sorted_pages = (same_lang_pages | sort: "menu_position") %}
+{% assign proj_pages = same_lang_pages | where: "layout", "project" %}
+{% assign sorted_proj_pages = proj_pages | sort_by_title: "title" %}
 <div class="text-center navbar-top-link" style=" margin-top:10px; padding-top:5px; border-top: solid 1px #013366 ">
   {% for menu_page in sorted_pages %}
     {% if menu_page.parent_ref == nil and menu_page.menu_position != nil %}
@@ -14,7 +16,21 @@ tutte le pagine del sito che:
         {% else %}
           {% assign isActive = false %}
         {% endif %}
-        <a href="{{ menu_page.url }}" {% if isActive %}class="active"{% endif %}>{{ menu_page.title }}</a>
+        <div class="navbar-top-link__item {{ menu_page.ref }}">
+          <a href="{{ menu_page.url }}" 
+          {% if isActive %}class="active"{% endif %}  
+          {% if menu_page.ref=='projects' %}
+            id="dropdownMenu" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
+          {% endif %}
+          >{{ menu_page.title }}</a>
+          {% if menu_page.ref=='projects' %}
+            <ul class="navbar-projectslist dropdown-menu" aria-labelledby="dropdownMenu">
+            {% for proj in  sorted_proj_pages%}
+              <li><a href="{{proj.url}}">{{proj.title}}</a></li>
+            {% endfor %}
+            </ul>
+          {% endif %}
+        </div>
         &nbsp;
     {% endif %}
   {% endfor %}
