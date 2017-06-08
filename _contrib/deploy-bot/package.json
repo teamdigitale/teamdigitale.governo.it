@@ -1,0 +1,30 @@
+{
+  "name": "bot-deployno",
+  "version": "0.0.1",
+  "description": "A Slack bot for deploying stuff",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "botkit": "^0.5",
+    "circleci": "^0.3.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/teamdigitale/teamdigitale.governo.it"
+  },
+  "bugs": {
+    "url": "https://github.com/teamdigitale/teamdigitale.governo.it/issues"
+  },
+  "homepage": "https://github.com/teamdigitale/teamdigitale.governo.it",
+  "keywords": [
+    "bots",
+    "chatbots",
+    "slack",
+    "circleci"
+  ],
+  "author": "federico@teamdigitale.governo.it",
+  "license": "MIT"
+}
