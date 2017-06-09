@@ -13,6 +13,7 @@ const Botkit = require('botkit');
 
 const bot_options = {
   stats_optout: true,
+  retry: true,
 };
 
 // Create the Botkit controller, which controls all instances of the bot.
