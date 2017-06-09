@@ -5,25 +5,18 @@ $(function() {
 	// --- menu end
 
 	var teamdigitale_data = {
-		forumUrl : 'https://forum.italia.it/',
+		forumUrl : 'https://forum.italia.it/c',
 		forumTag : '.forumIntegration',
-		forumEndpoints : {
-			'latest': 'latest.json',
-			'top': 'top.json',
-			'default' : 'latest.json'
-		}
 	};
     
 	function consumeForum($el) {
-		var endpoint = $el.data('endpoint') ? teamdigitale_data.forumEndpoints[$el.data('endpoint')] : teamdigitale_data.forumEndpoints['default'];
 		var category = $el.data('category') ? $el.data('category')  : ' ';
 		var resultlimit = $el.data('limit') ? $el.data('limit') : 5;
 		$.ajax({
 		   type: 'GET', 
-		   url: teamdigitale_data.forumUrl + '/' + endpoint,
+		   url: teamdigitale_data.forumUrl + '/' + category + '.json',
 		   data: {
 		      format: 'json',
-		      category : category
 		   },
 		   success: function(data) {
 		      var $elbody = $el.find('.forumIntegration__body');

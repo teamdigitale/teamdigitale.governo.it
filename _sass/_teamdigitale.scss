@@ -1,3 +1,55 @@
+.positionRelative {
+	position: relative;
+}
+.positionFixed{
+	position: fixed;
+}
+.positionAbsolute {
+	position: absolute;
+}.positionStatic {
+	position: static;
+}
+
+.nav-banner {
+	background-color: #06C;
+	font-size: 16px ;
+	line-height: 19px;
+	font-weight: 600 ;
+	color: #fff;
+	a {
+		color: #fff !important;
+		text-decoration: none;
+	}
+	#slimheader {
+		padding: 18px ;
+		border-bottom: 1px solid #127ae2;
+
+	}
+	.slimheader__list {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+		li {
+			padding: 0;
+			margin: 0;
+			font-size: 16px ;
+			line-height: 19px;
+			display: inline-block;
+			padding: 0 6px;
+			a {
+				color: #fff;
+				font-size: 16px ;
+				line-height: 19px;
+				font-weight: 600 ;
+				padding: 0 6px;
+			}
+			&.delimiter {
+				border-right: 1px solid #127ae2;
+			}
+		}
+	}
+}
+
 #navbar {
 	.navbar-top-link__item {
 		display: inline-block;
@@ -17,7 +69,7 @@
 		}
 	}
 	.navbar-top-link .projects {
-		position: relative;
+		
 		& > a:after {
 			content: '\f078';
 			display: inline;
@@ -26,23 +78,55 @@
 			margin-left: 4px;
 			font-size: 16px;
 		} 
+		@media screen and (min-width: 768px) {
+			position: relative;
+		}
 	}
 
 	.navbar-projectslist {
 		position: absolute;
 		z-index: 99;
-		width: 280px;
+		width: 500px;
 		margin: 6px 0;
 		list-style: none;
 		background-color: #06C;
 		padding: 14px 10px;
-		li {
+		&__row {
+			
+			position: relative;
+			&:before {
+				content:' ';
+				width: 47%;
+				border-bottom: 1px solid #8bc5ff;
+				position: absolute;
+				bottom: 0;
+				left: 10px;
+				@media screen and (max-width: 767px) {
+					border-bottom: none;
+				}
+			}
+			&:after {
+				content:' ';
+				width: 47%;
+				border-bottom: 1px solid #8bc5ff;
+				position: absolute;
+				bottom: 0;
+				right: 10px;
+				@media screen and (max-width: 767px) {
+					border-bottom: none;
+				}
+			}
+			@media screen and (min-width: 768px) {
+					overflow: auto;
+				}
+		}
+		&__item {
 			text-align: left;
 			font-size: 18px !important;
 			line-height: 22px !important;
-			margin-bottom: 10px;
+			margin: 10px 0;
 			a {
-				padding: 0;
+				padding: 0 !important;
 				display: block;
 				white-space: normal;
 				cursor: pointer;		
@@ -50,6 +134,16 @@
 			a:hover {
 				background-color: transparent;
 			}
+			
+		}
+		& > div:last-child {
+			&:after, &:before {
+				border-bottom: none;
+			}
+		}
+		@media screen and (max-width: 767px) {
+			width: 100%;
+			margin-top: 0;
 		}
 	}
 

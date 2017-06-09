@@ -9,8 +9,7 @@ people: [gianluca-varisco]
 toc: true
 twitter_tags: rd
 medium_tag: responsible-disclosure
-forum_tag: rd
-forum_criteria: top
+forum_category: 
 forum_limit: 3
 ---
 
@@ -38,9 +37,6 @@ gestione di progetti pilota coinvolgendo amministrazioni pubbliche, società in 
 
 {% include medium_project.html %}
 
-### Forum ANPR
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at congue ante, id varius justo. Maecenas tempor nisi a tellus placerat molestie. Nullam et placerat enim. 
 
 
 {% include twitter_follow.html %}

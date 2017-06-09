@@ -9,8 +9,7 @@ people: [carlo-contavalli, mirko-calvaresi]
 toc: true
 twitter_tags: anpr
 medium_tag: anpr
-forum_tag: anpr
-forum_criteria: top
+forum_category: anpr
 forum_limit: 3
 ---
 
@@ -27,7 +26,7 @@ XXXXXXXXX
 
 {% include medium_project.html %}
 
-### Forum ANPR
+### Forum 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at congue ante, id varius justo. Maecenas tempor nisi a tellus placerat molestie. Nullam et placerat enim. 
 

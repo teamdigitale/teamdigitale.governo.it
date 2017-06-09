@@ -8,7 +8,7 @@ tutte le pagine del sito che:
 {% assign sorted_pages = (same_lang_pages | sort: "menu_position") %}
 {% assign proj_pages = same_lang_pages | where: "layout", "project" %}
 {% assign sorted_proj_pages = proj_pages | sort_by_title: "title" %}
-<div class="text-center navbar-top-link" style=" margin-top:10px; padding-top:5px; border-top: solid 1px #013366 ">
+<div class="text-center navbar-top-link positionRelative" style=" margin-top:10px; padding-top:5px; border-top: solid 1px #013366 ">
   {% for menu_page in sorted_pages %}
     {% if menu_page.parent_ref == nil and menu_page.menu_position != nil %}
         {% if menu_page.ref == page.ref or menu_page.ref == page.parent_ref %}
@@ -24,11 +24,20 @@ tutte le pagine del sito che:
           {% endif %}
           >{{ menu_page.title }}</a>
           {% if menu_page.ref=='projects' %}
-            <ul class="navbar-projectslist dropdown-menu" aria-labelledby="dropdownMenu">
+            
+            <div class="navbar-projectslist dropdown-menu" aria-labelledby="dropdownMenu">
             {% for proj in  sorted_proj_pages%}
-              <li><a href="{{proj.url}}">{{proj.title}}</a></li>
+              {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+              {% if thecycle == 'odd' %}
+                <div class="navbar-projectslist__row row">
+                  <div class="navbar-projectslist__item col-sm-6"><a href="{{proj.url}}">{{proj.title}}</a></div>
+              {% endif %}
+              {% if thecycle == 'even' %}
+                  <div class="navbar-projectslist__item col-sm-6"><a href="{{proj.url}}">{{proj.title}}</a></div>
+                </div>
+              {% endif %}
             {% endfor %}
-            </ul>
+            </div>
           {% endif %}
         </div>
         &nbsp;

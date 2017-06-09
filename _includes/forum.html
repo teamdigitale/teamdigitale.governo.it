@@ -1,9 +1,8 @@
-{% assign endpoint = page.forum_criteria %}
-{% assign category = page.forum_tag %}
+{% assign category = page.forum_category %}
 {% assign limit = page.forum_limit %}
 
+{% if category != nil %}
 <div class="forumIntegration" 
-     data-endpoint="{{endpoint}}" 
      data-category="{{category}}"
      data-limit="{{limit}}">
 	<div class="forumIntegration__header">
@@ -26,4 +25,4 @@
 		</div>
 	</div>
 </div>
-
+{% endif %}
