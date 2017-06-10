@@ -17,22 +17,32 @@ forum_limit: 3
 
 Oggi le nostre identità sono disperse in ottomila anagrafi comunali. Dobbiamo portarle in una sola anagrafe, guadagnando in efficienza e risparmiando soldi ed energia, perché il cittadino non debba più preoccuparsi di comunicare a ogni ufficio della Pubblica Amministrazione i suoi dati anagrafici o il cambio di residenza, per semplificare le procedure di variazione e uniformarle a livello nazionale, perché sia possibile ottenere certificati senza più bisogno di recarsi allo sportello. 
 
-Questo passo è una premessa per rendere possibili successive innovazioni che oggi sarebbero impossibili o molto costose. Si tratta di un progetto esistente di cui stiamo fortemente accelerando la realizzazione e il completamento. 
+
 
 ### Il ruolo del Team
 
-XXXXXXXXX
+ANPR è un passo essenziale per rendere possibili successive innovazioni che oggi sarebbero impossibili o molto costose. Il progetto  esisteva ben prima della nascita del Team per la Trasformazione Digitale: ne abbiamo assunto la direzione con l'obiettivo di creare una roadmap di realizzazione chiara, modernizzare il metodo di lavoro e accelerarne il completamento. Nel nostro blog qui sotto raccontiamo la nostra visione del progetto, le azioni svolte finora e i prossimi passi che vogliamo compiere. Seguici su Twitter per tutte le novità
 
 
 {% include medium_project.html %}
-
-### Forum 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at congue ante, id varius justo. Maecenas tempor nisi a tellus placerat molestie. Nullam et placerat enim. 
-
-{% include forum.html %}
 
 {% include twitter_follow.html %}
 
 
 
+### Strumenti 
+
+#### Forum
+ANPR è un progetto di rilevanza nazionale. Per favorire la discussione e il confronto, e per incoraggiare la partecipazione di tutti gli attori coinvolti nel progetto (a partire dagli oltre 8.000 comuni italiani coinvolti nell'operazione!) abbiamo creato un [forum](https://forum.italia.it/c/anpr)
+
+{% include forum.html %}
+
+#### Developers
+ANPR ha uno spazio dedicato ai developers all'interno di [Developers Italia](https://developers.italia.it/it/anpr/), la community di sviluppatori di servizi pubblici italiani. Qui sono elencati i principali strumenti disponibili per la migrazione ad ANPR e c'è anche una newsletter per seguire tutte le novità.
+
+
+
+### Media 
+Per ogni richiesta di contatto da parte di media e giornalisti il punto di riferimento è l'ufficio stampa e comunicazione del Team per la Trasformazione digitale
+
+---> Qui ipress
