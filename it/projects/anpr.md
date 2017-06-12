@@ -45,4 +45,4 @@ ANPR ha uno spazio dedicato ai developers all'interno di [Developers Italia](htt
 ### Media 
 Per ogni richiesta di contatto da parte di media e giornalisti il punto di riferimento è l'ufficio stampa e comunicazione del Team per la Trasformazione digitale
 
----> Qui ipress
+{% include ipress.html %}

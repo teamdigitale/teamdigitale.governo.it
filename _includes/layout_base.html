@@ -53,6 +53,7 @@
     <link rel="stylesheet" href="/assets/main.css" />
     <link href="/styles/dialog.css" rel="stylesheet" />
     <link href="/styles/font-awesome.min.css" rel="stylesheet" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/2.0.0/handlebars.js"></script>
 </head>
 <body class="layout-{{page.layout}} language-{{page.lang}}">
     {% include nav_side.html %}
@@ -74,17 +75,6 @@
     <div class="container" id="page_top">
         <header id="navbar" class="navbar navbar-default navbar-fixed-top hidden-print">
             <div class="navbar-header container">
-                <div class="row follow-and-language ">
-                    <div class="col-xs-12 text-right hidden-xs">
-                      {% include lang_switch.html %}
-                      &nbsp;
-                      &nbsp;
-                      {% include follow.html %}
-                    </div>
-                    <div class="col-xs-12 text-right hidden-sm hidden-md hidden-lg">
-                        {% include lang_switch.html %}
-                    </div>
-                </div>
                 <div class="row">
                     <div class="col-xs-3 navbar__logo_container">
                         <a tabindex="-1" href="{{ homepage_href }}">
@@ -98,7 +88,7 @@
                     </div>
                     <div class="col-xs-1 team-bar ">
                     </div>
-                    <div class="col-md-5 col-xs-5 team-nav">
+                    <div class="col-md-4 col-xs-5 team-nav">
                         <div style="padding-left:5px; padding-top:1px;">
                             <a tabindex="-1" style="color:white;" href="{{ homepage_href }}")>
 
@@ -107,10 +97,14 @@
                             </a>
                         </div>
                     </div>
+                    <div class="col-md-4 hidden-xs hidden-sm">
+                    {% include follow.html %}
+                    </div>
                 </div><!-- row -->
             </div>
             <!-- display burger -->
-            <a aria-controls="sidebar" data-target="#sidebar" data-toggle="offcanvas" title="navigation" aria-label="apri e chiudi menu" class="navbar-toggle" href="#" id="nav-toggle">
+            <a aria-controls="sidebar" data-target="#sidebar" data-toggle="offcanvas" title="navigation" aria-label="apri e chiudi menu" 
+            class="navbar-toggle hidden-md hidden-lg" href="#" id="nav-toggle">
                 <span></span>
             </a>
             <!-- navbar header container -->

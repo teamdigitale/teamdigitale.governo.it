@@ -8,7 +8,8 @@ tutte le pagine del sito che:
 {% assign sorted_pages = (same_lang_pages | sort: "menu_position") %}
 {% assign proj_pages = same_lang_pages | where: "layout", "project" %}
 {% assign sorted_proj_pages = proj_pages | sort_by_title: "title" %}
-<div class="text-center navbar-top-link positionRelative" style=" margin-top:10px; padding-top:5px; border-top: solid 1px #013366 ">
+{% assign projbytwo = sorted_proj_pages.size | divided_by:2 %}
+<div class="text-center navbar-top-link positionRelative" style=" margin-top:10px; padding-top:5px;">
   {% for menu_page in sorted_pages %}
     {% if menu_page.parent_ref == nil and menu_page.menu_position != nil %}
         {% if menu_page.ref == page.ref or menu_page.ref == page.parent_ref %}
@@ -25,18 +26,17 @@ tutte le pagine del sito che:
           >{{ menu_page.title }}</a>
           {% if menu_page.ref=='projects' %}
             
-            <div class="navbar-projectslist dropdown-menu" aria-labelledby="dropdownMenu">
-            {% for proj in  sorted_proj_pages%}
-              {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
-              {% if thecycle == 'odd' %}
-                <div class="navbar-projectslist__row row">
-                  <div class="navbar-projectslist__item col-sm-6"><a href="{{proj.url}}">{{proj.title}}</a></div>
-              {% endif %}
-              {% if thecycle == 'even' %}
-                  <div class="navbar-projectslist__item col-sm-6"><a href="{{proj.url}}">{{proj.title}}</a></div>
-                </div>
-              {% endif %}
-            {% endfor %}
+            <div class="navbar-projectslist row dropdown-menu" aria-labelledby="dropdownMenu">
+              <div class="col-md-6 navbar-projectslist__column">
+              {% for proj in  sorted_proj_pages limit:projbytwo %}
+                    <div class="navbar-projectslist__item"><a href="{{proj.url}}">{{proj.title}}</a></div>
+              {% endfor %}
+              </div>
+              <div class="col-md-6 navbar-projectslist__column">
+              {% for proj in  sorted_proj_pages offset:projbytwo %}
+                    <div class="navbar-projectslist__item"><a href="{{proj.url}}">{{proj.title}}</a></div>
+              {% endfor %}
+              </div>
             </div>
           {% endif %}
         </div>

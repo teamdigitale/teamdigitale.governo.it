@@ -1,0 +1,185 @@
+<script id="built-in-helpers-template" type="text/x-handlebars-template">
+    <blockquote class="Prose-blockquote u-background-grey-10">
+        <h3>
+            {{#ifCond lang "==" "it"}}
+            Comunicati stampa
+            {{/ifCond}}
+            {{#ifCond lang "==" "en"}}
+            Press Releases
+            {{/ifCond}}
+        </h3>
+        <div id="ipress" style="height:100px; padding-left:5px;">
+            {{#each elements}}
+            <div class="row">
+                <div class="col-md-4">
+                    <p class="team-item-title">
+                        <a href="{{this.link}}" target="_blank" style="text-decoration: none;">
+                            {{this.title}} ({{formatDate this.publishDate this.lang}})
+                        </a>
+                    </p>
+                    <!--<a href="{{this.link}}" target="_blank" style="text-decoration: none;">-->
+                    <img src="{{this.defaultImage.small}}" class="u-floatLeft u-margin-r-right">
+                    <!--</a>-->
+                    <p class="u-text-r-xxs">
+                        {{this.summary}}
+                    </p>
+                    <p style="clear:both;">&nbsp;</p>
+                </div>
+            </div>
+            {{/each}}
+        </div>
+        <div style="clear:both;">
+            {{#ifCond lang "==" "it"}}
+            <table cellpadding="0" cellspacing="0" width="405" height="244" style="color: #0066cc; font-size: 16px;">
+                <tbody>
+                    <tr>
+                        <td colspan="6" height="15"></td>
+                    </tr>
+                    <tr>
+                        <td colspan="4"></td>
+                        <td>
+                            <a href="https://teamdigitale.governo.it/it/people/4-profile.htm" target="_blank" style="color: #0066cc; text-decoration: none;">
+                                <strong>Marisandra Lizzi</strong>
+                            </a><br /><i style="font-size: 12px;">Comunicazione e PR</i>
+                            <br /><span style="font-size: 12px;">
+                                Email: <a href="mailto:marisandra@teamdigitale.governo.it" target="_blank" style="color: #0066cc; text-decoration: none; font-size: 12px;">marisandra@teamdigitale.governo.it</a>
+                                <br />Medium: <a href="https://medium.com/@marisandralizzi" target="_blank" style="color: #0066cc; text-decoration: none; font-size: 12px;">@marisandralizzi</a>
+                                <br />Twitter: <a href="https://twitter.com/marisandralizzi" target="_blank" style="color: #0066cc; text-decoration: none; font-size: 12px;">@marisandralizzi</a>
+                                <br />Facebook: <a href="https://www.facebook.com/marisandra.lizzi" target="_blank" style="color: #0066cc; text-decoration: none; font-size: 12px;">marisandra.lizzi</a>
+                            </span>
+                        </td>
+                        <td></td>
+                    </tr>
+                </tbody>
+            </table>
+            {{/ifCond}}
+            {{#ifCond lang "==" "en"}}
+            <table style="color: #0066cc; font-size: 16px;" cellspacing="0" width="405" height="244" cellpadding="0">
+                <tbody>
+                    <tr>
+                        <td colspan="6" height="15"></td>
+                    </tr>
+                    <tr>
+                        <td colspan="4"></td>
+                        <td>
+                            <a style="color: #0066cc; text-decoration: none;" href="https://teamdigitale.governo.it/en/people/16-profile.htm" target="_blank">
+                                <strong> Marisandra Lizzi</strong>
+                            </a> <br /> <i style="font-size: 12px;">Communication and PR</i>
+                            <br /> <span style="font-size: 12px;">
+                                Email: <a style="color: #0066cc; text-decoration: none; font-size: 12px;" href="mailto:marisandra@teamdigitale.governo.it" target="_blank">marisandra@teamdigitale.governo.it</a>
+                                <br />Medium: <a href="https://medium.com/@marisandralizzi" target="_blank" style="color: #0066cc; text-decoration: none; font-size: 12px;">@marisandralizzi</a>
+                                <br /> Twitter: <a style="color: #0066cc; text-decoration: none; font-size: 12px;" href="https://twitter.com/marisandralizzi" target="_blank">@marisandralizzi</a>
+                                <br /> Facebook: <a style="color: #0066cc; text-decoration: none; font-size: 12px;" href="https://www.facebook.com/marisandra.lizzi" target="_blank">marisandra.lizzi</a>
+                            </span>
+                        </td>
+                        <td></td>
+                    </tr>
+                </tbody>
+            </table>
+            {{/ifCond}}
+
+        </div>
+    </blockquote>
+</script>
+<div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="en" data-size="100" data-tag="9"></div>
+<script type="text/javascript">
+    var url = "//api.ipresslive.com/v2/pressreleases/list/" + document.getElementById("content-ipress").getAttribute("data-key") + "?lang=" + document.getElementById("content-ipress").getAttribute("data-lang") + "&size=" + document.getElementById("content-ipress").getAttribute("data-size");
+    if (document.getElementById("content-ipress").getAttribute("data-tag") != null);
+    {
+        url += "&t=" + document.getElementById("content-ipress").getAttribute("data-tag");
+    }
+    // Register a helper to format date
+    Handlebars.registerHelper('formatDate', function (str, lang) {
+        var date = new Date(str);
+        var year = date.getFullYear();
+        var month = (1 + date.getMonth()).toString();
+        var day = date.getDate().toString();
+        month = month.length > 1 ? month : '0' + month;
+        day = day.length > 1 ? day : '0' + day;
+
+        if (lang == "it") {
+            return day + '/' + month + '/' + year;
+        }
+        else if (lang == "en") {
+            return month + '/' + day + '/' + year;
+        }
+    });
+    Handlebars.registerHelper('ifCond', function (v1, operator, v2, options) {
+
+        switch (operator) {
+            case '==':
+                return (v1 == v2) ? options.fn(this) : options.inverse(this);
+            case '===':
+                return (v1 === v2) ? options.fn(this) : options.inverse(this);
+            case '!=':
+                return (v1 != v2) ? options.fn(this) : options.inverse(this);
+            case '!==':
+                return (v1 !== v2) ? options.fn(this) : options.inverse(this);
+            case '<':
+                return (v1 < v2) ? options.fn(this) : options.inverse(this);
+            case '<=':
+                return (v1 <= v2) ? options.fn(this) : options.inverse(this);
+            case '>':
+                return (v1 > v2) ? options.fn(this) : options.inverse(this);
+            case '>=':
+                return (v1 >= v2) ? options.fn(this) : options.inverse(this);
+            case '&&':
+                return (v1 && v2) ? options.fn(this) : options.inverse(this);
+            case '||':
+                return (v1 || v2) ? options.fn(this) : options.inverse(this);
+            default:
+                return options.inverse(this);
+        }
+    });
+    function loadPressReleases() {
+        var xmlhttp = typeof XMLHttpRequest != 'undefined' ? new XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP');
+        xmlhttp.onreadystatechange = function () {
+            if (xmlhttp.readyState == XMLHttpRequest.DONE) {
+                if (xmlhttp.status == 200) {
+
+                    var context = JSON.parse(xmlhttp.responseText);
+                    context.lang = document.getElementById("content-ipress").getAttribute("data-lang");
+                    // Grab the template script
+                    var theTemplateScript = document.getElementById("built-in-helpers-template").innerHTML;
+                    // Compile the template
+                    var theTemplate = Handlebars.compile(theTemplateScript);
+                    // Pass our data to the template
+                    var theCompiledHtml = theTemplate(context);
+                    document.getElementById("content-ipress").innerHTML = theCompiledHtml;
+                    // get the number of shown elements
+                    var numbershownInPreview = 2;
+                    var nodes = document.getElementById('ipress').childNodes;
+                    if (context.elements.length > numbershownInPreview) {
+                        document.getElementById("ipress").style.overflowY = "scroll";
+                        document.getElementById("ipress").style.border = "solid 1px silver";
+                        document.getElementById("ipress").style.borderLeft = "none";
+                        document.getElementById("ipress").style.borderRight = "none";
+                    }
+
+
+                    var boxHeight = 0;
+                    var boxElementsEvaluated = 0;
+
+                    for (var i = 0; i < nodes.length ; i++) {
+                        if (nodes[i].nodeName.toLowerCase() == 'div') {
+                            boxElementsEvaluated++;
+                            if (boxElementsEvaluated > numbershownInPreview) {
+                                break;
+                            }
+                            boxHeight += nodes[i].offsetHeight;
+                        }
+
+                    }
+                    document.getElementById('ipress').style.height = boxHeight.toString() + "px";
+                }
+                else if (xmlhttp.status == 400) {
+                }
+                else {
+                }
+            }
+        };
+        xmlhttp.open("GET", url, true);
+        xmlhttp.send();
+    }
+    loadPressReleases();
+</script>

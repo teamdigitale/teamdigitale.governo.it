@@ -36,16 +36,28 @@
 			line-height: 19px;
 			display: inline-block;
 			padding: 0 6px;
+			
 			a {
 				color: #fff;
 				font-size: 16px ;
 				line-height: 19px;
 				font-weight: 600 ;
 				padding: 0 6px;
+				opacity: 0.7;
 			}
 			&.delimiter {
 				border-right: 1px solid #127ae2;
 			}
+			&.current a {
+				opacity: 1;
+				border-bottom: 1px solid #fff;
+				padding-bottom: 16px;
+			}
+		}
+	}
+	&.nav-banner--small {
+		#slimheader {
+			display: none;
 		}
 	}
 }
@@ -62,8 +74,8 @@
 		a {
 			
 			&.active {
-			background-color: transparent !important;
-			border-bottom: 3px solid #8bc5ff;
+			background-color: #1f77d2 !important;
+			border-bottom: none;
 			padding-bottom: 3px !important;
 			}
 		}
@@ -87,58 +99,40 @@
 		position: absolute;
 		z-index: 99;
 		width: 500px;
-		margin: 6px 0;
+		margin: -2px 0 0 0;
 		list-style: none;
-		background-color: #06C;
-		padding: 14px 10px;
+		background-color: #fff;
+		padding: 16px;
+		padding-top: 30px;
+		border-radius: 6px;
+		border-style: none !important;
+
 		&__row {
 			
 			position: relative;
-			&:before {
-				content:' ';
-				width: 47%;
-				border-bottom: 1px solid #8bc5ff;
-				position: absolute;
-				bottom: 0;
-				left: 10px;
-				@media screen and (max-width: 767px) {
-					border-bottom: none;
-				}
-			}
-			&:after {
-				content:' ';
-				width: 47%;
-				border-bottom: 1px solid #8bc5ff;
-				position: absolute;
-				bottom: 0;
-				right: 10px;
-				@media screen and (max-width: 767px) {
-					border-bottom: none;
-				}
-			}
-			@media screen and (min-width: 768px) {
-					overflow: auto;
-				}
 		}
 		&__item {
 			text-align: left;
 			font-size: 18px !important;
 			line-height: 22px !important;
 			margin: 10px 0;
+			padding-bottom: 6px;
+			border-bottom: 1px solid #ddd;
 			a {
 				padding: 0 !important;
 				display: block;
 				white-space: normal;
-				cursor: pointer;		
+				cursor: pointer;
+				color: #06c;		
 			}
 			a:hover {
 				background-color: transparent;
 			}
 			
 		}
-		& > div:last-child {
-			&:after, &:before {
-				border-bottom: none;
+		&__column {
+			& > div:last-child {
+				border: none !important;
 			}
 		}
 		@media screen and (max-width: 767px) {
@@ -148,7 +142,55 @@
 	}
 
 }
+.langSwitcher {
+	position: relative;
+}
 
+#dropdownLang {
+	opacity: 1 !important;
+	i {
+		font-size: 14px;
+	}
+
+}
+.lang_others {
+	border: none;
+	right: 0;
+	left: initial;
+	top: 30px;
+	min-width: auto;
+	width: 100%;
+	border-radius: 4px;
+
+	li {
+		text-align: center !important;
+		display: block !important;
+		padding: 10px;
+		
+		
+	}
+	a {
+		color: #06c !important;
+		padding: 6px !important;
+		opacity: 1 !important;
+		&.active {
+			border: 2px solid #06c;
+		}
+	}
+
+	&:before {
+		font-family: FontAwesome;
+		content:"\f0d8";
+		color: #fff;
+		font-size: 18px;
+		top: -12px;
+		position: absolute;
+		left: 50%;
+		transform: translateX(-50%);
+		z-index: 100;
+
+	}
+}
 
 
 .section-nav {
@@ -244,7 +286,10 @@
 }
 
 /* OVERRIDE SPECIFICO IN CASO DI LAYOUT PROJECT */
-
+.follow-and-language {
+	padding: 0;
+	margin-top: 10px;
+}
 body.layout-project { 
 	#main {
 		@media screen and (min-width: 992px) {
