@@ -6,7 +6,7 @@ tutte le pagine del sito che:
 {% endcomment %}
 {% assign same_lang_pages = (site.html_pages | where: "lang", page.lang %}
 {% assign sorted_pages = (same_lang_pages | sort: "menu_position") %}
-<div class="row row-offcanvas row-offcanvas-left">
+<div class="row row-offcanvas row-offcanvas-right">
     <div id="sidebar" class="sidebar-offcanvas">
         <nav data-offset-bottom="250" data-offset-top="0" data-spy="_affix" tabindex="0" id="menu" class="hidden-print">
             <h2 class="sr-only">{{ site.data.t.DigitalTransformationTeam[page.lang] }}</h2>
@@ -21,4 +21,5 @@ tutte le pagine del sito che:
             </ul>
         </nav>
     </div>
+
 </div>
