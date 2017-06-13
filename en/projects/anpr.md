@@ -26,3 +26,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at congue a
 > FORUM DEVELOPERS ITALIA
 
 > ANPR su twitter
+
+{% include ipress.html %}
+<div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="en" data-size="100" data-tag="6"></div>
+<script type="text/javascript" src="/js/ipress.js"></script>

@@ -35,5 +35,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at congue a
 
 {% include twitter_follow.html %}
 
-
+{% include ipress.html %}
+<div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="it" data-size="100" data-tag="5"></div>
+<script type="text/javascript" src="/js/ipress.js"></script>
 
