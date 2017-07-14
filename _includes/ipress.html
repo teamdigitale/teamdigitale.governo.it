@@ -41,17 +41,16 @@ data-tag values :
 37    Giuseppe Virgone
 {% endcomment %}
 
+{% assign prpersonLang = site.pages | where: "lang", page.lang %}
+{% assign prperson = prpersonLang | where: "ref", "marisandra-lizzi" %}
+
 <script id="built-in-helpers-template" type="text/x-handlebars-template">
- {% raw %}
+
     <blockquote class="iPress-blockquote i-background-grey-10">
         <h3>
-            {{#ifCond lang "==" "it"}}
-            Comunicati stampa
-            {{/ifCond}}
-            {{#ifCond lang "==" "en"}}
-            Press Releases
-            {{/ifCond}}
+           {{ site.data.t.PressRelease[page.lang] }}
         </h3>
+        {% raw %}
         <div id="ipress" style="height:100px; padding-left:5px;">
             {{#each elements}}
             <div class="row">
@@ -72,51 +71,32 @@ data-tag values :
             </div>
             {{/each}}
         </div>
+        {% endraw %}
         <div style="clear:both;">
-            {{#ifCond lang "==" "it"}}
-                            <a href="https://teamdigitale.governo.it/it/people/4-profile.htm" target="_blank">
-                                <strong> Marisandra Lizzi</strong>
-                            </a> 
-                            <br /> 
-                                <i>Comunicazione e PR</i>
-                            <br /> 
-                            <a href="mailto:marisandra@teamdigitale.governo.it" target="_blank" style="ext-decoration:none; text-decoration: none;">
-                                    <span class="fa fa-envelope" style="font-size:20px;"></span>
-                                </a>&nbsp;
-                                <a href="https://medium.com/@marisandralizzi" target="_blank" style="ext-decoration:none; text-decoration: none;">
-                                <span class="fa fa-medium" style="font-size:20px;"></span>
-                                
-                                </a>&nbsp;
-                                <a href="https://twitter.com/marisandralizzi" target="_blank" style="ext-decoration:none; text-decoration: none;">
-                                <span class="fa fa-twitter" style="font-size:20px;"></span>
-                                </a>&nbsp;
-                                <a href="https://www.facebook.com/marisandra.lizzi" target="_blank" style="ext-decoration:none; text-decoration: none;">
-                                <span class="fa fa-facebook" style="font-size:20px;"></span>
-                            </a>
-            {{/ifCond}}
-            {{#ifCond lang "==" "en"}}
-      
-                            <a href="https://teamdigitale.governo.it/en/people/16-profile.htm" target="_blank">
-                                <strong> Marisandra Lizzi</strong>
-                            </a> 
-                            <br /> 
-                                <i>Communication and PR</i>
-                            <br /> 
-                            <a href="mailto:marisandra@teamdigitale.governo.it" target="_blank" style="ext-decoration:none; text-decoration: none;">
-                                    <span class="fa fa-envelope" style="font-size:20px;"></span>
-                                </a>&nbsp;
-                                <a href="https://medium.com/@marisandralizzi" target="_blank" style="ext-decoration:none; text-decoration: none;">
-                                <span class="fa fa-medium" style="font-size:20px;"></span>
-                                
-                                </a>&nbsp;
-                                <a href="https://twitter.com/marisandralizzi" target="_blank" style="ext-decoration:none; text-decoration: none;">
-                                <span class="fa fa-twitter" style="font-size:20px;"></span>
-                                </a>&nbsp;
-                                <a href="https://www.facebook.com/marisandra.lizzi" target="_blank" style="ext-decoration:none; text-decoration: none;">
-                                <span class="fa fa-facebook" style="font-size:20px;"></span>
-                            </a>
-            {{/ifCond}}
+            {% for singleperson in prperson %}
+                <a href="{{singleperson.url}}" target="_blank">
+                    <strong>{{singleperson.title}}</strong>
+                </a>&nbsp;
+                <i>{{singleperson.role}}</i>
+                <br />
+                {% if singleperson.email != nil %}
+                <a href="mailto:{{singleperson.email}}" target="_blank" style="text-decoration:none; text-decoration: none;">
+                        <span class="fa fa-envelope" ></span>
+                    </a>&nbsp;
+                {% endif %}
+                {% if singleperson.medium_user != nil %}
+                <a href="https://medium.com/@{{singleperson.medium_user}}" target="_blank" style="text-decoration:none; text-decoration: none;">
+                    <span class="fa fa-medium" ></span>
+                    
+                    </a>&nbsp;
+                {% endif %}
+                {% if singleperson.twitter_user != nil %}
+                <a href="https://www.twitter.com/{{singleperson.twitter_user}}" target="_blank" style="text-decoration:none; text-decoration: none;">
+                    <span class="fa fa-twitter" ></span>
+                    </a>&nbsp;
+                {% endif %}
+            {% endfor %}
         </div>
     </blockquote>
-    {% endraw %}
+    
 </script>
