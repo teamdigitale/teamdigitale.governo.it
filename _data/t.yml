@@ -107,3 +107,6 @@ Waiting:
 ApprovedOn:
   en: "Approved by the Court of Auditors"
   it: "Registrazione in Corte dei Conti"
+JobApply:
+  en: "Apply for this position"
+  it: "Invia il CV per questa posizione"

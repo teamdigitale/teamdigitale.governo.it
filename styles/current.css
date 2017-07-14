@@ -856,7 +856,19 @@ a.swich-language, a.swich-language:hover {
 .col-md-4 .box_text.box_text_side .box_text_side_content {
   padding: 20px 15px 0 0;
 }
+#recruitform {
+  border: none;
+  font-family: Titillium Web;
+  overflow-x: hidden;
+  overflow-y: auto;
+  border-bottom: solid 6px #06C;
+  border-top: solid 6px #06C;
+}
+.jobpositions hr {
+  margin-top: 12px;
+  margin-bottom: 12px;
 
+}
 
 /*Fine stili per pagina Lavora con noi*/
 
@@ -865,6 +877,10 @@ a.swich-language, a.swich-language:hover {
 
 article p {
   max-width: none;
+}
+.text-small {
+  font-size: 14px;
+  line-height: 1.4;
 }
 
 

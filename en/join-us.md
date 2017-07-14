@@ -13,6 +13,10 @@ At the moment we don’t have open positions.
 
 A big thanks to the many people who have participated so enthusiastically!
 
+## Job positions
+
+{% include jobs_list.html %}
+
 ## Keep in Mind
 
 Keep in mind: we are going to be working in a government environment. We will have the opportunity to collaborate with incredibly bright, smart, strong-willed and well-intentioned people scattered around the Public Administration who have a sincere desire to improve and do the right things. There are, in fact, modern and innovative teams and excellent but isolated units, capable of achieving a lot with few resources.
