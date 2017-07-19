@@ -1,7 +1,7 @@
 ---
 title: Developer Relations
 lang: en
-permalink: /en/jobpositions/product-ux-ui.htm
+permalink: /en/jobpositions/developer-relations.htm
 layout: job
 archived: true
 ref: relazioni-sviluppatori
