@@ -21,3 +21,4 @@ Troveremo anche molte norme e regole complicate, talvolta incomprensibili; dovre
 Riceveremo molte critiche. Alcuni commenti saranno sinceri e utili, altri saranno cinici e preconcetti. Le critiche del primo tipo arriveranno da persone che vogliono offrire realmente e con spontaneità il loro contributo, quelle del secondo tipo da coloro che vogliono difendere lo status quo o che vedono il bicchiere sempre “mezzo vuoto” o che, più semplicemente, si sono rassegnate all’impotenza.
 
 Per coloro che non hanno paura di questi ostacoli, che si sentono in profonda sintonia con questi obiettivi e con questi principi, che sono in grado di cavarsela in situazioni difficili, che hanno una predisposizione naturale verso la semplificazione, il nostro team è il posto giusto.
+

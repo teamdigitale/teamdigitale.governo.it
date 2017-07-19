@@ -1,0 +1,26 @@
+{% assign category = page.forum_category %}
+{% assign limit = page.forum_limit %}
+
+{% if category != nil %}
+<div class="forumIntegration" data-category="{{category}}" data-limit="{{limit}}">
+	<div class="forumIntegration__header">
+		<div class="forumIntegration__header__developers row">
+		<div class="col-xs-2 text-right">
+			<img src="https://developers.italia.it/assets/icons/logo-it.png">
+		</div>
+		<div class="col-xs-10 forumIntegration__header__link">
+			<a href="https://forum.italia.it/">
+			Forum.italia.it
+			</a>
+		</div>
+		</div><!--/.forumIntegration__header__developers-->
+		{% if include.title != nil %}
+		<span class="forumIntegration__header__title">Forum</span>
+		{% endif %}
+	</div>
+	<div class="forumIntegration__body">
+		<div class="forumIntegration__row">
+		</div>
+	</div>
+</div>
+{% endif %}

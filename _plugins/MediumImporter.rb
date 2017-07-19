@@ -55,12 +55,16 @@ class MediumImporter < Jekyll::Generator
       doc.data['medium_subtitle'] = item['content']['subtitle']
       doc.data['meta_description'] = item['content']['metaDescription']
       doc.data['medium_url'] = post_url_base + item['uniqueSlug']
-      doc.data['medium_tags'] = item['tags']
+      doc.data['medium_tags'] = item['virtuals']['tags']
       doc.data['medium_preview_image_id'] = item['virtuals']['previewImage']['imageId']
       doc.data['medium_post_id'] = item['id']
       doc.data['medium_detected_lang'] = item['detectedLanguage']
       doc.data['medium_slug'] = item['slug']
       doc.data['medium_published_at'] = item['latestPublishedAt']
+      doc.data['medium_tagsarray'] = []
+      if item['virtuals']['tags']!= nil
+        item['virtuals']['tags'].each{ |x| doc.data['medium_tagsarray'].push(x['slug']) }
+      end
 
       jekyll_coll.docs << doc
     end
