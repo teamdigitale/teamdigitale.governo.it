@@ -107,6 +107,51 @@ Waiting:
 ApprovedOn:
   en: "Approved by the Court of Auditors"
   it: "Registrazione in Corte dei Conti"
+JobApply:
+  en: "Apply for this position"
+  it: "Invia il CV per questa posizione"
+PrivacyDisclaimer:
+  en: "The data contained in your curriculum will be also processed with software tools which will be used with the only aim of evaluating your application and, if need be, of contacting you. You may request deletion of your personal data at any moment by writing at: info@teamdigitale.governo.it"
+  it: "L’invio dei dati contenuti nel curriculum saranno trattati, anche con l’ausilio di strumenti informatici, dal Team per la Trasformazione Digitale della Presidenza del Consiglio dei Ministri al solo fine di valutare la candidatura ed, eventualmente, di contattarti. In qualsiasi momento potrai domandare la cancellazione dei tuoi dati scrivendo a: info@teamdigitale.governo.it"
+JobsAccordion_1:
+  en: "Duration of employment"
+  it: "Durata"
+JobsAccordion_2:
+  en: "Compensation"
+  it: "Compensi"
+JobsAccordion_3:
+  en: "Location"
+  it: "Luogo di lavoro"
+JobsAccordion_4:
+  en: "Relocation"
+  it: "Rimborsi per relocation"
+JobsAccordion_5:
+  en: "Type of contract"
+  it: "Tipo di contratto"
+JobsAccordion_6:
+  en: "Dress code"
+  it: '"Dress code"'
+JobsAccordion_7:
+  en: "Keep in mind"
+  it: "Nota bene"
+JobsAccordionDesc_1:
+  en: "We would ask for at least one year commitment. Our objective is to create a permanent team but today we are constrained by the legislative framework which defines the first duration of this team until September 2018"
+  it: "Chiediamo un impegno di un anno. Il nostro obiettivo è quello di creare un gruppo permanente, ma allo stato attuale siamo vincolati dal quadro normativo che fissa la durata del team a settembre 2018."
+JobsAccordionDesc_2:
+  en: "Most positions will be paid in the income brackets of €70,000–120,000 per annum"
+  it: "La maggior parte dei ruoli sarà remunerata tra i 70.000 € e i 120.000 € all’anno"
+JobsAccordionDesc_3:
+  en: "Rome, but for some positions we can consider partially remote work solutions"
+  it: "Roma ma per posizioni particolari possiamo considerare forme di lavoro parzialmente da remoto"
+JobsAccordionDesc_4:
+  en: "We cannot offer relocation and travel benefits and/or travel reimbursements from your residence to Rome"
+  it: "Se vivete fuori Roma, non possiamo offrire le spese di viaggio e relocation dalla vostra residenza"
+JobsAccordionDesc_5:
+  en: "You will be appointed as “expert” of the Government. The modality of payment will be established at the time of the appointment on the basis of the applicable law."
+  it: "Esperto della Presidenza del Consiglio dei Ministri</i>. Le modalità di pagamento saranno stabilite al momento della nomina sulla base della disciplina applicabile."
+JobsAccordionDesc_6:
+  en: "You will occasionally have to wear that nice dress or suit you keep in your closet for special ceremonies but most of the times you will dress in a casual way"
+  it: "Occasionalmente si dovrà essere eleganti, ma normalmente ci si può vestire anche in modo casual e sportivo"
 PressRelease:
   en: "Press Releases"
   it: "Comunicati stampa"

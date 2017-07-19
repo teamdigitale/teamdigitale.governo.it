@@ -1,0 +1,16 @@
+{% assign same_lang_pages = site.pages | where: "lang", page.lang %}
+{% assign jobs_pages = same_lang_pages | where: "layout", "job" %}
+{% assign jobs_pages = jobs_pages | where_exp: "item", "item.archived == nil" %}
+{% assign sorted_jobs_pages = jobs_pages | sort: "title" %}
+<div class="jobpositions">
+{% for one_page in sorted_jobs_pages %}
+    <hr>
+    <div>
+    <a href="{{ one_page.url }}" title="{{ one_page.title }}"><b>{{ one_page.title }}</b></a>
+    {% if one_page.is_new %}
+        <span style="font-size:12px;">&nbsp;New</span>
+    {% endif %}
+    </div>
+    
+{% endfor %}
+</div>
