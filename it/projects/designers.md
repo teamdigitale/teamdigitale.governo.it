@@ -70,7 +70,7 @@ Designers Italia non solo produce guide e kit per tutte le amministrazioni pubbl
 
 ### Forum 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at congue ante, id varius justo. Maecenas tempor nisi a tellus placerat molestie. Nullam et placerat enim. 
+Uno spazio di discussione sul design dei servizi pubblici. 
 
 {% include forum.html %}
 
