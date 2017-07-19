@@ -3,11 +3,7 @@
 <ul class="lang_others dropdown-menu" aria-labelledby="dropdownLang"> 
 
 {% for linked_page in pages_in_other_langs %}
-<li>
-  <a href="{{ linked_page.url }}" title="{{ site.data.t.ItalianVersion[page.lang] }}" 
-  {% if linked_page.lang == page.lang %}class="active"{% endif %}">
-  {{ linked_page.lang | upcase }}</a>
- </li>
+<li><a href="{{ linked_page.url }}" title="{{ site.data.t.ItalianVersion[page.lang] }}" {% if linked_page.lang == page.lang %}class="active"{% endif %}>{{ linked_page.lang | upcase }}</a></li>
 {% endfor %}
 
 </ul>
