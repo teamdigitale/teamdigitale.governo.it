@@ -105,7 +105,7 @@ DEPENDENCIES
   rest-client (~> 1.8)
 
 RUBY VERSION
-   ruby 2.3.3p222
+   ruby 2.2.3p173
 
 BUNDLED WITH
    1.15.1

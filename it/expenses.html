@@ -1,0 +1,41 @@
+---
+title: Spese del team
+lang: it
+ref: team-expenses
+permalink: /it/expenses.htm
+---
+<html>
+  <body>
+
+<table>
+  <tr>
+    {% for header in site.expenses_fields %}
+      <th>{{ header }}</th>
+    {% endfor %}
+  </tr>
+{% for expense in site.team_expenses %}
+  <tr>
+    {% for header in site.expenses_fields %}
+      <td>{{ expense[header] }}</td>
+    {% endfor %}
+  </tr>
+{% endfor %}
+</table>
+
+<table>
+  <tr>
+    {% for header in site.travels_fields %}
+      <th>{{ header }}</th>
+    {% endfor %}
+  </tr>
+{% for expense in site.team_travels %}
+  <tr>
+    {% for header in site.travels_fields %}
+      <td>{{ expense[header] }}</td>
+    {% endfor %}
+  </tr>
+{% endfor %}
+</table>
+
+</body>
+</html>

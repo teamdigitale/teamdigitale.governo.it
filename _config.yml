@@ -24,6 +24,32 @@ linkedin_address: https://www.linkedin.com/company/teamdigitale
 # Medium posts importer
 medium_archive_url: https://medium.com/team-per-la-trasformazione-digitale
 
+# Expenses CSV
+expenses_fields:
+  - "Natura"
+  - "Oggetto"
+  - "Fornitore"
+  - "CIG"
+  - "FT_Data"
+  - "FT_Num"
+  - "Valore (Iva esclusa)"
+  - "Progetto"
+  - "Decr. Impegno"
+
+travels_fields:
+  - "Mese"
+  - "Trasferta"
+  - "FT"
+  - "Linea"
+  - "Chi"
+  - "Progetto"
+  - "Oggetto"
+  - "Dove"
+  - "Cosa"
+  - "Quando"
+  - "Fornitore"
+  - "Valore"
+
 # SEO
 logo: /images/logo_big.png
 
@@ -43,6 +69,6 @@ exclude:
   - circle.yml
   - gulpfile.js
   - package.json
-  
+
 sass:
     style: compressed
