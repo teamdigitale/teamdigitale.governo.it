@@ -1,9 +1,13 @@
 {% assign pages_in_other_langs = site.pages | where: "ref", page.ref | sort: 'lang' | reverse %}
 <a href="#" id="dropdownLang" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">{{ page.lang | upcase }} <i class="fa fa-chevron-down" aria-hidden="true"></i></a>
-<ul class="lang_others dropdown-menu" aria-labelledby="dropdownLang"> 
+<ul class="lang_others dropdown-menu" aria-labelledby="dropdownLang">
 
 {% for linked_page in pages_in_other_langs %}
+{% if linked_page.lang == "it" %}
 <li><a href="{{ linked_page.url }}" title="{{ site.data.t.ItalianVersion[page.lang] }}" {% if linked_page.lang == page.lang %}class="active"{% endif %}>{{ linked_page.lang | upcase }}</a></li>
+{% else %}
+<li><a href="{{ linked_page.url }}" title="{{ site.data.t.EnglishVersion[page.lang] }}" {% if linked_page.lang == page.lang %}class="active"{% endif %}>{{ linked_page.lang | upcase }}</a></li>
+{% endif %}
 {% endfor %}
 
 </ul>
