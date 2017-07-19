@@ -11,11 +11,12 @@ parent_ref: join-us
 ---
 
 ### Descrizione e responsabilità
-La struttura commissariale è alla ricerca di un esperto UI Designer.
+Il Team per la Trasformazione Digitale è alla ricerca di un esperto UI Designer.
 
-La figura ricercata sarà responsabile per la concettualizzazione, il design e il miglioramento continuo delle interfacce utente per le applicazioni mobile e web realizzate dalla struttura commissariale e dalle Pubbliche Amministrazioni.
+La figura ricercata sarà responsabile per la concettualizzazione, il design e il miglioramento continuo delle interfacce utente per le applicazioni mobile e web realizzate dal Team e dalle Pubbliche Amministrazioni.
 
-Il profilo deve avere un portfolio di prodotti digitali pubblicati e una profonda competenza nel riconoscimento dei limiti e delle opportunità forniti dalle principali tecnologie di front end.
+Siamo alla ricerca di talenti con un portfolio di prodotti digitali pubblicati e una profonda competenza nel riconoscimento dei limiti e delle opportunità forniti dalle principali tecnologie di front end.
+
 
 
 ### Qualifiche chiave
@@ -31,7 +32,8 @@ Il profilo deve avere un portfolio di prodotti digitali pubblicati e una profond
 - Esperienza in almeno una delle seguenti piattaforme di prototyping: invisionapp.com, marvelapp.com, moqups.com, uxpin.com
 - Esperienza in almeno uno dei seguenti strumenti di prototipazione hi-fi: principle, framer, flinto o similari.
 - Eccellenti doti comunicative, di presentazione, interpersonali e analitiche e capacità di comunicare chiaramente concetti complessi
-- Autonomia nel portare a termine lo sviluppo completo del progetto
+- Autonomia nel portare a termine lo sviluppo completo di progetti
+
 
 
 ### Formazione

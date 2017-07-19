@@ -11,11 +11,12 @@ parent_ref: join-us
 ---
 
 ### Descrizione e responsabilità
-Il Team per la Trasformazione Digitale è alla ricerca di un esperto nella gestione di Cloud e Data Center che gestirà e opererà complesse installazioni.
+Il Team per la Trasformazione Digitale è alla ricerca di un esperto nella gestione di Cloud e Data Center che gestirà complesse migrazioni di dati.
 
-La figura ricercata si occuperà della definizione ed esecuzione di complessi progetti di migrazione dei componenti tecnologici appartenenti alle Pubbliche Amministrazioni verso ambienti cloud o ambienti misti cloud/privato.
+La figura ricercata si occuperà della definizione ed esecuzione di complessi progetti di migrazione dei componenti tecnologici appartenenti alle Pubbliche Amministrazioni verso ambienti cloud o ambienti misti cloud pubblico/privato.
 
 Siamo alla ricerca di talenti con una solida esperienza sia a livello architetturale e di processo sia di piattaforma.
+
 
 
 ### Qualifiche chiave
@@ -32,6 +33,8 @@ Siamo alla ricerca di talenti con una solida esperienza sia a livello architettu
 - Conoscenza di coding (Python, Perl, Ruby) e scripting (bash)
 
 
+
 ### Formazione
 - Laurea in Ingegneria, Informatica o affine con almeno sette anni di esperienza nella gestione di piattaforme complesse, oppure, in assenza di laurea, almeno nove anni di esperienza nella gestione di piattaforme complesse
 - Ottima conoscenza della lingua inglese
+

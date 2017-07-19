@@ -11,11 +11,11 @@ parent_ref: join-us
 ---
 
 ### Descrizione e responsabilità
-La struttura commissariale è alla ricerca di un Fullstack Developer.
+Il Team per la Trasformazione Digitale è alla ricerca di un Fullstack Developer.
 
 La figura ricercata sarà responsabile di supervisionare e, in molti casi, di realizzare lo sviluppo di applicazioni front-end coordinate dalla struttura.
 
-Il profilo dovrà avere una solida esperienza nel campo delle applicazioni mobile e un ricco portfolio di progetti e applicazioni sviluppate.
+Siamo alla ricerca di talenti con una solida esperienza nel campo delle applicazioni mobile e un ricco portfolio di progetti e applicazioni sviluppate.
 
 
 ### Qualifiche chiave
@@ -33,8 +33,7 @@ Il profilo dovrà avere una solida esperienza nel campo delle applicazioni mobil
 - Esperienza nella leadership, direzione e mentorship per un team di ingegneri software
 
 
+
 ### Formazione
 - Laurea in Ingegneria, Informatica o affine con almeno cinque anni di esperienza combinata nella gestione di piattaforme digitali e nello sviluppo di applicazioni web e mobile oppure, in assenza di laurea, almeno sette anni di esperienza combinata nella gestione di piattaforme digitali e nello sviluppo di applicazioni web e mobile
 - Ottima conoscenza della lingua inglese
-
-

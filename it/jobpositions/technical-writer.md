@@ -11,9 +11,10 @@ parent_ref: join-us
 ---
 
 ### Descrizione e responsabilità
-La struttura commissariale è alla ricerca di un esperto Technical Writer per produrre documentazione tecnica di qualità contribuendo al successo dei progetti e all'adozione delle linee guida tecniche realizzate dalla struttura commissariale.
+Il Team per la Trasformazione Digitale è alla ricerca di un esperto Technical Writer per produrre documentazione tecnica di qualità contribuendo al successo dei progetti e all'adozione delle linee guida tecniche realizzate dal Team.
 
 La figura ricercata lavorerà con gli altri membri della struttura, con l’Agenzia per l’Italia Digitale e le Pubbliche Amministrazioni per ottenere informazioni dettagliate e comprensione approfondita dei concetti tecnici da descrivere e tradurrà questa conoscenza in documentazione tecnica di alta qualità, manuali per lo sviluppatore, tutorial, linee guida di implementazione accurati, privi di ambiguità ed intuitivi.
+
 
 ### Qualifiche chiave
 - Solida esperienza nella scrittura e pubblicazione di documentazione software
@@ -21,9 +22,10 @@ La figura ricercata lavorerà con gli altri membri della struttura, con l’Agen
 - Capacità di comprendere velocemente concetti tecnici complessi e di renderli semplici ed intuitivi tramite testo, schemi e immagini
 - Ottima conoscenza di moderni strumenti di produzione di testi tecnici online quali ad esempio Github, Markdown, Read-The-Docs
 - Ottima conoscenza di prodotti di publishing come Microsoft Office, Adobe Acrobat e altri strumenti per produrre documenti nei formati PDF e Epub
-- Ottima conoscenza dell’italiano e dell’inglese scritto
+
 
 ### Formazione
 - Laurea in Ingegneria, Informatica o affine con almeno tre anni di esperienza nella scrittura di documentazione software oppure, in assenza di laurea, almeno cinque anni di esperienza nella scrittura di documentazione software
 - Ottima conoscenza della lingua inglese
+
 
