@@ -5,7 +5,7 @@ $(function() {
 	// --- menu end
 
 	var teamdigitale_data = {
-		forumUrl : 'https://forum.italia.it/c',
+		forumUrl : 'https://forum.italia.it/',
 		forumTag : '.forumIntegration',
 	};
     
@@ -14,7 +14,7 @@ $(function() {
 		var resultlimit = $el.data('limit') ? $el.data('limit') : 5;
 		$.ajax({
 		   type: 'GET', 
-		   url: teamdigitale_data.forumUrl + '/' + category + '.json',
+		   url: teamdigitale_data.forumUrl + '/c/' + category + '.json',
 		   data: {
 		      format: 'json',
 		   },
