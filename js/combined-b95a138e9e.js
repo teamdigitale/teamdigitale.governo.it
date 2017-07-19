@@ -4780,4 +4780,16 @@ $(document).ready(function () {
         $("div.bhoechie-tab>div.bhoechie-tab-content").removeClass("active");
         $("div.bhoechie-tab>div.bhoechie-tab-content").eq(index).addClass("active");
     });
+    // jobs accordion
+    $('#jobaccordion_list a[data-target]').click(function(event){
+        event.preventDefault();
+        var $li = $(this).parent();
+        var divTargetData = $(this).data('target');
+        var $divTarget = $(divTargetData);
+        $li.toggleClass('selected');
+        $li.siblings().removeClass('selected');
+        $divTarget.removeClass('hidden');
+        $divTarget.siblings().addClass('hidden');
+        
+    });
 });

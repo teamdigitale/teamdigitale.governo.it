@@ -9,10 +9,23 @@ menu_position: 4
 
 # Join us
 
-At the moment we don’t have open positions.
+[Diego Piacentini's first call](https://medium.com/team-per-la-trasformazione-digitale/from-seattle-to-roma-innovation-citizens-talents-6b8c6c06002b) on September 30 allowed us to create the current [team](https://teamdigitale.governo.it/en/49-content.htm), which has been working on the Italian Digital Agenda projects since the beginning of 2017: now we're looking for talents who can help us start building the country's ["operating system."](https://medium.com/team-per-la-trasformazione-digitale/new-operating-system-country-technological-competence-plans-11b50a750ea7)
 
-A big thanks to the many people who have participated so enthusiastically!
+The Digital Transformation Team - Italian Government is screening bilingual (Italian and English) talents with proven experience in computer science (software architecture, mobile application development, open source software, information security, APIs), mathematics and statistics (predictive models, machine learning), product design, user experience and other roles connected to the digital agenda.
 
+Here you can find our Manifesto of technological and operating principles.
+
+Le job description qui di seguito sono articolate in: Descrizione e Responsabilità, Qualifiche Fondamentali e Formazione. Per i ruoli tecnologici, vi consigliamo di consultare l'archivio in versione in inglese perché, nonostante i nostri sforzi di traduzione, il risultato in italiano vi farà sorridere.
+
+[Click here]({{ "/en/jobs-archive.htm" | relative_url }}) to access the archive featuring the positions for which we're no longer collecting CVs.
+
+{% include jobs_accordion.html %}
+
+## Opened job positions
+
+{% include jobs_list.html %}
+
+<a name="notabene"></a>
 ## Keep in Mind
 
 Keep in mind: we are going to be working in a government environment. We will have the opportunity to collaborate with incredibly bright, smart, strong-willed and well-intentioned people scattered around the Public Administration who have a sincere desire to improve and do the right things. There are, in fact, modern and innovative teams and excellent but isolated units, capable of achieving a lot with few resources.
