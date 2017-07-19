@@ -32,6 +32,9 @@
     font-size: 14px;
   }
 }
+.beta-badge.hired {
+  background-color: #eee;
+}
 
 
 /*Stili nav menu*/
@@ -868,6 +871,59 @@ a.swich-language, a.swich-language:hover {
   margin-top: 12px;
   margin-bottom: 12px;
 
+}
+#jobaccordion {
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  font-size: 17px;
+  line-height: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  display: block;
+}
+#jobaccordion_list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+#jobaccordion_list li {
+  
+  font-size: 16px;
+  line-height: 18px;
+}
+#jobaccordion_list li > a {
+  display: block;
+  padding: 10px;
+}
+#jobaccordion_list li:hover {
+  background-color: #eee;
+}
+#jobaccordion_list li.selected {
+  font-weight: bold;
+  background: #06c;
+}
+#jobaccordion_list li.selected a {
+  color: #fff !important;
+}
+#jobaccordion_list li:first-child {
+  border-top: none !important;
+}
+.jobaccordion_col1 {
+  padding: 0;
+
+
+}
+.jobaccordion_col2 {
+ 
+
+}
+.jobaccordion_col2 > div {
+  padding: 20px;
+  line-height: 1.5;
+}
+.privacy-disclaimer {
+  font-size: 16px;
+  color: #64686c;
 }
 
 /*Fine stili per pagina Lavora con noi*/

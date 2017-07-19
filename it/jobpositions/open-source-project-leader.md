@@ -2,7 +2,7 @@
 title: Open Source Project leader
 lang: it
 permalink: /it/jobpositions/open-source-project-leader.htm
-jazz_url: http://teamdigitale.applytojob.com/apply/DllmTtP8ft/2-Open-Source-Project-Leader
+jazz_url: https://teamdigitale.applytojob.com/apply/DllmTtP8ft/2-Open-Source-Project-Leader
 iframeheight: 700
 layout: job
 is_new: true
@@ -11,13 +11,16 @@ parent_ref: join-us
 ---
 
 ### Descrizione e responsabilità
-Le figure saranno responsabile di coordinare e dirigere lo sviluppo di diversi progetti open source pubblicati sulla piattaforma Developers Italia nonché di gestire la relazione con le Pubbliche Amministrazioni e la comunità degli sviluppatori disposti a contribuire alla piattaforma.
+La struttura commissariale è alla ricerca di 2 Open Source Project Leader.
+
+Le figure ricercate saranno responsabile di coordinare e dirigere lo sviluppo di diversi progetti open source pubblicati sulla piattaforma Developers Italia nonché di gestire la relazione con le Pubbliche Amministrazioni e la comunità degli sviluppatori disposti a contribuire alla piattaforma. 
 
 I profili inoltre pubblicheranno la roadmap dei progetti condivisi su Developers Italia, coordineranno gli sviluppatori della community pronti a contribuire, verificheranno i loro progressi, eseguiranno verifiche di qualità sul codice prodotto (code review, controlli sulla documentazione, monitoraggio della continuous integration), e in generale assicureranno che i progetti siano sempre in buono stato e funzionanti.
 
 Le figure tracceranno il progresso di implementazioni parallele eseguite in diversi linguaggi di programmazione e cercheranno di mantenere la parità di funzionalità tra di esse, di assicurare API simili e aggiornamenti uniformi.
 
 I profili dovranno avere una solida esperienza nello sviluppo open source e nelle comunità collaborative.
+
 
 ### Qualifiche chiave
 - Esperienza come contributore o maintainer di progetti open source

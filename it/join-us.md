@@ -8,12 +8,22 @@ menu_position: 4
 ---
 # Lavora con noi
 
-Vogliamo entrare in contatto con professionisti che condividano il nostro [manifesto tecnologico](https://teamdigitale.governo.it/it/1-content.htm). Un modo per lavorare insieme a noi alla costruzione dei nuovi servizi pubblici digitali del Paese è partecipare a [Developers Italia](https://developers.italia.it/), la nuova community di sviluppatori presentata nel mese di marzo dal Team per la Trasformazione Digitale. Inoltre, anche se al momento non ci sono posizioni aperte, puoi inviare la tua candidatura al nostro [indirizzo e-mail.](mailto:teamdigitale@governo.it)
+Dopo la [call di Diego Piacentini del 30 settembre](https://medium.com/team-per-la-trasformazione-digitale/da-seattle-a-roma-innovazione-cittadini-talenti-b176c3470d95) scorso che ci ha permesso di creare l’attuale [team](https://teamdigitale.governo.it/it/47-content.htm), attivo sui progetti da inizio 2017, stiamo cercando nuovi talenti che possano aiutarci ad avviare la costruzione del [“sistema operativo” del Paese](https://medium.com/team-per-la-trasformazione-digitale/nuovo-sistema-operativo-paese-competenze-tecnologiche-programmi-be0d71b3f84b). 
 
-## Posizioni aperte
+Il Team per la Trasformazione Digitale, infatti, sta selezionando nuovi talenti con padronanza della lingua italiana e inglese, con comprovata esperienza in Informatica (Software Architecture, Mobile Application Development, Software Open Source, Information Security, API), in Matematica e Statistica (Modelli Predittivi, Machine Learning), in Product Design, User Experience e in altre discipline connesse all'agenda digitale.
+Qui trovate il nostro Manifesto dei principi tecnologici e operativi.
+
+Le job description qui di seguito sono articolate in: Descrizione e Responsabilità, Qualifiche Fondamentali e Formazione. Per i ruoli tecnologici, vi consigliamo di consultare l'archivio in versione in inglese perché, nonostante i nostri sforzi di traduzione, il risultato in italiano vi farà sorridere.
+
+In [questo link]({{ "/it/jobs-archive.htm" | relative_url }})  è possibile accedere all'archivio delle posizioni per le quali abbiamo chiuso la raccolta dei curricula. 
+
+{% include jobs_accordion.html %}
+
+## Posizioni aperte attualmente
 
 {% include jobs_list.html %}
 
+<a name="notabene"></a>
 ## Nota Bene
 
 Non dimentichiamo che lavoreremo in un ambiente governativo. Avremo l’opportunità di collaborare  in ogni ambito della Pubblica Amministrazione con persone incredibilmente brillanti e intelligenti, con grande volontà e con il sincero desiderio di migliorare e “fare la cosa giusta”. Ci sono, infatti, team moderni e innovativi e isole di eccellenza, in grado di ottenere molto con poche risorse.
