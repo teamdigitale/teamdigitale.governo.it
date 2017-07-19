@@ -54,6 +54,12 @@
     <link href="/styles/dialog.css" rel="stylesheet" />
     <link href="/styles/font-awesome.min.css" rel="stylesheet" />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/2.0.0/handlebars.min.js"></script>
+
+    {% if page.layout == 'project' %}
+        <link rel="stylesheet" href="/styles/timeline-default.min.css" />
+        <link rel="stylesheet" href="/styles/frst-timeline-style-2.css" />
+        <link rel="stylesheet" href="/styles/timeline-animate.min.css" />
+    {% endif %}
 </head>
 <body class="layout-{{page.layout}} language-{{page.lang}}">
     {% include nav_side.html %}
@@ -242,6 +248,12 @@
 
     <script src="/js/combined-b95a138e9e.js"></script>
     <script src="/js/teamdigitale.js"></script>
+
+    {% if page.layout == 'project' %}
+        <script src="/js/frst-scale-effect.min.js"></script>
+        <script src="/js/frst-timeline.min.js"></script>
+        <script src="/js/jquery.overscroll.min.js"></script>
+    {% endif %}
 
 </body>
 

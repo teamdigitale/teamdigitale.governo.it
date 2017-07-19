@@ -1,0 +1,40 @@
+{% comment %}
+TO obtain the timeline in the "project" layout, in the project's front-matter use the syntax below 
+timeline:
+  - period: March 2017
+    title: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in sapien nec nisi molestie tincidunt. Pellentesque vel sapien ac magna eleifend porttitor sit amet quis leo
+  - period: April 2017
+    title: Proin id ipsum sed orci pulvinar dapibus
+    desc: Quisque fringilla scelerisque metus id elementum. Curabitur et porta ex, at consectetur felis. Nunc id mi suscipit, sollicitudin est ut
+  - period: November 2017
+    title: Donec et tellus et sapien vehicula venenatis
+    desc: Donec et tellus et sapien vehicula venenatis non vitae neque. Integer pulvinar placerat blandit.
+    status: todo
+
+{% endcomment %}
+
+{% assign timeline_items = page.timeline %}
+
+<div class="frst-container">
+<div class="frst-timeline frst-timeline-style-2 frst-date-opposite" style="margin-bottom: 40px;">
+{% for item in timeline_items %}
+    <div class="frst-timeline-block frst-even-item {{item.status}}" data-animation="slideInUp">
+        <div class="frst-timeline-img"> <span></span> </div>
+        <!-- frst-timeline-img -->
+        <div class="frst-timeline-content">
+            <div class="frst-timeline-content-inner"> <span class="frst-date">{{item.period}}</span>
+                <h2>{{item.title}}</h2>
+                <p>{{item.desc}}</p>
+            </div>
+            <!-- frst-timeline-content-inner -->
+        </div>
+        <!-- frst-timeline-content -->
+    </div>
+    <!-- frst-timeline-block -->
+
+    
+
+{% endfor %}
+</div>
+</div><!-- .frst-container -->

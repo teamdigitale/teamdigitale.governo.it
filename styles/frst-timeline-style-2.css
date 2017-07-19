@@ -1,0 +1,187 @@
+/*-------- Type- 01 ------*/
+.frst-container {
+  padding: 40px;
+}
+.frst-timeline-content-inner p {
+  font-size: 15px !important;
+  line-height: 18px !important;
+}
+.frst-timeline-style-2{
+  color: #000;
+}
+.frst-timeline-style-2 .scale-effect .frst-timeline-img span{
+  transform: scale(1.2) rotate(45deg);
+  box-shadow: 0 0 0 6px rgba(0, 190, 164, 0.18);
+  -webkit-transition: all 0.4s ease-out;
+ -moz-transition: all 0.4s ease-out;
+ -o-transition: all 0.4s ease-out;
+ -ms-transition: all 0.4s ease-out;
+ transition: all 0.4s ease-out;
+
+}
+.frst-timeline-style-2 .scale-effect .frst-timeline-content-inner span,.frst-timeline-style-2 .scale-effect .frst-timeline-content-inner h2 {
+   font-size: 22px;
+   -webkit-transition: all 0.4s ease-out;
+  -moz-transition: all 0.4s ease-out;
+  -o-transition: all 0.4s ease-out;
+  -ms-transition: all 0.4s ease-out;
+  transition: all 0.4s ease-out;
+}
+.frst-timeline-style-2 .scale-effect .frst-timeline-content-inner p{
+  font-size: 14px;
+  line-height: 17px;
+  -webkit-transition: all 0.4s ease-out;
+ -moz-transition: all 0.4s ease-out;
+ -o-transition: all 0.4s ease-out;
+ -ms-transition: all 0.4s ease-out;
+ transition: all 0.4s ease-out;
+}
+
+.frst-timeline-style-2 .frst-timeline-block::before{
+  width: 2px;
+  background: #e6e6e6;
+  margin-left: -1px;
+}
+
+.frst-timeline-style-2.frst-right-align .frst-timeline-block::before{
+  margin-right: -1px;
+}
+.frst-timeline-block{
+  padding-bottom: 30px;
+}
+.frst-timeline-style-2 .frst-timeline-img{
+  width: 36px;
+  height: 36px;
+  margin-left: -18px;
+  top: 6px;/*--- Box shadow value --*/
+  text-align: center;
+}
+.frst-timeline-style-2.frst-right-align .frst-timeline-img{
+  margin-right: -18px;
+}
+.frst-timeline-style-2 .frst-timeline-img span{
+  display: inline-block;
+  padding: 8px;
+  background: #1ABC9C;
+  box-shadow: 0 0 0 6px #e3e4e4;
+  border-radius: 0;
+  -webkit-border-radius: 0;
+  transform: rotate(45deg);
+  min-width: 18px;
+  min-height: 18px;
+  -webkit-transition: all 0.4s ease-out;
+ -moz-transition: all 0.4s ease-out;
+ -o-transition: all 0.4s ease-out;
+ -ms-transition: all 0.4s ease-out;
+ transition: all 0.4s ease-out;
+}
+.frst-timeline-style-2 .frst-timeline-img span:hover{
+  cursor:pointer;
+  animation: timeline-step 2s infinite;
+}
+@keyframes timeline-step {
+  0% {
+    box-shadow: 0 0 0 6px #e3e4e4;
+  }
+  25% {
+    box-shadow: 0 0 0 6px #dcdcdc;
+      transform: scale(1.1) rotate(45deg);
+  }
+
+  50% {
+    box-shadow: 0 0 0 6px #cecece;
+      transform: scale(1.2) rotate(45deg);
+  }
+
+  75% {
+    box-shadow: 0 0 0 6px #dcdcdc;
+    transform: scale(1.1) rotate(45deg);
+  }
+
+  100% {
+    box-shadow: 0 0 0 6px #e3e4e4;
+    transform: scale(1) rotate(45deg);
+  }
+}
+
+
+
+.frst-timeline-style-2 .frst-timeline-content{
+  color: #777;
+}
+
+.frst-timeline-style-2 .frst-date {
+  font-weight: 700;
+  font-size: 24px;
+  margin-bottom: 10px;
+  color: #000;
+  line-height: 30px;
+}
+.frst-timeline-style-2 h2{
+  font-size: 18px;
+  margin: 20px 0;
+  font-weight: 700;
+  color: #6f6f6f;
+}
+.todo .frst-date {
+  color: #ccc !important;
+}
+.frst-date-opposite.frst-timeline-style-2 h2{
+  margin-top: 0;
+
+}
+.frst-timeline-style-2 p{
+  margin: 0;
+}
+
+.frst-timeline-style-2 .frst-labels span{
+  position: relative;
+  left: -36px;
+  background: #e6e6e6;
+  color: #000;
+  padding: 8px 20px;
+  -webkit-border-radius: 3px;
+  border-radius: 3px;
+}
+.frst-timeline-style-2.frst-right-align .frst-labels span{
+  left: auto;
+  right: -36px
+}
+.frst-timeline-style-2 .todo .frst-timeline-img span {
+  background-color: #fff !important;
+}
+
+/*---------- Responsive part ------------*/
+@media only screen and (min-width: 679px) {
+  .frst-timeline-style-2.frst-alternate .frst-timeline-content{
+    width: calc(50% - 32px);
+  }
+  .frst-timeline-style-2.frst-date-opposite .frst-date{
+    left: -225px;
+    line-height: 26px;
+    width: 160px;
+  }
+  .frst-timeline-style-2.frst-date-opposite.frst-right-align .frst-date,
+  .frst-timeline-style-2.frst-date-opposite.frst-alternate .frst-timeline-block.frst-odd-item .frst-date{
+    right: -225px;
+    left: auto;
+    text-align: left;
+  }
+
+}
+
+@media only screen and (max-width: 678px) {
+
+  .frst-timeline-style-2.frst-responsive-right .frst-timeline-block::before{
+    margin-right: -1px;
+  }
+  .frst-timeline-style-2.frst-responsive-right .frst-timeline-img{
+    margin-right: -18px;
+  }
+  .frst-timeline-style-2.frst-responsive-right .frst-labels span{
+    left: auto;
+    right: -36px
+  }
+
+
+}
