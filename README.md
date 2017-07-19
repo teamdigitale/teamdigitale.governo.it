@@ -190,7 +190,7 @@ Quando si sviluppa una funzione nuova o si sistemano dei problemi, è necessario
 
 1. creare una _branch_ con il numero della issue, per esempio: `1-installazione_jekyll`
 2. fare _commit_ sulla _branch_
-3. creare una _Pull Request_ su _master_ e attendere che sia approvata (sistemando eventuali problemi sollevati)
+3. creare una _Pull Request_ su _development_ e attendere che sia approvata (sistemando eventuali problemi sollevati)
 4. fare un _rebase_ e correggere eventuali conflitti
 5. fare uno _squash_ dei _commit_ (per avere massimo due _commit_)
-6. fare _merge_ su _master_
+6. fare _merge_ su _development_

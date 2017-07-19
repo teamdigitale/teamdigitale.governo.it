@@ -8,6 +8,7 @@ is_new: false
 twitter_user: marisandralizzi
 medium_user: marisandralizzi
 linkedin_url: https://it.linkedin.com/in/marisandra-lizzi-972337
+email: marisandra@teamdigitale.governo.it
 ref: marisandra-lizzi
 parent_ref: team
 ---
