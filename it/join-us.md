@@ -4,7 +4,7 @@ lang: it
 layout: default
 permalink: /it/36-content.htm
 ref: join-us
-menu_position: 4
+menu_position: 3
 ---
 # Lavora con noi
 
