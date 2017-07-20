@@ -7,7 +7,6 @@ ref: daf
 parent_ref: projects
 people: [raffaele-lillo, fabiana-lanotte, david-greco, alessandro-ercolani ]
 toc: true
-twitter_tags:
 medium_tag: big-data
 forum_category: 'piano-triennale/dati'
 forum_limit: 3
@@ -30,7 +29,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at congue a
 
 {% include forum.html %}
 
-{% include twitter_follow.html %}
+{% include twitter_timeline.html %}
 
 {% include ipress.html %}
 <div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="it" data-size="100" data-tag="10"></div>

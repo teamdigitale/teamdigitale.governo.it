@@ -7,7 +7,7 @@ ref: designers
 parent_ref: projects
 people: [matteo-de-santi, lorenzo-fabbri]
 toc: true
-twitter_tags: designers
+twitter_user: DesignersITA
 medium_tag: design
 forum_category: design
 forum_limit: 3
@@ -71,10 +71,9 @@ Designers Italia non solo produce guide e kit per tutte le amministrazioni pubbl
 ### Forum 
 
 Uno spazio di discussione sul design dei servizi pubblici. 
-
 {% include forum.html %}
 
-{% include twitter_follow.html %}
+{% include twitter_timeline.html %}
 
 {% include ipress.html %}
 <div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="it" data-size="100" data-tag="9"></div>

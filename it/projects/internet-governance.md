@@ -7,7 +7,6 @@ ref: internet-governance
 parent_ref: projects
 people: [guido-scorza, daniela-battisti]
 toc: true
-twitter_tags:
 medium_tag:
 forum_category:
 forum_limit: 3
@@ -19,19 +18,8 @@ Digitale e innovazione sono stati, sono e saranno naturali fattori di trasformaz
 
 In un contesto di questo genere vogliamo restituire al nostro Paese il ruolo che gli spetta nella comunità multistakeholder europea e internazionale che discute e stabilisce le regole della rete.
 
-
+{% include twitter_timeline.html %}
 
 ### Il ruolo del Team
 
 XXXXXXXXX
-
-
-{% include medium_project.html %}
-
-
-{% include twitter_follow.html %}
-
-
-{% include ipress.html %}
-<div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="it" data-size="100" data-tag="13"></div>
-<script type="text/javascript" src="/js/ipress.js"></script>

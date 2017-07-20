@@ -7,7 +7,7 @@ ref: rd
 parent_ref: projects
 people: [gianluca-varisco]
 toc: true
-twitter_tags: rd
+twitter_tag: rd
 medium_tag: responsible-disclosure
 forum_category: 
 forum_limit: 3
@@ -39,7 +39,7 @@ gestione di progetti pilota coinvolgendo amministrazioni pubbliche, società in 
 
 
 
-{% include twitter_follow.html %}
+{% include twitter_timeline.html %}
 
 {% include ipress.html %}
 <div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="it" data-size="100" data-tag="11"></div>

@@ -7,7 +7,7 @@ ref: developers
 parent_ref: projects
 people: [giovanni-bajo]
 toc: true
-twitter_tags: developers
+twitter_user: developersITA
 medium_tag: developer
 timeline:
   - period: Marzo 2017
@@ -61,7 +61,7 @@ con loro per portare lo sviluppo dei progetti dentro Developers Italia.
 {% include medium_project.html %}
 
 
-{% include twitter_follow.html %}
+{% include twitter_timeline.html %}
 
 {% include ipress.html %}
 <div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="it" data-size="100" data-tag="8"></div>

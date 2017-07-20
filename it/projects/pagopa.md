@@ -7,7 +7,6 @@ ref: pagopa
 parent_ref: projects
 people: [giuseppe-virgone]
 toc: true
-twitter_tags: pagopa
 medium_tag: pagopa
 forum_category:
 forum_limit: 3
@@ -31,7 +30,7 @@ A breve queste novità saranno visibili e i comuni più grandi stanno già adere
 {% include medium_project.html %}
 
 
-{% include twitter_follow.html %}
+{% include twitter_timeline.html %}
 
 {% include ipress.html %}
 <div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="it" data-size="100" data-tag="3"></div>

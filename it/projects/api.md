@@ -7,7 +7,6 @@ ref: api
 parent_ref: projects
 people: [valerio-paolini]
 toc: true
-twitter_tags:
 medium_tag:
 forum_category:
 forum_limit: 3
@@ -26,7 +25,7 @@ XXXXXXXXX
 {% include medium_project.html %}
 
 
-{% include twitter_follow.html %}
+{% include twitter_timeline.html %}
 
 {% include ipress.html %}
 <div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="it" data-size="100" data-tag="7"></div>

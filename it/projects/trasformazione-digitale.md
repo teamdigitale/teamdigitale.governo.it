@@ -7,7 +7,7 @@ ref: trasformazione-digitale
 parent_ref: projects
 people: [simone-piunno]
 toc: true
-twitter_tags: ptd
+twitter_tag: ptd
 medium_tag: trasformazione-digitale
 forum_category: piano-triennale
 forum_limit: 3
@@ -32,7 +32,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at congue a
 
 {% include forum.html %}
 
-{% include twitter_follow.html %}
+{% include twitter_timeline.html %}
 
 {% include ipress.html %}
 <div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="it" data-size="100" data-tag="39"></div>

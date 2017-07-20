@@ -7,7 +7,7 @@ ref: anpr
 parent_ref: projects
 people: [carlo-contavalli, mirko-calvaresi]
 toc: true
-twitter_tags: anpr
+twitter_tag: anpr
 medium_tag: anpr
 forum_category: anpr
 forum_limit: 3
@@ -26,7 +26,7 @@ ANPR è un passo essenziale per rendere possibili successive innovazioni che ogg
 
 {% include medium_project.html %}
 
-{% include twitter_follow.html %}
+{% include twitter_timeline.html %}
 
 
 
