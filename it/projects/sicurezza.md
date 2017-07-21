@@ -1,7 +1,7 @@
 ---
-title: Responsible disclosure
+title: Sicurezza
 lang: it
-permalink: /it/projects/responsible-disclosure.htm
+permalink: /it/projects/sicurezza.htm
 layout: project
 ref: rd
 parent_ref: projects

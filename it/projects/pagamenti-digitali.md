@@ -1,7 +1,7 @@
 ---
-title: PagoPA
+title: Pagamenti digitali
 lang: it
-permalink: /it/projects/pagopa.htm
+permalink: /it/projects/pagamenti-digitali.htm
 layout: project
 ref: pagopa
 parent_ref: projects
