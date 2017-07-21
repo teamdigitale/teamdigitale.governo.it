@@ -2,7 +2,7 @@
 title: Fullstack Developer
 lang: it
 permalink: /it/jobpositions/fullstack-developer.htm
-jazz_url: https://teamdigitale.applytojob.com/apply/DllmTtP8ft/2-Open-Source-Project-Leader
+jazz_url: https://teamdigitale.applytojob.com/apply/ijIY2Pq55p/Fullstack-Developer
 iframeheight: 700
 layout: job
 is_new: true

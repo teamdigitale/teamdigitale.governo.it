@@ -2,7 +2,7 @@
 title: Technical Program Manager
 lang: en
 permalink: /en/jobpositions/technical-program-manager.htm
-jazz_url: https://teamdigitale.applytojob.com/apply/DllmTtP8ft/2-Open-Source-Project-Leader
+jazz_url: 
 iframeheight: 700
 layout: job
 is_new: true

@@ -2,7 +2,7 @@
 title: Sviluppatore UX / UI
 lang: it
 permalink: /it/jobpositions/sviluppatore-ux.htm
-jazz_url: https://teamdigitale.applytojob.com/apply/DllmTtP8ft/2-Open-Source-Project-Leader
+jazz_url: https://teamdigitale.applytojob.com/apply/dp8C7SAecR/UX-UI-Developer
 iframeheight: 700
 layout: job
 is_new: true

@@ -2,7 +2,7 @@
 title: Technical Writer
 lang: en
 permalink: /en/jobpositions/technical-writer.htm
-jazz_url: https://teamdigitale.applytojob.com/apply/DllmTtP8ft/2-Open-Source-Project-Leader
+jazz_url: https://teamdigitale.applytojob.com/apply/9RaqKa7BL4/Technical-Writer
 iframeheight: 700
 layout: job
 is_new: true

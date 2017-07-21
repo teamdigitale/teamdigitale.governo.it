@@ -2,7 +2,7 @@
 title: Esperto in Cloud e Data Center
 lang: it
 permalink: /it/jobpositions/esperto-cloud-datacenter.htm
-jazz_url: https://teamdigitale.applytojob.com/apply/DllmTtP8ft/2-Open-Source-Project-Leader
+jazz_url: https://teamdigitale.applytojob.com/apply/1NroAwJ06t/Cloud-And-Data-Center
 iframeheight: 700
 layout: job
 is_new: true

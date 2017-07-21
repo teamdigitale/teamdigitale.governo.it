@@ -2,7 +2,7 @@
 title: UI Designer
 lang: it
 permalink: /it/jobpositions/ui-designer.htm
-jazz_url: https://teamdigitale.applytojob.com/apply/DllmTtP8ft/2-Open-Source-Project-Leader
+jazz_url: https://teamdigitale.applytojob.com/apply/trHiY809Hw/UI-Designer
 iframeheight: 700
 layout: job
 is_new: true

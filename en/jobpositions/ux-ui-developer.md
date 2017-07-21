@@ -2,7 +2,7 @@
 title: UX / UI Developer
 lang: en
 permalink: /en/jobpositions/ux-ui-developer.htm
-jazz_url: https://teamdigitale.applytojob.com/apply/DllmTtP8ft/2-Open-Source-Project-Leader
+jazz_url: https://teamdigitale.applytojob.com/apply/dp8C7SAecR/UX-UI-Developer
 iframeheight: 700
 layout: job
 is_new: true
