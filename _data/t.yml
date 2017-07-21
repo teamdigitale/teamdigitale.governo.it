@@ -155,3 +155,9 @@ JobsAccordionDesc_6:
 PressRelease:
   en: "Press Releases"
   it: "Comunicati stampa"
+CollapseBtnSee:
+  en: "See all"
+  it: "Mostra tutto"
+CollapseBtnHide:
+  en: "Hide"
+  it: "Nascondi"

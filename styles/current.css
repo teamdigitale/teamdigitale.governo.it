@@ -872,6 +872,22 @@ a.swich-language, a.swich-language:hover {
   margin-bottom: 12px;
 
 }
+.jobpositions.archived a {
+  color: #aaa !important;
+}
+#cmdcollapse[aria-expanded='false'] .seeall {
+  display: inline;
+}
+#cmdcollapse[aria-expanded='true'] .seeall {
+  display: none;
+}
+#cmdcollapse[aria-expanded='false'] .hideall {
+  display: none;
+}
+#cmdcollapse[aria-expanded='true'] .hideall {
+  display: inline;
+}
+
 #jobaccordion {
   border-top: 1px solid #ccc;
   border-bottom: 1px solid #ccc;
@@ -924,6 +940,34 @@ a.swich-language, a.swich-language:hover {
 .privacy-disclaimer {
   font-size: 16px;
   color: #64686c;
+}
+#keepinmind.collapse {
+  height: 150px !important;
+  overflow: hidden;
+  position: relative;
+  display: block !important;
+}
+#keepinmind.collapse.in {
+  height: auto !important;
+  overflow: auto;
+
+}
+#keepinmind.collapse:after {
+  content: ' ';
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  position: absolute;
+  z-index: 1;
+  background: #fff; /* Old browsers */
+  background: -moz-linear-gradient(top, rgba(0,0,0,0) 0%, #ffffff 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, rgba(0,0,0,0) 0%,#ffffff 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, rgba(0,0,0,0) 0%,#ffffff 100%); 
+}
+#keepinmind.collapse.in:after {
+  display: none;
 }
 
 /*Fine stili per pagina Lavora con noi*/

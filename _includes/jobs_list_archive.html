@@ -2,7 +2,11 @@
 {% assign jobs_pages = same_lang_pages | where: "layout", "job" %}
 {% assign jobs_pages_archived = jobs_pages | where: "archived", true %}
 {% assign sorted_jobs_pages = jobs_pages_archived | sort: "title" %}
-<div class="jobpositions">
+<a class="btn btn-primary btn-sm" role="button" data-toggle="collapse" href="#jobsarchive" aria-expanded="false" aria-controls="jobsarchive" id="cmdcollapse">
+  <span class="seeall">{{ site.data.t.CollapseBtnSee[page.lang] }}</span>
+  <span class="hideall">{{ site.data.t.CollapseBtnHide[page.lang] }}</span>
+</a>
+<div class="jobpositions archived collapse" id="jobsarchive">
 {% for one_page in sorted_jobs_pages %}
     <hr>
     <div>
