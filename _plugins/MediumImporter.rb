@@ -61,6 +61,8 @@ class MediumImporter < Jekyll::Generator
       doc.data['medium_detected_lang'] = item['detectedLanguage']
       doc.data['medium_slug'] = item['slug']
       doc.data['medium_published_at'] = item['latestPublishedAt']
+      doc.data['medium_firstpublished_at'] = item['firstPublishedAt']
+      doc.data['medium_created_at'] = item['createdAt']
 
       jekyll_coll.docs << doc
     end
