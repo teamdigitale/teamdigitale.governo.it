@@ -61,6 +61,8 @@ class MediumImporter < Jekyll::Generator
       doc.data['medium_detected_lang'] = item['detectedLanguage']
       doc.data['medium_slug'] = item['slug']
       doc.data['medium_published_at'] = item['latestPublishedAt']
+      doc.data['medium_firstpublished_at'] = item['firstPublishedAt']
+      doc.data['medium_created_at'] = item['createdAt']
       doc.data['medium_tagsarray'] = []
       if item['virtuals']['tags']!= nil
         item['virtuals']['tags'].each{ |x| doc.data['medium_tagsarray'].push(x['slug']) }
