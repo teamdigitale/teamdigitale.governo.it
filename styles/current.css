@@ -927,14 +927,15 @@ a.swich-language, a.swich-language:hover {
 .jobaccordion_col1 {
   padding: 0;
 
-
 }
-.jobaccordion_col2 {
- 
 
-}
 .jobaccordion_col2 > div {
   padding: 20px;
+  font-size: 17px;
+  line-height: 1.5;
+}
+.jobaccordion_col2 p {
+  font-size: 17px;
   line-height: 1.5;
 }
 .privacy-disclaimer {

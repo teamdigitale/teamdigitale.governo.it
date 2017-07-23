@@ -1,5 +1,5 @@
 ---
-title: Esperto Machine Learning & Data Scientist
+title: Esperto in Machine Learning & Data Scientist
 lang: it
 permalink: /it/jobpositions/esperto-machine-learning-data-scientist.htm
 jazz_url: https://teamdigitale.applytojob.com/apply/oHQC5VFz1I/Machine-Learning-Data-Scientist

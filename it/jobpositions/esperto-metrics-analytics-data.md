@@ -1,8 +1,8 @@
 ---
-title: Esperto Metrics, Analytics & Data Visualization
+title: Esperto in Metrics, Analytics & Data Visualization
 lang: it
 permalink: /it/jobpositions/esperto-metrics-analytics-data.htm
-jazz_url: 
+jazz_url: https://teamdigitale.applytojob.com/apply/kKJGVq/Metrics-And-Analytics
 iframeheight: 700
 layout: job
 is_new: true

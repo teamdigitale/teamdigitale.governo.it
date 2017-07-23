@@ -18,11 +18,10 @@ Le job description qui di seguito sono articolate in: Descrizione e Responsabili
 
 {% include jobs_accordion.html %}
 
-## Posizioni aperte attualmente
+## Posizioni aperte
 
 {% include jobs_list.html %}
 
-## Archivio posizioni
+## Posizioni chiuse
 {% include jobs_list_archive.html %}
 
-### [Informazioni sull'ambiente di lavoro](lavora-con-noi-info.htm)

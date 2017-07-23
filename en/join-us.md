@@ -23,7 +23,6 @@ Le job description qui di seguito sono articolate in: Descrizione e Responsabili
 
 {% include jobs_list.html %}
 
-## Archived positions
+## Closed job positions
 {% include jobs_list_archive.html %}
 
-### [More info](join-us-more-info.htm)

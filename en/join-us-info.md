@@ -1,5 +1,5 @@
 ---
-title: More info
+title: Keep in mind
 lang: en
 ref: join-us-info
 parent_ref: join-us
@@ -7,7 +7,7 @@ permalink: /en/join-us-more-info.htm
 layout: default
 ---
 
-# More info
+# Keep in mind
 Keep in mind: we are going to be working in a government environment. We will have the opportunity to collaborate with incredibly bright, smart, strong-willed and well-intentioned people scattered around the Public Administration who have a sincere desire to improve and do the right things. There are, in fact, modern and innovative teams and excellent but isolated units, capable of achieving a lot with few resources.
 
 However, the current status of the public digital infrastructure shows the consequence of lack of agile central coordination. Much has been done in the recent past, but most of the programs are not aligned and many systems and websites were built with outdated technology, insufficient attention to user experience, poor integration and, often, a lack of interoperability.  

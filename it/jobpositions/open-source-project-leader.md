@@ -1,5 +1,5 @@
 ---
-title: Open Source Project leader
+title: Open Source Project Leader
 lang: it
 permalink: /it/jobpositions/open-source-project-leader.htm
 jazz_url: https://teamdigitale.applytojob.com/apply/DllmTtP8ft/2-Open-Source-Project-Leader

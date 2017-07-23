@@ -2,7 +2,7 @@
 title: Metrics, Analytics & Data Visualization Expert 
 lang: en
 permalink: /en/jobpositions/metrics-analytics-data-expert.htm
-jazz_url: 
+jazz_url: https://teamdigitale.applytojob.com/apply/kKJGVq/Metrics-And-Analytics
 iframeheight: 700
 layout: job
 is_new: true
