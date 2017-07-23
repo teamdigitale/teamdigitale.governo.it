@@ -1,6 +1,6 @@
 {% assign posts_per_row = 3 %}
 {% assign max_rows = 3 %}
-{% assign posts = site.medium_feed | where: "medium_detected_lang", page.lang %}
+{% assign posts = site.medium_feed | where: "medium_detected_lang", page.lang | sort: "medium_firstpublished_at" | reverse %}
 {% assign cover_post = posts.first %}
 {% assign max_other_posts = posts_per_row | times: max_rows %}
 {% assign other_posts = posts | tail | take: max_other_posts %}
