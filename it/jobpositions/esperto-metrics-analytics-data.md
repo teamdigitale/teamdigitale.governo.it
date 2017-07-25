@@ -1,7 +1,7 @@
 ---
-title: Esperto in Metrics, Analytics & Data Visualization
+title: Metrics, Analytics e Data Visualization
 lang: it
-permalink: /it/jobpositions/esperto-metrics-analytics-data.htm
+permalink: /it/jobpositions/metrics-analytics-data.htm
 jazz_url: https://teamdigitale.applytojob.com/apply/kKJGVq/Metrics-And-Analytics
 iframeheight: 700
 layout: job
@@ -11,7 +11,7 @@ parent_ref: join-us
 ---
 
 ### Descrizione e responsabilità
-Il Team per la Trasformazione Digitale è alla ricerca di un esperto in Business Metrics, Analytics & Data Visualization.
+Il Team per la Trasformazione Digitale è alla ricerca di un esperto in Business Metrics, Analytics e Data Visualization.
 
 La figura ricercata sarà responsabile della valutazione e, in molti casi, della supervisione dello sviluppo di Key Performance Indicators (KPIs) e metriche, programmi, test e ricerche che guidino soluzioni utilizzando tecniche computazionali e statistiche per supportare processi di decision-making strategici e tattici per le piattaforme digitali coordinate dal Team. 
 Inoltre, il profilo dovrà avere esperienza e capacità di sviluppare soluzioni di visualizzazione grafica dei dati che possano efficacemente riassumere i concetti sottostanti i dati e le analisi svolte.

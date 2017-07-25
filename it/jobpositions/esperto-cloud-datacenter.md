@@ -1,7 +1,7 @@
 ---
-title: Esperto in Cloud e Data Center
+title: Cloud e Data Center
 lang: it
-permalink: /it/jobpositions/esperto-cloud-datacenter.htm
+permalink: /it/jobpositions/cloud-datacenter.htm
 jazz_url: https://teamdigitale.applytojob.com/apply/1NroAwJ06t/Cloud-And-Data-Center
 iframeheight: 700
 layout: job

@@ -1,7 +1,7 @@
 ---
-title: Cloud & Data Center Expert 
+title: Cloud and Data Center 
 lang: en
-permalink: /en/jobpositions/cloud-datacenter-expert.htm
+permalink: /en/jobpositions/cloud-datacenter.htm
 jazz_url: https://teamdigitale.applytojob.com/apply/1NroAwJ06t/Cloud-And-Data-Center
 iframeheight: 700
 layout: job
@@ -11,7 +11,7 @@ parent_ref: join-us
 ---
 
 ### Description & Responsibilities
-The Digital Transformation Team is looking for a Cloud & Data Center Expert who will manage complex IT migrations from legacy environments to cloud services.
+The Digital Transformation Team is looking for a Cloud and Data Center Expert who will manage complex IT migrations from legacy environments to cloud services.
 
 You will support the definition and execution of complex migration projects of technological components inside the Public Administration to public or hybrid public/private cloud environments.
 

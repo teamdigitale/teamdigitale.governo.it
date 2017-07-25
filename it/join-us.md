@@ -16,7 +16,7 @@ Il rafforzamento di questi progetti, tra cui l'implementazione del [Piano Trienn
 
 Condividi il nostro [Manifesto](https://medium.com/team-per-la-trasformazione-digitale/da-seattle-a-roma-innovazione-cittadini-talenti-b176c3470d95) dei principi tecnologici e operativi? Allora mandaci la tua candidatura!
 
-Tutte le posizioni aperte* sono descritte di seguito in italiano e qui nella loro versione inglese (e vi consigliamo di consultarla soprattutto per i ruoli tecnologici, perché nonostante i nostri sforzi di traduzione, il risultato in italiano vi farà sorridere).
+Tutte le posizioni aperte* sono descritte di seguito in italiano e [qui nella loro versione inglese]({{ site.baseurl }}/en/43-content.htm) (e vi consigliamo di consultarla soprattutto per i ruoli tecnologici, perché nonostante i nostri sforzi di traduzione, il risultato in italiano vi farà sorridere).
 
 Ci hai già mandato la tua candidatura e sei ancora interessato a far parte del Team? Inoltraci nuovamente il tuo CV, saremo lieti di riconsiderare il tuo profilo.
 In bocca al lupo!

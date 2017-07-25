@@ -1,5 +1,5 @@
 ---
-title: Machine Learning and Data Science Expert 
+title: Machine Learning and Data Science 
 lang: en
 permalink: /en/jobpositions/machine-learning-data-science.htm
 jazz_url: https://teamdigitale.applytojob.com/apply/oHQC5VFz1I/Machine-Learning-Data-Scientist
@@ -11,7 +11,7 @@ parent_ref: join-us
 ---
 
 ### Description & Responsibilities
-The Digital Transformation Team is looking for a Machine Learning & Data Science Expert with specific skills in software development and in management, analysis and manipulation of data, particularly in the field of Natural Language Processing. 
+The Digital Transformation Team is looking for a Machine Learning and Data Science Expert with specific skills in software development and in management, analysis and manipulation of data, particularly in the field of Natural Language Processing. 
 
 You will be in charge for making the applications developed more intelligent. In particular you will work with development teams, gather and manage large datasets from multiple sources, transform data into a usable state using appropriate tools and techniques, use data science and natural language processing techniques to build innovative interaction models between the Public Administration and the citizen, like chat bots, or to build a massive categorization of documents.
 

@@ -1,7 +1,7 @@
 ---
-title: Metrics, Analytics & Data Visualization Expert 
+title: Metrics, Analytics and Data Visualization 
 lang: en
-permalink: /en/jobpositions/metrics-analytics-data-expert.htm
+permalink: /en/jobpositions/metrics-analytics-data.htm
 jazz_url: https://teamdigitale.applytojob.com/apply/kKJGVq/Metrics-And-Analytics
 iframeheight: 700
 layout: job
@@ -11,7 +11,7 @@ parent_ref: join-us
 ---
 
 ### Description & Responsibilities
-The Digital Transformation Team is looking for an expert in Business Metrics, Analytics & Data Visualization.
+The Digital Transformation Team is looking for an expert in Business Metrics, Analytics and Data Visualization.
 
 You will be responsible for assessing and -in several cases- overseeing the development of KPIs & metrics, programs, tests and research in order to drive solutions using computational techniques and statistics to support strategic and tactical decision-making processes for those digital platforms coordinated  by the Team. 
 You will also be required to have ability and experience in developing graphic visualizations of data to communicate concepts and ideas effectively and clearly.  
