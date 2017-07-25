@@ -14,6 +14,7 @@ parent_ref: join-us
 Il Team per la Trasformazione Digitale è alla ricerca di un esperto in Machine Learning and Data Science con competenze di sviluppo software e con conoscenze specifiche nella gestione, nell'analisi e nella manipolazione dei dati in particolare nell'ambito di Natural Language Processing.
 
 Questa figura avrà il compito di rendere più intelligenti le applicazioni sviluppate. In particolare lavorerà con i team di sviluppo e si occuperà di raccogliere e gestire grandi quantità di dati non strutturati provenienti da più fonti, trasformare e rendere fruibili i dati con strumenti adeguati, utilizzare data science e tecniche di natural language processing per progettare innovativi prodotti di interazione con il cittadino quali ad esempio chat bot o prodotti per la catalogazione massiva di documenti.  
+
 Siamo alla ricerca di talenti con una reale ossessione per i risultati, non solo per i pattern nei dati, e che dovranno essere in grado di capire come trasformare queste scoperte in valore per i cittadini.
 
 
@@ -28,10 +29,9 @@ Siamo alla ricerca di talenti con una reale ossessione per i risultati, non solo
 - Capacità di comunicare in maniera efficace sia con i team tecnici che con quelli business
 - Elevato livello di integrità e discrezione nella gestione di informazioni confidenziali
 - Solida esperienza in big data analytics, machine learning, e una o più delle seguenti aree: pattern recognition, data mining su larga scala o intelligenza artificiale
-- Esperienza con framework di machine learning quali Spark / MLLib e framework di deep learning quali theano, tensorflow, keras
+- Esperienza con framework di machine learning quali Spark / MLLib e framework di deep learning quali Theano, Tensorflow, Keras
 - Eccellenti doti di debugging, pensiero critico e comunicazione
 - Esperienza nella leadership, direzione e mentorship per un team di ingegneri software
-
 
 
 ### Formazione
