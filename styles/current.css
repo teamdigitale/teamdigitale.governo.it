@@ -1046,3 +1046,7 @@ article p {
     max-width: none !important;
     width: 83.33333%;
 }
+
+.twitter-timeline-error {
+  display: none;
+}

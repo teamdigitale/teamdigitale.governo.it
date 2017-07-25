@@ -27,7 +27,7 @@ Good luck!
 
 {% include jobs_accordion.html %}
 
-## Opened positions
+## Open positions
 
 {% include jobs_list.html %}
 

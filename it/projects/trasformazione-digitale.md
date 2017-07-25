@@ -7,7 +7,7 @@ ref: trasformazione-digitale
 parent_ref: projects
 people: [simone-piunno]
 toc: true
-twitter_tag: ptd
+twitter_tag: piano%20triennale
 medium_tag: trasformazione-digitale
 forum_category: piano-triennale
 forum_limit: 3

@@ -7,6 +7,7 @@ ref: pagopa
 parent_ref: projects
 people: [giuseppe-virgone]
 toc: true
+twitter_tag: pagopa
 medium_tag: pagopa
 forum_category:
 forum_limit: 3

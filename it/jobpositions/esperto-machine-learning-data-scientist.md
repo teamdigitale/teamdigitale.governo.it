@@ -1,7 +1,7 @@
 ---
-title: Machine Learning and Data Scientist
+title: Machine Learning e Data Science
 lang: it
-permalink: /it/jobpositions/machine-learning-data-scientist.htm
+permalink: /it/jobpositions/machine-learning-data-science.htm
 jazz_url: https://teamdigitale.applytojob.com/apply/oHQC5VFz1I/Machine-Learning-Data-Scientist
 iframeheight: 700
 layout: job
@@ -11,7 +11,7 @@ parent_ref: join-us
 ---
 
 ### Descrizione e responsabilità
-Il Team per la Trasformazione Digitale è alla ricerca di un esperto in Machine Learning and Data Science con competenze di sviluppo software e con conoscenze specifiche nella gestione, nell'analisi e nella manipolazione dei dati in particolare nell'ambito di Natural Language Processing.
+Il Team per la Trasformazione Digitale è alla ricerca di un esperto in Machine Learning e Data Science con competenze di sviluppo software e con conoscenze specifiche nella gestione, nell'analisi e nella manipolazione dei dati in particolare nell'ambito di Natural Language Processing.
 
 Questa figura avrà il compito di rendere più intelligenti le applicazioni sviluppate. In particolare lavorerà con i team di sviluppo e si occuperà di raccogliere e gestire grandi quantità di dati non strutturati provenienti da più fonti, trasformare e rendere fruibili i dati con strumenti adeguati, utilizzare data science e tecniche di natural language processing per progettare innovativi prodotti di interazione con il cittadino quali ad esempio chat bot o prodotti per la catalogazione massiva di documenti.  
 
