@@ -2,7 +2,7 @@
 title: Metrics, Analytics and Data Visualization 
 lang: en
 permalink: /en/jobpositions/metrics-analytics-data.htm
-jazz_url: https://teamdigitale.applytojob.com/apply/kKJGVq/Metrics-And-Analytics
+jazz_url: https://teamdigitale.applytojob.com/apply/3uMFXTVuT0/Metrics-Analytics-E-Data-Visualization
 iframeheight: 700
 layout: job
 is_new: true
