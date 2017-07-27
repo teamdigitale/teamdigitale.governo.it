@@ -1,5 +1,5 @@
 ---
-title: Fullstack Developer
+title: Open Source Project Leader
 lang: en
 permalink: /en/jobpositions/open-source-project-leader.htm
 jazz_url: https://teamdigitale.applytojob.com/apply/DllmTtP8ft/2-Open-Source-Project-Leader
@@ -13,13 +13,11 @@ parent_ref: join-us
 ### Description & Responsibilities
 The Digital Transformation Team is looking for 2 Open Source Project Leaders.
 
-You will be responsible for coordinating and overseeing the development of different open source projects published on the platform Developers Italia, so as for managing external relations with the Public Administration and the community developers that want to contribute to the platform. 
-
-You will also be responsible to publish the roadmap of the projects shared on Developers Italia, coordinate the community developers willing to contribute to the projects and verify their continuous contribution, lead tests to check the quality of the source code produced (code review, check of the documentation, monitoring of the continuous integration) and, in general, ensure that the projects will always be active.
+You will be responsible for coordinating and overseeing the development of different open source projects published on the platform [Developers Italia](https://developers.italia.it/), so as for managing external relations with the Public Administration and the community of developers that want to contribute to the platform. 
+You will also be responsible to publish the roadmap of the projects shared on [Developers Italia](https://developers.italia.it/), coordinate the community of developers willing to contribute to the projects and verify their continuous contribution, lead tests to check the quality of the source code produced (code review, check of the documentation, monitoring of the continuous integration) and, in general, ensure that the projects will always be active.
 You will plan the release of new implementations in different programming languages, ensuring equal functionalities among them with similar API and uniform updates.  
 
 We’re looking for talents with a proven track record in the development of open source code and in collaborative communities. 
-
 
 
 ### Key Qualifications
@@ -38,9 +36,6 @@ We’re looking for talents with a proven track record in the development of ope
 - Track record in providing leadership, direction, and mentorship for a team of software engineers
 
 
-
 ### Education
 - MS degree in Engineering, Computer Science or related quantitative field with +5 years of experience as a contributor or maintainer of open source projects or, in the absence of a degree, +7 years of experience as a contributor or maintainer of open source projects
 - Proficiency in English
-
-
