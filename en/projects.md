@@ -2,9 +2,9 @@
 title: Projects
 lang: en
 ref: projects
-menu_position: 0
 permalink: /en/projects.htm
 layout: default
+sitemap: false
 ---
 
 <h2>Projects</h2>

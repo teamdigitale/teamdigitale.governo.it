@@ -11,6 +11,7 @@ twitter_tag: piano%20triennale
 medium_tag: trasformazione-digitale
 forum_category: piano-triennale
 forum_limit: 3
+sitemap: false
 ---
 
 ### In breve
@@ -19,9 +20,6 @@ Il piano triennale è un documento di indirizzo strategico previsto dalla legge 
 
 * Sito ufficiale: (https://pianotriennale-ict.italia.it/)
 
-### Il ruolo del Team
-
-XXXXXXXXX
 
 
 {% include medium_project.html %}

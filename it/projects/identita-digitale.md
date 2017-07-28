@@ -11,13 +11,8 @@ twitter_tag: spid
 medium_tag: spid
 forum_category: spid
 forum_limit: 3
+sitemap: false
 ---
 
-### In breve
 
-XXXXXXXXXXXX
-
-### Il ruolo del Team
-
-XXXXXXXXX
 

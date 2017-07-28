@@ -10,6 +10,7 @@ toc: true
 medium_tag:
 forum_category: cie
 forum_limit: 3
+sitemap: false
 ---
 
 ### In breve
@@ -18,10 +19,6 @@ Un modo diverso da parte della Pubblica Amministrazione di comunicare con noi, n
 
 * Sito: <http://www.cartaidentita.interno.gov.it/>
 
-
-### Il ruolo del Team
-
-XXXXXXXXX
 
 
 {% include medium_project.html %}

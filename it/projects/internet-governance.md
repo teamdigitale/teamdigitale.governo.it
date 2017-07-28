@@ -10,6 +10,7 @@ toc: true
 medium_tag:
 forum_category:
 forum_limit: 3
+sitemap: false
 ---
 
 ### In breve
@@ -20,6 +21,3 @@ In un contesto di questo genere vogliamo restituire al nostro Paese il ruolo che
 
 {% include twitter_timeline.html %}
 
-### Il ruolo del Team
-
-XXXXXXXXX
