@@ -5,7 +5,6 @@ permalink: /en/people/luca-bigliardi.html
 layout: people
 role: Software Developer
 is_new: true
-linkedin_url: https://it.linkedin.com/in/shammash
 ref: luca-bigliardi
 parent_ref: team
 ---
