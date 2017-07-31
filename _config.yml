@@ -33,6 +33,7 @@ theme: minima
 gems:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-toc
 exclude:
   - vendor
   - README.md
@@ -43,3 +44,5 @@ exclude:
   - gulpfile.js
   - package.json
   
+sass:
+    style: compressed

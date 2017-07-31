@@ -4,25 +4,33 @@ lang: en
 layout: default
 permalink: /en/43-content.htm
 ref: join-us
-menu_position: 4
+menu_position: 3
 ---
 
 # Join us
 
-At the moment we don’t have open positions.
+The [“call for talents”](https://medium.com/team-per-la-trasformazione-digitale/from-seattle-to-roma-innovation-citizens-talents-6b8c6c06002b), launched by The Digital Transformation Team on September 30, 2016 allowed to create the current team, which has worked on building the ["operating system of the country"](https://medium.com/team-per-la-trasformazione-digitale/new-operating-system-country-technological-competence-plans-11b50a750ea7). A series of fundamental blocks described inside the [Three Year Plan for the Digital Transformation of the Italian Public Administration](https://medium.com/team-per-la-trasformazione-digitale/three-year-digital-transformation-plan-italian-public-administration-guidelines-design-development-8bdb440f940d), upon which simpler and more effective services for citizens, the Public Administration, and enterprises are built.
 
-A big thanks to the many people who have participated so enthusiastically!
+The team already started several projects, such as [PagoPA](https://medium.com/team-per-la-trasformazione-digitale/pagopa-pay-one-click-italian-digital-government-services-public-administration-53bcf1a6d52d), a unique node for Italian public payments, where people can pay taxes, university tuition fees and school meals, fines and TARI (solid waste tax), and ANPR - the National Residential Population Register - a single national database designed to combine the demographic data of all Italian residents and Italian residents abroad. In addition to that the Team launched [Developers Italia](https://medium.com/team-per-la-trasformazione-digitale/developers-italia-community-italian-digital-government-services-public-administration-2e56022096f1) and [Designers Italia](https://medium.com/team-per-la-trasformazione-digitale/designers-italia-community-italian-digital-government-services-public-administration-design-thinking-c1a1de23c465), the community platforms that provide technical documentation, development and design kits, testing environments, guidelines and a forum, in order to promote the development of digital public services.
 
-## Keep in Mind
+The reinforcement of these projects, among which the implementation of the [Three Year Plan](https://pianotriennale-ict.italia.it/),  requires now further efforts! For this reason the Team  is looking for new bilingual (Italian and English) talents with proven experience in computer science (software architecture, mobile application development, open source software, APIs), mathematics and statistics (predictive models, machine learning), product design, user experience.
 
-Keep in mind: we are going to be working in a government environment. We will have the opportunity to collaborate with incredibly bright, smart, strong-willed and well-intentioned people scattered around the Public Administration who have a sincere desire to improve and do the right things. There are, in fact, modern and innovative teams and excellent but isolated units, capable of achieving a lot with few resources.
+Do you share our [Manifesto](https://medium.com/team-per-la-trasformazione-digitale/from-seattle-to-roma-innovation-citizens-talents-6b8c6c06002b) of technological and operating principles? Then send us your resume!
 
-However, the current status of the public digital infrastructure shows the consequence of lack of agile central coordination. Much has been done in the recent past, but most of the programs are not aligned and many systems and websites were built with outdated technology, insufficient attention to user experience, poor integration and, often, a lack of interoperability.  
+All the open positions* reported below are in english and in italian.
 
-We will also find many complicated, sometimes unintelligible, norms and rules; we  will need to be prepared to cleverly deal with bureaucracy.
+Did you already send us your CV and still interested in joining our team? Then submit again your application, we will be glad to reconsider your resume. 
+Good luck!
 
-People will tell us “you don’t comprehend how the public administration works”, “many already tried and failed” and “in Italy it doesn’t work this way!”
+<small> '* subject to the approval of the decree of expansion of the Commissarial Office by the Court of Auditors.</small>
 
-We will get a lot of criticism.  Some will be sincere and helpful, some will be prejudiced and cynical. The former will come from people who genuinely want to help, the latter from people who either need to defend the status quo or believe the glass is always “half empty” or, more simply, have learned helplessness.  
 
-For those who are not afraid of such obstacles, who feel a deep connection with these objectives and with these principles, thrive in ambiguous situations, have a knack for simplification, our team is the right place.
+{% include jobs_accordion.html %}
+
+## Open positions
+
+{% include jobs_list.html %}
+
+## Closed positions
+{% include jobs_list_archive.html %}
+

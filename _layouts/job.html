@@ -1,0 +1,15 @@
+{% capture job_page_content %}
+<h2>{{ page.title }}
+{% if page.archived==true %}
+<span class="beta-badge hired">hired</span>
+{% endif %}
+</h2>
+
+{{ content }}
+
+{% include jazzhr.html %}
+
+<hr/>
+
+{% endcapture %}
+{% include layout_base.html content=job_page_content %}
