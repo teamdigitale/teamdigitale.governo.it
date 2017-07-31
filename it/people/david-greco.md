@@ -28,4 +28,10 @@ In seguito all’acquisizione della mia startup da parte di un’azienda italian
 Proprio in  questo periodo ho saputo che il Team Digitale stava cercando un Big Data Architect e ho pensato che per me sarebbe stato un onore poter mettere a disposizione le mie competenze per il mio Paese. Ho mandato il curriculum ho incontrato Diego ed è scoccata la scintilla. 
 Ho la fortuna di fare un lavoro che mi piace che per me è quasi un hobby come le arti marziali che pratico con passione da tanti anni. Nel tempo libero, oltre a sviluppare codice, ascoltare musica e leggere saggistica e testi di divulgazione scientifica, mi dedico alla famiglia.  Ho una moglie fantastica che mi sopporta pazientemente e che è riuscita a essere sempre un punto di riferimento per i nostri due figli in tutti quegli anni che ho passato in giro per il mondo.
 
-Il decreto di nomina è in fase di registrazione presso la Corte dei Conti
+Data inizio: 15 aprile 2017
+
+Periodo previsto: fino al 16 settembre 2018
+
+Compenso su base annua: € 90.000
+
+Registrazione in Corte dei Conti: 8 maggio 2017
