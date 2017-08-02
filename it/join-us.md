@@ -12,9 +12,9 @@ La ["chiamata ai talenti"](https://medium.com/team-per-la-trasformazione-digital
 
 I progetti già avviati dal Team sono diversi, da [PagoPA](https://medium.com/team-per-la-trasformazione-digitale/pagopa-nodo-pagamenti-pubblici-italiani-servizi-pubblica-amministrazione-tecnologia-digitale-faa3d63ea90e), il nodo unico dei pagamenti pubblici italiani che permette già in molti Comuni di pagare tributi, tasse universitarie e mense scolastiche, multe e TARI, ad [ANPR](https://medium.com/team-per-la-trasformazione-digitale/anpr-anagrafe-nazionale-unica-comuni-integrazione-semplificazione-pubblica-amministrazione-e656b8899390) - l’Anagrafe Nazionale della Popolazione Residente - un’unica banca dati nazionale nella quale confluiranno i dati anagrafici di tutti i residenti in Italia e degli italiani residenti all’estero. Inoltre, per promuovere lo sviluppo di servizi pubblici digitali, il Team ha creato [Developers Italia](https://medium.com/team-per-la-trasformazione-digitale/developers-italia-comunita-sviluppatori-servizi-pubblici-digitali-pubblica-amministrazione-57b0cfab4c00) e [Designers Italia](https://medium.com/team-per-la-trasformazione-digitale/designers-italia-comunita-servizi-pubblici-digitali-pubblica-amministrazione-design-thinking-a04cc7ecc3da), le piattaforme di community che mettono a disposizione documentazione tecnica, kit di sviluppo e di design, ambienti di test, guide e un forum.
 
-Il [Piano Triennale](https://pianotriennale-ict.italia.it/) entra ora in una fase esecutiva critica, che richiede ulteriori talenti! Per questo il Team ha deciso di riaprire le candidature a persone entusiaste, e super competenti tecnologicamente con comprovata esperienza in Informatica (Software Architecture, Mobile Application Development, Software Open Source, API), in Matematica e Statistica (Modelli Predittivi, Machine Learning), in Product Design, User Experience.
+Il [Piano Triennale](https://pianotriennale-ict.italia.it/) entra ora in una fase esecutiva critica, che richiede ulteriori talenti! Per questo il Team ha deciso di riaprire le candidature a persone entusiaste e super competenti tecnologicamente con comprovata esperienza in Informatica (Software Architecture, Mobile Application Development, Software Open Source, API), in Matematica e Statistica (Modelli Predittivi, Machine Learning), in Product Design, User Experience.
 
-Scriviamo molto e spesso in inglese, quindi i candidati devono conoscerlo.
+Scriviamo molto spesso in inglese, quindi i candidati devono conoscerlo.
 
 Condividi il nostro [Manifesto](https://medium.com/team-per-la-trasformazione-digitale/da-seattle-a-roma-innovazione-cittadini-talenti-b176c3470d95) dei principi tecnologici e operativi? Allora mandaci la tua candidatura!
 
@@ -24,7 +24,7 @@ Ci hai già mandato la tua candidatura e sei ancora interessato a far parte del 
 
 In bocca al lupo!
 
-<small> '* previa approvazione da parte della Corte dei Conti del decreto di espansione della struttura commissariale.</small>
+<small> * previa registrazione da parte della Corte dei Conti del decreto di espansione della struttura commissariale.</small>
 
 
 
