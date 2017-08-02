@@ -8812,15 +8812,15 @@ div.bhoechie-tab div.bhoechie-tab-content:not(.active) {
 }
 /*  bhoechie tab */
 
-#navbar  .navbar-top-link__item a {
-    color: white !important;
-    text-decoration: none !important;
+#navbar > div.text-center > a {
+    color: white;
+    text-decoration: none;
     padding: 0 6px;
 }
 
-    #navbar .navbar-top-link__item a.active {
-        background-color: #1F77D2 !important;
-        color: white !important;
+    #navbar > div.text-center > a.active {
+        background-color: #1F77D2;
+        color: white;
     }
 
 a.anchor {

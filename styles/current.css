@@ -32,9 +32,6 @@
     font-size: 14px;
   }
 }
-.beta-badge.hired {
-  background-color: #eee;
-}
 
 
 /*Stili nav menu*/
@@ -859,117 +856,7 @@ a.swich-language, a.swich-language:hover {
 .col-md-4 .box_text.box_text_side .box_text_side_content {
   padding: 20px 15px 0 0;
 }
-#recruitform {
-  border: none;
-  font-family: Titillium Web;
-  overflow-x: hidden;
-  overflow-y: auto;
-  border-bottom: solid 6px #06C;
-  border-top: solid 6px #06C;
-}
-.jobpositions hr {
-  margin-top: 12px;
-  margin-bottom: 12px;
 
-}
-.jobpositions.archived a {
-  color: #aaa !important;
-}
-#cmdcollapse[aria-expanded='false'] .seeall {
-  display: inline;
-}
-#cmdcollapse[aria-expanded='true'] .seeall {
-  display: none;
-}
-#cmdcollapse[aria-expanded='false'] .hideall {
-  display: none;
-}
-#cmdcollapse[aria-expanded='true'] .hideall {
-  display: inline;
-}
-
-#jobaccordion {
-  border-top: 1px solid #ccc;
-  border-bottom: 1px solid #ccc;
-  font-size: 17px;
-  line-height: 20px;
-  margin-top: 20px;
-  margin-bottom: 20px;
-  display: block;
-}
-#jobaccordion_list {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-#jobaccordion_list li {
-  
-  font-size: 16px;
-  line-height: 18px;
-}
-#jobaccordion_list li > a {
-  display: block;
-  padding: 10px;
-}
-#jobaccordion_list li:hover {
-  background-color: #eee;
-}
-#jobaccordion_list li.selected {
-  font-weight: bold;
-  background: #06c;
-}
-#jobaccordion_list li.selected a {
-  color: #fff !important;
-}
-#jobaccordion_list li:first-child {
-  border-top: none !important;
-}
-.jobaccordion_col1 {
-  padding: 0;
-
-}
-
-.jobaccordion_col2 > div {
-  padding: 20px;
-  font-size: 17px;
-  line-height: 1.5;
-}
-.jobaccordion_col2 p {
-  font-size: 17px;
-  line-height: 1.5;
-}
-.privacy-disclaimer {
-  font-size: 16px;
-  color: #64686c;
-}
-#keepinmind.collapse {
-  height: 150px !important;
-  overflow: hidden;
-  position: relative;
-  display: block !important;
-}
-#keepinmind.collapse.in {
-  height: auto !important;
-  overflow: auto;
-
-}
-#keepinmind.collapse:after {
-  content: ' ';
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  width: 100%;
-  position: absolute;
-  z-index: 1;
-  background: #fff; /* Old browsers */
-  background: -moz-linear-gradient(top, rgba(0,0,0,0) 0%, #ffffff 100%); /* FF3.6-15 */
-  background: -webkit-linear-gradient(top, rgba(0,0,0,0) 0%,#ffffff 100%); /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(to bottom, rgba(0,0,0,0) 0%,#ffffff 100%); 
-}
-#keepinmind.collapse.in:after {
-  display: none;
-}
 
 /*Fine stili per pagina Lavora con noi*/
 
@@ -978,10 +865,6 @@ a.swich-language, a.swich-language:hover {
 
 article p {
   max-width: none;
-}
-.text-small {
-  font-size: 14px;
-  line-height: 1.4;
 }
 
 
@@ -1006,47 +889,4 @@ article p {
 .validation-summary-errors>ul>li {
   color: red;
   font-size: 14px;
-}
-
-/* Project */
-.project__people {
-    margin-bottom: 12px;
-}
-.project__people__person img {
-    width: 60px;
-    float: left;
-}
-.project__people__person h1 {
-    margin-top: 12px;
-    margin-bottom: 8px;
-    font-size: 20px;
-
-}
-.project__people__person h2 {
-    margin: 0;
-    font-size: 18px;
-}
-
-.section-nav {
-    margin: 0;
-    list-style: none;
-    list-style-type: none;
-    margin-top: 27px;
-    padding: 12px 0;
-    border-top: 1px solid #30373d;
-    border-bottom: 1px solid #30373d;
-}
-.section-nav a {
-    font-size: 18px;
-    line-height: 1.3;
-}
-/* OVERRIDE SPECIFICO IN CASO DI LAYOUT PROJECT */
-@media screen and (min-width: 992px) {
-    body.layout-project #main {
-    max-width: none !important;
-    width: 83.33333%;
-}
-
-.twitter-timeline-error {
-  display: none;
 }

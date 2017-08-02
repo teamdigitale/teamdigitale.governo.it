@@ -8046,7 +8046,7 @@ body {
 
     .navbar {
         top: 50px;
-        padding-top: 2.5rem;
+        padding-top: .5rem;
         padding-bottom: .5rem;
         height: auto;
     }
@@ -8818,13 +8818,13 @@ div.bhoechie-tab div.bhoechie-tab-content:not(.active) {
 }
 /*  bhoechie tab */
 
-#navbar .navbar-top-link__item a {
+#navbar > div.text-center > a {
     color: white;
     text-decoration: none;
     padding: 0 6px;
 }
 
-    #navbar .navbar-top-link__item a.active {
+    #navbar > div.text-center > a.active {
         background-color: #1F77D2;
         color: white;
     }
