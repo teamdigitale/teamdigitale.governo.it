@@ -112,6 +112,7 @@ if (config.staging || process.env.TEAMDIGITALE_SITE_STAGING_SERVER) {
         hostname: publish_server,
         destination: publish_destination,
         port: publish_port,
+        delete: true,
         recursive: true,
         compress: true,
         chmod: 'g+rwx',
