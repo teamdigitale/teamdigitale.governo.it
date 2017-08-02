@@ -2,7 +2,7 @@
 title: Missione
 lang: it
 ref: mission
-menu_position: 3
+menu_position: 2
 layout: default
 permalink: /it/1-content.htm
 ---

@@ -1,0 +1,11 @@
+{% assign same_lang_pages = site.pages | where: "lang", page.lang %}
+{% assign proj_pages = same_lang_pages | where: "layout", "project" %}
+{% assign sorted_proj_pages = proj_pages | sort_by_title: "title" %}
+<ul>
+{% for one_page in sorted_proj_pages %}
+
+<li >
+    <a href="{{ one_page.url }}" title="{{ one_page.ref }}">{{ one_page.title }}</a>
+</li>
+{% endfor %}
+</ul>
