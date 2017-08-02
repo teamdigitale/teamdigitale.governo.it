@@ -7,7 +7,6 @@ role: Comunicazione e PR
 is_new: false
 twitter_user: marisandralizzi
 medium_user: marisandralizzi
-email: marisandra@teamdigitale.governo.it
 linkedin_url: https://it.linkedin.com/in/marisandra-lizzi-972337
 ref: marisandra-lizzi
 parent_ref: team

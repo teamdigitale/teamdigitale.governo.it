@@ -3,7 +3,7 @@ title: Matteo de Santi
 lang: it
 permalink: /it/people/34-profile.htm
 layout: people
-role: UX/UI & Product Designer
+role: Prodotto e User Experience e User Interface (UX / UI)
 is_new: false
 twitter_user: matteo_desanti
 medium_user:
