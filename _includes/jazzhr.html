@@ -2,7 +2,7 @@
 
 {% if page.jazz_url %}
 
-<button> <a href="{{page.jazz_url}}">{{ site.data.t.JobApply[page.lang] }}</a></button>
+<h3>{{ site.data.t.JobApply[page.lang] }}</h3>
 <p class="privacy-disclaimer">{{ site.data.t.PrivacyDisclaimer[page.lang] }}</p>
-
+<iframe id="recruitform" src="{{page.jazz_url}}" width="100%" height="{{iframeheight}}px" border="0"></iframe>
 {% endif %}
