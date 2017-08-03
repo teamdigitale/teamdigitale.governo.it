@@ -5,7 +5,7 @@
 
 <hr />
 
-<table cellpadding="0" cellspacing="0" width="320" style="color:#0066CC;font-family:tahoma,sans-serif;font-size:16px;">
+<table class="signature" cellpadding="0" cellspacing="0" width="320" style="color:#0066CC;font-family:tahoma,sans-serif;font-size:16px;">
     <tr>
         <td colspan="6" height="15"></td>
     </tr>
@@ -50,3 +50,11 @@
 </table>
 
 {% endfor %}
+
+<script src="/js/combined-b95a138e9e.js"></script>
+<script>
+  $(".signature").one("click", function() {
+    // Remove other signatures for easing the copy action
+    $(this).siblings().remove();
+  });
+</script>
