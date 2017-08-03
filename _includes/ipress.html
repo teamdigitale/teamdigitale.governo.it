@@ -1,0 +1,103 @@
+{% comment %}
+REFERENCE IPRESS
+data-tag values :
+2    SPID - Sistema Pubblico di Identità Digitale
+3    PagoPA
+4    CIE - Carta d’Identità Elettronica
+5    Cittadinanza Digitale
+6    ANPR - Anagrafe Nazionale Popolazione Residente
+7    Ecosistema API
+8    Developers Italia
+9    Design
+10    DAF - Data Analytics Framework
+11    Security e Responsible Disclosure
+12    CAD
+13    Internet Governance
+14    e-Procurement
+15    18app
+16    carta docente
+17    PASocial
+39    Piano triennale
+40    Corporate
+
+18    Giovanni Bajo
+19    Paolo Barberis
+20    Daniela Battisti
+21    Mirko Calvaresi
+22    Carlo Contavalli
+23    Matteo de Santi
+24    Alessandro Ercolani
+25    Lorenzo Fabbri
+26    Federico Feroldi
+27    David Greco
+28    Fabiana Lanotte
+29    Raffaele Lillo
+30    Marisandra Lizzi
+31    Valerio Paolini
+32    Diego Piacentini
+33    Simone Piunno
+34    Guido Scorza
+35    Simone Surdi
+36    Gianluca Varisco
+37    Giuseppe Virgone
+{% endcomment %}
+
+{% assign prpersonLang = site.pages | where: "lang", page.lang %}
+{% assign prperson = prpersonLang | where: "ref", "marisandra-lizzi" %}
+
+<script id="built-in-helpers-template" type="text/x-handlebars-template">
+
+    <blockquote class="iPress-blockquote i-background-grey-10">
+        <h3>
+           {{ site.data.t.PressRelease[page.lang] }}
+        </h3>
+        {% raw %}
+        <div id="ipress" style="height:100px; padding-left:5px;">
+            {{#each elements}}
+            <div class="row">
+                <div class="col-md-12">
+                    <p class="team-item-title">
+                        <a href="{{this.link}}" target="_blank" style="text-decoration: none;">
+                            {{this.title}} ({{formatDate this.publishDate this.lang}})
+                        </a>
+                    </p>
+                    <a href="{{this.link}}" target="_blank" style="text-decoration: none;">
+                    <img src="{{this.defaultImage.small}}" class="i-floatLeft i-margin-r-right">
+                    </a>
+                    <p class="i-text-r-xxs">
+                        {{this.summary}}
+                    </p>
+                    <p style="clear:both;">&nbsp;</p>
+                </div>
+            </div>
+            {{/each}}
+        </div>
+        {% endraw %}
+        <div style="clear:both;">
+            {% for singleperson in prperson %}
+                <a href="{{singleperson.url}}" target="_blank">
+                    <strong>{{singleperson.title}}</strong>
+                </a>&nbsp;
+                <i>{{singleperson.role}}</i>
+                <br />
+                {% if singleperson.email != nil %}
+                <a href="mailto:{{singleperson.email}}" target="_blank" style="text-decoration:none; text-decoration: none;">
+                        <span class="fa fa-envelope" ></span>
+                    </a>&nbsp;
+                {% endif %}
+                {% if singleperson.medium_user != nil %}
+                <a href="https://medium.com/@{{singleperson.medium_user}}" target="_blank" style="text-decoration:none; text-decoration: none;">
+                    <span class="fa fa-medium" ></span>
+                    
+                    </a>&nbsp;
+                {% endif %}
+                {% if singleperson.twitter_user != nil %}
+                <a href="https://www.twitter.com/{{singleperson.twitter_user}}" target="_blank" style="text-decoration:none; text-decoration: none;">
+                    <span class="fa fa-twitter" ></span>
+                    </a>&nbsp;
+                {% endif %}
+            {% endfor %}
+        </div>
+    </blockquote>
+    
+</script>
