@@ -3,8 +3,5 @@ layout: null
 sitemap: false
 ---
 User-agent: *
-Disallow: /it/signatures.html
-Disallow: /en/signatures.html
-Disallow: /en/signatures/*.html
-Disallow: /it/signatures/*.html
+Disallow:
 Sitemap: {{ site.url }}/sitemap.xml
