@@ -18,13 +18,11 @@ Scriviamo molto spesso in inglese, quindi i candidati devono conoscerlo.
 
 Condividi il nostro [Manifesto](https://medium.com/team-per-la-trasformazione-digitale/da-seattle-a-roma-innovazione-cittadini-talenti-b176c3470d95) dei principi tecnologici e operativi? Allora mandaci la tua candidatura!
 
-Tutte le posizioni aperte* sono descritte di seguito in italiano e [qui nella loro versione inglese]({{ site.baseurl }}/en/43-content.htm) (e vi consigliamo di consultarla soprattutto per i ruoli tecnologici, perché nonostante i nostri sforzi di traduzione, il risultato in italiano vi farà sorridere).
+Tutte le posizioni aperte sono descritte di seguito in italiano e [qui nella loro versione inglese]({{ site.baseurl }}/en/43-content.htm) (e vi consigliamo di consultarla soprattutto per i ruoli tecnologici, perché nonostante i nostri sforzi di traduzione, il risultato in italiano vi farà sorridere).
 
 Ci hai già mandato la tua candidatura e sei ancora interessato a far parte del Team? Aggiorna il tuo CV e inviacelo nuovamente.
 
 In bocca al lupo!
-
-<small> * previa registrazione da parte della Corte dei Conti del decreto di espansione della struttura commissariale.</small>
 
 
 

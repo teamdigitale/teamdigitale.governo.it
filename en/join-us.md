@@ -19,12 +19,11 @@ We will write very often in english, so its knowledge is required.
 
 Do you share our [Manifesto](https://medium.com/team-per-la-trasformazione-digitale/from-seattle-to-roma-innovation-citizens-talents-6b8c6c06002b) of technological and operating principles? Then send us your resume!
 
-All the open positions* reported below are in english and in italian.
+All the open positions reported below are in english and in italian.
 
 Did you already send us your CV and still interested in joining our team? Update your CV and submit it again.
 Good luck!
 
-<small> * subject to the approval of the decree of expansion of the Commissarial Office by the Court of Auditors.</small>
 
 
 {% include jobs_accordion.html %}
