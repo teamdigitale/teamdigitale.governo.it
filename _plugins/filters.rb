@@ -7,7 +7,7 @@ module LiquidFilters
 
   # Takes at most max elements from array
   def take(input, max)
-    if max > 0
+    if input!= nil and max > 0
       input[0..(max - 1)]
     else
       []
