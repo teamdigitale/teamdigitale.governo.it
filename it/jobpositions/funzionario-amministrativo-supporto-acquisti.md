@@ -16,10 +16,10 @@ Siamo alla ricerca di candidati estremamente motivati, con grande esperienza all
 
 
 ### Qualifiche chiave
-- conoscenza ed esperienza delle metodologie previste dall’ordinamento per l’acquisizione di beni e servizi;
-- approfondita conoscenza del quadro regolatorio nazionale e comunitario in materia di appalti delle pubbliche amministrazioni, della giurisprudenza civile, amministrativa e - contabile e degli orientamenti delle Autorità indipendenti competenti in materia;
-- conoscenza dell’organizzazione e del funzionamento delle pubbliche amministrazioni e della normativa in materia di contabilità pubblica;
-- conoscenza della normativa anticorruzione e della trasparenza amministrativa;
+- conoscenza ed esperienza delle metodologie previste dall’ordinamento per l’acquisizione di beni e servizi
+- approfondita conoscenza del quadro regolatorio nazionale e comunitario in materia di appalti delle pubbliche amministrazioni, della giurisprudenza civile, amministrativa e contabile e degli orientamenti delle Autorità indipendenti competenti in materia
+- conoscenza dell’organizzazione e del funzionamento delle pubbliche amministrazioni e della normativa in materia di contabilità pubblica
+- conoscenza della normativa anticorruzione e della trasparenza amministrativa
 - conoscenza dell’utilizzo del Sistema di contabilità generale dello Stato (Sicoge)
 
 ### Formazione
