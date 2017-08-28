@@ -11,9 +11,9 @@ parent_ref: join-us
 ---
 
 ### Descrizione e responsabilità
-Il Team per la Trasformazione Digitale  è alla ricerca di 2 Technical Program Manager.
+Il Team per la Trasformazione Digitale  è alla ricerca di un Technical Program Manager.
 
-Le figure ricercate supporteranno la gestione e il coordinamento dello sviluppo delle piattaforme digitali coordinate dal Team.
+La figura ricercata supporteranno la gestione e il coordinamento dello sviluppo delle piattaforme digitali coordinate dal Team.
 
 Siamo alla ricerca di talenti con esperienza nel coordinamento di team per l’ideazione, la realizzazione e la fornitura di piattaforme digitali complesse e una solida preparazione tecnica e scientifica.
 
