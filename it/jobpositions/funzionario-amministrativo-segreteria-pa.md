@@ -1,5 +1,5 @@
 ---
-title: Funzionario Amministrativo di supporto alla segreteria (di ruolo nella pubblica amministrazione centrale o locale)
+title: Funzionario Amministrativo di supporto alla Segreteria (di ruolo nella pubblica amministrazione centrale o locale)
 lang: it
 permalink: /it/jobpositions/funzionario-amministrativo-segreteria-pa.htm
 jazz_url: https://teamdigitale.applytojob.com/apply/Crqo7v/Assistente-Amministrativo-E-Di-Segreteria
