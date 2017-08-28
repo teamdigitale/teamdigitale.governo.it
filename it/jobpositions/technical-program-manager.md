@@ -11,9 +11,9 @@ parent_ref: join-us
 ---
 
 ### Descrizione e responsabilità
-Il Team per la Trasformazione Digitale  è alla ricerca di un Technical Program Manager.
+Il Team per la Trasformazione Digitale è alla ricerca di un Technical Program Manager.
 
-La figura ricercata supporteranno la gestione e il coordinamento dello sviluppo delle piattaforme digitali coordinate dal Team.
+La figura ricercata supporterà la gestione e il coordinamento dello sviluppo delle piattaforme digitali coordinate dal Team.
 
 Siamo alla ricerca di talenti con esperienza nel coordinamento di team per l’ideazione, la realizzazione e la fornitura di piattaforme digitali complesse e una solida preparazione tecnica e scientifica.
 
@@ -25,7 +25,7 @@ Siamo alla ricerca di talenti con esperienza nel coordinamento di team per l’i
 - Esperienza nella gestione e nel coordinamento di diverse fasi di sviluppo di applicazioni server-side - architettura, design, sviluppo, realizzazione, fornitura, monitoraggio e gestione operativa
 - Esperienza in architetture software e sviluppo di sistemi ad alta sicurezza, scalabili e robusti
 - Familiarità con l'approccio integrato DevOps
-- Padronanza degli strumenti di gestione di progetti sia tradizionali (Gantt) che agili come Scrum, Kanban, JIRA.
+- Padronanza degli strumenti di gestione di progetti sia tradizionali (Gantt) che agili come Scrum, Kanban, JIRA
 - Altamente motivato, incline al raggiungimento dei risultati, curioso e dalla mente aperta
 - Eccellenti doti comunicative, di presentazione, interpersonali e analitiche e capacità di comunicare chiaramente concetti complessi
 - Esperienza nel gestire squadre di sviluppatori software
