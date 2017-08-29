@@ -11,7 +11,7 @@ parent_ref: join-us
 ---
 
 ### Description & Responsibilities
-The Digital Transformation Team is looking for a Technical Program Manager. 
+The Digital Transformation Team is looking for a Technical Project Manager. 
 
 You will support the management and supervision of the development of those digital platforms under development by the Team. 
 
