@@ -10,7 +10,7 @@ parent_ref: join-us
 ---
 
 ### Descrizione e responsabilità
-Il Team per la Trasformazione Digitale è alla ricerca all’interno della pubblica amministrazione, anche in posizione di comando, distacco, fuori ruolo o altro analogo istituto previsto dai rispettivi ordinamenti, di un assistente amministrativo con grande esperienza a supporto delle attività della struttura.
+Il Team per la Trasformazione Digitale è alla ricerca all’interno della pubblica amministrazione, anche in posizione di comando, distacco, fuori ruolo o altro analogo istituto previsto dai rispettivi ordinamenti, di un assistente amministrativo a supporto delle attività della struttura.
 
 Siamo alla ricerca di candidati estremamente motivati, con grande esperienza all’interno di uffici amministrativi della pubblica amministrazione, che sappiano organizzare e gestire la calendarizzazione di attività complesse, estremamente attenti ai dettagli, capaci di gestire informazioni confidenziali cosiccome dimostrare abilità nel rispondere efficacemente a cambi di carichi di lavoro e a cambi di priorità. 
 
