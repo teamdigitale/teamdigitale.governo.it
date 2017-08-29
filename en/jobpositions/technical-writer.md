@@ -5,7 +5,6 @@ permalink: /en/jobpositions/technical-writer.htm
 jazz_url: https://teamdigitale.applytojob.com/apply/9RaqKa7BL4/Technical-Writer
 iframeheight: 700
 layout: job
-is_new: true
 ref: technical-writer
 parent_ref: join-us
 ---

@@ -5,7 +5,6 @@ permalink: /en/jobpositions/machine-learning-data-science.htm
 jazz_url: https://teamdigitale.applytojob.com/apply/oHQC5VFz1I/Machine-Learning-Data-Scientist
 iframeheight: 700
 layout: job
-is_new: true
 ref: esperto-machine-learning-data-scientist
 parent_ref: join-us
 ---
