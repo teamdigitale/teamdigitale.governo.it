@@ -5,7 +5,6 @@ permalink: /it/jobpositions/cloud-datacenter.htm
 jazz_url: https://teamdigitale.applytojob.com/apply/1NroAwJ06t/Cloud-And-Data-Center
 iframeheight: 700
 layout: job
-is_new: true
 ref: esperto-cloud-datacenter
 parent_ref: join-us
 ---

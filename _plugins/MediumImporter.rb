@@ -17,17 +17,29 @@ class MediumImporter < Jekyll::Generator
 
     feed_url = Jekyll.configuration({})['medium_archive_url']
     puts "[*] Fetching Medium feed from: " + feed_url
+    # ENGLISH version
+    feed_url_eng = Jekyll.configuration({})['medium_archive_url_eng']
+    puts "[*] Fetching Medium feed from: " + feed_url_eng
 
     feed_res = RestClient.get feed_url, {:accept => :json}
+    feed_res_eng = RestClient.get feed_url_eng, {:accept => :json}
 
     # removes anti json-hijacking prefix
     feed_json_str = "{" + feed_res.to_str.partition("{").last
+    feed_json_str_eng = "{" + feed_res_eng.to_str.partition("{").last
 
     # parse json
     feed_json = JSON.parse(feed_json_str)
+    feed_json_eng = JSON.parse(feed_json_str_eng)
 
     posts = feed_json['payload']['references']['Post'].values
-    puts "Total posts fetched: " + posts.size.to_s
+    posts_eng = feed_json_eng['payload']['references']['Post'].values
+
+    puts "Total italian posts fetched: " + posts.size.to_s
+    puts "Total english posts fetched: " + posts_eng.size.to_s
+
+    # Let's merge ita and eng posts
+    posts.push(*posts_eng)
 
     posts.size > 0 or die("No posts fetched")
 
