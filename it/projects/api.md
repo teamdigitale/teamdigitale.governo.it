@@ -15,12 +15,11 @@ sitemap: false
 
 ### In breve
 
-I sistemi informatici della Pubblica Amministrazione devono essere connessi tra loro e parlare la stessa lingua, rendendo disponibile l’informazione immediatamente dove serve. Tutte le applicazioni dovranno esporre interfacce comprensibili alle macchine (le famose API - Application Programming Interface) e lavorare in maniera integrata, collaborativa e sicura, facilitando il riuso delle applicazioni esistenti per costruire nuove soluzioni più potenti e innovative.  
-
-Il vecchio modello di Cooperazione Applicativa SPCoop, basato sulle Porte di Dominio, non è più efficace e sarà superato da un nuovo modello aperto, che avrà anche l'obiettivo di semplificare le procedure di convenzione tra gli enti e l'interazione con il Garante della Privacy.
-
 Questo progetto rappresenta l'esecuzione del [Capitolo 5 Modello di Interoperabilità](https://pianotriennale-ict.readthedocs.io/it/latest/doc/05_modello-di-interoperabilita.html) del [Piano Triennale](https://pianotriennale-ict.italia.it/)
 
+I sistemi informatici della Pubblica Amministrazione devono essere connessi tra loro e parlare la stessa lingua, rendendo disponibile l’informazione immediatamente dove serve. Tutte le applicazioni dovranno esporre interfacce comprensibili alle macchine (dette API - [Application Programming Interface](https://it.wikipedia.org/wiki/Application_programming_interface)) e lavorare in maniera integrata, collaborativa e sicura, facilitando il riuso delle applicazioni esistenti per costruire nuove soluzioni più potenti e innovative.  
+
+Il vecchio modello di [Cooperazione Applicativa SPCoop](http://www.agid.gov.it/agenda-digitale/infrastrutture-architetture/sistema-pubblico-connettivita/cooperazione-applicativa), basato sulle [Porte di Dominio](http://www.agid.gov.it/sites/default/files/documentazione/spcoop-portadominio_v1.1_0.pdf), non è più efficace e [sarà superato](http://lg-transizione-interoperabilita.readthedocs.io/) da un nuovo modello aperto, che avrà anche l'obiettivo di semplificare le procedure di convenzione tra gli enti e l'interazione con il Garante della Privacy.
 
 ### Il ruolo del Team
 
