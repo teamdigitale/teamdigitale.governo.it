@@ -17,7 +17,7 @@ Nel 2000, insieme ad altri compagni d’avventura, ho fondato All Business Solut
 
 L’azienda è cresciuta molto in Italia e si è anche distinta per alcuni progetti all’estero. Per questo motivo è stata acquisita nel 2010 da Verifone, multinazionale statunitense, primo fornitore mondiale di soluzioni di pagamento su terminali POS. Sono rimasto per tre anni nel gruppo Verifone come Direttore Generale di ABS e come responsabile dei servizi transazionali di Verifone Italia. Questo periodo è stato molto avvincente e sfidante e l’azienda ha raggiunto un livello di transazioni superiore ai 200 milioni annui.
 
-Nel 2013 ho deciso di cambiare e iniziare una nuova avventura. Con il mio amico e socio Imanuel Baharier abbiamo fondato Sparkling18 che oggi si occupa di soluzioni di pagamento digitale e *wallet*. In seguito all’incarico all’interno del Team per la Trasformazione Digitale, ho avviato l’iter per le dimissioni da Amministratore Delegato.
+Nel 2013 ho deciso di cambiare e iniziare una nuova avventura. Con il mio amico e socio Imanuel Baharier abbiamo fondato Sparkling18 che oggi si occupa di soluzioni di pagamento digitale e *wallet*. In seguito all’incarico all’interno del Team per la Trasformazione Digitale, ho rassegnato le dimissioni dalla carica di Amministratore Delegato.
 
 Sono molto appassionato di tecnologie e di pagamenti in generale, ma anche interessato a sviluppare i temi legati ai *Big Data*, alla *Predictive Analysis*  e al *Machine Learning*.
 

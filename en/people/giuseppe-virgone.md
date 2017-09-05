@@ -17,7 +17,7 @@ In 2000, with other adventuring companions, I founded All Business Solutions (AB
 
 For this reason it was acquired in 2010 by Verifone US company, the number one supplier of POS terminals and payment solutions. I stayed there for three years as General Manager of ABS in Verifone group and as head of transactional services of Verifone Italia. This time was very exciting and challenging, and the company has reached the higher level of managed transactions (around 200 mln for year).
 
-In 2013 I decided to change and start a new startup. With my friend and partner Imanuel Baharier we founded Sparkling18 that provides digital wallet and payment solutions and is a highly innovative company in the market. Following the assignment within the Digital Team I am proceeding with the process for the resignation as CEO.
+In 2013 I decided to change and start a new startup. With my friend and partner Imanuel Baharier we founded Sparkling18 that provides digital wallet and payment solutions and is a highly innovative company in the market. Following the assignment within the Digital Team I have resigned as CEO.
 
 I love the technologies and the payment solutions in general. Right now I'm also very interested in developing the issues related to Big Data, the Predictive Analytics and Machine Learning.
 
