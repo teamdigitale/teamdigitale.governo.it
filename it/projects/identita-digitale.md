@@ -1,5 +1,5 @@
----
-title: Identità digitale
+﻿---
+title: Sistema Pubblico di Identità Digitale (SPID)
 lang: it
 permalink: /it/projects/identita-digitale.htm
 layout: project
