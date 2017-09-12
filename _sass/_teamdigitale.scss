@@ -364,3 +364,40 @@ body.layout-project {
 #sidebar {
 	top: 0 !important;
 }
+
+/* PRINT TRICKS AND STYLES 
+-------------------------- */
+@media print {
+	.hidden-onprint {
+		display: none !important;
+	}
+	.visible-onprint {
+		display: block !important;
+	}
+	.jobaccordion_col2 {
+		width: 100% !important;
+
+		& > div {
+			padding: 8px;
+		}
+	}
+	.jobpositions a {
+		text-decoration: none !important;
+		border: none !important;
+	}
+
+	#page_top, .scrollto_top {
+			display: none !important;
+		}
+	.nav-banner {
+		position: relative !important;
+		color: #000 !important;
+
+		.slimheader__list {
+			display: none;
+		}
+		a {
+			color: #000 !important;
+		}
+	}
+}
