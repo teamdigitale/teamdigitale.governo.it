@@ -1,5 +1,5 @@
 ---
-title: Pagamenti digitali
+title: Pagamenti digitali PagoPA
 lang: it
 permalink: /it/projects/pagamenti-digitali.htm
 layout: project
