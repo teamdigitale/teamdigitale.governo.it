@@ -25,6 +25,8 @@ SPID è un servizio ideato e progettato dall'Agenzia per l'Italia Digitale, e il
 Nel blog troverete la nostra visione del progetto e il ruolo che ricoprirà nel Sistema Operativo del Paese.
 
 
+### Dashboard
+
 {% include medium_project.html %}
 
 {% include twitter_timeline.html %}
