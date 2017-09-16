@@ -8,9 +8,6 @@ menu_position: 4
 ---
 # Contatti
 
-Testo introduttivo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi diam sem, vulputate sed quam non, commodo condimentum risus. Proin aliquam, nisl ac sagittis imperdiet, quam orci dictum velit, ut efficitur lorem urna sit amet libero. Fusce nec luctus mi. Curabitur ut consequat eros. Sed viverra ex elit, non egestas dui consequat nec. Nam ultricies condimentum urna at ornare. 
-
-
 ## Social media
 TeamDigitale è su [Twitter](https://twitter.com/teamdigitaleIT), [Medium](https://medium.com/team-per-la-trasformazione-digitale) e [Linkedin](https://www.linkedin.com/company/15194879/).
 
