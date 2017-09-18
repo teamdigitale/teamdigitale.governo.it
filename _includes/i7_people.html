@@ -1,0 +1,59 @@
+{% assign same_lang_pages = site.pages | where: "lang", page.lang %}
+{% assign people_pages = same_lang_pages | where: "layout", "i7person" %}
+{% assign people_grouped = people_pages | group_by: "citizenship" %}
+
+
+{% for group in people_grouped %}
+
+    <h3>{{group.name}} innovators</h3>
+    {% assign people_sorted = group.items | where_exp:"item","item.focal != true" | sort_by_surname: "title"  %}
+    {% assign people_focal = group.items | where_exp:"item","item.focal == true" | sort_by_surname: "title"  %}
+
+    {% for one_page in people_focal %}
+        <div class="row" style="background-color: grey" >
+        <div class="col-xs-2">
+            <a href="{{ one_page.url }}">
+                <img class="img-circle img-responsive" src="/images/i7/{{ one_page.ref }}.jpg" alt="{{ one_page.title }}">
+            </a>
+        </div>
+        <div class="col-xs-10">
+            <h3 class="team-item-title">
+                <a href="{{ one_page.url }}">{{ one_page.title }}</a>
+                &nbsp;
+                {% if one_page.is_new %}
+                  <span style="font-size:10px;">New</span>
+                {% endif %}
+                {% if one_page.is_ex %}
+                  <span style="font-size:10px;">Ex</span>
+                {% endif %}
+            </h3>
+            <p class="team-item-subtitle"><b>{{ one_page.role }}</b></p>
+        </div>
+    </div>
+    {% endfor %}
+
+    {% for one_page in people_sorted %}
+    <div class="row" style="margin-bottom:15px;">
+        <div class="col-xs-2">
+            <a href="{{ one_page.url }}">
+                <img class="img-circle img-responsive" src="/images/i7/{{ one_page.ref }}.jpg" alt="{{ one_page.title }}">
+            </a>
+        </div>
+        <div class="col-xs-10">
+            <h3 class="team-item-title">
+                <a href="{{ one_page.url }}">{{ one_page.title }}</a>
+                &nbsp;
+                {% if one_page.is_new %}
+                  <span style="font-size:10px;">New</span>
+                {% endif %}
+                {% if one_page.is_ex %}
+                  <span style="font-size:10px;">Ex</span>
+                {% endif %}
+            </h3>
+            <p class="team-item-subtitle"><b>{{ one_page.role }}</b></p>
+        </div>
+    </div>
+    {% endfor %}
+    <hr>
+
+{% endfor %}
