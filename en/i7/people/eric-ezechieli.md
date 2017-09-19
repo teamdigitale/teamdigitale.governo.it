@@ -4,7 +4,7 @@ lang: en
 permalink: /en/i7/people/eric-ezechieli.htm
 layout: i7person
 role: Co-founder at Nativa
-citizenship: Italian
+country: Italy
 twitter_user: ericeze
 linkedin_url: http://www.ipresslive.it/Event/Sp/linkedin.com/in/ericezechieli
 ref: i7-ezechieli

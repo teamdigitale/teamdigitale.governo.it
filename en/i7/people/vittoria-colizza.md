@@ -4,7 +4,7 @@ lang: en
 permalink: /en/i7/people/vittoria-colizza.htm
 layout: i7person
 role: Senior Researcher EPIcx lab PI
-citizenship: Italian
+country: Italy
 twitter_user: vcolizza
 linkedin_url:
 ref: i7-colizza

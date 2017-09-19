@@ -4,7 +4,7 @@ lang: en
 permalink: /en/i7/people/thomas-ermacora.htm
 layout: i7person
 role: Urbanist, Founder & Director at Machines Room
-citizenship: Italian
+country: Italy
 twitter_user: termacora
 linkedin_url: https://www.linkedin.com/in/termacora
 ref: i7-ermacora
