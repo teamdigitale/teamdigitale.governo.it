@@ -11,7 +11,6 @@ twitter_tag: pagopa
 medium_tag: pagopa
 forum_category:
 forum_limit: 3
-sitemap: false
 timeline:
   - period: Gennaio 2017
     title: Fase di inizio del progetto

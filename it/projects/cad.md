@@ -10,7 +10,6 @@ toc: true
 medium_tag: pubblica-amministrazione
 forum_category:
 forum_limit: 3
-sitemap: false
 ---
 
 ### In breve

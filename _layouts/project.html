@@ -8,12 +8,18 @@
 		{% assign people_pages = same_lang_pages | where: "ref", ppage %}
 
 		{% for person in people_pages %}
+			{% assign fixedperiod = page.people_fixed_period | where: "ref", person.ref | first %}
 			<article class="col-sm-{{coldim[people_pages.size]}} project__people__person">
 				<a href="{{ person.url }}">
 	                <img class="img-circle img-responsive" src="/images/team/{{ person.ref }}.jpg" alt="{{ person.title }}">
 	            </a>
 				<h1 class="h4">{{person.title}}</h1>
-				<h2 class="h5">{{person.role}}</h2>
+				<h2 class="h5">{{person.role}}
+					{% if fixedperiod != nil %}
+					<small>| {{fixedperiod.period}}</small>
+					{% endif %}
+				</h2>
+				
 			</article>
 		{% endfor %}
 	{% endfor %}

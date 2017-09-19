@@ -9,7 +9,6 @@ people: [giovanni-bajo]
 toc: true
 twitter_user: developersITA
 medium_tag: developer
-sitemap: false
 timeline:
   - period: Marzo 2017
     title: Apertura di Developers Italia

@@ -11,7 +11,6 @@ twitter_tag: piano%20triennale
 medium_tag: trasformazione-digitale
 forum_category: piano-triennale
 forum_limit: 3
-sitemap: false
 ---
 
 ### In breve

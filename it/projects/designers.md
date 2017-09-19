@@ -11,7 +11,6 @@ twitter_user: DesignersITA
 medium_tag: design
 forum_category: design
 forum_limit: 3
-sitemap: false
 timeline:
   - period: Giugno 2017
     title: Designers Italia

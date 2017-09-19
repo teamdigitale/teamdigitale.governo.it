@@ -6,12 +6,14 @@ layout: project
 ref: anpr
 parent_ref: projects
 people: [carlo-contavalli, mirko-calvaresi, luca-bigliardi]
+people_fixed_period:
+  - ref: carlo-contavalli
+    period: '01/2017 - 07/2017'
 toc: true
 twitter_tag: anpr
 medium_tag: anpr
 forum_category: anpr
 forum_limit: 3
-sitemap: false
 ---
 
 ### In breve
