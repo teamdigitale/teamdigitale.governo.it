@@ -16,6 +16,9 @@
                 {% if one_page.is_new %}
                   <span style="font-size:10px;">New</span>
                 {% endif %}
+                {% if one_page.is_ex %}
+                  <span style="font-size:10px;">Ex</span>
+                {% endif %}
             </h3>
             <p class="team-item-subtitle"><b>{{ one_page.role }}</b></p>
         </div>
