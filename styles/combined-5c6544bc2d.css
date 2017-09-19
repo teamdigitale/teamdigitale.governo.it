@@ -695,14 +695,6 @@ td, th {
         text-decoration: underline;
     }
 
-        a[href]:after {
-            content: " (" attr(href) ")";
-        }
-
-    abbr[title]:after {
-        content: " (" attr(title) ")";
-    }
-
     a[href^="#"]:after, a[href^="javascript:"]:after {
         content: "";
     }
@@ -8712,11 +8704,6 @@ article table {
 
     img {
         max-width: 500px;
-    }
-
-    p a:after {
-        content: " (" attr(href) ")";
-        font-size: 80%;
     }
 
     p a {
