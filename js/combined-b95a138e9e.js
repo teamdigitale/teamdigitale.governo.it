@@ -4695,7 +4695,9 @@ var _self = "undefined" != typeof window ? window : "undefined" != typeof Worker
             })
         }), e(document).ready(function () {
             e(".row-offcanvas").click(function (t) {
-                e(this).is(".active") && e(this).removeClass("active")
+                if(e(this).is(".active")) {
+                    e('[data-toggle="offcanvas"]').click().focus()
+                }
             })
         }), e(document).keyup(function (t) {
             27 === t.which && e('[data-toggle="offcanvas"]').click().focus()
