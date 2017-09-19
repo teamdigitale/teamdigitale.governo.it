@@ -4,7 +4,7 @@ lang: en
 permalink: /en/i7/people/mark-walport.htm
 layout: i7person
 role: FRS FMedSci
-citizenship: UK
+country: UK
 twitter_user: uksciencechief
 linkedin_url:
 ref: i7-walport

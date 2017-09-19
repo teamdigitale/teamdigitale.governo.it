@@ -3,8 +3,9 @@ title: Piero Venturi
 lang: en
 permalink: /en/i7/people/piero-venturi.htm
 layout: i7person
+focal: EU Focal Point
 role: Deputy Head of Unit in the Directorate-General for Research and Innovation of the European Commission
-citizenship: EU
+country: EU
 twitter_user: 
 linkedin_url: https://be.linkedin.com/in/piero-venturi-12998111
 ref: i7-venturi
