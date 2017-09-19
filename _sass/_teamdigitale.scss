@@ -37,7 +37,7 @@
 			line-height: 19px;
 			display: inline-block;
 			padding: 0 6px;
-			
+
 			a {
 				color: #fff;
 				font-size: 16px ;
@@ -88,7 +88,7 @@
 	.navbar-top-link {
 		padding-bottom: 5px !important;
 		a {
-			
+
 			&.active {
 			background-color: #1f77d2 !important;
 			border-bottom: none;
@@ -97,7 +97,7 @@
 		}
 	}
 	.navbar-top-link .projects {
-		
+
 		& > a:after {
 			content: '\f078';
 			display: inline;
@@ -105,7 +105,7 @@
 			font-family: 'FontAwesome';
 			margin-left: 4px;
 			font-size: 16px;
-		} 
+		}
 		@media screen and (min-width: 768px) {
 			position: relative;
 		}
@@ -124,7 +124,7 @@
 		border-style: none !important;
 
 		&__row {
-			
+
 			position: relative;
 		}
 		&__item {
@@ -139,12 +139,12 @@
 				display: block;
 				white-space: normal;
 				cursor: pointer;
-				color: #06c;		
+				color: #06c;
 			}
 			a:hover {
 				background-color: transparent;
 			}
-			
+
 		}
 		&__column {
 			& > div:last-child {
@@ -191,8 +191,8 @@
 		text-align: center !important;
 		display: block !important;
 		padding: 10px;
-		
-		
+
+
 	}
 	a {
 		color: #06c !important;
@@ -346,7 +346,7 @@ blockquote {
 	padding: 0;
 	margin-top: 10px;
 }
-body.layout-project { 
+body.layout-project {
 	#main {
 		@media screen and (min-width: 992px) {
 		    max-width: none !important;
@@ -365,7 +365,7 @@ body.layout-project {
 	top: 0 !important;
 }
 
-/* PRINT TRICKS AND STYLES 
+/* PRINT TRICKS AND STYLES
 -------------------------- */
 @media print {
 	.hidden-onprint {
@@ -401,3 +401,6 @@ body.layout-project {
 		}
 	}
 }
+
+
+.navigation-hightlights a{ background: #00C5CA; font-size: .9em; white-space: nowrap; font-weight: bold;}
