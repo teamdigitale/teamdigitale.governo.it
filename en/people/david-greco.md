@@ -5,7 +5,6 @@ permalink: /en/people/david-greco.html
 layout: people
 role: Big Data Architect
 is_new: false
-is_ex: true
 twitter_user: davidgreco
 medium_user: dgreco
 linkedin_url: https://it.linkedin.com/in/davgreco
