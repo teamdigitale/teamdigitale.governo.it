@@ -5,7 +5,6 @@ permalink: /en/i7/people/piero-venturi.htm
 layout: i7person
 role: Deputy Head of Unit in the Directorate-General for Research and Innovation of the European Commission
 citizenship: EU
-twitter_user: 
 linkedin_url: https://be.linkedin.com/in/piero-venturi-12998111
 ref: i7-venturi
 parent_ref: i7
