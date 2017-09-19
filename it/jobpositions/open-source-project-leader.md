@@ -7,6 +7,7 @@ iframeheight: 700
 layout: job
 ref: open-source-project-leader
 parent_ref: join-us
+archived: true
 ---
 
 ### Descrizione e responsabilità

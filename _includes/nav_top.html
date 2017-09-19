@@ -9,7 +9,8 @@ tutte le pagine del sito che:
 {% assign proj_pages = same_lang_pages | where: "layout", "project" %}
 {% assign sorted_proj_pages = proj_pages | sort_by_title: "title" %}
 {% assign projbytwo = sorted_proj_pages.size | divided_by:2 %}
-<div class="text-center navbar-top-link positionRelative" style=" margin-top:10px; padding-top:5px;">
+<div class="container text-center navbar-top-link positionRelative" style=" margin-top:10px; padding-top:5px;">
+  <div class="col-md-offset-1 col-md-7">
   {% for menu_page in sorted_pages %}
     {% if menu_page.parent_ref == nil and menu_page.menu_position != nil %}
         {% if menu_page.ref == page.ref or menu_page.ref == page.parent_ref %}
@@ -18,14 +19,12 @@ tutte le pagine del sito che:
           {% assign isActive = false %}
         {% endif %}
         <div class="navbar-top-link__item {{ menu_page.ref }}">
-          <a href="{{ menu_page.url }}" 
-          {% if isActive %}class="active"{% endif %}  
+          <a href="{{ menu_page.url }}"
+          {% if isActive %}class="active"{% endif %}
           {% if menu_page.ref=='projects' %}
             id="dropdownMenu" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
-          {% endif %}
-          >{{ menu_page.title }}</a>
+          {% endif %} >{{ menu_page.title }}</a>
           {% if menu_page.ref=='projects' %}
-            
             <div class="navbar-projectslist row dropdown-menu" aria-labelledby="dropdownMenu">
               <div class="col-md-6 navbar-projectslist__column">
               {% for proj in  sorted_proj_pages limit:projbytwo %}
@@ -43,4 +42,8 @@ tutte le pagine del sito che:
         &nbsp;
     {% endif %}
   {% endfor %}
+  </div>
+  <div class="col-md-4 navigation-hightlights navbar-top-link__item" style="text-align: right">
+      <a href="/en/i7.html" >G7 / I-7</a>
+      <a href="https://hack.developers.italia.it/" target="_blank">Hack Developers</a>
 </div>
