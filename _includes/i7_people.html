@@ -1,6 +1,6 @@
 {% assign same_lang_pages = site.pages | where: "lang", page.lang %}
 {% assign people_pages = same_lang_pages | where: "layout", "i7person" %}
-{% assign people_grouped = people_pages | group_by: "citizenship" %}
+{% assign people_grouped = people_pages | group_by: "country" %}
 
 
 {% for group in people_grouped %}
