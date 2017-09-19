@@ -5,7 +5,6 @@ permalink: /it/people/37-profile.htm
 layout: people
 role: Software Architect
 is_new: false
-is_ex: true
 twitter_user: CarloContavalli
 medium_user: ccontavalli
 linkedin_url:

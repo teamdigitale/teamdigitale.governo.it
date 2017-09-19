@@ -1,4 +1,4 @@
----
+﻿---
 title: Sistema Pubblico di Identità Digitale (SPID)
 lang: it
 permalink: /it/projects/identita-digitale.htm
@@ -24,8 +24,6 @@ SPID, il Sistema Pubblico di Identità Digitale, è la soluzione che ti permette
 SPID è un servizio ideato e progettato dall'Agenzia per l'Italia Digitale, e il Team Digitale ne ha assunto il coordinamento con lo scopo di favorirne l'evoluzione e il consolodamento come sistema infrastrutturale chiave per il Paese. Il Team si occuperà di gestire l'apertura ai Gestori di Servizio privati, l'integrazione delle Attribute Authority e il miglioramento dell'usabilità, introducendo metodologie di lavoro e strumenti di misurazione delle performance.
 Nel blog troverete la nostra visione del progetto e il ruolo che ricoprirà nel Sistema Operativo del Paese.
 
-
-### Dashboard
 
 {% include medium_project.html %}
 
