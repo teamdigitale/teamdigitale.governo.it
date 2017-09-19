@@ -10,6 +10,15 @@ index:
   en: en/index.html
 url: "https://teamdigitale.governo.it"
 
+highlighter: none
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter_opts:
+    disable: true
+
 #
 # Social links
 #

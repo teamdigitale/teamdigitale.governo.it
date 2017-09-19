@@ -1,53 +1,38 @@
 {% assign same_lang_pages = site.pages | where: "lang", page.lang %}
 {% assign people_pages = same_lang_pages | where: "layout", "i7person" %}
-{% assign people_grouped = people_pages | group_by: "country" %}
+{% assign people_not_italian = people_pages | where_exp: "item", "item.country != 'Italy'" %}
+{% assign people_italian = people_pages | where_exp: "item", "item.country == 'Italy'" %}
+{% assign people_grouped = people_italian | concat: people_not_italian  | group_by: "country" %}
 
-
+<div class="i7people">
+<h2>Innovators & Focal Point</h2>
+<p>Below the focal point and I-7 Innovators for each country and the EU.</p>
 {% for group in people_grouped %}
 
-    <h3>{{group.name}}</h3>
+    <h3 class="i7people__country">{{group.name}}</h3>
     {% assign people_sorted = group.items | where_exp:"item","item.focal == nil" | sort_by_surname: "title"  %}
     {% assign people_focal = group.items | where_exp:"item","item.focal != nil " | sort_by_surname: "title"  %}
-
-    {% for one_page in people_focal %}
-        <div class="row" style="background-color: grey" >
-        <div class="col-xs-2">
+    {% assign people = people_sorted | concat: people_focal %}
+    <div class="row">
+    {% for one_page in people %}
+    <div class="col-xs-12 col-sm-6 i7people__persongrid">
+        <div class="row i7people__rowdetail">
+        <div class="col-xs-2 col-sm-3 nopadding">
             <a href="{{ one_page.url }}">
                 <img class="img-circle img-responsive" src="/images/i7/{{ one_page.ref }}.jpg" alt="{{ one_page.title }}">
             </a>
         </div>
-        <div class="col-xs-10">
+        <div class="col-xs-10 col-sm-9">
             <h3 class="team-item-title">
                 <a href="{{ one_page.url }}">{{ one_page.title }}</a>
             </h3>
-            <i>{{ one_page.focal }}</i>
-            <p class="team-item-subtitle"><b>{{ one_page.role }}</b></p>
+            {% if one_page.focal != nil %}<p class="i7people__focal">{{one_page.focal}}</p>{% endif %}
+            <p class="team-item-subtitle">{{ one_page.role }}</p>
+        </div>
         </div>
     </div>
     {% endfor %}
-
-    {% for one_page in people_sorted %}
-    <div class="row" style="margin-bottom:15px;">
-        <div class="col-xs-2">
-            <a href="{{ one_page.url }}">
-                <img class="img-circle img-responsive" src="/images/i7/{{ one_page.ref }}.jpg" alt="{{ one_page.title }}">
-            </a>
-        </div>
-        <div class="col-xs-10">
-            <h3 class="team-item-title">
-                <a href="{{ one_page.url }}">{{ one_page.title }}</a>
-                &nbsp;
-                {% if one_page.is_new %}
-                  <span style="font-size:10px;">New</span>
-                {% endif %}
-                {% if one_page.is_ex %}
-                  <span style="font-size:10px;">Ex</span>
-                {% endif %}
-            </h3>
-            <p class="team-item-subtitle"><b>{{ one_page.role }}</b></p>
-        </div>
     </div>
-    {% endfor %}
-    <hr>
 
 {% endfor %}
+</div>
