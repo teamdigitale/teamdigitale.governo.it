@@ -3,7 +3,7 @@ title: Pia Erkinheimo
 lang: en
 permalink: /en/i7/people/pia-erkinheimo.htm
 layout: i7person
-role: Partner and director at Fingertip
+role: Partner and Director at Fingertip
 country: EU
 twitter_user: PiaErkinheimo
 linkedin_url: http://www.ipresslive.it/Event/Sp/linkedin.com/in/piaerkinheimo
