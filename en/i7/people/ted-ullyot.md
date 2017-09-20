@@ -4,7 +4,7 @@ lang: en
 permalink: /en/i7/people/ted-ullyot.htm
 layout: i7person
 role: Partner at the venture capital firm Andreessen Horowitz
-country: US
+country: USA
 twitter_user: tullyot
 linkedin_url: https://www.linkedin.com/in/tedullyot
 wiki_page_url: https://en.wikipedia.org/wiki/Ted_Ullyot

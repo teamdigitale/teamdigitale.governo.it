@@ -4,7 +4,7 @@ lang: en
 permalink: /en/i7/people/kirk-borne.htm
 layout: i7person
 role: Principal Data Scientist and Executive Advisor at Booz Allen Hamilton
-country: US
+country: USA
 twitter_user: KirkDBorne
 linkedin_url: https://www.linkedin.com/in/kirkdborne
 personal_page_url: http://kirkborne.net/
