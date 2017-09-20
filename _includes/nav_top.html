@@ -10,7 +10,7 @@ tutte le pagine del sito che:
 {% assign sorted_proj_pages = proj_pages | sort_by_title: "title" %}
 {% assign projbytwo = sorted_proj_pages.size | divided_by:2 %}
 <div class="container text-center navbar-top-link positionRelative" style=" margin-top:10px; padding-top:5px;">
-  <div class="col-md-offset-1 col-md-7">
+  <div class="col-md-9">
   {% for menu_page in sorted_pages %}
     {% if menu_page.parent_ref == nil and menu_page.menu_position != nil %}
         {% if menu_page.ref == page.ref or menu_page.ref == page.parent_ref %}
@@ -43,7 +43,7 @@ tutte le pagine del sito che:
     {% endif %}
   {% endfor %}
   </div>
-  <div class="col-md-4 navigation-hightlights navbar-top-link__item" style="text-align: right">
+  <div class="col-md-3 navigation-hightlights navbar-top-link__item text-right">
       <a href="/en/i7.html" >G7 / I-7</a>
       <a href="https://hack.developers.italia.it/" target="_blank">Hack Developers</a>
 </div>
