@@ -1,5 +1,5 @@
 ---
-title: Hugues De Franclieu
+title: Hugues de Franclieu
 lang: en
 permalink: /en/i7/people/hugues-de-franclieu.htm
 layout: i7person

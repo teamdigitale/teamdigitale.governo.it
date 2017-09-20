@@ -3,9 +3,9 @@ title: Michael Kratsios
 lang: en
 permalink: /en/i7/people/michael-kratsios.htm
 layout: i7person
-role: Deputy Assistant to the President and Deputy U.S. Chief Technology Officer
+role: Deputy Assistant to the President of the USA and Deputy Chief Technology Officer
 country: USA
-focal: US Focal Point
+focal: USA Focal Point
 twitter_user: mkratsios
 linkedin_url: https://www.linkedin.com/in/michaelkratsios
 personal_page_url: http://michaelkratsios.com/
