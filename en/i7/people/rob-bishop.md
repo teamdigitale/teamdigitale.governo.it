@@ -3,7 +3,7 @@ title: Rob Bishop
 lang: en
 permalink: /en/i7/people/rob-bishop.htm
 layout: i7person
-role: Co-founder & CEO at Magic Pony Technology
+role: Co-founder & CEO, Magic Pony Technology
 country: UK
 twitter_user: Rob_Bishop
 linkedin_url: https://www.linkedin.com/in/robertdavidbishop

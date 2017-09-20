@@ -5,7 +5,7 @@ permalink: /en/i7/people/diego-piacentini.htm
 layout: i7person
 role: Italian Government Commissioner for the Digital Agenda
 country: Italy
-focal: Italian Focal Point
+focal: Italy Focal Point
 twitter_user: diegopia
 linkedin_url: https://it.linkedin.com/in/diego-piacentini
 ref: i7-piacentini

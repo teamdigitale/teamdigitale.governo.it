@@ -3,14 +3,14 @@ title: Gesa Miehe-Nordmeyer
 lang: en
 permalink: /en/i7/people/gesa-miehe-nordmeyer.htm
 layout: i7person
-role: Head of the G7/G20 Sherpa Team in the German Chancellery
+role: Head of the G7/G20 Sherpa Team at the German Chancellery
 country: Germany
-focal: German Focal Point
+focal: Germany Focal Point
 ref: i7-miehe-nordmeyer
 parent_ref: i7
 ---
 
-RESENT POSITION Head of the G7/G20 Sherpa Team in the German Chancellery
+RESENT POSITION Head of the G7/G20 Sherpa Team at the German Chancellery
 
 PREVIOUS POSITIONS Ministry for Economics and Technology, among others portfolio she worked in the field of of economic and structural policy and regional economic EU-policies, in particular EU cohesion and structural policy, and international cooperation.
 

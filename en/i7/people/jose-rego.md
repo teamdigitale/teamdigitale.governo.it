@@ -3,7 +3,7 @@ title: José Maria Rego
 lang: en
 permalink: /en/i7/people/jose-rego.htm
 layout: i7person
-role: Entrepreneur and Co-founder at Raize  
+role: Entrepreneur and Co-founder, Raize  
 country: EU
 twitter_user: josemariarego 
 linkedin_url: https://www.linkedin.com/in/josemariarego

@@ -3,7 +3,7 @@ title: Vittoria Colizza
 lang: en
 permalink: /en/i7/people/vittoria-colizza.htm
 layout: i7person
-role: Senior Researcher EPIcx lab PI
+role: Senior Researcher at INSERM (French National Institute of Health and Medical Research)
 country: Italy
 twitter_user: vcolizza
 linkedin_url:

@@ -5,7 +5,7 @@ permalink: /en/i7/people/yuko-harayama.htm
 layout: i7person
 role: Executive Member of Council for Science, Technology and Innovation, Cabinet Office.
 country: Japan
-focal: Japanese Focal Point
+focal: Japan Focal Point
 ref: i7-harayama
 parent_ref: i7
 ---

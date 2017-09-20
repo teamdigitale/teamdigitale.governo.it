@@ -3,7 +3,7 @@ title: Claudio Vandi
 lang: en
 permalink: /en/i7/people/claudio-vandi.htm
 layout: i7person
-role: Head of Corporate Innovation and Design Practice at NUMA
+role: Head of Corporate Innovation and Design Practice, NUMA
 country: France
 twitter_user: vandicla   
 linkedin_url: https://it.linkedin.com/in/vandicla

@@ -5,7 +5,7 @@ permalink: /en/i7/people/hugues-de-franclieu.htm
 layout: i7person
 role: Head of Trade Policy and Export Unit - Directorate-General for the Enterprise  
 country: France
-focal: French Focal Point
+focal: France Focal Point
 linkedin_url: https://fr.linkedin.com/in/hugues-de-franclieu-0149a42
 ref: i7-de-franclieu
 parent_ref: i7

@@ -5,7 +5,7 @@ permalink: /en/i7/people/mike-moffatt.htm
 layout: i7person
 role: Chief Innovation Fellow at Innovation, Science and Economic Development Canada (ISED) 
 country: Canada
-focal: Canadian Focal Point
+focal: Canada Focal Point
 twitter_user: MikePMoffatt
 linkedin_url: https://ca.linkedin.com/in/mikepmoffatt
 ref: i7-moffatt

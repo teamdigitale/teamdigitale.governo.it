@@ -3,7 +3,7 @@ title: Tucker Balch
 lang: en
 permalink: /en/i7/people/tucker-balch.htm
 layout: i7person
-role: Professor, Georgia Institute of Technology
+role: Professor at Georgia Institute of Technology
 country: USA
 twitter_user: tuckerbalch
 linkedin_url: https://www.linkedin.com/in/tuckerbalch 

@@ -3,7 +3,7 @@ title: Francine Bennett
 lang: en
 permalink: /en/i7/people/francine-bennett.htm
 layout: i7person
-role: CEO of Mastodon C
+role: CEO, Mastodon C
 country: UK
 twitter_user: fhr
 linkedin_url: https://www.linkedin.com/in/francine-bennett-a4a852

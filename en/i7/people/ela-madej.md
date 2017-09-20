@@ -3,7 +3,7 @@ title: Ela Madej
 lang: en
 permalink: /en/i7/people/ela-madej.htm
 layout: i7person
-role: Partner at Fifty Years 
+role: Partner, Fifty Years 
 country: EU
 twitter_user: elamadej
 linkedin_url: http://www.ipresslive.it/Event/Sp/linkedin.com/in/elamadej

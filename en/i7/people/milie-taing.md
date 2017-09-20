@@ -3,7 +3,7 @@ title: Milie Taing
 lang: en
 permalink: /en/i7/people/milie-taing.htm
 layout: i7person
-role: CEO and Founder at Lili.ai
+role: CEO and Founder, Lili.ai
 country: France
 linkedin_url: https://fr.linkedin.com/in/milietaingmba
 ref: i7-taing

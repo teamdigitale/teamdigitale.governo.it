@@ -3,7 +3,7 @@ title: Angela Tran Kingyens
 lang: en
 permalink: /en/i7/people/angela-tran-kingyens.htm
 layout: i7person
-role: Partner at Version One Ventures
+role: Partner, Version One Ventures
 country: Canada
 twitter_user: ATKingyens
 linkedin_url: https://www.linkedin.com/in/angela-tran-kingyens-38262131

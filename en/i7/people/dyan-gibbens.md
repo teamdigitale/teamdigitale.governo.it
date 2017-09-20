@@ -3,7 +3,7 @@ title: Dyan Gibbens
 lang: en
 permalink: /en/i7/people/dyan-gibbens.htm
 layout: i7person
-role: CEO & Founder at Trumbull Unmanned
+role: CEO & Founder, Trumbull Unmanned
 country: USA
 twitter_user: DyanGibbens
 linkedin_url: https://www.linkedin.com/in/dyan-gibbens-8b03051a

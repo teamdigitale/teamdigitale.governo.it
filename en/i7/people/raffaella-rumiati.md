@@ -3,7 +3,7 @@ title: Raffaella Rumiati
 lang: en
 permalink: /en/i7/people/raffaella-rumiati.htm
 layout: i7person
-role: Full Professor and Director of the iNSuLa Laboratory at SISSA (Scuola Internazionale Superiore di Studi Avanzati)  
+role: Professor and Director of the iNSuLa Laboratory at SISSA (Scuola Internazionale Superiore di Studi Avanzati)  
 country: Italy
 twitter_user: RafRumiati 
 linkedin_url: http://www.ipresslive.it/Event/Sp/linkedin.com/in/raffaella-ida-rumiati-6767931b

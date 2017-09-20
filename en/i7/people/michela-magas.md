@@ -3,7 +3,7 @@ title: Michela Magas
 lang: en
 permalink: /en/i7/people/michela-magas.htm
 layout: i7person
-role: Co-founder of Stromatolite Design Innovation Lab 
+role: Co-founder, Stromatolite Design Innovation Lab 
 country: EU
 twitter_user: elasticengine 
 linkedin_url: http://www.ipresslive.it/Event/Sp/linkedin.com/in/michelamagas

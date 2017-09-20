@@ -3,7 +3,7 @@ title: Kristina Tsvetanova
 lang: en
 permalink: /en/i7/people/kristina-tsvetanova.htm
 layout: i7person
-role: Co-founder and CEO of BLITAB Technology GmbH
+role: Co-founder and CEO, BLITAB Technology GmbH
 country: EU
 twitter_user: kristina_tsve  
 linkedin_url: https://www.linkedin.com/in/ktsvetanova

@@ -3,7 +3,7 @@ title: Jerome Pesenti
 lang: en
 permalink: /en/i7/people/jerome-pesenti.htm
 layout: i7person
-role: BenevolentAI - CEO Tech. Div. BenevolentTech 
+role: BenevolentAI - CEO technology division, BenevolentTech 
 country: UK
 linkedin_url: https://www.linkedin.com/in/jpesenti 
 ref: i7-pesenti

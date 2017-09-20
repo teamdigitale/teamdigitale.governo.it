@@ -3,7 +3,7 @@ title: Leslie L. Cheung
 lang: en
 permalink: /en/i7/people/leslie-cheung.htm
 layout: i7person
-role: Partnerships Development Director of Powered by Data
+role: Partnerships Development Director, Powered by Data
 country: Canada
 twitter_user: lesliePhD
 linkedin_url: https://www.linkedin.com/in/cheungleslie

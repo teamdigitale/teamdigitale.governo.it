@@ -3,7 +3,7 @@ title: Jan Michael Mrosik
 lang: en
 permalink: /en/i7/people/jan-michael-mrosik.htm
 layout: i7person
-role: CEO Digital Factory Division at Siemens AG
+role: CEO Digital Factory Division, Siemens AG
 country: Germany
 linkedin_url: https://de.linkedin.com/in/jan-mrosik-925ba977 
 ref: i7-mrosik

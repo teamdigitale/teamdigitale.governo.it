@@ -3,7 +3,7 @@ title: Antonio Krüger
 lang: en
 permalink: /en/i7/people/antonio-kruger.htm
 layout: i7person
-role: Full Professor for Computer Science at Saarland University
+role: Professor for Computer Science at Saarland University
 country: Germany
 linkedin_url: https://de.linkedin.com/in/antonio-kr%C3%BCger-3202b46 
 ref: i7-kruger

@@ -3,7 +3,7 @@ title: Ilse Treurnicht
 lang: en
 permalink: /en/i7/people/ilse-treurnicht.htm
 layout: i7person
-role: CEO of MaRS (marsdd.com)
+role: CEO, MaRS (marsdd.com)
 country: Canada
 twitter_user: IlseTreurnicht
 linkedin_url: https://www.linkedin.com/in/ilse-treurnicht-36a55

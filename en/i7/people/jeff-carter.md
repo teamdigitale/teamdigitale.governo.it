@@ -3,7 +3,7 @@ title: Jeff Carter
 lang: en
 permalink: /en/i7/people/jeff-carter.htm
 layout: i7person
-role: Partner at West Loop Ventures
+role: Partner, West Loop Ventures
 country: USA
 twitter_user: pointsnfigures 
 linkedin_url: https://www.linkedin.com/in/jeffreyrcarter

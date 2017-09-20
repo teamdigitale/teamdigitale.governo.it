@@ -379,7 +379,7 @@ body.layout-project {
 		text-transform: uppercase;
 		font-size: 13px;
 		line-height: 1.2;
-		margin: 6px 0;
+		margin: 2px 0;
 		font-weight: 600;
 	}
 	&__rowdetail {
@@ -426,6 +426,16 @@ body.layout-project {
 		font-weight: normal;
 	}
 }
+.i7 {
+	&__blockquote {
+		font-size: 2.4rem;
+		line-height: 1.55;
+		margin: 0 20px !important;
+		text-align:justify;
+	}
+	
+}
+
 
 /* PRINT TRICKS AND STYLES 
 -------------------------- */
