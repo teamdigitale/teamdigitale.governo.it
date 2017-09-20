@@ -129,66 +129,49 @@
     </aside>-->
 
   <footer id="footer" class="hidden-print" tabindex="0">
-
-
     <div class="container">
       <div class="row">
-        <div class="col-md-4 col-sm-12">
-          <div class="box_text box_text_footer">
-            <h4>{{ site.data.t.ItalianGovernment[page.lang] }}</h4>
-            <p>
-              Palazzo Chigi<br> Piazza Colonna 370<br> 00187 Roma - {{ site.data.t.Italy[page.lang] }}
-            </p>
+        <div class="col-md-3 col-sm-12">
+        <div class="footer__logoteam">
+          <div class="pull-left footer__logoteam__img">
+            <a href="https://teamdigitale.governo.it" class=""><img src="/images/loghi/dt-logo.svg" alt="TeamDigitale Logo"></a>
           </div>
-        </div>
-        <!-- /col-md-4 -->
-        <!-- /col-md-4 -->
-        <div class="col-md-4 col-sm-12">
-          <div class="box_text box_text_footer">
-            <h4>{{ site.data.t.EmailAddresses[page.lang] }}</h4>
-            <p> <a href="mailto:teamdigitale@governo.it">teamdigitale@governo.it</a></p>
-            <p><a href="http://presidenza.governo.it/AmministrazioneTrasparente/Organizzazione/TelefonoPostaElettronica/email.html">{{ site.data.t.emaillist[page.lang] }}</a></p>
-          </div>
-        </div>
-        <!-- /col-md-4 -->
-        <div class="col-md-4 col-sm-12">
-
-          <a href="https://teamdigitale.governo.it">
-
-            <table style="margin-top:63px;">
-              <tr>
-                <td style="vertical-align:central"><img class="navbar_banner__logo" src="/images/loghi/governo.svg" alt="Italian Government logo"></td>
-                <td style="vertical-align:central">
-
-                    <h2 style="color:white; margin:0 10px;line-height: 0.5; font-weight:normal;font-size:0.8em;">
-                                        {{ site.data.t.GovernmentCommissioner[page.lang] }}
-                                    </h2>
-                    <hr style="color:white; margin: 10px 0;" />
-                    <h2 style="color:white; margin:0 10px;line-height: 1; font-weight:normal;font-size:0.8em;">
-                                        {{ site.data.t.fortheDigitalAgenda[page.lang] }}
-                                    </h2>
-
-                </td>
-              </tr>
-            </table>
+          <div class="footer__logoteam__string">
+            <a href="https://teamdigitale.governo.it" class="">
+            {{ site.data.t.DigitalTransformationTeam[page.lang] }}
           </a>
-          <div class="clearfix" style="margin-top:2rem; padding-right: 7rem">
-            <a href="http://www.agid.gov.it/" target="_blank" class=""><img src="/assets/img/agid-logo-bb.svg"alt="Agid Logo"></a>
           </div>
-
-
+        </div><!--/footer__logod-->
+       
         </div>
-      </div>
-
-      <div class="row">
-        <ul class="col-xs-12 footer__links clearfix">
-          <li><a href="http://www.governo.it/privacy-policy" title="{{ site.data.t.PrivacyPolicy[page.lang] }}" target="_blank">{{ site.data.t.PrivacyPolicy[page.lang] }}</a></li>
-          <li><a href="http://www.governo.it/note-legali" title="{{ site.data.t.LegalNotes[page.lang] }}" target="_blank">{{ site.data.t.LegalNotes[page.lang] }}</a></li>
-          <li></li>
-        </ul>
-      </div>
-
-
+        <div class="col-md-3 col-sm-12">
+          <div class="footer__logogov">
+          <div class="pull-left footer__logogov__img">
+            <a href="http://www.governo.it" target="_blank" class=""><img src="/images/loghi/governo.svg" alt="Italian Government"></a>
+          </div>
+          <div class="footer__logogov__string">
+            <a href="http://www.governo.it" target="_blank"  class="">
+            {{ site.data.t.ItalianGovernment[page.lang] }}
+          </a>
+          </div>
+        </div><!--/footer__logogov-->
+        </div>
+        <div class="col-md-3 col-sm-12">
+          <div class="footer__logogov">
+          <div class="pull-left footer__logogov__img">
+            <a href="http://www.funzionepubblica.gov.it/" target="_blank" class=""><img src="/images/loghi/governo.svg" alt="Italian Government"></a>
+          </div>
+          <div class="footer__logogov__string">
+            <a href="http://www.funzionepubblica.gov.it/" target="_blank"  class="">
+            {{ site.data.t.PublicDepartment[page.lang] }}
+          </a>
+          </div>
+        </div><!--/footer__logogov-->
+        </div>
+        <div class="col-md-3 col-sm-12">
+          <a href="http://www.agid.gov.it/" target="_blank" class=""><img src="/assets/img/agid-logo-bb.svg" alt="Agid Logo"></a>
+        </div>
+      </div><!--/row-->
       <div class="row">
         <div class="col-xs-12 text-right hidden-xs">
           {% include follow.html %}
@@ -196,6 +179,17 @@
         <div class="col-xs-12 text-center hidden-sm hidden-md hidden-lg">
           {% include follow.html %}
         </div>
+      </div>
+    </div><!--/container-->
+
+    <div class="container">
+
+      <div class="row">
+        <ul class="col-xs-12 footer__links clearfix">
+          <li><a href="http://www.governo.it/privacy-policy" title="{{ site.data.t.PrivacyPolicy[page.lang] }}" target="_blank">{{ site.data.t.PrivacyPolicy[page.lang] }}</a></li>
+          <li><a href="http://www.governo.it/note-legali" title="{{ site.data.t.LegalNotes[page.lang] }}" target="_blank">{{ site.data.t.LegalNotes[page.lang] }}</a></li>
+          <li></li>
+        </ul>
       </div>
 
     </div>
