@@ -8,6 +8,9 @@ menu_position: 4
 ---
 # Contacts
 
+[teamdigitale@governo.it](mailto:teamdigitale@governo.it)
+
+[media.teamdigitale@governo.it](mailto:media.teamdigitale@governo.it)
 
 
 ## Social media

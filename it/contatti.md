@@ -8,8 +8,14 @@ menu_position: 5
 ---
 # Contatti
 
+[teamdigitale@governo.it](mailto:teamdigitale@governo.it)
+
+[media.teamdigitale@governo.it](mailto:media.teamdigitale@governo.it)
+
 ## Social media
 TeamDigitale è su [Twitter](https://twitter.com/teamdigitaleIT), [Medium](https://medium.com/team-per-la-trasformazione-digitale) e [Linkedin](https://www.linkedin.com/company/15194879/).
+
+
 
 <a class="twitter-timeline"  href="https://twitter.com/teamdigitaleIT" data-height="400" >Tweets by TeamDigitale</a>
 
