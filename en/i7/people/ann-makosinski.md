@@ -1,5 +1,5 @@
 ---
-title: Ann  Makosinski
+title: Ann Makosinski
 lang: en
 permalink: /en/i7/people/ann-makosinski.htm
 layout: i7person

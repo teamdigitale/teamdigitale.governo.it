@@ -7,7 +7,6 @@ role: Partnerships Development Director of Powered by Data
 country: Canada
 twitter_user: lesliePhD
 linkedin_url: https://www.linkedin.com/in/cheungleslie
-wiki_page_url: https://en.wikipedia.org/wiki/Mike_Moffatt
 ref: i7-cheung
 parent_ref: i7
 ---
