@@ -7,8 +7,8 @@
 <a name="innovators-focal-point"></a>
 
 <div class="i7people">
-<h2>Innovators & Focal Point</h2>
-<p>Below the focal point and I-7 Innovators for each country and the EU.</p>
+<h2>Innovators & Focal Points</h2>
+<p>&nbsp;</p>
 {% for group in people_grouped %}
 
     <h3 class="i7people__country">{{group.name}}</h3>
@@ -17,7 +17,8 @@
     {% assign people = people_sorted | concat: people_focal %}
     <div class="row">
     {% for one_page in people %}
-    <div class="col-xs-12 col-sm-6 i7people__persongrid">
+    {% assign modsize = people.size | modulo:2 %}
+    <div class="col-xs-12 col-sm-6 i7people__persongrid {% if modsize==1 and forloop.last==true %}col-md-offset-6{% endif %}">
         <div class="row i7people__rowdetail">
         <div class="col-xs-2 col-sm-3 nopadding">
             <a href="{{ one_page.url }}">
