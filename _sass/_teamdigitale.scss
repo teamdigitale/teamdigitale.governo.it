@@ -399,6 +399,9 @@ body.layout-project {
 		}
 	}
 }
+.i7people__persongrid:nth-child(odd) {
+	clear: left;
+}
 .i7person {
 
 	&__img {
