@@ -92,6 +92,9 @@ Yes:
 DigitalTransformationTeam:
   en: "Digital Transformation Team"
   it: "Team per la Trasformazione Digitale"
+PublicDepartment:
+  en: "Department of public function"
+  it: "Dipartimento per la funzione pubblica"
 Back:
   en: "Back"
   it: "Indietro"
