@@ -4,7 +4,7 @@ lang: en
 layout: default
 permalink: /en/contacts.htm
 ref: contacts
-menu_position: 4
+sitemap: false
 ---
 # Contacts
 

@@ -28,7 +28,8 @@ timeline:
   - period: Gennaio 2018
     title: Messa in Produzione del DAF
     desc: Il Team digitale e AgID predisporranno le procedure atte al subentro del futuro owner del DAF che gestirà l’operatività e l’evoluzione del progetto. L’owner del DAF curerà le interazioni con le PA per definire piani di inclusione delle relative basi di dati e casi d’uso. Le PA di volta in volta coinvolte definiranno le modalità di ingestione dei dati e utilizzo del DAF consone alle proprie attività.
-    status: todo  
+    status: todo
+sitemap: false
 ---
 
 ### In breve

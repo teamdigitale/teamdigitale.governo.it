@@ -1,5 +1,5 @@
 ---
-title: Anagrafe nazionale popolazione residente (ANPR)
+title: Anagrafe Nazionale Popolazione Residente (ANPR)
 lang: it
 permalink: /it/projects/anpr.htm
 layout: project
@@ -14,6 +14,7 @@ twitter_tag: anpr
 medium_tag: anpr
 forum_category: anpr
 forum_limit: 3
+sitemap: false
 ---
 
 ### In breve

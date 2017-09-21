@@ -1,5 +1,5 @@
 ---
-title: Codice amministrazione digitale (CAD)
+title: Codice Amministrazione Digitale (CAD)
 lang: it
 permalink: /it/projects/cad.htm
 layout: project
@@ -10,6 +10,7 @@ toc: true
 medium_tag: pubblica-amministrazione
 forum_category:
 forum_limit: 3
+sitemap: false
 ---
 
 ### In breve

@@ -2,9 +2,9 @@
 title: Progetti
 lang: it
 ref: projects
-menu_position: 2
 permalink: /it/progetti.htm
 layout: default
+sitemap: false
 ---
 
 <h2>I Progetti</h2>
