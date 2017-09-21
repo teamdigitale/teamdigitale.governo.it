@@ -526,4 +526,7 @@ body.layout-project {
 }
 
 
-.navigation-hightlights a{ background: #00C5CA; font-size: .9em; white-space: nowrap; font-weight: bold;}
+.navigation-hightlights a{ background: #00C5CA; font-size: .9em; white-space: nowrap; font-weight: bold; margin-left: 14px;}
+.navigation-hightlights a:nth-child(0) {margin-left: 0;}
+
+
