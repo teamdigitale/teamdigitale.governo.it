@@ -3,7 +3,7 @@ title: Thomas Ermacora
 lang: en
 permalink: /en/i7/people/thomas-ermacora.htm
 layout: i7person
-role: Urbanist, Founder and Director, Machines Room
+role: Architect-Urbanist, Futurist & Technologist, Founder of Machines Room & Laudato Si Challenge Vatican Accelerator
 country: Italy
 twitter_user: termacora
 linkedin_url: https://www.linkedin.com/in/termacora
