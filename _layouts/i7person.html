@@ -1,0 +1,54 @@
+{% capture people_page_content %}
+<img class="img-responsive" src="/images/i7/i7-header.jpg" title="G7 / I-7">
+<h2>{{ page.title }}</h2>
+<h4>{{ page.role }}</h4>
+<h4 class="i7person__focal">{{ page.focal }}</h4>
+
+<figure class="pull-right i7person__img">
+    <img class="img-responsive" src="/images/i7/{{ page.ref }}.jpg" alt="{{ page.title }}">
+</figure>
+
+{% if page.linkedin_url != nil %}
+<div class="i7person__social">
+  <a href="{{ page.linkedin_url }}" target="_blank" class="block-link">
+    <span class="fa fa-linkedin"></span>{{ page.linkedin_url | split: "/" | last }}
+  </a>
+</div>
+{% endif %}
+
+{% if page.twitter_user != nil %}
+<div  class="i7person__social">
+    <a href="https://www.twitter.com/{{ page.twitter_user }}" target="_blank" class="block-link">
+      <span class="fa fa-twitter"></span>@{{ page.twitter_user }}</a>
+</div>
+{% endif %}
+
+{% if page.personal_page_url != nil %}
+<div  class="i7person__social">
+    <a href="{{ page.personal_page_url }}" target="_blank" class="block-link">
+      <span class="fa fa-home"></span>{{ page.personal_page_url | split: "/" | last  }}</a>
+</div>
+{% endif %}
+
+{% if page.wiki_page_url != nil %}
+<div  class="i7person__social">
+    <a href="{{ page.wiki_page_url }}" target="_blank" class="block-link">
+      <span class="fa fa-wikipedia-w"></span>{{ page.wiki_page_url | split: "wiki/" | last  }}</a>
+</div>
+{% endif %}
+
+
+{{ content }}
+
+{% if page.twitter_user != nil %}
+  {% include twitter_timeline.html %}
+{% endif %}
+
+
+
+
+<hr/>
+
+
+{% endcapture %}
+{% include layout_base.html content=people_page_content %}

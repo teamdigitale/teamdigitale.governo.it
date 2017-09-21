@@ -1,5 +1,5 @@
 ---
-title: Codice amministrazione digitale (CAD)
+title: Codice Amministrazione Digitale (CAD)
 lang: it
 permalink: /it/projects/cad.htm
 layout: project

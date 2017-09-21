@@ -18,6 +18,21 @@ tutte le pagine del sito che:
                     </li>
                   {% endif %}
                 {% endfor %}
+                {% if page.lang=='en' %}
+                    <li><a href="/en/i7.html" 
+                      {% if page.ref=='i7' %}class="active"{% endif %}
+                      >Find out about the Innovation 7</a>
+                    </li>
+                  {% endif %}
+                  {% if page.lang=='it' %}
+                    <li>
+                      <a href="https://hack.developers.italia.it/" target="_blank">Hack Developers</a>
+                    </li>
+                    <li><a href="/en/i7.html" 
+                      {% if page.ref=='i7' %}class="active"{% endif %}
+                      >Find out about the Innovation 7</a>
+                    </li>
+                  {% endif %}
             </ul>
         </nav>
     </div>

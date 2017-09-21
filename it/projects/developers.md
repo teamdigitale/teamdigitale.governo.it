@@ -9,7 +9,6 @@ people: [giovanni-bajo]
 toc: true
 twitter_user: developersITA
 medium_tag: developer
-sitemap: false
 timeline:
   - period: Marzo 2017
     title: Apertura di Developers Italia
@@ -35,6 +34,8 @@ timeline:
     title: Superamento del modello del "Catalogo del Riuso"
     desc: Pubblicheremo delle nuove linee guida che supereranno l'attuale "Catalogo del Riuso" di AgID, promuovendo invece la pubblicazione di codice con licenza open-source, come sistema superiore per convidere il codice tra diverse amministrazioni, senza necessità di contratti.
     status: todo
+sitemap: false
+
 ---
 
 ### In breve

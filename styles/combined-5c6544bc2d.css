@@ -8239,12 +8239,12 @@ body {
     }
 
 footer {
-    background: #30373d;
+    background: #00264d!important;
     color: #a5abb0;
     min-height: 200px;
     min-height: 20rem;
     padding: 1rem;
-    padding-top: 28px;
+    padding-top: 35px;
     padding-top: 2.8rem;
 }
 
@@ -8270,7 +8270,7 @@ footer {
         margin-top: 50px;
         margin-top: 5rem;
         padding: 0;
-        border-top: 1px solid #444e57;
+        border-top: 1px solid #004080;
     }
 
 
