@@ -28,8 +28,6 @@ Oggi le nostre identità sono disperse in ottomila anagrafi comunali. Dobbiamo p
 ANPR è un passo essenziale per rendere possibili successive innovazioni che oggi sarebbero impossibili o molto costose. Il progetto  esisteva ben prima della nascita del Team per la Trasformazione Digitale: ne abbiamo assunto la direzione con l'obiettivo di creare una roadmap di realizzazione chiara, modernizzare il metodo di lavoro e accelerarne il completamento. Nel nostro blog qui sotto raccontiamo la nostra visione del progetto, le azioni svolte finora e i prossimi passi che vogliamo compiere. Seguici su Twitter per tutte le novità
 
 
-### Dashboard
-
 {% include medium_project.html %}
 
 {% include twitter_timeline.html %}
