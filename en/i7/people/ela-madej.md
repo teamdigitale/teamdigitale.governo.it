@@ -6,7 +6,7 @@ layout: i7person
 role: Partner, Fifty Years 
 country: EU
 twitter_user: elamadej
-linkedin_url: http://www.ipresslive.it/Event/Sp/linkedin.com/in/elamadej
+linkedin_url: https://www.linkedin.com/in/elamadej/
 ref: i7-madej
 parent_ref: i7
 ---

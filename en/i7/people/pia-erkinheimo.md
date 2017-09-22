@@ -6,7 +6,7 @@ layout: i7person
 role: Partner and Director, Fingertip
 country: EU
 twitter_user: PiaErkinheimo
-linkedin_url: http://www.ipresslive.it/Event/Sp/linkedin.com/in/piaerkinheimo
+linkedin_url: https://www.linkedin.com/in/piaerkinheimo/
 ref: i7-erkinheimo
 parent_ref: i7
 ---
