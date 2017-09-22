@@ -3,7 +3,7 @@ title: Riccardo Sabatini
 lang: en
 permalink: /en/i7/people/riccardo-sabatini.htm
 layout: i7person
-role: Research Scientist, Human Longevity 
+role: Founder, Orionis Biosciences
 country: Italy
 twitter_user: rikisabatini
 linkedin_url: https://www.linkedin.com/in/rsabatini
