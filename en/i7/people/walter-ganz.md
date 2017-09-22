@@ -3,7 +3,7 @@ title: Walter Ganz
 lang: en
 permalink: /en/i7/people/walter-ganz.htm
 layout: i7person
-role: Researcher at the ICT Research Center of Infratest in Munich
+role: Head of Business Unit Service and Human Resources Management at Fraunhofer Institute for Industrial Engineering IAO
 country: Germany
 linkedin_url: https://de.linkedin.com/in/walter-ganz-7214479 
 ref: i7-ganz
