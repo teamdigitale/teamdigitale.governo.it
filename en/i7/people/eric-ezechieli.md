@@ -6,7 +6,7 @@ layout: i7person
 role: Co-founder, Nativa
 country: Italy
 twitter_user: ericeze
-linkedin_url: http://www.ipresslive.it/Event/Sp/linkedin.com/in/ericezechieli
+linkedin_url: https://www.linkedin.com/in/ericezechieli/
 ref: i7-ezechieli
 parent_ref: i7
 ---

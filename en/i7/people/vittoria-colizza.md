@@ -6,7 +6,6 @@ layout: i7person
 role: Senior Researcher at INSERM (French National Institute of Health and Medical Research)
 country: Italy
 twitter_user: vcolizza
-linkedin_url:
 ref: i7-colizza
 parent_ref: i7
 ---

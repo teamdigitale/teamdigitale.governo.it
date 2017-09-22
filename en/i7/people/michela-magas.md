@@ -6,7 +6,7 @@ layout: i7person
 role: Co-founder, Stromatolite Design Innovation Lab 
 country: EU
 twitter_user: elasticengine 
-linkedin_url: http://www.ipresslive.it/Event/Sp/linkedin.com/in/michelamagas
+linkedin_url: https://www.linkedin.com/in/michelamagas
 ref: i7-magas
 parent_ref: i7
 ---

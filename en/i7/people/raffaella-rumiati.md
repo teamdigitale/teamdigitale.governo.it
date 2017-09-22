@@ -6,7 +6,7 @@ layout: i7person
 role: Professor and Director of the iNSuLa Laboratory at SISSA (Scuola Internazionale Superiore di Studi Avanzati)  
 country: Italy
 twitter_user: RafRumiati 
-linkedin_url: http://www.ipresslive.it/Event/Sp/linkedin.com/in/raffaella-ida-rumiati-6767931b
+linkedin_url: https://www.linkedin.com/in/raffaella-ida-rumiati-6767931b/
 ref: i7-rumiati
 parent_ref: i7
 ---
