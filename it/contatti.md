@@ -14,7 +14,7 @@ Vuoi scriverci?
 *Email - teamdigitale@governo.it*
 
 
-Sei un giornalista?
+Sei un/una giornalista?
 
 *Email - media.teamdigitale@governo.it*
 
