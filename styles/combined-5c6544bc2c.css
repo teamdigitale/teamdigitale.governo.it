@@ -8888,7 +8888,7 @@ p {
     }
 
     .navbar--small .navbar-top-link {
-        display: none;
+        /*display: none;*/
     }
 
     p {
