@@ -1,7 +1,7 @@
 ---
 title: Innovators' Key Points to G7 leaders
 lang: en
-ref: i7
+ref: i-7-innovators-key-points-to-g7-leaders
 layout: default
 ---
 
