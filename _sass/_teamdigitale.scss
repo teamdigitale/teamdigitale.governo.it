@@ -382,7 +382,7 @@ body.layout-project {
 		}
 	}
 	&__string {
-		
+
 		a {
 			color: #fff !important;
 			text-transform: uppercase;
@@ -390,7 +390,7 @@ body.layout-project {
 		    line-height: 20px;
 		    display: block;
 		    font-weight: 600;
-		    
+
 		}
 	}
 }
@@ -406,7 +406,7 @@ body.layout-project {
 		}
 	}
 	&__string {
-		
+
 		a {
 			color: #fff !important;
 			font-size: 21px;
@@ -417,7 +417,7 @@ body.layout-project {
 	}
 }
 
-/* I7 specific 
+/* I7 specific
 -----------------*/
 .i7people {
 	&__persongrid {
@@ -484,11 +484,11 @@ body.layout-project {
 		margin: 0 20px !important;
 		text-align:justify;
 	}
-	
+
 }
 
 
-/* PRINT TRICKS AND STYLES 
+/* PRINT TRICKS AND STYLES
 -------------------------- */
 @media print {
 	.hidden-onprint {
@@ -529,4 +529,49 @@ body.layout-project {
 .navigation-hightlights a{ background: #00C5CA; font-size: .9em; white-space: nowrap; font-weight: bold; margin-left: 14px;}
 .navigation-hightlights a:nth-child(0) {margin-left: 0;}
 
+// Navigation highlight fix #245
 
+@media screen and (max-width: 767px) {
+    .navbar-top-link {
+      display: block;
+    }
+		.navbar__logo_container {
+    	margin-left: 1rem;
+		}
+		.navbar {
+    	top: 0px;
+			padding-top: .5em;
+		}
+		.nav-banner{
+			background-color: transparent;
+			left: auto;
+			right: 0;
+			width: auto;
+		}
+		.nav-banner #slimheader{
+			border-bottom: none;
+    	float: right;
+			padding-top: 2em;
+		}
+		.slimheader__institutional{
+			display: none;
+		}
+		.nav-banner--small{
+			height: auto;
+		}
+		#nav-toggle{
+			top: 2em;
+		}
+		.nav-banner.nav-banner--small #slimheader {
+		    display: block;
+		}
+		.navbar--small .navbar-header{
+			margin-left: 0px;
+		}
+		.navbar .navbar-header{
+			padding-bottom: .5em;
+		}
+		#nav-toggle{
+			top: 1em;
+		}
+}
