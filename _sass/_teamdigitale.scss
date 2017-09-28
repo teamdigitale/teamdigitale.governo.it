@@ -309,6 +309,18 @@
 		text-decoration: none !important;
 	}
 }
+
+.toc-entry {
+	line-height: 1.2;
+	margin-bottom: 0.6em;
+	a {
+		line-height: 1.2;
+	}
+	&.toc-h1 {
+		display: none;
+	}
+}
+
 /* IPRESS */
 .iPress, .iPress>a, .iPress>ol>li, .iPress>p, .iPress>ul>li, .iPress p>a, .i-lineHeight-xl, .i-text-p {
     line-height: 1.55!important;
