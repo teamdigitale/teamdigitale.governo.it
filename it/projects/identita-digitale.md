@@ -7,10 +7,11 @@ ref: spid
 parent_ref: projects
 people: [valerio-paolini, giovanni-bajo]
 toc: true
-twitter_tag: spid
 medium_tag: spid
 forum_category: spid
 forum_limit: 3
+twitter_tag: spid
+tweetdeck_id: 913425127978696706
 sitemap: false
 ---
 
@@ -30,8 +31,6 @@ Nel blog troverete la nostra visione del progetto e il ruolo che ricoprirà nel 
 {% include medium_project.html %}
 
 {% include twitter_timeline.html %}
-
-
 
 ### Strumenti 
 

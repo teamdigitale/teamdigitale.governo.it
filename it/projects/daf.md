@@ -14,6 +14,8 @@ medium_tag: big-data
 forum_category: 'piano-triennale/dati'
 forum_limit: 3
 sitemap: false
+twitter_tag: daf
+tweetdeck_id: 913428915095576576
 ---
 
 ### In breve
@@ -25,8 +27,6 @@ Niente più silos privati di questa o quella amministrazione, i dati pubblici so
 {% include medium_project.html %}
 
 ### Forum 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at congue ante, id varius justo. Maecenas tempor nisi a tellus placerat molestie. Nullam et placerat enim. 
 
 {% include forum.html %}
 

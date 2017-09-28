@@ -29,6 +29,9 @@ medium_address:
   it: https://medium.com/team-per-la-trasformazione-digitale
   en: https://medium.com/team-per-la-trasformazione-digitale/tagged/english-language
 linkedin_address: https://www.linkedin.com/company/teamdigitale
+tweetdeck_names:
+  it: team-digitale
+  en: digital-team
 
 # Medium posts importer
 medium_archive_url: https://medium.com/team-per-la-trasformazione-digitale

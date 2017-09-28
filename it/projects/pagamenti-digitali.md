@@ -7,7 +7,6 @@ ref: pagopa
 parent_ref: projects
 people: [giuseppe-virgone]
 toc: true
-twitter_tag: pagopa
 medium_tag: pagopa
 forum_category:
 forum_limit: 3
@@ -29,6 +28,8 @@ timeline:
     title: Messa in Produzione del DAF
     desc: Il Team digitale e AgID predisporranno le procedure atte al subentro del futuro owner del DAF che gestirà l’operatività e l’evoluzione del progetto. L’owner del DAF curerà le interazioni con le PA per definire piani di inclusione delle relative basi di dati e casi d’uso. Le PA di volta in volta coinvolte definiranno le modalità di ingestione dei dati e utilizzo del DAF consone alle proprie attività.
     status: todo
+twitter_tag: pagopa
+tweetdeck_id: 913421951103897600
 sitemap: false
 ---
 
@@ -49,12 +50,12 @@ Consentire ai principali attori del mercato dei pagamenti, di potere offrire ai 
 Abbiamo quindi realizzato, in collaborazione con AGID,  le nuove specifiche funzionali della parte pagamenti di PagoPA, realizzando una User Experience semplice e sicura  e un sistema di notifica moderno e accattivante.
 A breve queste novità saranno visibili e i comuni più grandi stanno già aderendo.
 
-### Dashboard
 
 {% include medium_project.html %}
 
 
 {% include twitter_timeline.html %}
+
 
 {% include ipress.html %}
 <div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="it" data-size="100" data-tag="3"></div>
