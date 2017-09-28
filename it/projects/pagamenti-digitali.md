@@ -38,6 +38,8 @@ Un modo diverso e più naturale per i cittadini di pagare la Pubblica Amministra
 
 Il cittadino deve poter scegliere metodi di pagamento moderni, a minima frizione, e il mercato deve potersi integrare, aggiungendo facilmente nuovi strumenti di pagamento innovativi. Vogliamo rendere il sistema più aperto e flessibile.
 
+#### [Ulteriori informazioni](https://developers.italia.it/it/pagopa/){:target="_blank"}
+
 ### Il ruolo del Team
 
 Consentire di fare evolvere PagoPA in una logica di mercato consentendo, al tempo stesso, di favorire l’accesso a PagoPA dei servizi delle Pubbliche Amministrazioni.
