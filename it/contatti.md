@@ -1,9 +1,10 @@
 ---
 title: Contatti
 lang: it
-layout: default
+layout: default_with_toc
 permalink: /it/contatti.htm
 ref: contacts
+toc: true
 sitemap: false
 ---
 # Contatti
