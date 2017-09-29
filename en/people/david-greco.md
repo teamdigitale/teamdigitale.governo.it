@@ -10,6 +10,10 @@ medium_user: dgreco
 linkedin_url: https://it.linkedin.com/in/davgreco
 ref: david-greco
 parent_ref: team
+start_date: April 15, 2017 
+period_provided: until September 16, 2018
+annual_compensation: € 90,000
+approved_by_court: May 8, 2017
 ---
 I like defining myself an old geek because it’s almost thirty years I’m having fun in the IT field. 
 
@@ -29,10 +33,3 @@ Following the acquisition of my startup by an Italian company dealing with data 
 Just in this period I discovered that the Digital Transformation Team was looking for a Big Data Architect and I thought that it would have been an honor for me to be able to offer my skills back to the country. I sent the curriculum, I met Diego and he hired me.
 I am lucky to do a job that I like, which for me is almost a hobby, like martial arts, that I have been passionately practicing for so many years. During my  free time, besides developing code, listening to music, and reading essays and scientific dissemination texts, I dedicate myself to the family. I have a fantastic wife who patiently endures me and who has always been a point of reference for our two children all those years  spent around the world.
 
-Start Date: April 15, 2017 
-
-Period Provided: until September 16, 2018
-
-Annual Compensation: € 90.000
-
-Approved by the Court of Auditors: May 8, 2017

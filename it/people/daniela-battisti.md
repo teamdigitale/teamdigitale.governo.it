@@ -10,6 +10,10 @@ medium_user:
 linkedin_url:
 ref: daniela-battisti
 parent_ref: team
+start_date: 10 marzo 2017
+period_provided: fino al 16 settembre 2018
+annual_compensation: € 90.000
+approved_by_court: 10 aprile 2017
 ---
 Ho una Laurea in Lettere Classiche (Università degli Studi di Urbino) e un Ph.D. in Classics (Rutgers). Sono nata professionalmente come filologa classica, uno di quegli strani individui che studiano papiri e manoscritti in Greco e Latino, con una specializzazione sui temi della retorica antica e della propaganda politica e ideologica nell’antichità e  nell’antropologia culturale.
 
@@ -34,11 +38,3 @@ Adoro leggere (in Inglese e in Italiano ma anche in Greco e Latino), sono una le
 Non conoscevo Diego, se non per averlo incontrato e parlato con lui per 10 minuti al Digital Economy Forum a Venezia, nel maggio del 2012.
 
 Ho mandato la mia candidatura per la Posizione di “Relazioni Internazionali” mossa dalla convinzione della necessità di un Team con questa visione. Sono entusiasta di poter contribuire a questa missione.
-
-Data inizio: 10 marzo 2017
-
-Periodo previsto: fino al 16 settembre 2018
-
-Compenso su base annua: € 90.000
-
-Registrazione in Corte dei Conti: 10 aprile 2017

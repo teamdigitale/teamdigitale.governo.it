@@ -10,6 +10,10 @@ medium_user:
 linkedin_url: https://www.linkedin.com/in/gvarisco
 ref: gianluca-varisco
 parent_ref: team
+start_date: January 9, 2017
+period_provided: until September 16, 2018
+annual_compensation: € 150,000
+approved_by_court: May 3, 2017
 ---
 I moved my first steps into IT when I was thirteen, intrigued by the magic world of IRC networks and the open source software communities, a true model of collaborative development. Being born curious and  addicted to new technologies, I spent many years  banging my head against Linux, eager to understand its working principles and learn its secrets. I used my free time to take part in many international projects such as Slackware, Fedora, KDE. I also took part in Google’s first *"Highly Open Participation Student"*, a contest involving high school students in producing a variety of  open source code, documentation and training materials for the ten participating organizations.
 
@@ -23,10 +27,3 @@ In my role I will be assessing (and improving) security and cybersecurity infras
 
 Proudly a geek, I enjoy reading as a means of disconnecting from reality and to satisfy my eagerness to learn.  When I’m not working I love to travel around the world to explore new places and cultures.
 
-Start Date: January 9, 2017
-
-Period Provided: until September 16, 2018
-
-Annual Compensation:  € 150,000
-
-Approved by the Court of Auditors:  May 3, 2017

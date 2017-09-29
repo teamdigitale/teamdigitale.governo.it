@@ -10,6 +10,10 @@ medium_user:
 linkedin_url: https://www.linkedin.com/in/gvarisco
 ref: gianluca-varisco
 parent_ref: team
+start_date: 9 gennaio 2017
+period_provided: fino al 16 settembre 2018
+annual_compensation: € 150.000
+approved_by_court: 3 maggio 2017
 ---
 Ho mosso i primi passi nell'informatica all'età di 13 anni, incuriosito dal magico mondo delle reti IRC e delle comunità legate al software libero come modello di sviluppo collaborativo. Appassionato di nuove tecnologie e curioso per natura, ho speso svariati anni a sbattere la testa giorno e notte su Linux, cercando di capirne i segreti e il funzionamento. Nel tempo libero ho contribuito a diversi progetti internazionali come Slackware, Fedora, KDE e preso parte al primo "*Highly Open Participation Student*", programma organizzato da Google con l'intento di coinvolgere gli studenti di scuola superiore nello sviluppo di codice open source, creazione, documentazione e materiale di formazione per conto di dieci organizzazioni.
 
@@ -21,10 +25,4 @@ Il mio compito sarà quello di valutare e migliorare le infrastrutture, i proces
 
 Orgogliosamente geek, utilizzo la lettura come scusa per estraniarmi dalla realtà e per appagare la sete di sapere. Quando non lavoro, amo viaggiare alla scoperta di posti nuovi e conoscere culture diverse.
 
-Data inizio: 9 gennaio 2017
 
-Periodo previsto: fino al 16 settembre 2018
-
-Compenso su base annua: € 150.000
-
-Registrazione in Corte dei Conti: 3 maggio 2017

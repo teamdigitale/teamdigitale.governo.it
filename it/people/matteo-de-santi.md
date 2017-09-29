@@ -10,6 +10,10 @@ medium_user:
 linkedin_url: https://www.linkedin.com/in/matteodesanti
 ref: matteo-de-santi
 parent_ref: team
+start_date: 17 febbraio 2017
+period_provided: fino al 16 settembre 2018
+annual_compensation: € 95.000
+approved_by_court: 10 aprile 2017
 ---
 Al liceo ho iniziato a sperimentare con il mitico Amiga le possibilità espressive offerte dall'informatica, cercando, però, sempre il modo di "far funzionare" ciò che disegnavo, di renderlo interattivo.
 
@@ -39,10 +43,3 @@ L'altra grande "fuga dalla realtà" me l'ha concessa il teatro. Ho fondato insie
 
 In tutti gli altri (sempre troppo pochi) momenti ho accanto la mia lungimirante compagna e la mia irrefrenabile figlioletta di due anni: campionesse, ahimè, nel prendermi poco sul serio e nell'impedirmi qualunque forma di noia. Grazie ad entrambe per essere, ogni giorno, il mio personalissimo spettacolo di fuochi d'artificio.
 
-Data inizio: 17 febbraio 2017
-
-Periodo previsto: fino al 16 settembre 2018
-
-Compenso su base annua: € 95.000
-
-Registrazione in Corte dei Conti: 10 aprile 2017

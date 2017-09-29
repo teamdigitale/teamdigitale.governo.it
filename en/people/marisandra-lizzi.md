@@ -11,6 +11,10 @@ linkedin_url: https://it.linkedin.com/in/marisandra-lizzi-972337
 email: marisandra@teamdigitale.governo.it
 ref: marisandra-lizzi
 parent_ref: team
+start_date: February 1, 2017
+period_provided: until September 16, 2018
+annual_compensation: € 80,000
+approved_by_court: May 3, 2017
 ---
 I majored in Political Science, oriented in Economics, and I specialized in Public Relations with a Master’s Degree from the Istituto Superiore di Comunicazione (currently the IED). As a freelance journalist, after dealing with marketing and training in the early years of my career, I’ve been focusing since 1998 on my main passions: reading, writing and the Internet. Since that date, in fact, I’ve been working in the field of public relations, with a particular focus on press office activities, first with an agency, Mavellia MS&L, then at a company level and later through the agency Mirandola Comunicazione, which I founded in 2002 on a hill among the green fields and woods of the Emilian Apennines. Several collaborations with educational institutions on topics related to press office activities, event management and public relations with an advanced innovative approach.
 
@@ -28,10 +32,3 @@ The courage and ability to manage all this comes from Mauro, my partner in life 
 
 I attend bio-energy courses, as they give me an opportunity to bring together all my different roles, as a mother, wife and worker, which are all such important sources of positive energy in my life.
 
-Start Date: February 1, 2017
-
-Period Provided: until September 16, 2018
-
-Annual Compensation:  € 80,000
-
-Approved by the Court of Auditors:  May 3, 2017

@@ -10,6 +10,10 @@ medium_user:
 linkedin_url: https://www.linkedin.com/in/matteodesanti
 ref: matteo-de-santi
 parent_ref: team
+start_date: February 17, 2017
+period_provided: until September 16, 2018
+annual_compensation: € 95,000
+approved_by_court: April 10, 2017
 ---
 When I was in high school I began experimenting with the mythical Amiga, the IT expressive potential, trying at the same time to make what I was designing actually work, doing my best to have it interactive.
 
@@ -35,10 +39,3 @@ As a way to survive in this word of codes and vectors I dedicate any time I can 
 
 I don’t have much spare time, but what little there is I spend with my farsighted companion and my irrepressible 2 year old daughter, who is great at not taking to me too seriously and keeps me from ever becoming bored. Thanks to both of them for being, every day, my very personal fireworks show.
 
-Start Date: February 17, 2017
-
-Period Provided: until September 16, 2018
-
-Annual Compensation:  € 95,000
-
-Approved by the Court of Auditors:  April 10, 2017
