@@ -1,4 +1,5 @@
 
+DirectoryIndex index.html
 Redirect 301 "/it/jobs/1-detail.htm" "/it/jobpositions/cto.htm"
 Redirect 301 "/it/jobs/2-detail.htm" "/it/jobpositions/applied-data-scientist.htm"
 Redirect 301 "/it/jobs/3-detail.htm" "/it/jobpositions/cybersecurity.htm"
