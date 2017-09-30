@@ -21,6 +21,8 @@ Attraverso una piattaforma aperta di componenti condivise su cui costruire i ser
 
 Sarà un modo più semplice e familiare da parte della Pubblica Amministrazione di comunicare con i cittadini, notificare atti, ricordare scadenze e di condividere informazioni e documenti attraverso un interfaccia costruita sul cittadino.
 
+#### [Ulteriori informazioni](https://developers.italia.it/it/cie/){:target="_blank"}
+
 ### Il ruolo del Team
 
 Il Team Digitale ha subito intrapreso un percorso di comunicazione della visione e di coordinamento e allineamento di tutte le iniziative già nate o in fase di progettazione, con l'obiettivo di creare un unico ecosistema di componenti nazionali e condivisi.

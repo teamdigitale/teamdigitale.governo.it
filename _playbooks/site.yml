@@ -59,6 +59,103 @@
           ssl_ciphers EECDH+CHACHA20:EECDH+AES128:RSA+AES128:EECDH+AES256:RSA+AES256:EECDH+3DES:RSA+3DES:!MD5;
           expires $expires;
           add_header Strict-Transport-Security "max-age=31536000; includeSubdomains;";
+          # nginx redirect italian and english job pages
+          location ~ ^/it/jobs/1-detail.htm {
+            return 301 https://teamdigitale.governo.it/it/jobpositions/cto.htm;
+          }
+          location ~ ^/it/jobs/2-detail.htm {
+            return 301 https://teamdigitale.governo.it/it/jobpositions/applied-data-scientist.htm;
+          }
+          location ~ ^/it/jobs/3-detail.htm {
+            return 301 https://teamdigitale.governo.it/it/jobpositions/cybersecurity.htm;
+          }
+          location ~ ^/it/jobs/4-detail.htm {
+            return 301 https://teamdigitale.governo.it/it/jobpositions/sviluppo-mobile-app.htm;
+          }
+          location ~ ^/it/jobs/5-detail.htm {
+            return 301 https://teamdigitale.governo.it/it/jobpositions/pagamenti-digitali.htm;
+          }
+          location ~ ^/it/jobs/6-detail.htm {
+            return 301 https://teamdigitale.governo.it/it/jobpositions/prodotto-ux-ui.htm;
+          }
+          location ~ ^/it/jobs/7-detail.htm {
+            return 301 https://teamdigitale.governo.it/it/jobpositions/affari-regolamentari.htm;
+          }
+          location ~ ^/it/jobs/8-detail.htm {
+            return 301 https://teamdigitale.governo.it/it/jobpositions/metrics-analytics.htm;
+          }
+          location ~ ^/it/jobs/9-detail.htm {
+            return 301 https://teamdigitale.governo.it/it/jobpositions/relazioni-sviluppatori.htm;
+          }
+          location ~ ^/it/jobs/10-detail.htm {
+            return 301 https://teamdigitale.governo.it/it/jobpositions/content-designer.htm;
+          }
+          location ~ ^/it/jobs/11-detail.htm {
+            return 301 https://teamdigitale.governo.it/it/jobpositions/comunicazione-pr.htm;
+          }
+          location ~ ^/it/jobs/12-detail.htm {
+            return 301 https://teamdigitale.governo.it/it/jobpositions/collaborazioni-internazionali.htm;
+          }
+          location ~ ^/it/jobs/13-detail.htm {
+            return 301 https://teamdigitale.governo.it/it/jobpositions/big-data-architect.htm;
+          }
+          location ~ ^/it/jobs/14-detail.htm {
+            return 301 https://teamdigitale.governo.it/it/jobpositions/assistente-tecnico.htm;
+          }
+          location ~ ^/it/jobs/29-detail.htm {
+            return 301 https://teamdigitale.governo.it/it/jobpositions/sviluppatori-software.htm;
+          }
+          location ~ ^/it/jobs/30-detail.htm {
+            return 301 https://teamdigitale.governo.it/it/jobpositions/open-source-project-leader.htm;
+          }
+          location ~ ^/en/jobs/17-detail.htm {
+            return 301 https://teamdigitale.governo.it/en/jobpositions/big-data-architect.htm;
+          }
+          location ~ ^/en/jobs/18-detail.htm {
+            return 301 https://teamdigitale.governo.it/en/jobpositions/cybersecurity.htm;
+          }
+          location ~ ^/en/jobs/19-detail.htm {
+            return 301 https://teamdigitale.governo.it/en/jobpositions/mobile-app-development.htm;
+          }
+          location ~ ^/en/jobs/20-detail.htm {
+            return 301 https://teamdigitale.governo.it/en/jobpositions/digital-payments.htm;
+          }
+          location ~ ^/en/jobs/21-detail.htm {
+            return 301 https://teamdigitale.governo.it/en/jobpositions/product-ux-ui.htm;
+          }
+          location ~ ^/en/jobs/22-detail.htm {
+            return 301 https://teamdigitale.governo.it/en/jobpositions/content-design.htm;
+          }
+          location ~ ^/en/jobs/23-detail.htm {
+            return 301 https://teamdigitale.governo.it/en/jobpositions/metrics-analytics.htm;
+          }
+          location ~ ^/en/jobs/27-detail.htm {
+            return 301 https://teamdigitale.governo.it/en/jobpositions/international-collaborations.htm;
+          }
+          location ~ ^/en/jobs/31-detail.htm {
+            return 301 https://teamdigitale.governo.it/en/jobpositions/software-developers.htm;
+          }
+          location ~ ^/en/jobs/32-detail.htm {
+            return 301 https://teamdigitale.governo.it/en/jobpositions/technical-project-manager.htm;
+          }
+          location ~ ^/en/jobs/15-detail.htm {
+            return 301 https://teamdigitale.governo.it/en/jobpositions/cto.htm;
+          }
+          location ~ ^/en/jobs/16-detail.htm {
+            return 301 https://teamdigitale.governo.it/en/jobpositions/applied-data-scientist.htm;
+          }
+          location ~ ^/en/jobs/24-detail.htm {
+            return 301 https://teamdigitale.governo.it/en/jobpositions/developer-relations.htm;
+          }
+          location ~ ^/en/jobs/25-detail.htm {
+            return 301 https://teamdigitale.governo.it/en/jobpositions/communication-pr.htm;
+          }
+          location ~ ^/en/jobs/28-detail.htm {
+            return 301 https://teamdigitale.governo.it/en/jobpositions/technical-assistant.htm;
+          }
+          location ~ ^/en/jobs/26-detail.htm {
+            return 301 https://teamdigitale.governo.it/en/jobpositions/regulatory-affairs.htm;
+          }
           # nginx gzip_static does not add Vary header for fonts.
           location ~* \.(?:eot|ttf|svg)$ {
             expires max;

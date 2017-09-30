@@ -1,9 +1,10 @@
 ---
 title: Contacts
 lang: en
-layout: default
+layout: default_with_toc
 permalink: /en/contacts.htm
 ref: contacts
+toc: true
 sitemap: false
 ---
 # Contacts

@@ -7,10 +7,11 @@ ref: rd
 parent_ref: projects
 people: [gianluca-varisco]
 toc: true
-twitter_tag: rd
 medium_tag: responsible-disclosure
 forum_category: 
 forum_limit: 3
+twitter_tag: responsible%20disclosure
+tweetdeck_id: 913424433666232320
 sitemap: false
 ---
 
@@ -37,8 +38,6 @@ gestione di progetti pilota coinvolgendo amministrazioni pubbliche, società in 
 
 
 {% include medium_project.html %}
-
-
 
 {% include twitter_timeline.html %}
 

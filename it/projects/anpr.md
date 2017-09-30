@@ -10,10 +10,11 @@ people_fixed_period:
   - ref: carlo-contavalli
     period: '01/2017 - 07/2017'
 toc: true
-twitter_tag: anpr
 medium_tag: anpr
 forum_category: anpr
 forum_limit: 3
+twitter_tag: anpr
+tweetdeck_id: 913424743981895680
 sitemap: false
 ---
 
@@ -21,6 +22,7 @@ sitemap: false
 
 Oggi le nostre identità sono disperse in ottomila anagrafi comunali. Dobbiamo portarle in una sola anagrafe, guadagnando in efficienza e risparmiando soldi ed energia, perché il cittadino non debba più preoccuparsi di comunicare a ogni ufficio della Pubblica Amministrazione i suoi dati anagrafici o il cambio di residenza, per semplificare le procedure di variazione e uniformarle a livello nazionale, perché sia possibile ottenere certificati senza più bisogno di recarsi allo sportello. 
 
+#### [Ulteriori informazioni](https://developers.italia.it/it/anpr/){:target="_blank"}
 
 
 ### Il ruolo del Team
@@ -31,8 +33,6 @@ ANPR è un passo essenziale per rendere possibili successive innovazioni che ogg
 {% include medium_project.html %}
 
 {% include twitter_timeline.html %}
-
-
 
 ### Strumenti 
 

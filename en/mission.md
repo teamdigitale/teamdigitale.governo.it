@@ -3,7 +3,8 @@ title: Mission
 lang: en
 ref: mission
 menu_position: 2
-layout: default
+layout: default_with_toc
+toc: true
 permalink: /en/2-content.htm
 ---
 # Digital innovation for citizens and for the development of the country
