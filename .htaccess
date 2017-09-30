@@ -1,0 +1,18 @@
+
+DirectoryIndex index.html
+Redirect 301 "/it/jobs/1-detail.htm" "/it/jobpositions/cto.htm"
+Redirect 301 "/it/jobs/2-detail.htm" "/it/jobpositions/applied-data-scientist.htm"
+Redirect 301 "/it/jobs/3-detail.htm" "/it/jobpositions/cybersecurity.htm"
+Redirect 301 "/it/jobs/4-detail.htm" "/it/jobpositions/sviluppo-mobile-app.htm"
+Redirect 301 "/it/jobs/5-detail.htm" "/it/jobpositions/pagamenti-digitali.htm"
+Redirect 301 "/it/jobs/6-detail.htm" "/it/jobpositions/prodotto-ux-ui.htm"
+Redirect 301 "/it/jobs/7-detail.htm" "/it/jobpositions/affari-regolamentari.htm"
+Redirect 301 "/it/jobs/8-detail.htm" "/it/jobpositions/metrics-analytics.htm"
+Redirect 301 "/it/jobs/9-detail.htm" "/it/jobpositions/relazioni-sviluppatori.htm"
+Redirect 301 "/it/jobs/10-detail.htm" "/it/jobpositions/content-designer.htm"
+Redirect 301 "/it/jobs/11-detail.htm" "/it/jobpositions/comunicazione-pr.htm"
+Redirect 301 "/it/jobs/12-detail.htm" "/it/jobpositions/collaborazioni-internazionali.htm"
+Redirect 301 "/it/jobs/13-detail.htm" "/it/jobpositions/big-data-architect.htm"
+Redirect 301 "/it/jobs/14-detail.htm" "/it/jobpositions/assistente-tecnico.htm"
+Redirect 301 "/it/jobs/29-detail.htm" "/it/jobpositions/sviluppatori-software.htm"
+Redirect 301 "/it/jobs/30-detail.htm" "/it/jobpositions/open-source-project-leader.htm"
