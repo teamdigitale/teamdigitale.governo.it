@@ -66,102 +66,102 @@
             add_header Cache-Control public;
             access_log off;
           }
-          # nginx redirect italian job pages
-          location "/it/jobs/1-detail.htm" {
-            rewrite ^(.*)$ "/it/jobpositions/cto.htm" redirect;
+          # nginx redirect italian and english job pages
+          location ~* "^/it/jobs/1-detail.htm" {
+            return 301 https://teamdigitale.governo.it/it/jobpositions/cto.htm;
           }
-          location "/it/jobs/2-detail.htm" {
-            rewrite ^(.*)$ "/it/jobpositions/applied-data-scientist.htm" redirect;
+          location ~* "^/it/jobs/2-detail.htm" {
+            return 301 https://teamdigitale.governo.it/it/jobpositions/applied-data-scientist.htm;
           }
-          location "/it/jobs/3-detail.htm" {
-            rewrite ^(.*)$ "/it/jobpositions/cybersecurity.htm" redirect;
+          location ~* "^/it/jobs/3-detail.htm" {
+            return 301 https://teamdigitale.governo.it/it/jobpositions/cybersecurity.htm;
           }
-          location "/it/jobs/4-detail.htm" {
-            rewrite ^(.*)$ "/it/jobpositions/sviluppo-mobile-app.htm" redirect;
+          location ~* "^/it/jobs/4-detail.htm" {
+            return 301 https://teamdigitale.governo.it/it/jobpositions/sviluppo-mobile-app.htm;
           }
-          location "/it/jobs/5-detail.htm" {
-            rewrite ^(.*)$ "/it/jobpositions/pagamenti-digitali.htm" redirect;
+          location ~* "^/it/jobs/5-detail.htm" {
+            return 301 https://teamdigitale.governo.it/it/jobpositions/pagamenti-digitali.htm;
           }
-          location "/it/jobs/6-detail.htm" {
-            rewrite ^(.*)$ "/it/jobpositions/prodotto-ux-ui.htm" redirect;
+          location ~* "^/it/jobs/6-detail.htm" {
+            return 301 https://teamdigitale.governo.it/it/jobpositions/prodotto-ux-ui.htm;
           }
-          location "/it/jobs/7-detail.htm" {
-            rewrite ^(.*)$ "/it/jobpositions/affari-regolamentari.htm" redirect;
+          location ~* "^/it/jobs/7-detail.htm" {
+            return 301 https://teamdigitale.governo.it/it/jobpositions/affari-regolamentari.htm;
           }
-          location "/it/jobs/8-detail.htm" {
-            rewrite ^(.*)$ "/it/jobpositions/metrics-analytics.htm" redirect;
+          location ~* "^/it/jobs/8-detail.htm" {
+            return 301 https://teamdigitale.governo.it/it/jobpositions/metrics-analytics.htm;
           }
-          location "/it/jobs/9-detail.htm" {
-            rewrite ^(.*)$ "/it/jobpositions/relazioni-sviluppatori.htm" redirect;
+          location ~* "^/it/jobs/9-detail.htm" {
+            return 301 https://teamdigitale.governo.it/it/jobpositions/relazioni-sviluppatori.htm;
           }
-          location "/it/jobs/10-detail.htm" {
-            rewrite ^(.*)$ "/it/jobpositions/content-designer.htm" redirect;
+          location ~* "^/it/jobs/10-detail.htm" {
+            return 301 https://teamdigitale.governo.it/it/jobpositions/content-designer.htm;
           }
-          location "/it/jobs/11-detail.htm" {
-            rewrite ^(.*)$ "/it/jobpositions/comunicazione-pr.htm" redirect;
+          location ~* "^/it/jobs/11-detail.htm" {
+            return 301 https://teamdigitale.governo.it/it/jobpositions/comunicazione-pr.htm;
           }
-          location "/it/jobs/12-detail.htm" {
-            rewrite ^(.*)$ "/it/jobpositions/collaborazioni-internazionali.htm" redirect;
+          location ~* "^/it/jobs/12-detail.htm" {
+            return 301 https://teamdigitale.governo.it/it/jobpositions/collaborazioni-internazionali.htm;
           }
-          location "/it/jobs/13-detail.htm" {
-            rewrite ^(.*)$ "/it/jobpositions/big-data-architect.htm" redirect;
+          location ~* "^/it/jobs/13-detail.htm" {
+            return 301 https://teamdigitale.governo.it/it/jobpositions/big-data-architect.htm;
           }
-          location "/it/jobs/14-detail.htm" {
-            rewrite ^(.*)$ "/it/jobpositions/assistente-tecnico.htm" redirect;
+          location ~* "^/it/jobs/14-detail.htm" {
+            return 301 https://teamdigitale.governo.it/it/jobpositions/assistente-tecnico.htm;
           }
-          location "/it/jobs/29-detail.htm" {
-            rewrite ^(.*)$ "/it/jobpositions/sviluppatori-software.htm" redirect;
+          location ~* "^/it/jobs/29-detail.htm" {
+            return 301 https://teamdigitale.governo.it/it/jobpositions/sviluppatori-software.htm;
           }
-          location "/it/jobs/30-detail.htm" {
-            rewrite ^(.*)$ "/it/jobpositions/open-source-project-leader.htm" redirect;
+          location ~* "^/it/jobs/30-detail.htm" {
+            return 301 https://teamdigitale.governo.it/it/jobpositions/open-source-project-leader.htm;
           }
-          location "/en/jobs/17-detail.htm" {
-            rewrite ^(.*)$ "/en/jobpositions/big-data-architect.htm" redirect;
+          location ~* "^/en/jobs/17-detail.htm" {
+            return 301 https://teamdigitale.governo.it/en/jobpositions/big-data-architect.htm;
           }
-          location "/en/jobs/18-detail.htm" {
-            rewrite ^(.*)$ "/en/jobpositions/cybersecurity.htm" redirect;
+          location ~* "^/en/jobs/18-detail.htm" {
+            return 301 https://teamdigitale.governo.it/en/jobpositions/cybersecurity.htm;
           }
-          location "/en/jobs/19-detail.htm" {
-            rewrite ^(.*)$ "/en/jobpositions/mobile-app-development.htm" redirect;
+          location ~* "^/en/jobs/19-detail.htm" {
+            return 301 https://teamdigitale.governo.it/en/jobpositions/mobile-app-development.htm;
           }
-          location "/en/jobs/20-detail.htm" {
-            rewrite ^(.*)$ "/en/jobpositions/digital-payments.htm" redirect;
+          location ~* "^/en/jobs/20-detail.htm" {
+            return 301 https://teamdigitale.governo.it/en/jobpositions/digital-payments.htm;
           }
-          location "/en/jobs/21-detail.htm" {
-            rewrite ^(.*)$ "/en/jobpositions/product-ux-ui.htm" redirect;
+          location ~* "^/en/jobs/21-detail.htm" {
+            return 301 https://teamdigitale.governo.it/en/jobpositions/product-ux-ui.htm;
           }
-          location "/en/jobs/22-detail.htm" {
-            rewrite ^(.*)$ "/en/jobpositions/content-design.htm" redirect;
+          location ~* "^/en/jobs/22-detail.htm" {
+            return 301 https://teamdigitale.governo.it/en/jobpositions/content-design.htm;
           }
-          location "/en/jobs/23-detail.htm" {
-            rewrite ^(.*)$ "/en/jobpositions/metrics-analytics.htm" redirect;
+          location ~* "^/en/jobs/23-detail.htm" {
+            return 301 https://teamdigitale.governo.it/en/jobpositions/metrics-analytics.htm;
           }
-          location "/en/jobs/27-detail.htm" {
-            rewrite ^(.*)$ "/en/jobpositions/international-collaborations.htm" redirect;
+          location ~* "^/en/jobs/27-detail.htm" {
+            return 301 https://teamdigitale.governo.it/en/jobpositions/international-collaborations.htm;
           }
-          location "/en/jobs/31-detail.htm" {
-            rewrite ^(.*)$ "/en/jobpositions/software-developers.htm" redirect;
+          location ~* "^/en/jobs/31-detail.htm" {
+            return 301 https://teamdigitale.governo.it/en/jobpositions/software-developers.htm;
           }
-          location "/en/jobs/32-detail.htm" {
-            rewrite ^(.*)$ "/en/jobpositions/technical-project-manager.htm" redirect;
+          location ~* "^/en/jobs/32-detail.htm" {
+            return 301 https://teamdigitale.governo.it/en/jobpositions/technical-project-manager.htm;
           }
-          location "/en/jobs/15-detail.htm" {
-            rewrite ^(.*)$ "/en/jobpositions/cto.htm" redirect;
+          location ~* "^/en/jobs/15-detail.htm" {
+            return 301 https://teamdigitale.governo.it/en/jobpositions/cto.htm;
           }
-          location "/en/jobs/16-detail.htm" {
-            rewrite ^(.*)$ "/en/jobpositions/applied-data-scientist.htm" redirect;
+          location ~* "^/en/jobs/16-detail.htm" {
+            return 301 https://teamdigitale.governo.it/en/jobpositions/applied-data-scientist.htm;
           }
-          location "/en/jobs/24-detail.htm" {
-            rewrite ^(.*)$ "/en/jobpositions/developer-relations.htm" redirect;
+          location ~* "^/en/jobs/24-detail.htm" {
+            return 301 https://teamdigitale.governo.it/en/jobpositions/developer-relations.htm;
           }
-          location "/en/jobs/25-detail.htm" {
-            rewrite ^(.*)$ "/en/jobpositions/communication-pr.htm" redirect;
+          location ~* "^/en/jobs/25-detail.htm" {
+            return 301 https://teamdigitale.governo.it/en/jobpositions/communication-pr.htm;
           }
-          location "/en/jobs/28-detail.htm" {
-            rewrite ^(.*)$ "/en/jobpositions/technical-assistant.htm" redirect;
+          location ~* "^/en/jobs/28-detail.htm" {
+            return 301 https://teamdigitale.governo.it/en/jobpositions/technical-assistant.htm;
           }
-          location "/en/jobs/26-detail.htm" {
-            rewrite ^(.*)$ "/en/jobpositions/regulatory-affairs.htm" redirect;
+          location ~* "^/en/jobs/26-detail.htm" {
+            return 301 https://teamdigitale.governo.it/en/jobpositions/regulatory-affairs.htm;
           }
           # woff fonts should not be zipped.
           location ~* \.(?:woff|woff2)$ {
