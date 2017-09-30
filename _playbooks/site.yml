@@ -115,6 +115,54 @@
           location "/it/jobs/30-detail.htm" {
             rewrite ^(.*)$ "/it/jobpositions/open-source-project-leader.htm" redirect;
           }
+          location "/en/jobs/17-detail.htm" {
+            rewrite ^(.*)$ "/en/jobpositions/big-data-architect.htm" redirect;
+          }
+          location "/en/jobs/18-detail.htm" {
+            rewrite ^(.*)$ "/en/jobpositions/cybersecurity.htm" redirect;
+          }
+          location "/en/jobs/19-detail.htm" {
+            rewrite ^(.*)$ "/en/jobpositions/mobile-app-development.htm" redirect;
+          }
+          location "/en/jobs/20-detail.htm" {
+            rewrite ^(.*)$ "/en/jobpositions/digital-payments.htm" redirect;
+          }
+          location "/en/jobs/21-detail.htm" {
+            rewrite ^(.*)$ "/en/jobpositions/product-ux-ui.htm" redirect;
+          }
+          location "/en/jobs/22-detail.htm" {
+            rewrite ^(.*)$ "/en/jobpositions/content-design.htm" redirect;
+          }
+          location "/en/jobs/23-detail.htm" {
+            rewrite ^(.*)$ "/en/jobpositions/metrics-analytics.htm" redirect;
+          }
+          location "/en/jobs/27-detail.htm" {
+            rewrite ^(.*)$ "/en/jobpositions/international-collaborations.htm" redirect;
+          }
+          location "/en/jobs/31-detail.htm" {
+            rewrite ^(.*)$ "/en/jobpositions/software-developers.htm" redirect;
+          }
+          location "/en/jobs/32-detail.htm" {
+            rewrite ^(.*)$ "/en/jobpositions/technical-project-manager.htm" redirect;
+          }
+          location "/en/jobs/15-detail.htm" {
+            rewrite ^(.*)$ "/en/jobpositions/cto.htm" redirect;
+          }
+          location "/en/jobs/16-detail.htm" {
+            rewrite ^(.*)$ "/en/jobpositions/applied-data-scientist.htm" redirect;
+          }
+          location "/en/jobs/24-detail.htm" {
+            rewrite ^(.*)$ "/en/jobpositions/developer-relations.htm" redirect;
+          }
+          location "/en/jobs/25-detail.htm" {
+            rewrite ^(.*)$ "/en/jobpositions/communication-pr.htm" redirect;
+          }
+          location "/en/jobs/28-detail.htm" {
+            rewrite ^(.*)$ "/en/jobpositions/technical-assistant.htm" redirect;
+          }
+          location "/en/jobs/26-detail.htm" {
+            rewrite ^(.*)$ "/en/jobpositions/regulatory-affairs.htm" redirect;
+          }
           # woff fonts should not be zipped.
           location ~* \.(?:woff|woff2)$ {
             expires max;
