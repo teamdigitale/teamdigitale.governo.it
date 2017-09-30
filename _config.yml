@@ -56,3 +56,6 @@ exclude:
   
 sass:
     style: compressed
+
+# Include
+include: [.htaccess]
