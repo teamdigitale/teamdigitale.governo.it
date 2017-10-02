@@ -11,6 +11,7 @@ linkedin_url:
 ref: carlo-contavalli
 parent_ref: team
 start_date: 9 gennaio 2017
+end_date: giugno 2017
 period_provided: fino al 16 settembre 2018
 annual_compensation: € 100.000
 approved_by_court: 3 maggio 2017
