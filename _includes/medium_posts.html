@@ -1,11 +1,12 @@
-{% assign posts_per_row = 3.0 %}
-{% assign max_rows = 6 %}
+{% assign posts_per_row = 3 %}
+{% assign max_rows = 10 %}
 {% assign posts = site.medium_feed | where: "medium_detected_lang", page.lang | sort: "medium_firstpublished_at" | reverse %}
 {% assign cover_post = posts.first %}
 {% assign max_other_posts = posts_per_row | times: max_rows %}
 {% assign other_posts = posts | tail | take: max_other_posts %}
 {% assign tot_other_posts = other_posts.size %}
-{% assign tot_post_rows = other_posts.size | divided_by: posts_per_row | ceil %}
+{% assign tot_post_rows = (other_posts.size / posts_per_row.to_f).ceil %}
+
 
 <div id="medium" style="min-height:100px;">
 
