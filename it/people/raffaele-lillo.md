@@ -10,6 +10,10 @@ medium_user:
 linkedin_url: https://www.linkedin.com/in/raffaelelillo
 ref: raffaele-lillo
 parent_ref: team
+start_date: 24 ottobre 2016
+period_provided: fino al 16 settembre 2018
+annual_compensation: € 120.000
+approved_by_court: 29 novembre 2016
 ---
 Professionalmente mi definirei un “Business Scientist”, appassionato di Machine Learning e Predictive Analytics e interessato alle loro applicazioni in ambito business e management.
 
@@ -23,10 +27,3 @@ L’incontro con il Team per la Trasformazione Digitale è stato una scoperta ca
 
 Fuori dal lavoro, sono: marito di Laura, schermidore, lettore accanito di gialli e, di tanto in tanto, strimpello la chitarra.
 
-Data inizio: 24 ottobre 2016
-
-Periodo previsto: fino al 16 settembre 2018
-
-Compenso su base annua:  € 120.000
-
-Registrazione in Corte dei Conti:  29 novembre 2016

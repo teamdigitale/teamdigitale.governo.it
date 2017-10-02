@@ -9,6 +9,10 @@ medium_user:
 linkedin_url:
 ref: fabiana-lanotte
 parent_ref: team
+start_date: 15 settembre 2017
+period_provided: fino al 16 settembre 2018
+annual_compensation: € 60.000
+approved_by_court: 3 maggio 2017
 ---
 Sono una software developer e una donna, insomma un ago in un pagliaio per la realtà italiana.
 
@@ -34,10 +38,3 @@ Quando ho appreso la notizia che Diego Piacentini stava formando un team per la 
 
 Ed ora eccomi qui, con la solita valigia, pronta a trasferirmi per una nuova grande esperienza.
 
-Data inizio: 15 gennaio 2017
-
-Periodo previsto: fino al 16 settembre 2018
-
-Compenso su base annua: € 60.000
-
-Registrazione in Corte dei Conti: 3 maggio 2017

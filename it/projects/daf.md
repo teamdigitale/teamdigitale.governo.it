@@ -6,9 +6,6 @@ layout: project
 ref: daf
 parent_ref: projects
 people: [raffaele-lillo, fabiana-lanotte, david-greco, alessandro-ercolani ]
-people_fixed_period:
-  - ref: david-greco
-    period: '04/2017 - 09/2017'
 toc: true
 medium_tag: big-data
 forum_category: 'piano-triennale/dati'

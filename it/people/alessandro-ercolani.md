@@ -10,6 +10,10 @@ medium_user:
 linkedin_url: https://it.linkedin.com/in/alessandroercolani
 ref: alessandro-ercolani
 parent_ref: team
+start_date: 15 gennaio 2017
+period_provided: fino al 16 settembre 2018
+annual_compensation: € 90.000
+approved_by_court: 3 maggio 2017
 ---
 Sono un programmatore da circa 14 anni e purtroppo o per fortuna - ho ancora l’entusiasmo di un ragazzo - ho iniziato a programmare tardi, quando avevo già ventiquattro anni. Dopo alcune esperienze di lavoro ed essere stato anche un neet, - not engaged in education, employment or training (per tutti c'è speranza) per migliorare la mia condizione mi sono iscritto all’universitá. Sono laureato in scienze cognitive all’Università di Trento (2003 - 2006) e ho un Master in Computer Science dell’Università di Bolzano (2006 - 2009) e mi appassionano le neuroscienze computazionali.
 
@@ -24,11 +28,3 @@ Mi sono fatto avanti per entrare nel Team subito dopo la lettera di Diego, colpi
 Ho conosciuto Diego al mio primo colloquio per entrare nel team, dopo essere stato selezionato nella lista dei possibili candidati e sono stato subito contagiato dal suo entusiasmo e dal suo ottimismo. Inoltre mi ha molto colpito come il processo di selezione fosse fatto di colloqui e test e quindi identico a quello delle grandi aziende tecnologiche.
 
 Sono un uomo molto fortunato, ho trovato una donna splendida senza la quale non sarei qui (ma probabilmente ancora nelle terre di mezzo a cercare me stesso), ho un figlio di quattro anni che mi adora, e uno di uno che aveva talmente fretta di venire al mondo che è nato tra le mie mani in un distributore di benzina. E poi farò il lavoro dei miei sogni, se non è fortuna questa.
-
-Data inizio: 15 gennaio 2017
-
-Periodo previsto: fino al 16 settembre 2018
-
-Compenso su base annua: € 90.000
-
-Registrazione in Corte dei Conti: 3 maggio 2017

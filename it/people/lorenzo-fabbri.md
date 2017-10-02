@@ -10,6 +10,10 @@ medium_user: lorenzofabbri
 linkedin_url: https://it.linkedin.com/in/lorenzofabbri
 ref: lorenzo-fabbri
 parent_ref: team
+start_date: 9 gennaio 2017
+period_provided: fino al 16 settembre 2018
+annual_compensation: € 90.000
+approved_by_court: 3 maggio 2017
 ---
 Era la fine di settembre quando lessi che stava nascendo un gruppo di lavoro per la trasformazione digitale del Paese e mi trovai a pensare: “*Ecco, questo è quello che mi piacerebbe davvero fare*”. E dopo pochi mesi, eccomi qui: all’interno del Team mi occuperò di *Content Design*, quindi di analisi e comprensione dei bisogni degli utenti, organizzazione dei contenuti e dei servizi, con un’attenzione particolare alla semplificazione.
 
@@ -23,10 +27,3 @@ Ricordo la volta in cui davvero ho capito come funziona Google ed è stato uno s
 
 Se non sono online, è perché sto leggendo *Le favole al telefono*, *La bella addormentata nel fosso* (adattamento) o qualche altra storia insieme ai piccoli Caterina e Leonardo. Se non sono a Roma, è perché amo viaggiare, specialmente con Angela.
 
-Data inizio: 9 gennaio 2017
-
-Periodo previsto: fino al 16 settembre 2018
-
-Compenso su base annua: € 90.000
-
-Registrazione in Corte dei Conti: 3 maggio 2017

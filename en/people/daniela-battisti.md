@@ -10,6 +10,10 @@ medium_user:
 linkedin_url:
 ref: daniela-battisti
 parent_ref: team
+start_date: March 10, 2017
+period_provided: until September 16, 2018
+annual_compensation: € 90,000
+approved_by_court: April 10, 2017
 ---
 I have a degree in Lettere Classiche (Università degli Studi di Urbino) and a Ph.D. in Classics (Rutgers). By training, I am a classical philologist, one of those weird individuals studying papyri and manuscripts in ancient Greek and Latin.  My area of expertise is ancient rhetoric, political and ideological propaganda in antiquity, and cultural anthropology.
 
@@ -33,10 +37,3 @@ I did not know Diego personally. I met him briefly and talked to him for about 1
 
 I applied for the International Relations position because I strongly believed in the Team’s vision. I am very enthusiastic about the prospect of contributing to the Team’s mission.
 
-Start Date: March 10, 2017
-
-Period Provided: until September 16, 2018
-
-Annual Compensation:  € 90,000
-
-Approved by the Court of Auditors:  April 10, 2017

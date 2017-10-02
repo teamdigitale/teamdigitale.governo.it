@@ -10,6 +10,10 @@ medium_user:
 linkedin_url:
 ref: mirko-calvaresi
 parent_ref: team
+start_date: January 31, 2017
+period_provided: until September 16, 2018
+annual_compensation: € 80,000
+approved_by_court: May 3, 2017
 ---
 I am passionate about the web up from 1996 when I made my first web site on virtual communities described by Howard Rheingold, but I think the best definition of the technologies that I love has given Italo Calvino in "American Lessons":
 
@@ -30,11 +34,3 @@ I have a degree in Computer Engineering and a Communication and Marketing; I spe
 I am intrigued to the project for the clean and simple style of his presentation and I sent my short CV in English. I received the team's call after a few weeks, but what convinced me was the selection process to which I was subjected (including the code test) and transparency and human qualities that I met in the encounter with Diego.
 
 My passions are my wife Barbara and my sons Leonardo and Vittoria, who take me by the hand to the earth to the things that really matter.
-
-Start Date: January 31, 2017
-
-Period Provided: until September 16, 2018
-
-Annual Compensation:  € 80,000
-
-Approved by the Court of Auditors:  May 3, 2017

@@ -10,6 +10,8 @@ medium_user: diegopia
 linkedin_url: https://www.linkedin.com/in/diego-piacentini-612597
 ref: diego-piacentini
 parent_ref: team
+start_date: September 16, 2016
+period_provided: until September 16, 2018
 ---
 Diego Piacentini has started in August 2016 a new activity, working pro-bono for two years for the Italian government and helping with the digital transformation of the Public Administration.
 
@@ -23,6 +25,3 @@ Diego serves as member of the Advisory Board and is a prominent mentor of Endeav
 
 Diego holds a degree in Economics from Bocconi University of Milan and was awarded “Bocconiano dell’anno” in 2010.
 
-Start Date:  September 16, 2016
-
-Period Provided: until September 16, 2018

@@ -10,6 +10,10 @@ medium_user: guidoscorza
 linkedin_url:
 ref: guido-scorza
 parent_ref: team
+start_date: 31 ottobre 2016
+period_provided: fino al 16 settembre 2018
+annual_compensation: € 75.000
+approved_by_court: 29 novembre 2016
 ---
 Mi sono laureato in Giurisprudenza nel 1996, alla LUISS con una tesi sulla tutela giuridica del software e ho poi conseguito un dottorato di ricerca in informatica giuridica e diritto dell’informatica presso l’Università degli Studi di Bologna.
 
@@ -35,10 +39,3 @@ Coincidenze e circostanze fortuite, in questa occasione, mi hanno premiato e ne 
 
 Curioso di natura, appassionato di tecnologia e innovazione - sono stato indeciso fino all'ultimo tra iscrivermi a giurisprudenza o ingegneria e alla fine avevo scelto di fare il giornalista [ma poi il destino ha fatto il resto!] - adoro studiare, capire, leggere e scrivere.
 
-Data inizio:  31 ottobre 2016
-
-Periodo previsto: fino al 16 settembre 2018
-
-Compenso su base annua:  € 75.000
-
-Registrazione in Corte dei Conti:  29 novembre 2016

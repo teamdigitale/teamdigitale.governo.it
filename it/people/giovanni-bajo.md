@@ -10,6 +10,10 @@ medium_user: giovannibajo
 linkedin_url: https://www.linkedin.com/in/giovannibajo
 ref: giovanni-bajo
 parent_ref: team
+start_date: 31 ottobre 2016
+period_provided: fino al 16 settembre 2018
+annual_compensation: € 78.000
+approved_by_court: 29 novembre 2016
 ---
 Ho iniziato a programmare fin da piccolo, su un fido Commodore 64 che papà mi comprò in giovane età. Dopo un breve inizio nell’industria dei videogiochi, ho conosciuto Linux e il mondo del software libero, e mi ci sono dedicato completamente e con passione, costruendomi una carriera prima da consulente e poi da imprenditore.
 
@@ -29,10 +33,4 @@ Entrato subito nel mondo del lavoro a 19 anni, ho portato avanti gli studi unive
 
 Nella vita privata, cerco di passare le mie ore libere con Alessandra, mia moglie e compagna di vita ormai da 12 anni, che mi sopporta e mi è vicina anche quando le dedico meno tempo di quello che si meriterebbe.
 
-Data inizio: 31 ottobre 2016
 
-Periodo previsto: fino al 16 settembre 2018
-
-Compenso su base annua: € 78.000
-
-Registrazione in Corte dei Conti: 29 novembre 2016

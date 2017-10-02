@@ -10,6 +10,10 @@ medium_user:
 linkedin_url: https://it.linkedin.com/in/alessandroercolani
 ref: alessandro-ercolani
 parent_ref: team
+start_date: January 15, 2017
+period_provided: until September 16, 2018
+annual_compensation: € 90,000
+approved_by_court: May 3, 2017
 ---
 I’ve been a programmer for the last 14 years. Unfortunately or by pure luck, I still have the healthy enthusiasm of a kid. I started late, I was already 24. After a few work experiences and after being a neet (not engaged in education, employment or training), there’s hope for everyone, I enrolled in college to improve my situation. In 2006 I got my degree in Cognitive Sciences and IT at Trento University and in 2009 I got my Master in Computer Sciences at Bolzano University: I have a passion for computational neuro sciences.
 
@@ -24,11 +28,3 @@ I applied for the Team after reading Diego’s letter, struck by the idea of giv
 I met Diego during my interview process, after having been selected in a short list of candidates. I was immediately infected by his enthusiasm and optimism. I was impressed by the selection process based on tests and interviews, identical to the ones used by major technological companies.
 
 I’m a lucky man. I found a wonderful woman; without her I would not be here now, but probably still fighting in Middle Earth searching for myself. I have a 4 year old son who adores me and another child just one year old who was so eager to arrive in this world that he was born in my hands in a gas station. I will have the job of my dreams. Call it luck!
-
-Start Date: January 15, 2017
-
-Period Provided: until September 16, 2018
-
-Annual Compensation:  € 90,000
-
-Approved by the Court of Auditors:  May 3, 2017
