@@ -13,12 +13,8 @@
 				<a href="{{ person.url }}">
 	                <img class="img-circle img-responsive" src="/images/team/{{ person.ref }}.jpg" alt="{{ person.title }}">
 	            </a>
-				<h1 class="h4">{{person.title}}</h1>
-				<h2 class="h5">{{person.role}}
-					{% if fixedperiod != nil %}
-					<small>| {{fixedperiod.period}}</small>
-					{% endif %}
-				</h2>
+				<h1 class="h4"><a href="{{ person.url }}">{{person.title}}</a></h1>
+				<h2 class="h5">{{person.role}}</h2>
 				
 			</article>
 		{% endfor %}
