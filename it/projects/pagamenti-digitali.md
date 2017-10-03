@@ -30,7 +30,7 @@ timeline:
     status: todo
 twitter_tag: pagopa
 tweetdeck_id: 913421951103897600
-sitemap: false
+
 ---
 
 ### In breve

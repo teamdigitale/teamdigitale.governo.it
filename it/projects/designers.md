@@ -52,7 +52,7 @@ timeline:
     title: Kit service design e user research
     desc: Personas, userjourney maps e altri strumenti di lavoro 
     status: todo
-sitemap: false    
+  
     
 ---
 

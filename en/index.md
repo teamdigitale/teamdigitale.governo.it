@@ -2,7 +2,7 @@
 title: Blog
 lang: en
 ref: homepage
-menu_position: 5
+menu_position: 3
 layout: default
 image: /images/logo_big.png
 ---

@@ -12,7 +12,7 @@ forum_category: spid
 forum_limit: 3
 twitter_tag: spid
 tweetdeck_id: 913425127978696706
-sitemap: false
+
 ---
 
 ### In breve

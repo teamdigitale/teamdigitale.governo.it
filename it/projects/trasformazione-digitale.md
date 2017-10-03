@@ -10,7 +10,6 @@ toc: true
 medium_tag: trasformazione-digitale
 forum_category: piano-triennale
 forum_limit: 3
-sitemap: false
 ---
 
 ### In breve

@@ -12,7 +12,7 @@ forum_category:
 forum_limit: 3
 twitter_tag: responsible%20disclosure
 tweetdeck_id: 913424433666232320
-sitemap: false
+
 ---
 
 ### In breve

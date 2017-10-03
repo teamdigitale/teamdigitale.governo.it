@@ -12,7 +12,7 @@ forum_category: anpr
 forum_limit: 3
 twitter_tag: anpr
 tweetdeck_id: 913424743981895680
-sitemap: false
+
 ---
 
 ### In breve

@@ -4,7 +4,7 @@ lang: en
 layout: default
 permalink: /en/43-content.htm
 ref: join-us
-menu_position: 3
+menu_position: 4
 ---
 
 # Join us

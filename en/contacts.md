@@ -5,7 +5,7 @@ layout: default_with_toc
 permalink: /en/contacts.htm
 ref: contacts
 toc: true
-sitemap: false
+menu_position: 5
 ---
 # Contacts
 

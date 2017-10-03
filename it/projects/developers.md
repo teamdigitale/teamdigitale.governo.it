@@ -34,7 +34,7 @@ timeline:
     title: Superamento del modello del "Catalogo del Riuso"
     desc: Pubblicheremo delle nuove linee guida che supereranno l'attuale "Catalogo del Riuso" di AgID, promuovendo invece la pubblicazione di codice con licenza open-source, come sistema superiore per convidere il codice tra diverse amministrazioni, senza necessità di contratti.
     status: todo
-sitemap: false
+
 
 ---
 
