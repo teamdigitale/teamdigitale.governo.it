@@ -33,9 +33,11 @@ tweetdeck_names:
   it: team-digitale
   en: digital-team
 
-# Medium posts importer
+# Medium posts importer / display settings
 medium_archive_url: https://medium.com/team-per-la-trasformazione-digitale
 medium_archive_url_eng: https://medium.com/team-per-la-trasformazione-digitale/english
+medium_posts_per_row: 3
+medium_max_rows: 10
 
 # SEO
 logo: /images/logo_big.png
