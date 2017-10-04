@@ -30,7 +30,7 @@ timeline:
     status: todo
 twitter_tag: pagopa
 tweetdeck_id: 913421951103897600
-
+dashboard_url: https://dashboard.teamdigitale.governo.it/public/dashboard/2c8ee2ee-fa84-4dbf-8b6a-e7fb5f9ca950
 ---
 
 ### In breve
@@ -61,3 +61,5 @@ A breve queste novità saranno visibili e i comuni più grandi stanno già adere
 <div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="it" data-size="100" data-tag="3"></div>
 <script type="text/javascript" src="/js/ipress.js"></script>
 
+### Dashboard
+{% include dashboard.html %}
