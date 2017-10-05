@@ -6,6 +6,7 @@ jazz_url: https://teamdigitale.applytojob.com/apply/9RaqKa7BL4/Technical-Writer
 iframeheight: 700
 layout: job
 ref: technical-writer
+archived: true
 parent_ref: join-us
 ---
 

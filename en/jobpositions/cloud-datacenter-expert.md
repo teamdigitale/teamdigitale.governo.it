@@ -6,6 +6,7 @@ jazz_url: https://teamdigitale.applytojob.com/apply/1NroAwJ06t/Cloud-And-Data-Ce
 iframeheight: 700
 layout: job
 ref: esperto-cloud-datacenter
+archived: true
 parent_ref: join-us
 ---
 
