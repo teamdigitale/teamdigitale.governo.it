@@ -5,7 +5,6 @@ permalink: /it/jobpositions/funzionario-amministrativo-supporto-acquisti.htm
 jazz_url: https://teamdigitale.applytojob.com/apply/MQMOLbIarP/Funzionario-Amministrativo-Di-Supporto-Agli-Acquisti-di-Ruolo-Nella-Pubblica-Amministrazione-Centrale-O-Locale
 iframeheight: 700
 layout: job
-is_new: true
 parent_ref: join-us
 ---
 

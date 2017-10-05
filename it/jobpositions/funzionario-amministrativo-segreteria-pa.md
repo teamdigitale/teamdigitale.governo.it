@@ -5,7 +5,6 @@ permalink: /it/jobpositions/funzionario-amministrativo-segreteria-pa.htm
 jazz_url: https://teamdigitale.applytojob.com/apply/Crqo7v/Assistente-Amministrativo-E-Di-Segreteria
 iframeheight: 700
 layout: job
-is_new: true
 parent_ref: join-us
 ---
 
