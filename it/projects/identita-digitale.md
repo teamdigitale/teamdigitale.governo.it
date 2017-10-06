@@ -30,7 +30,6 @@ Nel blog troverete la nostra visione del progetto e il ruolo che ricoprirà nel 
 
 {% include medium_project.html %}
 
-{% include twitter_timeline.html %}
 
 ### Strumenti 
 
