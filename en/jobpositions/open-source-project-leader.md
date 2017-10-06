@@ -6,6 +6,7 @@ jazz_url: https://teamdigitale.applytojob.com/apply/DllmTtP8ft/2-Open-Source-Pro
 iframeheight: 700
 layout: job
 ref: open-source-project-leader
+archived: true
 parent_ref: join-us
 ---
 
