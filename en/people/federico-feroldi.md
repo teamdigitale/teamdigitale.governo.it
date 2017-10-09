@@ -10,6 +10,10 @@ medium_user:
 linkedin_url: http://linkedin.com/in/feroldi
 ref: federico-feroldi
 parent_ref: team
+start_date: January 9, 2017
+period_provided: until September 16, 2018
+annual_compensation: € 100,000
+approved_by_court: May 3, 2017
 ---
 I was 6 when my hands landed on a computer for the first time. It was a ZX80 that my father used to teach me the basics of programming. Coding software became first my passion, then my profession. In the ‘80s and ‘90s I began to experiment with communication networks with BBSs first, then Fidonet and finally the Internet.
 
@@ -21,10 +25,3 @@ I learned about the Digital Transformation Team while I was in Italy, after almo
 
 The Digital Transformation Team is, for me, a concrete opportunity to prove that we can be competitive on the international stage, we can improve the day to day life of our fellow citizens, we can contribute to push our country’s technological growth, and we can showcase the Italian talents so admired and sought-after abroad. A unique challenge with many important personal implications. By moving to another town I will have much less time to spend with Luisa, my wife and friend, with whom I have experienced so many adventures and who has gave me love and moral support since the beginning, leading me to accept this opportunity. I will do my best to give the Team my 20 years of experience in developing web technologies and products. My goal? Making the Italian digital infrastructure a model for the European and world communities.
 
-Start Date: January 9, 2017
-
-Period Provided: until September 16, 2018
-
-Annual Compensation:  € 100,000
-
-Approved by the Court of Auditors:  May 3, 2017

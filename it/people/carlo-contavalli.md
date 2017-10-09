@@ -10,6 +10,11 @@ medium_user: ccontavalli
 linkedin_url:
 ref: carlo-contavalli
 parent_ref: team
+start_date: 9 gennaio 2017
+end_date: giugno 2017
+period_provided: fino al 16 settembre 2018
+annual_compensation: € 100.000
+approved_by_court: 3 maggio 2017
 ---
 La mia è una storia simile a quella di molti altri ragazzi appassionati di informatica e di programmazione. Ho iniziato ancora bambino, prima con un vecchio MSX, poi il DOS, e infine scoprendo GNU/Linux e il Software Libero.
 
@@ -35,10 +40,3 @@ Mandato il curriculum, incontrato Diego e conosciute le persone incredibili che 
 
 Ho quindi preso aspettativa dal mio lavoro e accettato di trasferirmi per qualche tempo a Roma con tutta la famiglia (e chissà che anche i piccolini non migliorino il loro italiano e che in futuro evitino frasi come “I’m gratting my gambe”).
 
-Data inizio: 9 gennaio 2017
-
-Periodo previsto: fino al 16 settembre 2018
-
-Compenso su base annua: € 100.000
-
-Registrazione in Corte dei Conti: 3 maggio 2017

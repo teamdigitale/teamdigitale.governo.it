@@ -1,4 +1,14 @@
 {% assign twitter_user = page.twitter_user | default: site.twitter_username[page.lang] %}
+{% assign tweetdeck_name = site.tweetdeck_names[page.lang] %}
 
-<a class="twitter-timeline"  href="https://twitter.com/{{twitter_user}}" data-height="600" >Tweets by {{page.title}}</a>
+<div>
 
+{% if page.twitter_tag != nil and page.tweetdeck_id != nil %}
+	<a class="twitter-timeline"
+	   href="https://twitter.com/search?q={{page.twitter_tag}}%20list%3AteamdigitaleIT%2F{{tweetdeck_name}}" data-width="100%" 
+	   data-partner="tweetdeck" data-widget-id="{{page.tweetdeck_id}}">{{page.twitter_tag}} list:{{twitter_user}}/{{tweetdeck_name}}</a>
+{% else %}
+	<a class="twitter-timeline"  href="https://twitter.com/{{twitter_user}}" data-height="600" >Tweets by {{page.title}}</a>
+{% endif %}
+
+</div>

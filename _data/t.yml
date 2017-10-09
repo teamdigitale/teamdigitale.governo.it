@@ -113,6 +113,9 @@ PeriodProvided:
 StartDate:
   en: "Start Date"
   it: "Data inizio"
+EndDate:
+  en: "End Date"
+  it: "Data fine"
 FirstInTeam:
   en: "The first ones who joined our team:*"
   it: "Ecco i nuovi ingressi nel nostro team:"

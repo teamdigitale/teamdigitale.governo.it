@@ -10,6 +10,10 @@ medium_user: simonepiunno
 linkedin_url: https://it.linkedin.com/in/simone-piunno-a94ba91
 ref: simone-piunno
 parent_ref: team
+start_date: November 14, 2016
+period_provided: until September 16, 2018
+annual_compensation: € 150,000
+approved_by_court: November 29, 2016
 ---
 My passion for computers began when I was a kid and I wrote my program on a Commodore VIC20 when I was a toddler.   In the late 80s, before commercial Internet, I had already discovered the power of the network thanks to Fidonet BBSs that I used to exchange electronic messages with faraway friends, upsetting my parents with the sync noise of by 1200bps modem and more importantly with the high cost of telephone bills.
 
@@ -27,10 +31,3 @@ When I don't work, with my wife Francesca we take care of our 6 months daughter 
 
 I am one of those who never left because I was so lucky to find in Italy exciting international workplaces, with advanced projects and (most importantly) brilliant people who also became dear friends.   Indeed it's thanks to them that I got in touch with Diego. I hoped for years that a digital strategy eventually became a national priority and when Diego asked me to join the team I was excited to accept this challenge.
 
-Start Date: November 14, 2016
-
-Period Provided: until September 16, 2018
-
-Annual Compensation:  € 150,000
-
-Approved by the Court of Auditors:  November 29, 2016

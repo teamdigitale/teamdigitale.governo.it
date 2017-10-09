@@ -10,6 +10,10 @@ medium_user: giovannibajo
 linkedin_url: https://www.linkedin.com/in/giovannibajo
 ref: giovanni-bajo
 parent_ref: team
+start_date: October 31, 2016
+period_provided: until September 16, 2018
+annual_compensation: € 78,000
+approved_by_court: November 29, 2016
 ---
 I started programming as a child, on a trusty Commodore 64 that Dad bought me when I was young. After a brief start in the videogame industry, I met Linux and the free software world, and I decided to dedicate myself to it, completely and passionately, building my career first as a consultant and then as an entrepreneur.
 
@@ -27,10 +31,3 @@ I started working when I was 19 years old and have been pursuing my graduate stu
 
 In terms of my private life, I try to spend my free time with Alessandra, who has been my wife and partner in life for 12 years now, and who puts up with me and supports me even when I am unable to dedicate to her the time she deserves.
 
-Start Date:  October 31, 2016
-
-Period Provided: until September 16, 2018
-
-Annual Compensation:  € 78,000
-
-Approved by the Court of Auditors:  November 29, 2016

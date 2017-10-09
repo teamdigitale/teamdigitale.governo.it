@@ -309,6 +309,18 @@
 		text-decoration: none !important;
 	}
 }
+
+.toc-entry {
+	line-height: 1.2;
+	margin-bottom: 0.6em;
+	a {
+		line-height: 1.2;
+	}
+	&.toc-h1 {
+		display: none;
+	}
+}
+
 /* IPRESS */
 .iPress, .iPress>a, .iPress>ol>li, .iPress>p, .iPress>ul>li, .iPress p>a, .i-lineHeight-xl, .i-text-p {
     line-height: 1.55!important;
@@ -526,7 +538,7 @@ body.layout-project {
 }
 
 
-.navigation-hightlights a{ background: #00C5CA; font-size: .9em; white-space: nowrap; font-weight: bold; margin-left: 14px;}
+.navigation-hightlights a{ background: #00C5CA; font-size: .9em; white-space: nowrap; font-weight: bold; margin-left: 8px;}
 .navigation-hightlights a:nth-child(0) {margin-left: 0;}
 
 // Navigation highlight fix #245

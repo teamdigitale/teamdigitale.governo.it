@@ -37,6 +37,22 @@
 
 {{ content }}
 
+{% if page.start_date != nil %}
+  <p>{{site.data.t.StartDate[page.lang]}}: {{ page.start_date }}</p>
+{% endif %}
+{% if page.end_date != nil %}
+  <p>{{site.data.t.EndDate[page.lang]}}: {{ page.end_date }}</p>
+{% endif %}
+{% if page.period_provided != nil %}
+  <p>{{site.data.t.PeriodProvided[page.lang]}}: {{ page.period_provided }}</p>
+{% endif %}
+{% if page.annual_compensation != nil %}
+  <p>{{site.data.t.AnnualCompensation[page.lang]}}: {{ page.annual_compensation }}</p>
+{% endif %}
+{% if page.approved_by_court != nil %}
+  <p>{{site.data.t.ApprovedOn[page.lang]}}: {{ page.approved_by_court }}</p>
+{% endif %}
+
 {% if page.twitter_user != nil %}
   {% include twitter_timeline.html %}
 {% endif %}

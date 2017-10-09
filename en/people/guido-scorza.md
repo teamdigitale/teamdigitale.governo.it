@@ -10,6 +10,10 @@ medium_user: guidoscorza
 linkedin_url:
 ref: guido-scorza
 parent_ref: team
+start_date: October 31, 2016
+period_provided: until September 16, 2018
+annual_compensation: € 75,000
+approved_by_court: November 29, 2016
 ---
 I graduated in Law in 1996 at LUISS University with a thesis on the legal protection of software and I then obtained a PhD in legal informatics and computer law at the University of Bologna.
 
@@ -34,11 +38,3 @@ However, if I’m here, it probably means that we liked each other and that we a
 On this occasion, I was rewarded by coincidences and fortuitous circumstances and I'm happy about it, but I'm also aware that I'll need an open and continuous comparison with the community, being it extraordinarily rich in talent and expertise.
 
 I’m curious and passionate about technology and innovation by nature – I remember choosing at the very last minute whether to study law or engineering and in the end I chose to be a journalist [but then destiny chose for me!] – and I love to study, understand, read and write.
-
-Start Date:  October 31, 2016
-
-Period Provided: until September 16, 2018
-
-Annual Compensation:  € 75,000
-
-Approved by the Court of Auditors:  November 29, 2016

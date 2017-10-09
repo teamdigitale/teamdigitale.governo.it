@@ -10,6 +10,10 @@ medium_user:
 linkedin_url: https://it.linkedin.com/in/valeriopaolini
 ref: valerio-paolini
 parent_ref: team
+start_date: January 9, 2017
+period_provided: until September 16, 2018
+annual_compensation: € 80,000
+approved_by_court: May 3, 2017
 ---
 I’m 46, I live in Bologna, I’m married and the father of a digital native.  My passion for IT started when I was very young. Immediately after the inevitable Commodore 64 season everything became very serious when, at 15, I had to choose between an Apple Computer and a scooter: I didn’t have a single doubt and I took the Apple. It wasn’t cheap, but I believe it was one of my best choices ever.
 
@@ -27,10 +31,3 @@ I was intrigued by Diego Piacentini’s introduction to the project and I was mo
 
 I love Star Wars and James Bond movies: my favorite character is Q, the wizard in charge of technologies, played historically by Desmond Llewellyn. I love jazz and easy listening music. I am not a soccer fan, but every time my friends managed to bring me to a game, their team always wins.
 
-Start Date: January 9, 2017
-
-Period Provided: until September 16, 2018
-
-Annual Compensation:  € 80,000
-
-Approved by the Court of Auditors:  May 3, 2017

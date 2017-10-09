@@ -10,6 +10,10 @@ medium_user:
 linkedin_url:
 ref: mirko-calvaresi
 parent_ref: team
+start_date: 31 gennaio 2017
+period_provided: fino al 16 settembre 2018
+annual_compensation: € 80.000
+approved_by_court: 3 maggio 2017
 ---
 Sono appassionato di WEB dal 1996, quando ho realizzato il mio primo sito web sulle comunità virtuali descritte da Howard Rheingold, ma penso che la definizione migliore delle tecnologie che amo l’abbia data Italo Calvino in “Lezioni Americane” parlando di letteratura:
 
@@ -31,10 +35,3 @@ Mi sono incuriosito al progetto per lo stile semplice ed essenziale della sua pr
 
 Le mie passioni sono mia moglie Barbara e i miei figli Leonardo e Vittoria, che ogni giorno mi riportano per mano sulla terra alle cose che veramente contano.
 
-Data inizio: 31 gennaio 2017
-
-Periodo previsto: fino al 16 settembre 2018
-
-Compenso su base annua: € 80.000
-
-Registrazione in Corte dei Conti: 3 maggio 2017

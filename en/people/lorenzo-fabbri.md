@@ -10,6 +10,10 @@ medium_user: lorenzofabbri
 linkedin_url: https://it.linkedin.com/in/lorenzofabbri
 ref: lorenzo-fabbri
 parent_ref: team
+start_date: January 9, 2017
+period_provided: until September 16, 2018
+annual_compensation: € 90,000
+approved_by_court: May 3, 2017
 ---
 It was late September when I read that a working group dedicated to the Digital Transformation within the Italian Government was forming and I thought to myself: “This is exactly what I would like to do”. A few months later, here I am. I will be responsible for Content Design, which involves understanding user needs, organization of content and services, with special attention to simplification.
 
@@ -22,11 +26,3 @@ I have been involved in communication for 15 years. Over the last 10 I have take
 Once I really figured out how Google works, it was shocking. And when I figured out that I could spend the weekend binge watching, it was a shock too. I can remember having conversations with my dad about the quality of Wikipedia, then endless talks with a friend about what a digital community is (because Facebook did not even exist back then). Internet shapes our culture. It is the land of the curious. You cannot capture the Internet, if anything, the Internet captures you. At least this is how it was for me.
 
 If I’m not online, it’s because I’m reading *Le favole al telefono*, *La bella addormentata nel fosso (an adaptation)* or some other stories with my kids Caterina and Leonardo. If I’m not in Rome, it’s because I love travelling, especially with Angela.
-
-Start Date: January 9, 2017
-
-Period Provided: until September 16, 2018
-
-Annual Compensation:  € 90,000
-
-Approved by the Court of Auditors:  May 3, 2017
