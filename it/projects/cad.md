@@ -10,7 +10,7 @@ toc: true
 medium_tag: pubblica-amministrazione
 forum_category:
 forum_limit: 3
-sitemap: false
+
 ---
 
 ### In breve
@@ -23,7 +23,6 @@ Le regole, quelle di dettaglio, vanno tradotte in bit, mentre le convenzioni per
 
 {% include forum.html %}
 
-{% include twitter_timeline.html %}
 
 {% include ipress.html %}
 <div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="it" data-size="100" data-tag="12"></div>

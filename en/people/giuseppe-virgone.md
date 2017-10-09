@@ -10,6 +10,10 @@ medium_user: giuvir1999
 linkedin_url: https://it.linkedin.com/in/giuseppe-virgone-0420a144
 ref: giuseppe-virgone
 parent_ref: team
+start_date: December 5, 2016
+period_provided: until September 16, 2018
+annual_compensation: € 100,000
+approved_by_court: January 9, 2017
 ---
 I started working at 20 years old in the ICT banking sector. I grew up professionally covering many roles:  automation framework on mainframe, Logical Security and Identity Management. I worked for Sicilcassa, Banco di Sicilia, Capitalia Informatica and finally UGIS of Unicredit. The banking experience was very formative allowing me to know and investigate issues hard to know outside. Start working so young in such important companies and in amazing and challenging roles, he has led me to focus only on the job and give up the degree in Electronic Engineering (with great disappointment of my parents who strongly desired the title of their son as all Italian families).
 
@@ -25,10 +29,3 @@ My wife is Maria Pia, which bears my absences with great intelligence. She is my
 
 When I met Diego (before I knew him for his professional achievements in the world) I was excited and thrilled for the Digital Team project. A person like Diego who decides to devote part of their lives to contribute to the growth of the country, it is only a model to follow. I was immediately excited about the challenge and I think it's an opportunity not to be missed to modernize Italy.
 
-Start Date: December 5, 2016
-
-Period Provided: until September 16, 2018
-
-Annual Compensation:  € 100,000
-
-Approved by the Court of Auditors:  January 9, 2017

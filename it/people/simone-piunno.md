@@ -10,6 +10,10 @@ medium_user: simonepiunno
 linkedin_url: https://it.linkedin.com/in/simone-piunno-a94ba91
 ref: simone-piunno
 parent_ref: team
+start_date: 14 norembre 2016
+period_provided: fino al 16 settembre 2018
+annual_compensation: € 150.000
+approved_by_court: 29 novembre 2016
 ---
 Fin da piccolo ho sempre avuto la passione per l'Informatica e il mio primo programma l'ho scritto su un Commodore VIC20 quando ero ancora alle medie.  A fine anni 80, prima che arrivasse Internet, avevo già conosciuto la potenza della rete con le BBS Fidonet, che usavo per scambiare messaggi elettronici con amici in tutta Italia, facendo arrabbiare i miei genitori con i fischi del modem a 1200 bps e soprattutto per le salate bollette della SIP.  
 
@@ -26,11 +30,3 @@ Sono molto curioso e costantemente impegnato a investigare trend tecnologici inn
 Quando non lavoro, a casa insieme a mia moglie Francesca, coccoliamo nostra figlia Isabella che ha appena sei mesi e quando il tempo me lo permette mi emoziono cantando in un coro gospel.
 
 Faccio parte di quelli che non se ne sono mai andati perché ho avuto la fortuna di trovare in Italia ambienti stimolanti, internazionali, con progetti d’avanguardia e soprattutto brillanti compagni di viaggio che regolarmente sono diventati cari amici.  È stato proprio uno di questi a presentarmi a Diego.  Da anni speravo che il tema di una strategia digitale si imponesse finalmente nell'agenda nazionale e quando Diego mi ha proposto di entrare nella squadra ho accettato entusiasta questa sfida.
-
-Data inizio:  14 novembre 2016
-
-Periodo previsto: fino al 16 settembre 2018
-
-Compenso su base annua:  € 150.000
-
-Registrazione in Corte dei Conti:  29 novembre 2016

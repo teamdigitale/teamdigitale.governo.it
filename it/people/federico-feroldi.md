@@ -10,6 +10,10 @@ medium_user:
 linkedin_url: http://linkedin.com/in/feroldi
 ref: federico-feroldi
 parent_ref: team
+start_date: 9 gennaio 2017
+period_provided: fino al 16 settembre 2018
+annual_compensation: € 100.000
+approved_by_court: 3 maggio 2017
 ---
 Ho messo le mani per la prima volta su un computer all'età di 6 anni. Era uno ZX80 su cui mio padre mi insegnò i primi rudimenti di programmazione. Da quel momento l'informatica è diventata la mia passione e in seguito la mia professione. Tra gli anni '80 e '90 ho iniziato a esplorare il mondo delle reti di comunicazione, tramite BBS, Fidonet e successivamente attraverso Internet.
 
@@ -21,10 +25,3 @@ Quando sono venuto a conoscenza del progetto del Team per la Trasformazione Digi
 
 Il Team per la Trasformazione Digitale è per me un’opportunità concreta per dimostrare che anche noi possiamo essere competitivi a livello internazionale, per migliorare la vita dei cittadini, per contribuire a dare una spinta tecnologica al nostro Paese e per far emergere il talento per cui gli Italiani all'estero sono ammirati e ricercati. Una sfida unica con risvolti importanti anche a livello personale. Cambiando città, passerò molto meno tempo con Luisa, mia moglie e amica, con cui ho vissuto tante avventure e che mi ha appoggiato fin da subito, spingendomi ad accettare questa opportunità. Cercherò di mettere a disposizione del Team la mia ventennale esperienza nello sviluppo di tecnologie e di prodotti web con l'obiettivo di realizzare la visione di portare l'infrastruttura digitale italiana a essere un modello per la comunità europea e mondiale.
 
-Data inizio: 9 gennaio 2017
-
-Periodo previsto: fino al 16 settembre 2018
-
-Compenso su base annua: € 100.000
-
-Registrazione in Corte dei Conti: 3 maggio 2017

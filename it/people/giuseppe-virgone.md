@@ -10,6 +10,10 @@ medium_user: giuvir1999
 linkedin_url: https://it.linkedin.com/in/giuseppe-virgone-0420a144
 ref: giuseppe-virgone
 parent_ref: team
+start_date: 5 dicembre 2016
+period_provided: fino al 16 settembre 2018
+annual_compensation: € 100.000
+approved_by_court: 9 gennaio 2017
 ---
 Sono entrato nel mondo del lavoro all’età di vent’anni nel settore dell’*Information & Communication Technology* in ambito bancario. In questo ambiente sono cresciuto professionalmente, ricoprendo vari ruoli e occupandomi di automazione bancaria dei processi, di *Logical Security* e di *Identity Management*. Ho lavorato per Sicilcassa, Banco di Sicilia, Capitalia Informatica e infine per UGIS di Unicredit. L’esperienza bancaria è stata estremamente formativa, consentendomi di conoscere e approfondire tematiche difficilmente acquisibili all’esterno. Entrare nel mondo del lavoro così giovane in aziende di questa importanza e in ruoli stimolanti e impegnativi, da un lato mi ha entusiasmato, dall’altro mi ha portato a concentrarmi soltanto sulla crescita lavorativa e a rinunciare alla laurea dopo il diploma, non riuscendo più a frequentare i corsi di Ingegneria Elettronica, con grande delusione dei miei genitori che tenevano fortemente al titolo del loro figlio maggiore.
 
@@ -26,10 +30,3 @@ Sono sposato con Maria Pia, che sopporta le mie assenze con grande intelligenza.
 
 Conoscevo Diego solo di fama per i suoi successi professionali in aziende di frontiera globali. Quando ho letto il suo post in cui chiamava a raccolta quanti volessero contribuire alla missione di modernizzare il Paese, ho scritto d’impulso e di lì a poco ho avuto l’opportunità di conoscerlo personalmente. Il progetto mi ha entusiasmato sin dall’inizio e sono davvero felice di poter lavorare per una persona come lui che ha deciso di dedicare parte della propria vita per contribuire alla crescita del Paese.
 
-Data inizio: 5 dicembre 2016
-
-Periodo previsto: fino al 16 settembre 2018
-
-Compenso su base annua: € 100.000
-
-Registrazione in Corte dei Conti: 9 gennaio 2017

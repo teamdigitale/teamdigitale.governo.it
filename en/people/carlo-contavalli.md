@@ -10,6 +10,11 @@ medium_user: ccontavalli
 linkedin_url:
 ref: carlo-contavalli
 parent_ref: team
+start_date: January 9, 2017
+end_date: June 2017
+period_provided: until September 16, 2018
+annual_compensation: € 100,000
+approved_by_court: May 3, 2017
 ---
 My story is similar to that of many other computer enthusiasts. I started as a child, first with an old MSX, then the DOS, and finally discovered GNU/Linux and Free Software (free as in free speech, not free beer).
 
@@ -34,10 +39,3 @@ When I read about Team Digitale, I thought it was an incredible opportunity for 
 After sending my resume, meeting Diego and the incredible team he managed to put together, I became convinced that this was a once in a lifetime opportunity to bring about change.
 So I took a leave of absence from my job and agreed to move to Rome for some time with my whole family. And, who knows, maybe my little munchkins will improve their Italian and avoid sentences like "I'm gratting my gambe" in the future.
 
-Start Date: January 9, 2017
-
-Period Provided: until September 16, 2018
-
-Annual Compensation:  € 100,000
-
-Approved by the Court of Auditors:  May 3, 2017

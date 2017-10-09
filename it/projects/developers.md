@@ -34,7 +34,7 @@ timeline:
     title: Superamento del modello del "Catalogo del Riuso"
     desc: Pubblicheremo delle nuove linee guida che supereranno l'attuale "Catalogo del Riuso" di AgID, promuovendo invece la pubblicazione di codice con licenza open-source, come sistema superiore per convidere il codice tra diverse amministrazioni, senza necessità di contratti.
     status: todo
-sitemap: false
+
 
 ---
 
@@ -46,6 +46,7 @@ E' un cambiamento del modo in cui lavora la Pubblica Amministrazione, utilizzand
 per i principali linguaggi di programmazione e framework, API documentate pubblicamente, non con un linguaggio giuridico ma tecnico, 
 intorno alle quali poter coinvolgere una community di sviluppatori che crei innovazione.
 
+#### [Ulteriori informazioni](https://developers.italia.it){:target="_blank"}
 
 ### Il ruolo del Team
 

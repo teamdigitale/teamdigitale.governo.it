@@ -10,7 +10,7 @@ toc: true
 medium_tag:
 forum_category:
 forum_limit: 3
-sitemap: false
+
 ---
 
 ### In breve
@@ -19,5 +19,4 @@ Digitale e innovazione sono stati, sono e saranno naturali fattori di trasformaz
 
 In un contesto di questo genere vogliamo restituire al nostro Paese il ruolo che gli spetta nella comunità multistakeholder europea e internazionale che discute e stabilisce le regole della rete.
 
-{% include twitter_timeline.html %}
 

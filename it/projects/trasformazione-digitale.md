@@ -7,11 +7,9 @@ ref: trasformazione-digitale
 parent_ref: projects
 people: [simone-piunno]
 toc: true
-twitter_tag: piano%20triennale
 medium_tag: trasformazione-digitale
 forum_category: piano-triennale
 forum_limit: 3
-sitemap: false
 ---
 
 ### In breve
@@ -26,11 +24,9 @@ Il piano triennale è un documento di indirizzo strategico previsto dalla legge 
 
 ### Forum 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at congue ante, id varius justo. Maecenas tempor nisi a tellus placerat molestie. Nullam et placerat enim. 
-
 {% include forum.html %}
 
-{% include twitter_timeline.html %}
+
 
 {% include ipress.html %}
 <div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="it" data-size="100" data-tag="39"></div>

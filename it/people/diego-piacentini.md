@@ -10,6 +10,8 @@ medium_user: diegopia
 linkedin_url: https://www.linkedin.com/in/diego-piacentini-612597
 ref: diego-piacentini
 parent_ref: team
+start_date: 16 settembre 2016
+period_provided: fino al 16 settembre 2018
 ---
 Diego Piacentini ha iniziato una nuova attività dal mese di agosto 2016, lavorerà per due anni *pro bono* per il Governo italiano, dando il proprio aiuto nella trasformazione digitale della Pubblica Amministrazione.
 
@@ -24,7 +26,3 @@ Diego è membro dell’*Advisory Board* ed è un mentor di Endeavor Global.
 Si è laureato in Economia e Commercio presso l'Università Bocconi di Milano ed è stato premiato come "Bocconiano dell'anno" nel 2010.
 
 *Foto di Tommaso Mei*
-
-Data inizio:  16 settembre 2016
-
-Periodo previsto: fino al 16 settembre 2018

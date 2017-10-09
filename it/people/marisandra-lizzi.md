@@ -11,6 +11,10 @@ email: marisandra@teamdigitale.governo.it
 linkedin_url: https://it.linkedin.com/in/marisandra-lizzi-972337
 ref: marisandra-lizzi
 parent_ref: team
+start_date: 1 febbraio 2017
+period_provided: fino al 16 settembre 2018
+annual_compensation: € 80.000
+approved_by_court: 3 maggio 2017
 ---
 Sono  laureata in Scienze Politiche Indirizzo Economico e specializzata in Relazioni Pubbliche in un Master presso l’Istituto Superiore di Comunicazione (oggi IED). Giornalista pubblicista, dopo essermi occupata di Marketing e Formazione nei primi anni della mia carriera, dal 1998 ho fatto delle mie principali passioni, lettura, scrittura e Internet la mia professione. Da quella data, infatti, lavoro nel settore delle Relazioni Pubbliche con un focus particolare sull’ufficio stampa, prima in agenzia, presso Mavellia MS&L, poi in azienda e in seguito in Mirandola Comunicazione, agenzia che ho fondato nel 2002 su una collina tra il verde e i boschi dell’Appennino emiliano. Diverse le collaborazioni con enti di formazione su tematiche legate all’ufficio stampa, alla gestione di eventi e alle relazioni pubbliche in ambito di innovazione avanzata.
 
@@ -27,11 +31,3 @@ Scrivo moltissimo, ma firmo pochissimo. Adoro impersonare lo stile delle persone
 Il coraggio e la regia di tutto questo viene dal mio compagno di vita e di avventura, Mauro Sarina, che dopo aver calcato le scene di teatri in tutto il mondo, ha deciso di mettere radici e occuparsi di noi. Per un po’ la regia è stata dedicata al teatro, poi si è magicamente trasferita alla vita, alla regia dei nostri sogni e di quelli dei nostri ragazzi, Carlotta, 14 anni, con la passione per il canto e la musica, Riccardo, 10 anni con la passione del basket e degli scacchi. Sono loro a darmi la forza. Sono loro il primo tifo sfegatato per la missione di questo team. Ed è per loro che affronto con entusiasmo questa bellissima sfida.
 
 Frequento corsi di bioenergetica che sono un’ulteriore sintesi per quel benessere generale che coinvolge tutti i miei ambiti, di mamma, moglie e lavoratrice.
-
-Data inizio: 1 febbraio 2017
-
-Periodo previsto: fino al 16 settembre 2018
-
-Compenso su base annua:  € 80.000
-
-Registrazione in Corte dei Conti:  3 maggio 2017

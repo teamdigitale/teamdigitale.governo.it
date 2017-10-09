@@ -6,21 +6,20 @@ layout: project
 ref: anpr
 parent_ref: projects
 people: [carlo-contavalli, mirko-calvaresi, luca-bigliardi]
-people_fixed_period:
-  - ref: carlo-contavalli
-    period: '01/2017 - 07/2017'
 toc: true
-twitter_tag: anpr
 medium_tag: anpr
 forum_category: anpr
 forum_limit: 3
-sitemap: false
+twitter_tag: anpr
+tweetdeck_id: 913424743981895680
+dashboard_url: https://dashboard.teamdigitale.governo.it/public/dashboard/2414d40b-9273-4e54-83ae-df346826fc53
 ---
 
 ### In breve
 
 Oggi le nostre identità sono disperse in ottomila anagrafi comunali. Dobbiamo portarle in una sola anagrafe, guadagnando in efficienza e risparmiando soldi ed energia, perché il cittadino non debba più preoccuparsi di comunicare a ogni ufficio della Pubblica Amministrazione i suoi dati anagrafici o il cambio di residenza, per semplificare le procedure di variazione e uniformarle a livello nazionale, perché sia possibile ottenere certificati senza più bisogno di recarsi allo sportello. 
 
+#### [Ulteriori informazioni](https://developers.italia.it/it/anpr/){:target="_blank"}
 
 
 ### Il ruolo del Team
@@ -31,8 +30,6 @@ ANPR è un passo essenziale per rendere possibili successive innovazioni che ogg
 {% include medium_project.html %}
 
 {% include twitter_timeline.html %}
-
-
 
 ### Strumenti 
 
@@ -52,3 +49,6 @@ Per ogni richiesta di contatto da parte di media e giornalisti il punto di rifer
 {% include ipress.html %}
 <div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="it" data-size="100" data-tag="6"></div>
 <script type="text/javascript" src="/js/ipress.js"></script>
+
+### Dashboard
+{% include dashboard.html %}

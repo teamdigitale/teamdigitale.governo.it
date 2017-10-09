@@ -10,7 +10,7 @@ toc: true
 medium_tag:
 forum_category: cie
 forum_limit: 3
-sitemap: false
+
 ---
 
 ### In breve
@@ -20,6 +20,8 @@ La Cittadinanza Digitale ha l'obiettivo di rendere più semplice e familiare l'i
 Attraverso una piattaforma aperta di componenti condivise su cui costruire i servizi digitali, creeremo un'esperienza che seguirà il cittadino nell'interazione con i servizi locali e nazionali, come se fosse un unica grande casa digitale del cittadino.
 
 Sarà un modo più semplice e familiare da parte della Pubblica Amministrazione di comunicare con i cittadini, notificare atti, ricordare scadenze e di condividere informazioni e documenti attraverso un interfaccia costruita sul cittadino.
+
+#### [Ulteriori informazioni](https://developers.italia.it/it/cie/){:target="_blank"}
 
 ### Il ruolo del Team
 
