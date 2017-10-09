@@ -8821,7 +8821,7 @@ div.bhoechie-tab div.bhoechie-tab-content:not(.active) {
 #navbar .navbar-top-link__item a {
     color: white;
     text-decoration: none;
-    padding: 0 6px;
+    padding: 0 5px;
 }
 
     #navbar .navbar-top-link__item a.active {
