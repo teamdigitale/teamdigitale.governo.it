@@ -19,7 +19,7 @@ dashboard_url: https://dashboard.teamdigitale.governo.it/public/dashboard/913699
 
 SPID, il Sistema Pubblico di Identità Digitale, è la soluzione che ti permette di accedere a tutti i servizi online della Pubblica Amministrazione con un'unica Identità Digitale utilizzabile da computer, tablet e smartphone. Oggi le nostre credenziali digitali sono diverse per ogni servizio a cui accediamo e una drastica riduzione del loro numero porta ad una semplificazione della vita del cittadino e a una maggiore sicurezza.
 
-#### [Ulteriori informazioni](https://developers.italia.it/it/spid/){:target="_blank"}
+#### [Ulteriori informazioni](https://developers.italia.it/it/spid/)
 
 
 ### Il ruolo del Team
@@ -30,15 +30,15 @@ Nel blog troverete la nostra visione del progetto e il ruolo che ricoprirà nel 
 
 {% include medium_project.html %}
 
+{% include twitter_timeline.html %}
 
-### Strumenti 
 
-#### Forum
+### Forum
 SPID è un progetto di rilevanza nazionale. Per favorire la discussione e il confronto, e per incoraggiare la partecipazione di tutti gli attori coinvolti nel progetto abbiamo creato un [forum](https://forum.italia.it/c/spid)
 
 {% include forum.html %}
 
-#### Developers
+### Developers
 SPID ha uno spazio dedicato ai developers all'interno di [Developers Italia](https://developers.italia.it/it/spid/), la community di sviluppatori di servizi pubblici italiani. Qui sono elencati i principali strumenti disponibili per l'integrazione e il testing di SPID.
 
 

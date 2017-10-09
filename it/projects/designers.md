@@ -13,28 +13,28 @@ forum_category: design
 forum_limit: 3
 timeline:
   - period: Giugno 2017
-    title: [Designers Italia](https://designers.italia.it/)
+    title: <a href="https://designers.italia.it/">Designers Italia</a>
     desc: Nasce il sito che è punto di incontro tra designer e pubblica amministrazione
   - period: Giugno 2017
     title: Digital Design Days
     desc: Partecipazione all'evento dedicato al design
   - period: Giugno 2017
     title: Guida SEO
-    desc: [Indicazioni per la SEO](https://design-italia.readthedocs.io/it/stable/doc/content-design/seo.html) dei siti pubblici
+    desc: <a href="https://design-italia.readthedocs.io/it/stable/doc/content-design/seo.html">Indicazioni per la SEO</a> dei siti pubblici
   - period: Giugno 2017
     title: UI kit e Icon Kit
     desc: Il primo modulo per un design system dei siti pubblici
   - period: Agosto 2017
     title: Web Analytics
-    desc: Avvio pilota [web analytics open source](https://designers.italia.it/progetti/web-analytics/) con 20 siti pubblici
+    desc: Avvio pilota <a href="https://designers.italia.it/progetti/web-analytics/">web analytics open source</a> con 20 siti pubblici
   - period: Agosto 2017
     title: Siti scuole
-    desc: Avvio progetto per [modello siti web delle scuole](https://designers.italia.it/progetti/siti-scuole/)
+    desc: Avvio progetto per <a href="https://designers.italia.it/progetti/siti-scuole/">modello siti web delle scuole</a>
   - period: Settembre 2017
     title: Aggiornamenti guida content design
     desc: Consigli e esempi per strutturare le informazioni e i servizi nei siti pubblici
   - period: Settembre 2017
-    title: [Versionamento linee guida](https://design-italia.readthedocs.io/it/stable/doc/introduzione-linee-guida-design.html)
+    title: <a href="https://design-italia.readthedocs.io/it/stable/doc/introduzione-linee-guida-design.html">Versionamento linee guida</a>
     desc: Definizione workflow e rilascio release 2017.1 delle linee guida
   - period: Ottobre 2017
     title: Avvio sperimentazione design collaborativo
@@ -64,7 +64,7 @@ timeline:
     title: Kit service design e user research
     desc: Personas, user journey maps e altri strumenti di lavoro 
     status: todo
-  
+---
 
 ### In breve
 Intendiamo creare linee guida, esempi e kit di sviluppo che possano aiutare tutte le Amministrazioni ad  offrire servizi digitali semplici da usare per i cittadini. Vogliamo introdurre una logica di sviluppo e miglioramento continuo, perché i prodotti digitali e le interfacce devono essere un corpo vivo, che evolve insieme ai bisogni degli utenti e alle innovazioni digitali. Il primo passo è stato la creazione di [Designers Italia](https://designers.italia.it).
@@ -83,6 +83,9 @@ Uno spazio di discussione sul design dei servizi pubblici.
 {% include forum.html %}
 
 {% include twitter_timeline.html %}
+
+### Media 
+Per ogni richiesta di contatto da parte di media e giornalisti il punto di riferimento è l'ufficio stampa e comunicazione del Team per la Trasformazione digitale
 
 {% include ipress.html %}
 <div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="it" data-size="100" data-tag="9"></div>

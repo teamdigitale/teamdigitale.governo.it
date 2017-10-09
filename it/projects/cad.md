@@ -23,6 +23,8 @@ Le regole, quelle di dettaglio, vanno tradotte in bit, mentre le convenzioni per
 
 {% include forum.html %}
 
+### Media 
+Per ogni richiesta di contatto da parte di media e giornalisti il punto di riferimento è l'ufficio stampa e comunicazione del Team per la Trasformazione digitale
 
 {% include ipress.html %}
 <div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="it" data-size="100" data-tag="12"></div>

@@ -29,6 +29,8 @@ Stiamo lavorando insieme ad AgID nella definizione di regole tecniche, linee gui
 {% include medium_project.html %}
 
 
+### Media 
+Per ogni richiesta di contatto da parte di media e giornalisti il punto di riferimento è l'ufficio stampa e comunicazione del Team per la Trasformazione digitale
 
 {% include ipress.html %}
 <div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="it" data-size="100" data-tag="7"></div>

@@ -19,7 +19,7 @@ tweetdeck_id: 913428915095576576
 
 Niente più silos privati di questa o quella amministrazione, i dati pubblici sono un bene comune e una risorsa preziosa per il Paese che, come un giacimento petrolifero, può essere esplorata e minata per estrarre valore. Vogliamo una nuova interfaccia all’interno della quale singole amministrazioni comunichino e condividano tra loro dati e API in maniera libera e aperta, permettendo la nascita di servizi e data application nuovi e prima impensabili realizzati sui bisogni del cittadino. Ovviamente nel massimo rispetto delle norme di privacy e nella piena sicurezza tecnologica. 
 
-#### [Ulteriori informazioni](https://developers.italia.it/it/daf/){:target="_blank"}
+#### [Ulteriori informazioni](https://developers.italia.it/it/daf/)
 
 {% include medium_project.html %}
 
@@ -28,6 +28,9 @@ Niente più silos privati di questa o quella amministrazione, i dati pubblici so
 {% include forum.html %}
 
 {% include twitter_timeline.html %}
+
+### Media 
+Per ogni richiesta di contatto da parte di media e giornalisti il punto di riferimento è l'ufficio stampa e comunicazione del Team per la Trasformazione digitale
 
 {% include ipress.html %}
 <div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="it" data-size="100" data-tag="10"></div>
