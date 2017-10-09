@@ -5,7 +5,8 @@ $(function() {
 	  var day = d.getDay(),
 	      diff = d.getDate() - day + (day == 0 ? -6:1); // adjust when day is sunday
 	  var monday = new Date(d.setDate(diff));
-	  return monday.toLocaleDateString("it");
+	  var options = {year: 'numeric', month: '2-digit', day: '2-digit'};
+	  return monday.toLocaleDateString("it", options);
 	}
 
 	// MENU
