@@ -7,7 +7,7 @@ ref: cad
 parent_ref: projects
 people: [guido-scorza]
 toc: true
-medium_tag: pubblica-amministrazione
+medium_tag: legislation
 forum_category:
 forum_limit: 3
 
