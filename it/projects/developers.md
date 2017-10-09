@@ -46,7 +46,7 @@ E' un cambiamento del modo in cui lavora la Pubblica Amministrazione, utilizzand
 per i principali linguaggi di programmazione e framework, API documentate pubblicamente, non con un linguaggio giuridico ma tecnico, 
 intorno alle quali poter coinvolgere una community di sviluppatori che crei innovazione.
 
-#### [Ulteriori informazioni](https://developers.italia.it)
+#### [Scopri gli aspetti tecnici su Developers Italia](https://developers.italia.it)
 
 ### Il ruolo del Team
 

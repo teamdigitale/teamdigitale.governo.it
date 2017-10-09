@@ -19,6 +19,8 @@ Dobbiamo iniziare a scrivere meno leggi e più software [meno codici e più codi
 
 Le regole, quelle di dettaglio, vanno tradotte in bit, mentre le convenzioni per lo scambio dei dati tra amministrazioni in API, i procedimenti amministrativi nei quali l’attività discrezionale dell’amministrazione è assente o modesta, vanno trasformati in processi machine to machine più efficaci e più democratici. 
 
+**[Segui gli ultimi aggiornamenti del progetto su Twitter](https://twitter.com/search?f=tweets&vertical=default&q=cad%20list%3AteamdigitaleIT%2Fteam-digitale&src=typd)**
+
 {% include medium_project.html %}
 
 {% include forum.html %}

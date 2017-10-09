@@ -21,6 +21,8 @@ I sistemi informatici della Pubblica Amministrazione devono essere connessi tra 
 
 Il vecchio modello di [Cooperazione Applicativa SPCoop](http://www.agid.gov.it/agenda-digitale/infrastrutture-architetture/sistema-pubblico-connettivita/cooperazione-applicativa), basato sulle [Porte di Dominio](http://www.agid.gov.it/sites/default/files/documentazione/spcoop-portadominio_v1.1_0.pdf), non è più efficace e [sarà superato](http://lg-transizione-interoperabilita.readthedocs.io/) da un nuovo modello aperto, che avrà anche l'obiettivo di semplificare le procedure di convenzione tra gli enti e l'interazione con il Garante della Privacy.
 
+**[Segui gli ultimi aggiornamenti del progetto su Twitter](https://twitter.com/search?f=tweets&vertical=default&q=api%20list%3AteamdigitaleIT%2Fteam-digitale)**
+
 ### Il ruolo del Team
 
 Stiamo lavorando insieme ad AgID nella definizione di regole tecniche, linee guida, standard tecnologici e profili che ogni PA dovrà adottare, nonchè nella progettazione di un nuovo Catalogo delle API.

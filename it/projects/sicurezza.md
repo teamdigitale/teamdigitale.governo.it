@@ -33,8 +33,10 @@ La risposta, espressa in termini di numero e qualità delle segnalazioni,  è st
  
 
 Le attività in corso, che impegneranno il team per i prossimi mesi, sono:
-individuare   la cornice giuridica per la corretta esecuzione 
+individuare la cornice giuridica per la corretta esecuzione 
 gestione di progetti pilota coinvolgendo amministrazioni pubbliche, società in house, enti privati
+
+**[Segui gli ultimi aggiornamenti del progetto su Twitter](https://twitter.com/search?f=tweets&vertical=default&q=responsible%20disclosure%20list%3AteamdigitaleIT%2Fteam-digitale)**
 
 
 {% include medium_project.html %}
