@@ -7773,9 +7773,6 @@ body, html {
     overflow-x: hidden;
 }
 
-body {
-    padding-top: 195px;
-}
 
 .nav {
     padding-bottom: 50px;
@@ -7989,9 +7986,7 @@ body {
         transform: translate3d(0, 0, 0);
     }
 
-    body {
-        padding-top: 60px;
-    }
+
     /**/
     .footer__logo {
         width: 4rem;
@@ -8045,7 +8040,6 @@ body {
     }
 
     .navbar {
-        top: 50px;
         padding-top: 2.5rem;
         padding-bottom: .5rem;
         height: auto;
@@ -8117,10 +8111,6 @@ body {
 }
 
 .nav-banner {
-    position: fixed;
-    z-index: 99999;
-    top: 0;
-    left: 0;
     width: 100%;
     height: auto;
     background: #013366;
