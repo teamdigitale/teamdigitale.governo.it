@@ -1044,7 +1044,6 @@ article p {
 @media screen and (min-width: 992px) {
     body.layout-project #main {
     max-width: none !important;
-    width: 83.33333%;
 }
 
 .twitter-timeline-error {
