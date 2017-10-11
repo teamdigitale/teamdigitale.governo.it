@@ -16,6 +16,8 @@
 	line-height: 19px;
 	font-weight: 600 ;
 	color: #fff;
+	position: relative;
+	z-index: 9991;
 	
 	a {
 		color: #fff !important;
@@ -80,7 +82,7 @@
 
 #navbar {
 	position: relative;
-	z-index: 9999;
+	z-index: 9990;
 	
 	.navbar-top-link__item {
 		display: inline-block;
