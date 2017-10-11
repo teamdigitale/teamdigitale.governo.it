@@ -41,10 +41,6 @@ SPID è un progetto di rilevanza nazionale. Per favorire la discussione e il con
 
 {% include forum.html %}
 
-### Developers
-SPID ha uno spazio dedicato ai developers all'interno di [Developers Italia](https://developers.italia.it/it/spid/), la community di sviluppatori di servizi pubblici italiani. Qui sono elencati i principali strumenti disponibili per l'integrazione e il testing di SPID.
-
-
 ### Media 
 Per ogni richiesta di contatto da parte di media e giornalisti il punto di riferimento è l'ufficio stampa e comunicazione del Team per la Trasformazione digitale
 

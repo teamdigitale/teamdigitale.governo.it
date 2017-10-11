@@ -40,8 +40,6 @@ ANPR è un progetto di rilevanza nazionale. Per favorire la discussione e il con
 
 {% include forum.html %}
 
-#### Developers
-ANPR ha uno spazio dedicato ai developers all'interno di [Developers Italia](https://developers.italia.it/it/anpr/), la community di sviluppatori di servizi pubblici italiani. Qui sono elencati i principali strumenti disponibili per la migrazione ad ANPR e c'è anche una newsletter per seguire tutte le novità.
 
 
 
