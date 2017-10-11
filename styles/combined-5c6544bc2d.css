@@ -8856,7 +8856,7 @@ a.anchor {
 }
 /*Revisions */
 article {
-    max-width: 775px !important;
+    /*VF max-width: 775px !important;*/
     margin: 0,0, 35px, 0;
 }
 
