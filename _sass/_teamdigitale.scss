@@ -79,6 +79,9 @@
 }
 
 #navbar {
+	position: relative;
+	z-index: 9999;
+	
 	.navbar-top-link__item {
 		display: inline-block;
 	}
