@@ -31,6 +31,9 @@ Il cittadino deve poter scegliere metodi di pagamento moderni, a minima frizione
 
 #### [Scopri gli aspetti tecnici su Developers Italia](https://developers.italia.it/it/pagopa/)
 
+### Dashboard
+{% include dashboard.html %}
+
 ### Il ruolo del Team
 
 Consentire di fare evolvere PagoPA in una logica di mercato consentendo, al tempo stesso, di favorire l’accesso a PagoPA dei servizi delle Pubbliche Amministrazioni.
@@ -58,5 +61,4 @@ Per ogni richiesta di contatto da parte di media e giornalisti il punto di rifer
 <div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="it" data-size="100" data-tag="3"></div>
 <script type="text/javascript" src="/js/ipress.js"></script>
 
-### Dashboard
-{% include dashboard.html %}
+
