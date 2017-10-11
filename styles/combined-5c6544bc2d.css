@@ -8354,6 +8354,8 @@ footer {
 #main {
     /*min-height: 500px;
     min-height: 50rem;*/
+    padding-right: 30px;
+    padding-left: 30px;
 }
 
 [tabindex="0"]:focus {
@@ -8891,6 +8893,12 @@ p {
 @media screen and (max-width:767px) {
     body {
         font-size: 18px;
+    }
+    #main {
+    /*min-height: 500px;
+    min-height: 50rem;*/
+        padding-right: 15px;
+        padding-left: 15px;
     }
 
     .team-bar {
