@@ -8,7 +8,7 @@ parent_ref: projects
 people: [raffaele-lillo, fabiana-lanotte, david-greco, alessandro-ercolani ]
 toc: true
 medium_tag: big-data
-forum_category: 'piano-triennale/dati'
+forum_category: 'daf'
 forum_limit: 3
 twitter_tag: daf
 tweetdeck_id: 913428915095576576
