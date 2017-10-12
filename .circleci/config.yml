@@ -50,6 +50,7 @@ jobs:
           at: /home/circleci
       - run: mkdir -p ~/.ssh
       - run: echo $TEAMDIGITALE_SSH_CONF | base64 -d > ~/.ssh/config
+      - run: which rsync || sudo apt-get install rsync
       - run: yarn gulp publish-production
 
   deploy-staging:
@@ -59,6 +60,7 @@ jobs:
           at: /home/circleci
       - run: mkdir -p ~/.ssh
       - run: echo $TEAMDIGITALE_SSH_CONF | base64 -d > ~/.ssh/config
+      - run: which rsync || sudo apt-get install rsync
       - run: yarn gulp publish-staging
 
 workflows:
