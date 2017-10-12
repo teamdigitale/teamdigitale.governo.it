@@ -5,7 +5,7 @@ permalink: /it/projects/identita-digitale.htm
 layout: project
 ref: spid
 parent_ref: projects
-people: [valerio-paolini, giovanni-bajo]
+people: [valerio-paolini]
 toc: true
 medium_tag: spid
 forum_category: spid
