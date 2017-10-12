@@ -21,7 +21,7 @@ Il piano triennale è un documento di indirizzo strategico previsto dalla legge 
 
 [Sito ufficiale](https://pianotriennale-ict.italia.it/)
 
-
+**[Segui gli ultimi aggiornamenti del progetto su Twitter](https://twitter.com/settings/widgets/new/search?query=pianotriennale%20list%3AteamdigitaleIT%2Fteam-digitale)**
 
 {% include medium_project.html %}
 
