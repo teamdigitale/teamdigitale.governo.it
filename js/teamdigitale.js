@@ -82,7 +82,6 @@ $(function() {
      */
     getFixedOffset: function() {
       /*return this.OFFSET_HEIGHT_PX;*/
-      alert(document.getElementsByClassName("example").offsetHeight.toString() + " + " + document.getElementById("page_top").offsetHeight.toString());
 	   return document.getElementsByClassName("example").offsetHeight + document.getElementById("page_top").offsetHeight;
 
     },
