@@ -39,11 +39,6 @@ jobs:
   # how to reach the production site.
   deploy-production:
     <<: *defaults
-
-    branches:
-      only:
-        - master
-
     steps:
       - run: mkdir -p ~/.ssh
       - run: echo $TEAMDIGITALE_SSH_CONF | base64 -d > ~/.ssh/config
@@ -51,11 +46,6 @@ jobs:
 
   deploy-staging:
     <<: *defaults
-
-    branches:
-      only:
-        - development
-
     steps:
       - run: mkdir -p ~/.ssh
       - run: echo $TEAMDIGITALE_SSH_CONF | base64 -d > ~/.ssh/config
@@ -70,6 +60,10 @@ workflows:
       - deploy-staging:
           requires:
             - build
+          filters:
+            branches:
+              only:
+                - development
       - hold:
           type: approval
           requires:
@@ -77,3 +71,7 @@ workflows:
       - deploy-production:
           requires:
             - hold
+          filters:
+            branches:
+              only:
+                - master
