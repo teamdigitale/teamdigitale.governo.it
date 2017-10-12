@@ -2,14 +2,15 @@
 #
 # Check https://circleci.com/docs/2.0/ for more details
 #
+defaults: &defaults
+  working_directory: ~/teamdigitale.governo.it
+  docker:
+    - image: circleci/ruby:2.4.1-node
+
 version: 2
 jobs:
   build:
-    docker:
-      - image: circleci/ruby:2.4.1-node
-
-    working_directory: ~/teamdigitale.governo.it
-
+    <<: *defaults
     steps:
       - checkout
 
@@ -37,10 +38,7 @@ jobs:
   # Note that we need a custom SSH config to let rsync know
   # how to reach the production site.
   deploy-production:
-    docker:
-      - image: circleci/ruby:2.4.1-node
-
-    working_directory: ~/teamdigitale.governo.it
+    <<: *defaults
 
     branches:
       only:
@@ -52,10 +50,7 @@ jobs:
       - run: yarn gulp publish-production
 
   deploy-staging:
-    docker:
-      - image: circleci/ruby:2.4.1-node
-
-    working_directory: ~/teamdigitale.governo.it
+    <<: *defaults
 
     branches:
       only:
