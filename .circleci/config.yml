@@ -70,10 +70,6 @@ workflows:
       - deploy-staging:
           requires:
             - build
-          filters:
-            branches:
-              only:
-                - development
       - hold:
           type: approval
           requires:
@@ -81,7 +77,3 @@ workflows:
       - deploy-production:
           requires:
             - hold
-          filters:
-            branches:
-              only:
-                - master
