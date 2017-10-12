@@ -1,0 +1,51 @@
+# Javascript Node CircleCI 2.0 configuration file
+#
+# Check https://circleci.com/docs/2.0/ for more details
+#
+version: 2
+jobs:
+  build:
+    docker:
+      - image: circleci/ruby:2.4.1-node
+
+    working_directory: ~/teamdigitale.governo.it
+
+    steps:
+      - checkout
+
+      # Download and cache dependencies
+      - restore_cache:
+          keys:
+          - v1-dependencies-{{ checksum "yarn.lock" }}-{{ checksum "Gemfile.lock" }}
+          # fallback to using the latest cache if no exact match is found
+          - v1-dependencies-
+
+      # Update dependencies
+      - run: bundle install
+      - run: yarn install
+
+      # Update cache
+      - save_cache:
+          paths:
+            - node_modules
+          key: v1-dependencies-{{ checksum "yarn.lock" }}-{{ checksum "Gemfile.lock" }}
+
+      # Build the site
+      - run: yarn gulp build
+
+  # Deploy to production site
+  # Note that we need a custom SSH config to let rsync know
+  # how to reach the production site.
+  deploy:
+    docker:
+      - image: circleci/ruby:2.4.1-node
+
+    working_directory: ~/teamdigitale.governo.it
+
+    steps:
+      - command: |
+          if [ "${CIRCLE_BRANCH}" == "master" ]; then
+            mkdir -p ~/.ssh;
+            echo $TEAMDIGITALE_SSH_CONF | base64 -d > ~/.ssh/config;
+            yarn gulp publish-production;
+          fi
