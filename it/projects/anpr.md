@@ -21,7 +21,7 @@ Oggi le nostre identità sono disperse in ottomila anagrafi comunali. Dobbiamo p
 
 #### [Scopri gli aspetti tecnici su Developers Italia](https://developers.italia.it/it/anpr/)
 
-### Dashboard
+### I dati
 {% include dashboard.html %}
 
 ### Il ruolo del Team
@@ -33,9 +33,7 @@ ANPR è un passo essenziale per rendere possibili successive innovazioni che ogg
 
 {% include twitter_timeline.html %}
 
-### Strumenti 
-
-#### Forum
+### Forum
 ANPR è un progetto di rilevanza nazionale. Per favorire la discussione e il confronto, e per incoraggiare la partecipazione di tutti gli attori coinvolti nel progetto (a partire dagli oltre 8.000 comuni italiani coinvolti nell'operazione!) abbiamo creato un [forum](https://forum.italia.it/c/anpr)
 
 {% include forum.html %}

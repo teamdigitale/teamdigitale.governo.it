@@ -31,7 +31,7 @@ Il cittadino deve poter scegliere metodi di pagamento moderni, a minima frizione
 
 #### [Scopri gli aspetti tecnici su Developers Italia](https://developers.italia.it/it/pagopa/)
 
-### Dashboard
+### I dati
 {% include dashboard.html %}
 
 ### Il ruolo del Team

@@ -21,7 +21,7 @@ SPID, il Sistema Pubblico di Identità Digitale, è la soluzione che ti permette
 
 #### [Scopri gli aspetti tecnici su Developers Italia](https://developers.italia.it/it/spid/)
 
-### Dashboard
+### I dati
 
 {% include dashboard.html %}
 
