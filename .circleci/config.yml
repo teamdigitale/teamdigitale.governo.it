@@ -50,6 +50,7 @@ jobs:
           at: /home/circleci
       - run: mkdir -p ~/.ssh
       - run: echo $TEAMDIGITALE_SSH_CONF | base64 -d > ~/.ssh/config
+      - run: echo $TEAMDIGITALE_SSH_KNOWN_HOSTS | base64 -d > ~/.ssh/known_hosts
       - run: which rsync || sudo apt-get install rsync
       - run: yarn gulp publish-production
 
@@ -60,6 +61,7 @@ jobs:
           at: /home/circleci
       - run: mkdir -p ~/.ssh
       - run: echo $TEAMDIGITALE_SSH_CONF | base64 -d > ~/.ssh/config
+      - run: echo $TEAMDIGITALE_SSH_KNOWN_HOSTS | base64 -d > ~/.ssh/known_hosts
       - run: which rsync || sudo apt-get install rsync
       - run: yarn gulp publish-staging
 
