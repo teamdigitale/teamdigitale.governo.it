@@ -81,7 +81,11 @@ workflows:
       - hold:
           type: approval
           requires:
-            - deploy-staging
+            - build
+          filters:
+            branches:
+              only:
+                - master
       - deploy-production:
           requires:
             - hold
