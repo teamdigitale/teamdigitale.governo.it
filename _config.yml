@@ -39,6 +39,32 @@ medium_archive_url_eng: https://medium.com/team-per-la-trasformazione-digitale/e
 medium_posts_per_row: 3
 medium_max_rows: 10
 
+# Expenses CSV
+expenses_fields:
+  - "Natura"
+  - "Oggetto"
+  - "Fornitore"
+  - "CIG"
+  - "FT_Data"
+  - "FT_Num"
+  - "Valore (Iva esclusa)"
+  - "Progetto"
+  - "Decr. Impegno"
+
+travels_fields:
+  - "Mese"
+  - "Trasferta"
+  - "FT"
+  - "Linea"
+  - "Chi"
+  - "Progetto"
+  - "Oggetto"
+  - "Dove"
+  - "Cosa"
+  - "Quando"
+  - "Fornitore"
+  - "Valore"
+
 # SEO
 logo: /images/logo_big.png
 
@@ -58,6 +84,6 @@ exclude:
   - circle.yml
   - gulpfile.js
   - package.json
-  
+
 sass:
     style: compressed
