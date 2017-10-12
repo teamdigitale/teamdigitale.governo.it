@@ -7,10 +7,8 @@ ref: cittadinanza-digitale
 parent_ref: projects
 people: [federico-feroldi]
 toc: true
-medium_tag:
 forum_category: cie
 forum_limit: 3
-
 ---
 
 ### In breve
@@ -31,8 +29,6 @@ Infine il Team insieme ad AgID ha iniziato lo sviluppo di alcuni progetti fondam
 *   La componente di comunicazione per stabilire un unico canale che la Pubblica Amministrazione può usare per inviare comunicazioni, avvisi, scadenze al cittadino.
 *   Un'applicazione web e mobile che vuole fornire un luogo digitale di accesso all'esperienza di Cittadinanza Digitale, costruita sul cittadino.
 
-
-{% include medium_project.html %}
 
 ### Media 
 Per ogni richiesta di contatto da parte di media e giornalisti il punto di riferimento è l'ufficio stampa e comunicazione del Team per la Trasformazione digitale
