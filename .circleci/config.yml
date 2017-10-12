@@ -75,9 +75,9 @@ workflows:
               only:
                 - development
       - hold:
-        type: approval
-        requires:
-          - deploy-staging
+          type: approval
+          requires:
+            - deploy-staging
       - deploy-production:
           requires:
             - hold
