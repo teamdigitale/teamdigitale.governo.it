@@ -36,7 +36,7 @@ jobs:
   # Deploy to production site
   # Note that we need a custom SSH config to let rsync know
   # how to reach the production site.
-  deploy:
+  deploy-production:
     docker:
       - image: circleci/ruby:2.4.1-node
 
@@ -49,3 +49,24 @@ jobs:
             echo $TEAMDIGITALE_SSH_CONF | base64 -d > ~/.ssh/config;
             yarn gulp publish-production;
           fi
+
+  # TODO: add deploy-staging job
+
+workflows:
+  version: 2
+  build-test-and-approval-deploy:
+    jobs:
+      - build
+      # TODO: run tests
+      # TODO: deploy on staging (filter branch development)
+      - hold:
+        type: approval
+        requires:
+          - build
+      - deploy-production:
+          requires:
+            - hold
+          filters:
+            branches:
+              only:
+                - master
