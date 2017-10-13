@@ -86,6 +86,9 @@
 	
 	.navbar-top-link__item {
 		display: inline-block;
+		&.homepage a {
+			background-color: transparent !important;
+		}
 	}
 	&.navbar {
 		padding-bottom: 0;
@@ -95,7 +98,7 @@
 		a {
 
 			&.active {
-			background-color: #1f77d2 !important;
+			background-color: #1f77d2;
 			border-bottom: none;
 			padding-bottom: 3px !important;
 			}
@@ -507,6 +510,15 @@ body.layout-project {
 		text-align:justify;
 	}
 
+}
+/* EXPLICIT OVERRIDES 
+--------------------- */
+.sidenav-menu-item.homepage {
+	/* issue 289 */
+	& a {
+		background-color: transparent !important;
+		font-weight: inherit !important;
+	}
 }
 
 
