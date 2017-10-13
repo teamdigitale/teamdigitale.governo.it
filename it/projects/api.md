@@ -7,10 +7,8 @@ ref: api
 parent_ref: projects
 people: [simone-piunno]
 toc: true
-medium_tag:
 forum_category:
 forum_limit: 3
-
 ---
 
 ### In breve
@@ -26,9 +24,6 @@ Il vecchio modello di [Cooperazione Applicativa SPCoop](http://www.agid.gov.it/a
 ### Il ruolo del Team
 
 Stiamo lavorando insieme ad AgID nella definizione di regole tecniche, linee guida, standard tecnologici e profili che ogni PA dovrà adottare, nonchè nella progettazione di un nuovo Catalogo delle API.
-
-
-{% include medium_project.html %}
 
 
 ### Media 

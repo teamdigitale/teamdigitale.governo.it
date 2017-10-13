@@ -22,10 +22,9 @@ timeline:
   - period: Luglio 2017
     title: Incontro con le software house
     desc: Abbiamo incontrato le principali software house italiane che realizzano software per la pubblica amministrazione, e abbiamo discusso con loro di Developers Italia e delle nuove sfide di innovazione che si apriranno su servizi sempre più innovativi.
-  - period: Q3 2017
-    title: Eventi sul territorio per incontrare sviluppatori
-    desc: Organizzeremo e parteciparemo a diversi eventi tecnici sul territorio per incontrare gli sviluppatori, raccontare quello che stiamo costruendo, cercando di coinvolgerli nelle attività.
-    status: todo
+  - period: Ottobre 2017
+    title: Hackathon nazionale
+    desc: Abbiamo realizzato il più grosso "code sprint" italiano: più di 800 sviluppatori a lavoro sul codice open-source della Pubblica Amministrazione, creando decine di progetti che sono fin da subito utilizzabili per velocizzare la digitalizzazione dei servizi pubblici.
   - period: Q4 2017
     title: 10 progetti in Developers Italia
     desc: Abbiamo un obiettivo di attivare lo sviluppo su 10 diversi progetti in community, coinvolgendo le amministrazioni di competenza nel nuovo modello di sviluppo aperto e collaborativo.

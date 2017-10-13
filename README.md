@@ -181,7 +181,8 @@ $ brew install nodenv
 Installare i moduli _node_:
 
 ```
-$ npm install
+$ npm install -g yarn
+$ yarn install
 ```
 
 ### Branching e PRs

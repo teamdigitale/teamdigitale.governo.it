@@ -8,7 +8,6 @@ parent_ref: projects
 people: [simone-piunno]
 toc: true
 medium_post_id: a54e27d55be9
-medium_tag:
 forum_category: piano-triennale
 forum_limit: 3
 twitter_tag: pianotriennale
@@ -21,7 +20,7 @@ Il piano triennale è un documento di indirizzo strategico previsto dalla legge 
 
 [Sito ufficiale](https://pianotriennale-ict.italia.it/)
 
-
+**[Segui gli ultimi aggiornamenti del progetto su Twitter](https://twitter.com/settings/widgets/new/search?query=pianotriennale%20list%3AteamdigitaleIT%2Fteam-digitale)**
 
 {% include medium_project.html %}
 

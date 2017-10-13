@@ -16,7 +16,9 @@
 	line-height: 19px;
 	font-weight: 600 ;
 	color: #fff;
-	z-index: 9900 !important;
+	position: relative;
+	z-index: 9991;
+	
 	a {
 		color: #fff !important;
 		text-decoration: none;
@@ -79,6 +81,9 @@
 }
 
 #navbar {
+	position: relative;
+	z-index: 9990;
+	
 	.navbar-top-link__item {
 		display: inline-block;
 	}
@@ -316,8 +321,13 @@
 	a {
 		line-height: 1.2;
 	}
-	&.toc-h1 {
+	&.toc-h1 > a {
 		display: none;
+	}
+	ul {
+		list-style: none;
+		padding: 0;
+		margin: 0;
 	}
 }
 
@@ -362,7 +372,7 @@ body.layout-project {
 	#main {
 		@media screen and (min-width: 992px) {
 		    max-width: none !important;
-		    width: 83.33333%;
+		    
 		}
 	}
 }
