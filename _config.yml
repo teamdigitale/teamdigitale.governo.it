@@ -61,3 +61,9 @@ exclude:
   
 sass:
     style: compressed
+
+html_proofer:
+  check_favicon: false
+  check_html: true
+  allow_hash_href: true
+  only_4xx: true
