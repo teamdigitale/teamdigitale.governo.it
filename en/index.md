@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Home
 lang: en
 ref: homepage
 menu_position: 3
