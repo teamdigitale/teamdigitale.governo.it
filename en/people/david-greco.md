@@ -6,7 +6,6 @@ layout: people
 role: Big Data Architect
 is_new: false
 twitter_user: davidgreco
-medium_user: dgreco
 linkedin_url: https://it.linkedin.com/in/davgreco
 ref: david-greco
 parent_ref: team
