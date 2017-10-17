@@ -55,7 +55,7 @@ L'intestazione della pagina di profilo deve contenere i seguenti attributi:
 
 Il workflow di creazione delle pagine profilo segue le seguenti fasi: 
 
-1. apertura issue Git Hub; 
+1. apertura issue GitHub; 
 
 2. scrittura e revisione del contenuto; 
 
@@ -63,13 +63,9 @@ Il workflow di creazione delle pagine profilo segue le seguenti fasi:
 
 4. PR del profilo; 
 
-5. modifica della lista "chi siamo"; 
+5. traduzione e revisione del contenuto; 
 
-6. traduzione e revisione del contenuto; 
-
-7. PR del profilo in lingua inglese; 
-
-8. modifica della lista About us. 
+6. PR del profilo in lingua inglese; 
 
 
 ### Post Medium
