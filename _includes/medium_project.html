@@ -15,7 +15,7 @@
 	      </a>
 	    </figure>
 	    <p class="h3"><a href="{{ post.medium_url }}" target="_blank" title="{{post.medium_title}}">{{post.medium_title}}</a></p>
-	    <p >{{ post.medium_subtitle }}</p>
+	    <p >{{ post.medium_subtitle }} <i style="color: #5A6772">– {{post.medium_published_at | divided_by: 1000 | date: site.data.t.FormatDate[page.lang] }}</i></p>
 	  </div>
 	</div>
 	{% endfor %}
@@ -29,7 +29,7 @@
 	      </a>
 	    </figure>
 	    <p class="h3"><a href="{{ post.medium_url }}" target="_blank" title="{{post.medium_title}}">{{post.medium_title}}</a></p>
-	    <p >{{ post.medium_subtitle }}</p>
+	    <p >{{ post.medium_subtitle }} <i style="color: #5A6772">– {{post.medium_published_at | divided_by: 1000 | date: site.data.t.FormatDate[page.lang] }}</i></p>
 	  </div>
 	</div>
 	{% endfor %}

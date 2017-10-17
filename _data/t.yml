@@ -194,3 +194,6 @@ CollapseBtnHide:
 LastUpdateDate:
   en: "Last update:"
   it: "Ultimo aggiornamento:"
+FormatDate:
+  en: "%m/%d/%Y"
+  it: "%d/%m/%Y"
