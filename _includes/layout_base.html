@@ -113,7 +113,7 @@
         {{ include.content }}
 
       </article>
-
+      <small class="page_last_update">{{ site.data.t.LastUpdateDate[page.lang] }} {{ page.last_modified_at | date: site.data.t.FormatDate[page.lang]  }}</small>
     </div>
 
   </div>
