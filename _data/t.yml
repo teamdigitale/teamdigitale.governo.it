@@ -191,3 +191,6 @@ CollapseBtnSee:
 CollapseBtnHide:
   en: "Hide"
   it: "Nascondi"
+LastUpdateDate:
+  en: "Last update:"
+  it: "Ultimo aggiornamento:"
