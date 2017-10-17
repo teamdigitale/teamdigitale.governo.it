@@ -53,6 +53,25 @@ L'intestazione della pagina di profilo deve contenere i seguenti attributi:
 * `ref`: l'identificativo unico della pagina (es. `federico-feroldi`)
 * `parent_ref`: deve avere il valore `team`
 
+Il workflow di creazione delle pagine profilo segue le seguenti fasi: 
+
+1. apertura issue Git Hub; 
+
+2. scrittura e revisione del contenuto; 
+
+3. photo editing e upload della foto profilo; 
+
+4. PR del profilo; 
+
+5. modifica della lista "chi siamo"; 
+
+6. traduzione e revisione del contenuto; 
+
+7. PR del profilo in lingua inglese; 
+
+8. modifica della lista About us. 
+
+
 ### Post Medium
 
 I post Medium inclusi nell'homepage vengono sincronizzato ad ogni generazione del sito (tramite `gulp build`, `jekyll build` o `jekyll serve`).
