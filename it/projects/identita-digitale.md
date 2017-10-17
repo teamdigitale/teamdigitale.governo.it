@@ -5,7 +5,7 @@ permalink: /it/projects/identita-digitale.htm
 layout: project
 ref: spid
 parent_ref: projects
-people: [valerio-paolini, giovanni-bajo]
+people: [valerio-paolini]
 toc: true
 medium_tag: spid
 forum_category: spid
@@ -19,8 +19,11 @@ dashboard_url: https://dashboard.teamdigitale.governo.it/public/dashboard/913699
 
 SPID, il Sistema Pubblico di Identità Digitale, è la soluzione che ti permette di accedere a tutti i servizi online della Pubblica Amministrazione con un'unica Identità Digitale utilizzabile da computer, tablet e smartphone. Oggi le nostre credenziali digitali sono diverse per ogni servizio a cui accediamo e una drastica riduzione del loro numero porta ad una semplificazione della vita del cittadino e a una maggiore sicurezza.
 
-#### [Ulteriori informazioni](https://developers.italia.it/it/spid/){:target="_blank"}
+#### [Scopri gli aspetti tecnici su Developers Italia](https://developers.italia.it/it/spid/)
 
+### I dati
+
+{% include dashboard.html %}
 
 ### Il ruolo del Team
 
@@ -30,17 +33,13 @@ Nel blog troverete la nostra visione del progetto e il ruolo che ricoprirà nel 
 
 {% include medium_project.html %}
 
+{% include twitter_timeline.html %}
 
-### Strumenti 
 
-#### Forum
+### Forum
 SPID è un progetto di rilevanza nazionale. Per favorire la discussione e il confronto, e per incoraggiare la partecipazione di tutti gli attori coinvolti nel progetto abbiamo creato un [forum](https://forum.italia.it/c/spid)
 
 {% include forum.html %}
-
-#### Developers
-SPID ha uno spazio dedicato ai developers all'interno di [Developers Italia](https://developers.italia.it/it/spid/), la community di sviluppatori di servizi pubblici italiani. Qui sono elencati i principali strumenti disponibili per l'integrazione e il testing di SPID.
-
 
 ### Media 
 Per ogni richiesta di contatto da parte di media e giornalisti il punto di riferimento è l'ufficio stampa e comunicazione del Team per la Trasformazione digitale
@@ -49,6 +48,3 @@ Per ogni richiesta di contatto da parte di media e giornalisti il punto di rifer
 <div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="it" data-size="100" data-tag="2"></div>
 <script type="text/javascript" src="/js/ipress.js"></script>
 
-### Dashboard
-
-{% include dashboard.html %}

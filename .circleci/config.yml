@@ -1,0 +1,103 @@
+# Javascript Node CircleCI 2.0 configuration file
+#
+# Check https://circleci.com/docs/2.0/ for more details
+#
+
+defaults: &defaults
+  working_directory: /home/circleci/teamdigitale.governo.it
+  docker:
+    - image: circleci/ruby:2.4.1-node
+
+version: 2
+jobs:
+  build:
+    <<: *defaults
+    steps:
+      - checkout
+
+      # Download and cache dependencies
+      - restore_cache:
+          keys:
+          - v1-dependencies-{{ checksum "yarn.lock" }}-{{ checksum "Gemfile.lock" }}
+          # fallback to using the latest cache if no exact match is found
+          - v1-dependencies-
+
+      # Update dependencies
+      - run: bundle install
+      - run: yarn install
+
+      # Update cache
+      - save_cache:
+          paths:
+            - node_modules
+          key: v1-dependencies-{{ checksum "yarn.lock" }}-{{ checksum "Gemfile.lock" }}
+
+      # Build the site
+      - run: yarn gulp build
+
+      - persist_to_workspace:
+          root: /home/circleci
+          paths:
+            - teamdigitale.governo.it
+
+  # Deploy to production site
+  # Note that we need a custom SSH config to let rsync know
+  # how to reach the production site.
+  deploy-production:
+    <<: *defaults
+    steps:
+      - attach_workspace:
+          at: /home/circleci
+      - run: mkdir -p ~/.ssh
+      - run: echo $TEAMDIGITALE_SSH_CONF | base64 -d > ~/.ssh/config
+      - run: echo $TEAMDIGITALE_SSH_KNOWN_HOSTS | base64 -d > ~/.ssh/known_hosts
+      - run: which rsync || sudo apt-get install rsync
+      - run: yarn gulp publish-production
+
+  deploy-staging:
+    <<: *defaults
+    steps:
+      - attach_workspace:
+          at: /home/circleci
+      - run: mkdir -p ~/.ssh
+      - run: echo $TEAMDIGITALE_SSH_CONF | base64 -d > ~/.ssh/config
+      - run: echo $TEAMDIGITALE_SSH_KNOWN_HOSTS | base64 -d > ~/.ssh/known_hosts
+      - run: which rsync || sudo apt-get install rsync
+      - run: yarn gulp publish-staging
+
+  htmlproofer:
+    <<: *defaults
+    steps:
+      - attach_workspace:
+          at: /home/circleci
+      - run: bundle install
+      - run: bundle exec htmlproofer ./_site --check-html --allow-hash-href --only-4xx --alt-ignore '/.*/'
+
+workflows:
+  version: 2
+  build-test-and-approval-deploy:
+    jobs:
+      - build
+      # TODO: run tests
+      - deploy-staging:
+          requires:
+            - build
+          filters:
+            branches:
+              only:
+                - development
+      - hold:
+          type: approval
+          requires:
+            - build
+          filters:
+            branches:
+              only:
+                - master
+      - deploy-production:
+          requires:
+            - hold
+          filters:
+            branches:
+              only:
+                - master

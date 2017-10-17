@@ -4,7 +4,7 @@
 {% assign people_italian = people_pages | where_exp: "item", "item.country == 'Italy'" %}
 {% assign people_grouped = people_italian | concat: people_not_italian  | group_by: "country" %}
 
-<a name="innovators-focal-point" style="display: block; position: relative; top: -170px; visibility: hidden;"></a>
+<a name="innovators-focal-point"></a>
 
 <div class="i7people">
 <h2>Innovators & Focal Points</h2>

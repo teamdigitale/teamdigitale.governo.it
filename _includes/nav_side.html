@@ -13,7 +13,7 @@ tutte le pagine del sito che:
             <ul class="nav navmenu">
                 {% for menu_page in sorted_pages %}
                   {% if menu_page.parent_ref == nil and menu_page.menu_position != nil %}
-                    <li>
+                    <li class="sidenav-menu-item {{ menu_page.ref }}">
                         <a href="{{ menu_page.url }}">{{ menu_page.title }}</a>
                     </li>
                   {% endif %}

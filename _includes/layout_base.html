@@ -17,7 +17,7 @@
     </script><![endif]-->
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>{{ site.title[page.lang] }} - {{ page.title }}</title>
+  <title>{{ page.title }} - {{ site.title[page.lang] }}</title>
 
   {% for other_lang_page in site.pages %} {% if other_lang_page.ref == page.ref and other_lang_page.lang != page.lang %}
   <link rel="alternate" hreflang="{{ other_lang_page.lang }}" href="{{ other_lang_page.url }}" /> {% endif %} {% endfor %} {% include seo.html %}
@@ -38,11 +38,11 @@
      -->
   <link href='https://fonts.googleapis.com/css?family=Titillium+Web:400,200,200italic,300italic,300,400italic,600,600italic,700,700italic,900' rel='stylesheet' type='text/css' />
 
-  <link rel="stylesheet" href="/styles/combined-5c6544bc2d.css">
+  <link rel="stylesheet" href="/styles/combined-5c6544bc2d.css?{{ site.time | date: '%Y%m%d%H%M' }}">
   <link rel="stylesheet" href="/styles/icons.css" />
   <link rel="stylesheet" href="/styles/share.css" />
-  <link rel="stylesheet" href="/styles/current.css" />
-  <link rel="stylesheet" href="/assets/main.css" />
+  <link rel="stylesheet" href="/styles/current.css?{{ site.time | date: '%Y%m%d%H%M' }}" />
+  <link rel="stylesheet" href="/assets/main.css?{{ site.time | date: '%Y%m%d%H%M' }}" />
   <link href="/styles/dialog.css" rel="stylesheet" />
   <link href="/styles/font-awesome.min.css" rel="stylesheet" />
   <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/2.0.0/handlebars.min.js"></script>
@@ -62,8 +62,8 @@
   <div class="nav-banner">
     {% include slimheader.html %}
   </div>
-  <div class="container" id="page_top">
-    <header id="navbar" class="navbar navbar-default navbar-fixed-top hidden-print">
+  <div  id="page_top">
+    <header id="navbar" class="navbar navbar-default hidden-print">
       <div class="navbar-header container">
         <div class="row">
           <div class="col-xs-3 navbar__logo_container">
@@ -78,11 +78,11 @@
           </div>
           <div class="col-xs-1 team-bar ">
           </div>
-          <div class="col-md-4 col-xs-5 team-nav">
+          <div class="col-md-4 col-xs-4 team-nav">
             <div style="padding-left:5px; padding-top:1px;">
               <a tabindex="-1" style="color:white;" href="{{ homepage_href }}">
 
-                                {{ site.data.t.DigitalTransformationTeamBr[page.lang] }} 
+                                {{ site.data.t.DigitalTransformationTeamBr[page.lang] }}
 
                             </a>
             </div>
@@ -108,7 +108,7 @@
     <div class="row row-offcanvas row-offcanvas-left">
 
       <!--/.sidebar-offcanvas-->
-      <article tabindex="0" id="main" class="col-sm-12 col-md-8 col-md-offset-2">
+      <article tabindex="0" id="main" class="col-sm-12 col-md-12">
 
         {{ include.content }}
 
@@ -142,7 +142,7 @@
           </a>
           </div>
         </div><!--/footer__logod-->
-       
+
         </div>
         <div class="col-md-3 col-sm-6 col-xs-12">
           <div class="footer__logogov">
@@ -244,8 +244,9 @@
   </p>
 
 
-  <script src="/js/combined-b95a138e9e.js"></script>
-  <script src="/js/teamdigitale.js"></script>
+  <script src="/js/combined-b95a138e9e.js?{{ site.time | date: '%Y%m%d%H%M' }}"></script>
+  <script src="/js/jquery.sticky-sidebar.min.js"></script>
+  <script src="/js/teamdigitale.js?{{ site.time | date: '%Y%m%d%H%M' }}"></script>
 
   {% if page.layout == 'project' %}
   <script src="/js/frst-scale-effect.min.js"></script>

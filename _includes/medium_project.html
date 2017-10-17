@@ -1,15 +1,37 @@
 {% assign posts = site.medium_feed | where: "medium_detected_lang", page.lang %}
-{% assign posts = posts | where_exp: "item", "item.medium_tagsarray contains page.medium_tag" %}
-{% for post in (posts) limit:1 %}
-<div class="panel panel-default medium_project">
-  <div class="panel-body">
-    <figure>
-      <a href="{{ post.medium_url }}" target="_blank" title="{{post.medium_title}}">
-      <img src="https://cdn-images-1.medium.com/fit/t/800/240/{{ post.medium_preview_image_id }}" class="image-responsive">
-      </a>
-    </figure>
-    <p class="h3"><a href="{{ post.medium_url }}" target="_blank" title="{{post.medium_title}}">{{post.medium_title}}</a></p>
-    <p >{{ post.medium_subtitle }}</p>
-  </div>
+{% assign posts_by_tag = posts | where_exp: "item", "item.medium_tagsarray contains page.medium_tag" %}
+{% assign medium_id = page.medium_post_id %}
+{% assign posts_by_id = posts | where_exp: "item", "item.medium_post_id == medium_id" %}
+
+<h3>Dal blog</h3>
+<div>
+{% if medium_id != nil %}
+	{% for post in (posts_by_id) limit:1 %}
+	<div class="panel panel-default medium_project">
+	  <div class="panel-body">
+	    <figure>
+	      <a href="{{ post.medium_url }}" target="_blank" title="{{post.medium_title}}">
+	      <img src="https://cdn-images-1.medium.com/fit/t/800/240/{{ post.medium_preview_image_id }}" class="image-responsive">
+	      </a>
+	    </figure>
+	    <p class="h3"><a href="{{ post.medium_url }}" target="_blank" title="{{post.medium_title}}">{{post.medium_title}}</a></p>
+	    <p >{{ post.medium_subtitle }}</p>
+	  </div>
+	</div>
+	{% endfor %}
+{% else %}
+	{% for post in (posts_by_tag) limit:1 %}
+	<div class="panel panel-default medium_project">
+	  <div class="panel-body">
+	    <figure>
+	      <a href="{{ post.medium_url }}" target="_blank" title="{{post.medium_title}}">
+	      <img src="https://cdn-images-1.medium.com/fit/t/800/240/{{ post.medium_preview_image_id }}" class="image-responsive">
+	      </a>
+	    </figure>
+	    <p class="h3"><a href="{{ post.medium_url }}" target="_blank" title="{{post.medium_title}}">{{post.medium_title}}</a></p>
+	    <p >{{ post.medium_subtitle }}</p>
+	  </div>
+	</div>
+	{% endfor %}
+{% endif %}
 </div>
-{% endfor %}

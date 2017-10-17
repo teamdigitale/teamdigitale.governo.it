@@ -22,10 +22,9 @@ timeline:
   - period: Luglio 2017
     title: Incontro con le software house
     desc: Abbiamo incontrato le principali software house italiane che realizzano software per la pubblica amministrazione, e abbiamo discusso con loro di Developers Italia e delle nuove sfide di innovazione che si apriranno su servizi sempre più innovativi.
-  - period: Q3 2017
-    title: Eventi sul territorio per incontrare sviluppatori
-    desc: Organizzeremo e parteciparemo a diversi eventi tecnici sul territorio per incontrare gli sviluppatori, raccontare quello che stiamo costruendo, cercando di coinvolgerli nelle attività.
-    status: todo
+  - period: Ottobre 2017
+    title: Hackathon nazionale
+    desc: Abbiamo realizzato il più grosso "code sprint" italiano&#58; più di 800 sviluppatori a lavoro sul codice open-source della Pubblica Amministrazione, creando decine di progetti che sono fin da subito utilizzabili per velocizzare la digitalizzazione dei servizi pubblici.
   - period: Q4 2017
     title: 10 progetti in Developers Italia
     desc: Abbiamo un obiettivo di attivare lo sviluppo su 10 diversi progetti in community, coinvolgendo le amministrazioni di competenza nel nuovo modello di sviluppo aperto e collaborativo.
@@ -46,7 +45,7 @@ E' un cambiamento del modo in cui lavora la Pubblica Amministrazione, utilizzand
 per i principali linguaggi di programmazione e framework, API documentate pubblicamente, non con un linguaggio giuridico ma tecnico, 
 intorno alle quali poter coinvolgere una community di sviluppatori che crei innovazione.
 
-#### [Ulteriori informazioni](https://developers.italia.it){:target="_blank"}
+#### [Scopri gli aspetti tecnici su Developers Italia](https://developers.italia.it)
 
 ### Il ruolo del Team
 
@@ -65,6 +64,9 @@ con loro per portare lo sviluppo dei progetti dentro Developers Italia.
 
 
 {% include twitter_timeline.html %}
+
+### Media 
+Per ogni richiesta di contatto da parte di media e giornalisti il punto di riferimento è l'ufficio stampa e comunicazione del Team per la Trasformazione digitale
 
 {% include ipress.html %}
 <div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="it" data-size="100" data-tag="8"></div>

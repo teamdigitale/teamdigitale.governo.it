@@ -3,13 +3,13 @@
 {% if page.people != nil %}
 	<div class="row project__people">
 	{% for ppage in page.people %}
-		{% assign coldim = "12|6|6|4|3|4|6" | split: "|" %}
+		{% assign coldim = "12|12|4|4|3|4|4" | split: "|" %}
 		{% assign same_lang_pages = site.pages | where: "lang", page.lang %}
 		{% assign people_pages = same_lang_pages | where: "ref", ppage %}
 
 		{% for person in people_pages %}
 			{% assign fixedperiod = page.people_fixed_period | where: "ref", person.ref | first %}
-			<article class="col-sm-{{coldim[people_pages.size]}} project__people__person">
+			<article class="col-sm-{{coldim[page.people.size]}} project__people__person">
 				<a href="{{ person.url }}">
 	                <img class="img-circle img-responsive" src="/images/team/{{ person.ref }}.jpg" alt="{{ person.title }}">
 	            </a>
@@ -29,8 +29,10 @@
 	
 
 </div>
-<div class="col-md-3">
-{{ content | toc_only }}
+<div class="hidden-xs hidden-sm col-md-3">
+	<div class="section-nav__wrapper">
+		{{ content | toc_only }}
+	</div>
 
 </div>
 

@@ -7,10 +7,8 @@ ref: cittadinanza-digitale
 parent_ref: projects
 people: [federico-feroldi]
 toc: true
-medium_tag:
 forum_category: cie
 forum_limit: 3
-
 ---
 
 ### In breve
@@ -20,8 +18,6 @@ La Cittadinanza Digitale ha l'obiettivo di rendere più semplice e familiare l'i
 Attraverso una piattaforma aperta di componenti condivise su cui costruire i servizi digitali, creeremo un'esperienza che seguirà il cittadino nell'interazione con i servizi locali e nazionali, come se fosse un unica grande casa digitale del cittadino.
 
 Sarà un modo più semplice e familiare da parte della Pubblica Amministrazione di comunicare con i cittadini, notificare atti, ricordare scadenze e di condividere informazioni e documenti attraverso un interfaccia costruita sul cittadino.
-
-#### [Ulteriori informazioni](https://developers.italia.it/it/cie/){:target="_blank"}
 
 ### Il ruolo del Team
 
@@ -34,7 +30,8 @@ Infine il Team insieme ad AgID ha iniziato lo sviluppo di alcuni progetti fondam
 *   Un'applicazione web e mobile che vuole fornire un luogo digitale di accesso all'esperienza di Cittadinanza Digitale, costruita sul cittadino.
 
 
-{% include medium_project.html %}
+### Media 
+Per ogni richiesta di contatto da parte di media e giornalisti il punto di riferimento è l'ufficio stampa e comunicazione del Team per la Trasformazione digitale
 
 {% include ipress.html %}
 <div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="it" data-size="100" data-tag="5"></div>

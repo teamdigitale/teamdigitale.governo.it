@@ -1,7 +1,15 @@
 $(function() {
-	// MENU
-	
+	// obtain "the monday" of a Date
+	function getMonday(d) {
+	  d = new Date(d);
+	  var day = d.getDay(),
+	      diff = d.getDate() - day + (day == 0 ? -6:1); // adjust when day is sunday
+	  var monday = new Date(d.setDate(diff));
+	  var options = {year: 'numeric', month: '2-digit', day: '2-digit'};
+	  return monday.toLocaleDateString("it", options);
+	}
 
+	// MENU
 	// --- menu end
 
 	var teamdigitale_data = {
@@ -45,5 +53,14 @@ $(function() {
 	$(teamdigitale_data.forumTag).each(function( i ) {
   		consumeForum($(this));
 	});
+
+	// monday for project-page
+	$('#getmonday').text( getMonday(new Date()) );
+
+	// Sticky nav 
+	$('.section-nav__wrapper').stickySidebar({
+ 		containerSelector: '#main',
+		innerWrapperSelector: '.section-nav'
+  	});
 
 });
