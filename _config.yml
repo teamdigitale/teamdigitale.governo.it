@@ -49,6 +49,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-toc
+  - jekyll-last-modified-at
 exclude:
   - vendor
   - README.md

@@ -14,7 +14,7 @@ layout: default
 “Technological innovation should give us hope, not despair”: in the <a href="http://www.g7italy.it/sites/default/files/documents/I-7%20Chair%20Summary.pdf">I-7 Chair Summary</a> the conclusions of the I-7 group, summarized into four themes - training and education, technology, ethics and society, jobs and income.<br />
 
 
-<a href="http://www.g7italy.it/sites/default/files/documents/G7_ICT_Industry_Declaration_%20Italy-26%20Sept_2017.pdf">The G7 takes note<a/> of the Chair’s Summary presented by Diego Piacentini at the closing session of the ICT and Industry Multistakeholder Conference.
+<a href="http://www.g7italy.it/sites/default/files/documents/G7_ICT_and_Industruy_Ministers%27_Declaration_2017.pdf">The G7 takes note<a/> of the Chair’s Summary presented by Diego Piacentini at the closing session of the ICT and Industry Multistakeholder Conference.
 
 
 Venaria (Turin), 27th September 2017 - The I-7 group met and discussed for a day the multiple challenges that innovation poses and cannot be faced only at national level. As a result Innovators have identified a set of Key Points, putting people at the heart of any technological advancement and making innovation a source of well-being for the whole mankind.
