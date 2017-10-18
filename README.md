@@ -2,6 +2,10 @@
 
 Sito web del [Team per la Trasformazione Digitale](https://teamdigitale.governo.it).
 
+|`master` branch|`development` branch|
+|------|-----------|
+|[![CircleCI](https://circleci.com/gh/teamdigitale/teamdigitale.governo.it/tree/master.svg?style=svg)](https://circleci.com/gh/teamdigitale/teamdigitale.governo.it/tree/master)|[![CircleCI](https://circleci.com/gh/teamdigitale/teamdigitale.governo.it/tree/development.svg?style=svg)](https://circleci.com/gh/teamdigitale/teamdigitale.governo.it/tree/development)|
+
 ## Struttura del sito
 
 ### Configurazioni base
@@ -53,13 +57,13 @@ L'intestazione della pagina di profilo deve contenere i seguenti attributi:
 * `ref`: l'identificativo unico della pagina (es. `federico-feroldi`)
 * `parent_ref`: deve avere il valore `team`
 
-Il workflow di creazione delle pagine profilo segue le seguenti fasi: 
+Il workflow di creazione delle pagine profilo segue le seguenti fasi:
 
-1. apertura issue GitHub; 
-2. scrittura e revisione del contenuto; 
-3. photo editing e upload della foto profilo; 
-4. PR del profilo; 
-5. traduzione e revisione del contenuto; 
+1. apertura issue GitHub;
+2. scrittura e revisione del contenuto;
+3. photo editing e upload della foto profilo;
+4. PR del profilo;
+5. traduzione e revisione del contenuto;
 6. PR del profilo in lingua inglese.
 
 L'autore della bio può [seguire questa procedura](https://docs.google.com/document/d/1k_y2s9sTUGLH5o4sXCiUvI4dj8ei_saK24_lAF2mmKk/edit)
