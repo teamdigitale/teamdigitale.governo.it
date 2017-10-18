@@ -76,6 +76,8 @@ I post di Medium vengono scaricati dall'URL impostato nella configurazione `medi
 
 La logica che sincronizza i post si trova nel plugin custom `_plugins/MediumImporter.rb`.
 
+L'autore del post può seguire questo [processo di pubblicazione](https://docs.google.com/a/teamdigitale.governo.it/document/d/1EuVqJgutjh22Np2axKtZswrVE8Tmg1VglnvOynlNf54/edit?usp=sharing)
+
 ### Traduzioni
 
 I template del sito utilizzano alcune traduzioni in modo dinamico (che non sono contenute nel testo della pagina).
