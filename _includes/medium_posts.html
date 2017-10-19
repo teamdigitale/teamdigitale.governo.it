@@ -5,7 +5,6 @@
 {% assign tot_other_posts = other_posts.size %}
 {% assign tot_post_rows = (other_posts.size / site.medium_posts_per_row.to_f).ceil %}
 
-
 <div id="medium" style="min-height:100px;">
   <div class="row" style="margin-top: 30px;">
     <div class="col-xs-1"></div>
@@ -14,8 +13,9 @@
       <h3 class="team-item-title">
         <a href="{{ cover_post.medium_url }}" target="_blank" style="text-decoration: none;">{{ cover_post.medium_title }}</a>
       </h3>
+
       <img src="https://cdn-images-1.medium.com/fit/t/800/240/{{ cover_post.medium_preview_image_id }}" class="img-responsive" style="margin: 2px;width:100%;" alt="{{ cover_post.medium_title }}">
-      <p class="team-item-subtitle">{{ cover_post.medium_subtitle }}</p>
+      <p class="team-item-subtitle">{{ cover_post.medium_subtitle }} <small>– {{cover_post.medium_published_at | divided_by: 1000 | date: site.data.t.FormatDate[page.lang] }}</small></p>
     </div>
   </div>
 
@@ -30,7 +30,7 @@
           <h3 class="team-item-title">
             <a href="{{ this_post.medium_url }}" target="_blank" style="text-decoration: none;">{{ this_post.medium_title }}</a>
           </h3>
-          <p class="team-item-subtitle">{{ this_post.medium_subtitle }}</p>
+          <p class="team-item-subtitle">{{ this_post.medium_subtitle }} <small>– {{this_post.medium_published_at | divided_by: 1000 | date: site.data.t.FormatDate[page.lang] }}</small></p>
         </div>
       {% endfor %}
     </div>
