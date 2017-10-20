@@ -31,7 +31,7 @@ const rsync = require('gulp-rsync');
 const exec = require('gulp-exec');
 
 const htmlproof_sitefolder = '_site/'
-const htmlproof_params = '--check-html --allow-hash-href --only-4xx'
+const htmlproof_params = '--check-html --allow-hash-href --only-4xx --external_only --internal-domains teamdigitale.governo.it '
 
 gulp.task('jekyll', function() {
   return gulp.src('index.html', {
