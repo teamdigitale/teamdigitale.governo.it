@@ -4,9 +4,13 @@ lang: en
 permalink: /en/people/luca-bigliardi.html
 layout: people
 role: Software Developer
-is_new: true
+is_new: false
 ref: luca-bigliardi
 parent_ref: team
+start_date: July 19, 2017
+period_provided: until September 16, 2018
+annual_compensation: € 80,000
+approved_by_court: September 26, 2017
 ---
 
 I got my first computer when I was 16. I used to take apart and put back
