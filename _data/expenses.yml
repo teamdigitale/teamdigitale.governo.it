@@ -1,0 +1,53 @@
+---
+SpeseDelTeam:
+  - id: Sviluppo software e design
+    impegno: 1111
+    pagamenti: 1000.00
+  - id: Hardware e accessori
+    impegno: 2222
+    pagamenti: 2000.00
+  - id: Licenze
+    impegno: 33333
+    pagamenti: 3000.00
+  - id: Comunicazione
+    impegno: 4444
+    pagamenti: 4000.00
+  - id: Funzionamento (Missioni, Eventi, Catering)
+    impegno: 55555
+    pagamenti: 5000.00
+SpeseAnalitiche:
+  - id: Ministero dell'Interno per ANPR
+    impegno: 1111
+    pagamenti: 1000.00
+    contraccordi: Accordo con il Ministero dell’interno per l’implementazione del progetto relativo alla realizzazione dell’Anagrafe nazionale della popolazione residente
+    descrizione: Nell’ambito del progetto Data & Analytics Framework il contratto è finalizzato allo sviluppo di funzionalità di base della piattaforma big data tra cui rientrano le componenti infrastrutturali in Cloud e on premises, l’installazione di software dell’ecosistema Hadoop, un sistema di applicazioni a microservizi per interagire e fare operazioni sui dati gestiti, un sistema di sicurezza per la gestione degli accessi e il logging delle attività svolte. L’attività riguarda, anche, l’integrazione delle basi di dati attualmente esistenti nella pubblica amministrazione in un data lake unificato, la predisposizione di un’architettura per esporre i dati verso 3rd parties applications, nonché la creazione di un ecosistema di data applications capace di utilizzare e sfruttare dati grezzi e aggregati per fornire funzionalità sia ad end-users che ad altre applicazioni.
+  - id: R.T.I. Almaviva S.p.A. (mandataria), Almawave s.r.l., INDRA ITALIA S.p.A.,PricewaterhouseCoopers Advisory S.p.A.
+    impegno: 1111
+    pagamenti: 1000.00
+    contraccordi: Contratto con R.T.I. ALMAVIVA - adesione a Contratto Quadro Consip SPC Cloud Lotto 3
+    descrizione: Nell’ambito del progetto Data & Analytics Framework il contratto è finalizzato al'acquisizione di Virtual Data Center a canone al fine di creare un cluster big data basato su Hadoop e suo ecosistema accoppiato ad una installazione di un DB operazionale (MongoDB) e ad un layer di esposizione dati tramite API
+  - id: R.T.I. Telecom Italia S.p.A. (mandataria), HP Enterprise Services Italia S.r.l., Poste Italiane S.p.A. con socio unico, Postecom S.p.A. e Postel S.p.A.
+    impegno: 1111
+    pagamenti: 1000.00
+    contraccordi: Contratto con R.T.I. Telecom Italia S.p.A.- adesione a Contratto Quadro Consip SPC Cloud Lotto 1
+    descrizione: Nell’ambito del progetto Data & Analytics Framework il contratto è finalizzato al'acquisizione di Virtual Data Center a canone al fine di creare un cluster big data basato su Hadoop e suo ecosistema accoppiato ad una installazione di un DB operazionale (MongoDB) e ad un layer di esposizione dati tramite API
+  - id: ISTC-CNR
+    impegno: 1111
+    pagamenti: 1000.00
+    contraccordi: Accordo ISTC - CNR - progetto DAF
+    descrizione: L’accordo è finalizzato alla creazione di Ontologie che permettano di applicare uno schema logico alle relazioni tra le entità descritte dai dati, migliorando la sistematizzazione dei dati nel Data & Analytics Framework  nonchè l’analisi e la ricerca dei dati stessi
+  - id: Università di Bologna - CIRSFID
+    impegno: 1111
+    pagamenti: 1000.00
+    contraccordi: Accordo con l’Università di Bologna - CIRSFID
+    descrizione: L’accordo è finalizzato alla realizzazione del progetto LexDatafication, che fa parte del progetto Data & Analytics Framework e che prevede il miglioramento delle funzionalità di ricerca semantica delle banche-dati normative attraverso la costruzione di ontologie specifiche e lo sviluppo di un prodotto di Question & Answering a favore del cittadino. L’attività prevede l’adattamento dello standard “Akoma Ntoso”, sviluppato dal CIRSFID e dedicato alla modellazione dei testi parlamentari, legislativi e giudiziari attualmente adottato dal Parlamento Europeo, Commissione Europea, Senato ed altre organizzazioni internazionali, alle singole banche-dati normative che rientrano nel progetto LexDatafication.
+  - id: GeoSolution
+    impegno: 1111
+    pagamenti: 1000.00
+    contraccordi: Contratto con GEOSOLUTIONS per Integrazione software per harvester nazionale basato su CKAN 
+    descrizione: Nell’ambito del progetto di evoluzione del catalogo nazionale dei dati aperti, attualmente denominato “dati.gov.it”, il contratto è finalizzato alla progettazione e allo sviluppo di un cosiddetto  “harvester” nazionale basato su tecnologia CKAN. Un harvester è definito come una componente software che, grazie all’uso di standard nazionali e di API (Application Programming Interface), sia in grado automaticamente e periodicamente di raccogliere metadati relativi a dati pubblici delle pubbliche amministrazioni (siano esse pubbliche amministrazioni centrali che regionali/comunali).
+  - id: Università di BARI
+    impegno: 1111
+    pagamenti: 1000.00
+    contraccordi: Contratto con Università di Bari - DIPARTIMENTO DI INFORMATICA
+    descrizione: Nell’ambito del progetto DAF, il contratto è finalizzato all’utilizzo di un software specifico che consenta la costruzione di un sistema di FAQ basato su un motore di ricerca semantico. L’Università di Bari – Dipartimento di informatica, che ha condotto studi specialistici nel campo del Natural Language Processing (NPL) e ha realizzato un prodotto di Question Answering, effettuerà lo sviluppo del motore di ricerca citato, tramite l’adattamento dello stesso alle esigenze del progetto.

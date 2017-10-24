@@ -1,0 +1,46 @@
+{% assign teamexpenses = site.data.expenses.SpeseDelTeam %}
+{% assign detailedexpenses = site.data.expenses.SpeseAnalitiche %}
+
+<h3>SpeseDelTeam</h3>
+<table class="table table-striped expenses__teamexpenses">
+    <thead>
+      <tr>
+        <th>Tipologia di spesa per macroarea</th>
+        <th>impegno</th>
+        <th>pagamenti</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for expense in teamexpenses %}
+      <tr>
+        <td>{{expense.id}}</td>
+        <td>{{expense.impegno}}</td>
+        <td>{{expense.pagamenti}}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+</table>
+
+<h3>SpeseAnalitiche</h3>
+<table class="table table-striped expenses__detailedexpenses">
+    <thead>
+      <tr>
+        <th>Titolo spesa</th>
+        <th>impegno</th>
+        <th>pagamenti</th>
+        <th>contraccordi</th>
+        <th>descrizione</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for expense in detailedexpenses %}
+      <tr>
+        <td>{{expense.id}}</td>
+        <td>{{expense.impegno}}</td>
+        <td>{{expense.pagamenti}}</td>
+        <td>{{expense.contraccordi}}</td>
+        <td>{{expense.descrizione}}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+</table>
