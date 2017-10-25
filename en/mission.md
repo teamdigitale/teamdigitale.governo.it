@@ -2,7 +2,7 @@
 title: Mission
 lang: en
 ref: mission
-menu_position: 2
+menu_position: 3
 layout: default_with_toc
 toc: true
 permalink: /en/2-content.htm

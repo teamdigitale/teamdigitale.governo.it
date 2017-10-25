@@ -4,9 +4,13 @@ lang: it
 permalink: /it/people/luca-bigliardi.html
 layout: people
 role: Software Developer
-is_new: true
+is_new: false
 ref: luca-bigliardi
 parent_ref: team
+start_date: 19 luglio 2017
+period_provided: fino al 16 settembre 2018
+annual_compensation: € 80.000
+approved_by_court: 26 settembre 2017
 ---
 
 Ho avuto il mio primo computer a 16 anni. Prima di allora ero abituato a

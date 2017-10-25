@@ -2,7 +2,7 @@
 title: Progetti
 lang: it
 ref: projects
-menu_position: 2
+menu_position: 3
 permalink: /it/progetti.htm
 layout: default
 ---
