@@ -1,46 +1,67 @@
+{% assign t = site.data.t %}
 {% assign teamexpenses = site.data.expenses.SpeseDelTeam %}
 {% assign detailedexpenses = site.data.expenses.SpeseAnalitiche %}
+{% assign speseupdate = site.data.expenses.SpeseUpdate %}
+{% assign sum_teamexpenses_impegno = 0 %}
+{% assign sum_teamexpenses_pagamenti = 0 %}
 
-<h3>SpeseDelTeam</h3>
+<i>Dati aggiornati al {{speseupdate}}</i>
+
 <table class="table table-striped expenses__teamexpenses">
     <thead>
       <tr>
-        <th>Tipologia di spesa per macroarea</th>
-        <th>impegno</th>
-        <th>pagamenti</th>
+        <th>{{t.TipologiaSpesa[page.lang]}}</th>
+        <th>{{t.ImpegnoSpesa[page.lang]}}</th>
+        <th>{{t.PagamentiSpesa[page.lang]}}</th>
       </tr>
     </thead>
     <tbody>
       {% for expense in teamexpenses %}
-      <tr>
-        <td>{{expense.id}}</td>
-        <td>{{expense.impegno}}</td>
-        <td>{{expense.pagamenti}}</td>
-      </tr>
+	      {% assign sum_teamexpenses_impegno = sum_teamexpenses_impegno | plus: expense.impegno  %}
+	      {% assign sum_teamexpenses_pagamenti = sum_teamexpenses_pagamenti | plus: expense.pagamenti  %}
+	      <tr>
+	        <td>{{expense.id}}</td>
+	        <td><span class="white-space--nowrap">&euro; {{expense.impegno | intcomma: '.'}}</span></td>
+	        <td><span class="white-space--nowrap">&euro; {{expense.pagamenti | intcomma: '.'}}</span></td>
+	      </tr>
       {% endfor %}
     </tbody>
+    <tfoot>
+      	<tr>
+      		<td><i>{{t.TotaleSpesa[page.lang]}}</i></td>
+      		<td><i>&euro; {{ sum_teamexpenses_impegno  | intcomma: '.'}}</i></td>
+      		<td><i>&euro; {{ sum_teamexpenses_pagamenti  | intcomma: '.'}}</i></td>
+      	</tr>
+    </tfoot>
 </table>
 
-<h3>SpeseAnalitiche</h3>
-<table class="table table-striped expenses__detailedexpenses">
-    <thead>
-      <tr>
-        <th>Titolo spesa</th>
-        <th>impegno</th>
-        <th>pagamenti</th>
-        <th>contraccordi</th>
-        <th>descrizione</th>
-      </tr>
-    </thead>
-    <tbody>
-      {% for expense in detailedexpenses %}
-      <tr>
-        <td>{{expense.id}}</td>
-        <td>{{expense.impegno}}</td>
-        <td>{{expense.pagamenti}}</td>
-        <td>{{expense.contraccordi}}</td>
-        <td>{{expense.descrizione}}</td>
-      </tr>
-      {% endfor %}
-    </tbody>
-</table>
+<h3>{{t.SpeseAnalitiche[page.lang]}}</h3>
+<div >
+{% for expense in detailedexpenses %}
+
+	<div class="panel panel-default expenses__detailedexpenses">
+	  <div class="panel-heading">
+	    <h3 class="panel-title">{{expense.id}}</h3></div>
+	  <div class="panel-body">
+	    <p>{{expense.descrizione}}</p>
+	    <table class="table table-condensed">
+	    	<thead>
+	    		<tr>
+	    		<th>{{t.ImpegnoSpesa[page.lang]}}</th>
+        		<th>{{t.PagamentiSpesa[page.lang]}}</th>
+	    		<th>{{t.Contraccordi[page.lang]}}</th>
+	    		</tr>
+	    	</thead>
+	    	<tbody>
+	    		<tr>
+	    		<td><span class="white-space--nowrap">&euro; {{expense.impegno | intcomma: '.'}}</span></td>
+	        	<td><span class="white-space--nowrap">&euro; {{expense.pagamenti | intcomma: '.'}}</span></td>
+	        	<td>{{expense.contraccordi}}</td>
+	        	</tr>
+	    	</tbody>
+	    </table>
+	  </div>
+	</div>
+
+{% endfor %}
+</div>

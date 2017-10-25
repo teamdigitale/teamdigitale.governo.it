@@ -15,6 +15,9 @@
 	display: block;
 	text-align: center;
 }
+.white-space--nowrap {
+	white-space: nowrap;
+}
 .nav-banner {
 	background-color: #06C;
 	font-size: 16px ;
@@ -336,6 +339,17 @@
 		list-style: none;
 		padding: 0;
 		margin: 0;
+	}
+}
+
+.expenses {
+
+	&__detailedexpenses {
+		font-size: 17px;
+
+		p {
+			font-size: 17px;
+		}
 	}
 }
 
