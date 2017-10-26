@@ -2,7 +2,7 @@
 {% assign posts_by_tag = posts | where_exp: "item", "item.medium_tagsarray contains page.medium_tag" %}
 {% assign medium_id = page.medium_post_id %}
 {% assign posts_by_id = posts | where_exp: "item", "item.medium_post_id == medium_id" %}
-
+<a name="dal-blog"></a>
 <h3>Dal blog</h3>
 <div>
 {% if medium_id != nil %}
