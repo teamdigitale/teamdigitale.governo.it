@@ -213,8 +213,8 @@ PagamentiSpesa:
   en: "Pagamenti"
   it: "Pagamenti"
 SpeseAnalitiche:
-  en: "Descrizione analitica dei contratti/accordi di maggiore rilievo"
-  it: "Descrizione analitica dei contratti/accordi di maggiore rilievo"
+  en: "Dettaglio spese di sviluppo software e design superiori a EUR 30000"
+  it: "Dettaglio spese di sviluppo software e design superiori a EUR 30000"
 Contraccordi:
   en: "Contratto/accordo"
   it: "Contratto/accordo"

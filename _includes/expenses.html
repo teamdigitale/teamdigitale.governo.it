@@ -35,14 +35,21 @@
     </tfoot>
 </table>
 
-<h3>{{t.SpeseAnalitiche[page.lang]}}</h3>
-<div >
+<h4>{{t.SpeseAnalitiche[page.lang]}}</h4>
+<div class="panel-group" id="detailedaccordion" role="tablist" aria-multiselectable="true">
 {% for expense in detailedexpenses %}
-
 	<div class="panel panel-default expenses__detailedexpenses">
-	  <div class="panel-heading">
-	    <h3 class="panel-title">{{expense.id}}</h3></div>
+	  <div class="panel-heading" role="tab">
+	    <h3 class="panel-title">
+	    <a role="button" data-toggle="collapse" data-parent="#detailedaccordion" href="#detail{{forloop.index}}" 
+	       aria-expanded="{% if forloop.first %}true{% else %}false{% endif %}" aria-controls="detail{{forloop.index}}">
+	    Waiting for the title {{forloop.index}}
+		</a></h3>
+	  </div>
+	  <div id="detail{{forloop.index}}" class="panel-collapse collapse {% if forloop.first %}in{% endif %}" 
+	  		role="tabpanel" aria-labelledby="heading{{forloop.index}}">
 	  <div class="panel-body">
+	  	<h4>{{expense.id}}</h4>
 	    <p>{{expense.descrizione}}</p>
 	    <table class="table table-condensed">
 	    	<thead>
@@ -61,6 +68,7 @@
 	    	</tbody>
 	    </table>
 	  </div>
+		</div>
 	</div>
 
 {% endfor %}

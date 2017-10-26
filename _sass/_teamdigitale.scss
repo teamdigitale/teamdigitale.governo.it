@@ -350,6 +350,15 @@
 		p {
 			font-size: 17px;
 		}
+
+		.panel-title {
+			a[aria-expanded='true'] {
+				text-decoration: none !important;
+			}
+			a:focus {
+				background: none !important;
+			}
+		}
 	}
 }
 
