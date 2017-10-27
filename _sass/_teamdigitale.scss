@@ -23,7 +23,7 @@
 	color: #fff;
 	position: relative;
 	z-index: 9991;
-	
+
 	a {
 		color: #fff !important;
 		text-decoration: none;
@@ -88,7 +88,7 @@
 #navbar {
 	position: relative;
 	z-index: 9990;
-	
+
 	.navbar-top-link__item {
 		display: inline-block;
 		&.homepage a {
@@ -380,7 +380,7 @@ body.layout-project {
 	#main {
 		@media screen and (min-width: 992px) {
 		    max-width: none !important;
-		    
+
 		}
 	}
 }
@@ -516,7 +516,7 @@ body.layout-project {
 	}
 
 }
-/* EXPLICIT OVERRIDES 
+/* EXPLICIT OVERRIDES
 --------------------- */
 .sidenav-menu-item.homepage {
 	/* issue 289 */
@@ -613,4 +613,77 @@ body.layout-project {
 		#nav-toggle{
 			top: 1em;
 		}
+}
+
+// Home Banner
+#page_top{
+	height: auto;
+}
+.navbar{
+	margin-bottom: 0;
+}
+.sidenav-menu-item.active{
+	background: #f6f6f6;
+}
+.home-banner{
+	background: #00C5CA;
+	padding: 4rem 0;
+	position: relative;
+
+	h2{
+		font-size: 4rem;
+		color: #fff;
+		text-shadow: 0 1px 1px rgba(0,0,0,.2);
+		display: inline;
+	}
+	a{
+		text-transform: uppercase;
+		color: #37474F;
+		text-decoration: none;
+		font-size: 1.5rem;
+		font-weight: bold;
+		padding: 0 2rem;
+	}
+	a:hover{
+		text-decoration: underline;
+		color: white;
+	}
+	.button{
+		border-radius: 4px;
+		box-shadow: 0 20px 50px rgba(0,0,0,.2);
+		text-transform: uppercase;
+		color: #37474F;
+		font-size: 2rem;
+		background: white;
+		padding: 1.5rem 2rem;
+    display: block;
+    margin: 2rem 0 0 0;
+    float: left;
+	}
+	.button:hover{
+		text-decoration: none;
+		color: #fff;
+		background: #37474F;
+		svg path{
+			fill: white;
+		}
+	}
+	.projects-button{
+
+
+		@media screen and (min-width: 992px) {
+			display: inline;
+			float: none;
+			margin:0;
+			position: absolute;
+			top: 50%;
+			left: 66%;
+			transform: translateY(-50%) translateX(-50%);
+		}
+		svg{
+			width: 60px;
+			margin: 0 2rem 0 0;
+			vertical-align: middle;
+		}
+	}
 }
