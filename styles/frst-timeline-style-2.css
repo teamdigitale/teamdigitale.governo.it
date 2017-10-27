@@ -19,10 +19,7 @@
  transition: all 0.4s ease-out;
 
 }
-.frst-timeline-style-2 .scale-effect .frst-timeline-content-inner span,
-.frst-timeline-style-2 .scale-effect .frst-timeline-content-inner h2,
-.frst-timeline-style-2 .scale-effect .frst-timeline-content-inner .h2
- {
+.frst-timeline-style-2 .scale-effect .frst-timeline-content-inner span,.frst-timeline-style-2 .scale-effect .frst-timeline-content-inner h2 {
    font-size: 22px;
    -webkit-transition: all 0.4s ease-out;
   -moz-transition: all 0.4s ease-out;
@@ -120,9 +117,7 @@
   color: #000;
   line-height: 30px;
 }
-.frst-timeline-style-2 h2,
-.frst-timeline-style-2 .h2
-{
+.frst-timeline-style-2 h2{
   font-size: 18px;
   margin: 20px 0;
   font-weight: 700;
@@ -131,9 +126,7 @@
 .todo .frst-date {
   color: #ccc !important;
 }
-.frst-date-opposite.frst-timeline-style-2 h2,
-.frst-date-opposite.frst-timeline-style-2 .h2
-{
+.frst-date-opposite.frst-timeline-style-2 h2{
   margin-top: 0;
 
 }
