@@ -197,24 +197,3 @@ LastUpdateDate:
 FormatDate:
   en: "%m/%d/%Y"
   it: "%d/%m/%Y"
-SpeseDelTeam:
-  en: "Spese Team per la Trasformazione Digitale"
-  it: "Spese Team per la Trasformazione Digitale"
-TipologiaSpesa:
-  en: "Tipologia di spesa per macroarea"
-  it: "Tipologia di spesa per macroarea"
-TotaleSpesa:
-  en: "Totale"
-  it: "Totale"
-ImpegnoSpesa:
-  en: "Impegno iva inclusa"
-  it: "Impegno iva inclusa"
-PagamentiSpesa:
-  en: "Pagamenti"
-  it: "Pagamenti"
-SpeseAnalitiche:
-  en: "Dettaglio spese di sviluppo software e design superiori a EUR 30000"
-  it: "Dettaglio spese di sviluppo software e design superiori a EUR 30000"
-Contraccordi:
-  en: "Contratto/accordo"
-  it: "Contratto/accordo"
