@@ -516,6 +516,26 @@ body.layout-project {
 	}
 
 }
+/* TIMELINE */
+.frst-timeline-style-2 .scale-effect .frst-timeline-content-inner .h2 {
+   font-size: 22px;
+   -webkit-transition: all 0.4s ease-out;
+  -moz-transition: all 0.4s ease-out;
+  -o-transition: all 0.4s ease-out;
+  -ms-transition: all 0.4s ease-out;
+  transition: all 0.4s ease-out;
+}
+.frst-timeline-style-2 .h2{
+  font-size: 18px;
+  margin: 20px 0;
+  font-weight: 700;
+  color: #6f6f6f;
+}
+.frst-date-opposite.frst-timeline-style-2 .h2{
+  margin-top: 0;
+
+}
+
 /* EXPLICIT OVERRIDES 
 --------------------- */
 .sidenav-menu-item.homepage {
