@@ -8276,11 +8276,6 @@ footer {
                 margin-left: 16px;
             }
 
-            footer .footer__links li:last-child {
-                margin-top: 5px;
-                margin-right: 16px;
-                float: right;
-            }
 
     footer .footer__title {
         font-size: 32px;
