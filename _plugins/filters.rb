@@ -26,7 +26,7 @@ module LiquidFilters
 
   # Converts an integer to a string containing commas every three digits.
   # Optionally supports a delimiter override for commas.
-  def intcomma(value, delimiter=",")
+  def intcomma(value, delimiter=".")
       begin
         orig = value.to_s
         delimiter = delimiter.to_s
@@ -34,9 +34,8 @@ module LiquidFilters
         puts "#{e.class} #{e}"
         return value
       end
-
-      copy = orig.strip
-      copy = orig.gsub(/^(-?\d+)(\d{3})/, "\\1#{delimiter}\\2")
+      
+      copy = orig.gsub(/(\d)(?=(\d{3})+(?!\d))/, "\\1#{delimiter}")
       orig == copy ? copy : intcomma(copy, delimiter)
     end
 
