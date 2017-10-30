@@ -43,8 +43,16 @@
 	    <h3 class="panel-title">
 	    <a role="button" data-toggle="collapse" data-parent="#detailedaccordion" href="#detail{{forloop.index}}" 
 	       aria-expanded="{% if forloop.first %}true{% else %}false{% endif %}" aria-controls="detail{{forloop.index}}">
-	    Waiting for the title {{forloop.index}}
-		</a></h3>
+	    {{expense.titolobreve}}
+		</a>
+		{% if expense.ref %}
+		{% assign same_lang_pages = site.pages | where: "lang", page.lang %}
+		{% assign proj_pages = same_lang_pages | where: "ref", expense.ref %}
+		{% assign proj = proj_pages | first %}
+		&nbsp;->&nbsp;
+		<a href="{{proj.permalink | default: '#'}}" title="{{proj.title | default: expense.progetto}}">{{expense.progetto}}</a>
+		{% endif %}
+	    </h3>
 	  </div>
 	  <div id="detail{{forloop.index}}" class="panel-collapse collapse {% if forloop.first %}in{% endif %}" 
 	  		role="tabpanel" aria-labelledby="heading{{forloop.index}}">
