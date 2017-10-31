@@ -11,8 +11,8 @@
     <thead>
       <tr>
         <th>Tipologia di spesa per macroarea</th>
-        <th>Impegno <small>iva inclusa</small></th>
-        <th>Pagamenti</th>
+        <th class="text-right">Impegno <small>iva inclusa</small></th>
+        <th class="text-right">Pagamenti</th>
       </tr>
     </thead>
     <tbody>
@@ -21,11 +21,11 @@
 	      {% assign sum_teamexpenses_pagamenti = sum_teamexpenses_pagamenti | plus: expense.pagamenti  %}
 	      <tr>
 	        <td>{{expense.voce}}</td>
-	        <td>{% if expense.impegno > 0 %}
+	        <td class="text-right">{% if expense.impegno > 0 %}
 	        	<span class="white-space--nowrap">&euro; {{expense.impegno | intcomma}}</span>
 	        	{% endif %}
 	        </td>
-	        <td>{% if expense.pagamenti > 0 %}
+	        <td class="text-right">{% if expense.pagamenti > 0 %}
 	        	<span class="white-space--nowrap">&euro; {{expense.pagamenti | intcomma}}</span>
 	        	{% endif %}
 	        </td>
@@ -35,8 +35,8 @@
     <tfoot>
       	<tr>
       		<td><i>Totale</i></td>
-      		<td><i>&euro; {{ sum_teamexpenses_impegno  | intcomma}}</i></td>
-      		<td><i>&euro; {{ sum_teamexpenses_pagamenti  | intcomma}}</i></td>
+      		<td class="text-right"><i>&euro; {{ sum_teamexpenses_impegno  | intcomma}}</i></td>
+      		<td class="text-right"><i>&euro; {{ sum_teamexpenses_pagamenti  | intcomma}}</i></td>
       	</tr>
     </tfoot>
 </table>
