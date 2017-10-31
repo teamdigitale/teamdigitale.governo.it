@@ -2,7 +2,7 @@
 SpeseUpdate: '30/09/2017'
 SpeseDelTeam:
   - voce: Sviluppo software e design
-    impegno: 1768484 
+    impegno: 1777174
     pagamenti: 1023405
   - voce: Hardware e accessori
     impegno: 39722 
@@ -72,7 +72,7 @@ SpeseAnalitiche:
     titolobreve: Contratto con Università di Bari - Dip. Informatica per lo Sviluppo del motore di question & answering per Citizen Assistant per il DAF
     progetto: DAF
     ref: daf
-    impegno:  39501 
+    impegno:  48191 
     pagamenti: 0
     contraccordi: Contratto con Università di Bari - DIPARTIMENTO DI INFORMATICA
     descrizione: "Nell’ambito del progetto DAF, il contratto è finalizzato all’utilizzo di un software specifico che consenta la costruzione di un sistema di FAQ basato su un motore di ricerca semantico. L’Università di Bari – Dipartimento di informatica, che ha condotto studi specialistici nel campo del Natural Language Processing (NPL) e ha realizzato un prodotto di Question Answering, effettuerà lo sviluppo del motore di ricerca citato, tramite l’adattamento dello stesso alle esigenze del progetto."
