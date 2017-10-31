@@ -8389,8 +8389,8 @@ article table {
 }
 
     #main a:focus {
-        background: #06C !important;
-        color: #fff !important;
+        background: #06C;
+        color: #fff;
     }
 
 #footer a:focus {

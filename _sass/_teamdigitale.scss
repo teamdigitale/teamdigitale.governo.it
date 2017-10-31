@@ -352,11 +352,34 @@
 		}
 
 		.panel-title {
-			a[aria-expanded='true'] {
+			a {
+				display: block;
 				text-decoration: none !important;
-			}
-			a:focus {
+				position: relative;
+				padding-right: 12px; /* half of arrow dimension */
+			  &:focus {
 				background: none !important;
+				color: inherit !important;
+			  }
+			  &:before {
+			  	content: url(/images/accordion-arrow-collapsed.png);
+			  	position: absolute;
+			  	top: 50%;
+			  	transform: translateY(-50%);
+			  	right: 0;
+			  }
+			  &[aria-expanded='true']:before {
+			  	content: url(/images/accordion-arrow-expanded.png);
+			  }
+			}
+			
+		}
+		table {
+			td {
+				width: 15%;
+			}
+			td:last-child {
+				width: auto;
 			}
 		}
 	}

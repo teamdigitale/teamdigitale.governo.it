@@ -11,7 +11,7 @@
     <thead>
       <tr>
         <th>Tipologia di spesa per macroarea</th>
-        <th>Impegno iva inclusa</th>
+        <th>Impegno <small>iva inclusa</small></th>
         <th>Pagamenti</th>
       </tr>
     </thead>
@@ -21,8 +21,14 @@
 	      {% assign sum_teamexpenses_pagamenti = sum_teamexpenses_pagamenti | plus: expense.pagamenti  %}
 	      <tr>
 	        <td>{{expense.voce}}</td>
-	        <td><span class="white-space--nowrap">&euro; {{expense.impegno | intcomma}}</span></td>
-	        <td><span class="white-space--nowrap">&euro; {{expense.pagamenti | intcomma}}</span></td>
+	        <td>{% if expense.impegno > 0 %}
+	        	<span class="white-space--nowrap">&euro; {{expense.impegno | intcomma}}</span>
+	        	{% endif %}
+	        </td>
+	        <td>{% if expense.pagamenti > 0 %}
+	        	<span class="white-space--nowrap">&euro; {{expense.pagamenti | intcomma}}</span>
+	        	{% endif %}
+	        </td>
 	      </tr>
       {% endfor %}
     </tbody>
@@ -45,24 +51,23 @@
 	       aria-expanded="{% if forloop.first %}true{% else %}false{% endif %}" aria-controls="detail{{forloop.index}}">
 	    {{expense.titolobreve}}
 		</a>
-		{% if expense.ref %}
-		{% assign same_lang_pages = site.pages | where: "lang", page.lang %}
-		{% assign proj_pages = same_lang_pages | where: "ref", expense.ref %}
-		{% assign proj = proj_pages | first %}
-		&nbsp;->&nbsp;
-		<a href="{{proj.permalink | default: '#'}}" title="{{proj.title | default: expense.progetto}}">{{expense.progetto}}</a>
-		{% endif %}
 	    </h3>
 	  </div>
 	  <div id="detail{{forloop.index}}" class="panel-collapse collapse {% if forloop.first %}in{% endif %}" 
 	  		role="tabpanel" aria-labelledby="heading{{forloop.index}}">
 	  <div class="panel-body">
+	  	{% if expense.ref %}
+		{% assign same_lang_pages = site.pages | where: "lang", page.lang %}
+		{% assign proj_pages = same_lang_pages | where: "ref", expense.ref %}
+		{% assign proj = proj_pages | first %}
+	  	<p>Progetto: <a href="{{proj.permalink | default: '#'}}" title="{{proj.title | default: expense.progetto}}"><b>{{proj.title}}</b></a></p>
+	  	{% endif %}
 	  	<h4>{{expense.voce}}</h4>
 	    <p>{{expense.descrizione}}</p>
 	    <table class="table table-condensed">
 	    	<thead>
 	    		<tr>
-	    		<th>Impegno iva inclusa</th>
+	    		<th>Impegno <small>iva inclusa</small></th>
         		<th>Pagamenti</th>
 	    		<th>Contratto/accordo</th>
 	    		</tr>
@@ -70,7 +75,10 @@
 	    	<tbody>
 	    		<tr>
 	    		<td><span class="white-space--nowrap">&euro; {{expense.impegno | intcomma}}</span></td>
-	        	<td><span class="white-space--nowrap">&euro; {{expense.pagamenti | intcomma}}</span></td>
+	        	<td>{% if expense.pagamenti > 0 %}
+	        		<span class="white-space--nowrap">&euro; {{expense.pagamenti | intcomma}}</span>
+	        		{% endif %}
+	        	</td>
 	        	<td>{{expense.contraccordi}}</td>
 	        	</tr>
 	    	</tbody>
@@ -80,4 +88,7 @@
 	</div>
 
 {% endfor %}
+<p>
+<small>* Compensi calcolati su base annua dei 21 Esperti del Team Digitale i cui Decreti del Presidente del Consiglio dei ministri della Repubblica Italiana (DPCM) sono registrati dalla Corte dei conti</small>
+</p>
 </div>
