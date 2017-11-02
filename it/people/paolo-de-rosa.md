@@ -6,6 +6,9 @@ layout: people
 role: Cloud & Data Center expert 
 is_new: true
 ref: paolo-de-rosa
+twitter_user: paolo_de_rosa
+linkedin_url: https://www.linkedin.com/in/paoloderosa/
+medium_user: cripto
 parent_ref: team
 start_date: 23 Ottobre, 2017
 period_provided: fino a 16 Settembre, 2018
