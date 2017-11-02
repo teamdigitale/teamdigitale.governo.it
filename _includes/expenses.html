@@ -1,0 +1,94 @@
+{% assign t = site.data.t %}
+{% assign teamexpenses = site.data.expenses.SpeseDelTeam %}
+{% assign detailedexpenses = site.data.expenses.SpeseAnalitiche %}
+{% assign speseupdate = site.data.expenses.SpeseUpdate %}
+{% assign sum_teamexpenses_impegno = 0 %}
+{% assign sum_teamexpenses_pagamenti = 0 %}
+
+<i>Dati aggiornati al {{speseupdate}}</i>
+
+<table class="table table-striped expenses__teamexpenses">
+    <thead>
+      <tr>
+        <th>Tipologia di spesa per macroarea</th>
+        <th class="text-right">Impegno <small>iva inclusa</small></th>
+        <th class="text-right">Pagamenti</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for expense in teamexpenses %}
+	      {% assign sum_teamexpenses_impegno = sum_teamexpenses_impegno | plus: expense.impegno  %}
+	      {% assign sum_teamexpenses_pagamenti = sum_teamexpenses_pagamenti | plus: expense.pagamenti  %}
+	      <tr>
+	        <td>{{expense.voce}}</td>
+	        <td class="text-right">{% if expense.impegno > 0 %}
+	        	<span class="white-space--nowrap">&euro; {{expense.impegno | intcomma}}</span>
+	        	{% endif %}
+	        </td>
+	        <td class="text-right">{% if expense.pagamenti > 0 %}
+	        	<span class="white-space--nowrap">&euro; {{expense.pagamenti | intcomma}}</span>
+	        	{% endif %}
+	        </td>
+	      </tr>
+      {% endfor %}
+    </tbody>
+    <tfoot>
+      	<tr>
+      		<td><i>Totale</i></td>
+      		<td class="text-right"><i>&euro; {{ sum_teamexpenses_impegno  | intcomma}}</i></td>
+      		<td class="text-right"><i>&euro; {{ sum_teamexpenses_pagamenti  | intcomma}}</i></td>
+      	</tr>
+    </tfoot>
+</table>
+
+<h4>Dettaglio spese di sviluppo software e design superiori a EUR 30.000</h4>
+<div class="panel-group" id="detailedaccordion" role="tablist" aria-multiselectable="true">
+{% for expense in detailedexpenses %}
+	<div class="panel panel-default expenses__detailedexpenses">
+	  <div class="panel-heading" role="tab">
+	    <h3 class="panel-title">
+	    <a role="button" data-toggle="collapse" data-parent="#detailedaccordion" href="#detail{{forloop.index}}" 
+	       aria-expanded="{% if forloop.first %}true{% else %}false{% endif %}" aria-controls="detail{{forloop.index}}">
+	    {{expense.titolobreve}}
+		</a>
+	    </h3>
+	  </div>
+	  <div id="detail{{forloop.index}}" class="panel-collapse collapse {% if forloop.first %}in{% endif %}" 
+	  		role="tabpanel" aria-labelledby="heading{{forloop.index}}">
+	  <div class="panel-body">
+	  	{% if expense.ref %}
+		{% assign same_lang_pages = site.pages | where: "lang", page.lang %}
+		{% assign proj_pages = same_lang_pages | where: "ref", expense.ref %}
+		{% assign proj = proj_pages | first %}
+	  	<p>Progetto: <a href="{{proj.permalink | default: '#'}}" title="{{proj.title | default: expense.progetto}}"><b>{{proj.title}}</b></a></p>
+	  	{% endif %}
+	  	<h4>{{expense.voce}}</h4>
+	    <p>{{expense.descrizione}}</p>
+	    <table class="table table-condensed">
+	    	<thead>
+	    		<tr>
+	    		<th>Impegno <small>iva inclusa</small></th>
+        		<th>Pagamenti</th>
+	    		<th>Contratto/accordo</th>
+	    		</tr>
+	    	</thead>
+	    	<tbody>
+	    		<tr>
+	    		<td><span class="white-space--nowrap">&euro; {{expense.impegno | intcomma}}</span></td>
+	        	<td>{% if expense.pagamenti > 0 %}
+	        		<span class="white-space--nowrap">&euro; {{expense.pagamenti | intcomma}}</span>
+	        		{% endif %}
+	        	</td>
+	        	<td>{{expense.contraccordi}}</td>
+	        	</tr>
+	    	</tbody>
+	    </table>
+	  </div>
+		</div>
+	</div>
+
+{% endfor %}
+<p>
+<small>* Compensi calcolati su base annua dei 21 Esperti del Team Digitale i cui Decreti del Presidente del Consiglio dei ministri della Repubblica Italiana (DPCM) sono registrati dalla Corte dei conti</small>
+</p>
+</div>
