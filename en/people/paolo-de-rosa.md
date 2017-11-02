@@ -45,7 +45,7 @@ After my degree at Liceo Scientifico, I moved to Pisa and attended the Faculty
 of Telecommunications Engineering at the University of Pisa; during my second
 year of studies I started working for the same University and other small local
 IT companies, as IT consultant and programmer, even though my field was  and is
-always telecommunications networks.
+still today telecommunication networks.
 
 I was convinced that I could transform the IT of the University in the same way
 as Ford transformed the car industry at the beginning of the 1900s, but in a
