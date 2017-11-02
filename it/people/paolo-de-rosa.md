@@ -118,6 +118,6 @@ quelle conoscenze apprese a spese e al di fuori del paese.
 
 Data inizio: 23 Ottobre 2017
 Periodo previsto: fino al 16 settembre 2018
-Compenso su base annua: € 80.000 + IVA
+Compenso su base annua: € 80.000
 Il decreto di nomina è in fase di registrazione presso la Corte dei Conti.
 
