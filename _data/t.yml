@@ -197,3 +197,6 @@ LastUpdateDate:
 FormatDate:
   en: "%m/%d/%Y"
   it: "%d/%m/%Y"
+Current:
+  en: "current"
+  it: "a oggi"
