@@ -10,10 +10,10 @@ twitter_user: paolo_de_rosa
 linkedin_url: https://www.linkedin.com/in/paoloderosa/
 medium_user: cripto
 parent_ref: team
-start_date: 23 Ottobre, 2017
-period_provided: fino a 16 Settembre, 2018
+start_date: 23 Ottobre 2017
+period_provided: fino a 16 Settembre 2018
 annual_compensation: € 80.000
-approved_by_court: The decree of appointment is pending before the Court of Auditors
+approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti.
 ---
 
 Fin da ragazzo ho avuto la possibilità di giocare con alcuni strumenti
@@ -85,7 +85,7 @@ vCPE, etc).
 Durante il mio lavoro con Canonical, ho avuto modo di affrontare e approfondire
 molte delle problematiche che il settore delle telecomunicazioni sta vivendo
 nel cercare di adottare i paradigmi di cloud computing e nel consolidamento
-delle infrastrutture esistenti, anche aspetti legati a nuove forme
+delle infrastrutture esistenti, anche aspetti legati a nuove forme di
 organizzazione del lavoro in ambito IT come: devops, SRE, agile, etc.  
 
 L’esperienza nel progettare e gestire infrastrutture su larga scala è stata
@@ -118,9 +118,4 @@ Trasformazione Digitale del Paese rappresenta per me un’occasione importante,
 che mi permette di contribuire, nel mio piccolo, al cambiamento dell’Italia.
 Con un po’ di orgoglio, posso finalmente condividere a beneficio di molti
 quelle conoscenze apprese a spese e al di fuori del paese.
-
-Data inizio: 23 Ottobre 2017
-Periodo previsto: fino al 16 settembre 2018
-Compenso su base annua: € 80.000
-Il decreto di nomina è in fase di registrazione presso la Corte dei Conti.
 
