@@ -343,6 +343,17 @@
 }
 
 .expenses {
+	&__disclaimer {
+		font-size: 14px;
+		line-height: 1.2;
+		color: #5a6772;
+		margin: 6px 0;
+	}
+	&__detailed__title {
+			font-size: 17px;
+			line-height: 1.1;
+			font-weight: 600;
+		}
 
 	&__detailedexpenses {
 		font-size: 17px;
@@ -351,7 +362,11 @@
 			font-size: 17px;
 		}
 
+		
 		.panel-title {
+			font-size: 16px;
+			line-height: 1.2;
+
 			a {
 				display: block;
 				text-decoration: none !important;
@@ -751,6 +766,25 @@ body.layout-project {
 			width: 60px;
 			margin: 0 2rem 0 0;
 			vertical-align: middle;
+		}
+		a {
+			display: inline-block;
+			padding: 0;
+			vertical-align: middle;
+		}
+		&__caption {
+			font-size: 2rem;
+			line-height: 2.2rem;
+		}
+		&__smalltext {
+			font-size: 1.2rem;
+			line-height: 1.2rem;
+			font-weight: 300;
+			text-transform: none;
+			margin-top: -6px;
+		}
+		&:hover a {
+			color: #fff;
 		}
 	}
 }
