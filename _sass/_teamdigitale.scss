@@ -767,5 +767,24 @@ body.layout-project {
 			margin: 0 2rem 0 0;
 			vertical-align: middle;
 		}
+		a {
+			display: inline-block;
+			padding: 0;
+			vertical-align: middle;
+		}
+		&__caption {
+			font-size: 2rem;
+			line-height: 2.2rem;
+		}
+		&__smalltext {
+			font-size: 1.2rem;
+			line-height: 1.2rem;
+			font-weight: 300;
+			text-transform: none;
+			margin-top: -6px;
+		}
+		&:hover a {
+			color: #fff;
+		}
 	}
 }
