@@ -13,7 +13,7 @@ parent_ref: team
 start_date: 04 settembre 2017
 period_provided: fino al 16 settembre 2018
 annual_compensation: € 80.000
-approved_by_court: 24 settembre 2017
+approved_by_court: 28 settembre 2017
 ---
 Tarantina, perito informatico e laureata  in Scienze dell'Informazione all’Università di Bari. 
 
