@@ -71,6 +71,3 @@ interviews.
 Working in the Team feels like I am making a small contribution to transforming
 Italy; it gives me the opportunity to reverse the brain-drain of which I am an
 active part by building local technical expertise and improving the PA machine.
-
-
-

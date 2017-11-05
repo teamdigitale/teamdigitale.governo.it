@@ -73,7 +73,4 @@ resto della squadra a Roma, tra un colloquio e l'altro.
 Contribuire alla missione del Team per la Trasformazione Digitale è per me
 un’occasione per cercare nel mio piccolo di migliorare l’Italia, di portare
 indietro le conoscenze acquisite come _cervello_ _in_ _fuga_ per creare
-competenze tecniche e rendere più dinamica e funzionale la macchina pubblica
-
-
-Il decreto di nomina è in fase di registrazione presso la Corte dei Conti.
+competenze tecniche e rendere più dinamica e funzionale la macchina pubblica.
