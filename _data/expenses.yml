@@ -20,7 +20,7 @@ SpeseDelTeam:
     impegno: 2412416.14
     pagamenti: 1567729.73 
 SpeseAnalitiche:
-  - voce: Ministero dell'Interno per ANPR
+  - voce: Ministero dell'Interno
     titolobreve: Accordo con il Ministero dell'Interno per attività di sviluppo tecnologico di ANPR
     progetto: ANPR
     ref: anpr
