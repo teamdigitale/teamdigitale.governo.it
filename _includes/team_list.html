@@ -1,3 +1,4 @@
+{% assign t = site.data.t %}
 {% assign same_lang_pages = site.pages | where: "lang", page.lang %}
 {% assign people_pages = same_lang_pages | where: "layout", "people" %}
 {% assign sorted_people_pages = people_pages | sort_by_surname: "title" %}
@@ -17,7 +18,10 @@
                   <span style="font-size:10px;">New</span>
                 {% endif %}
             </h3>
-            <p class="team-item-subtitle"><b>{{ one_page.role }}</b></p>
+            <p class="team-item-subtitle"><b>{{ one_page.role }}</b><br>
+            <small>{{ one_page.start_date }}{% if one_page.start_date %} - {% endif %}{{ one_page.end_date | default: t.Current[page.lang] }}</small>
+            </p>
+            
         </div>
     </div>
 {% endfor %}

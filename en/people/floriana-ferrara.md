@@ -13,7 +13,7 @@ parent_ref: team
 start_date: September 04, 2017
 period_provided: until September 16, 2018
 annual_compensation: € 80,000
-approved_by_court: September 24, 2017
+approved_by_court: September 28, 2017
 ---
 I'm a computer expert originally from Taranto who has earned a degree in Information Science at University of Bari. 
 
