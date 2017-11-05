@@ -17,8 +17,8 @@ SpeseDelTeam:
     impegno: 33643 
     pagamenti: 27727 
   - voce: Compensi Esperti*
-    impegno: 1935000
-    pagamenti: 0 
+    impegno: 2412416.14
+    pagamenti: 1567729.73 
 SpeseAnalitiche:
   - voce: Ministero dell'Interno per ANPR
     titolobreve: Accordo con il Ministero dell'Interno per attività di sviluppo tecnologico di ANPR
