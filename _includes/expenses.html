@@ -42,7 +42,9 @@
       		<td><i>Totale</i>
       			<ul class="list-unstyled visible-xs">
 	        		<li><b>Impegno: </b>&euro; {{sum_teamexpenses_impegno | intcomma}}</li>
+	        		{% if expense.pagamenti > 0 %}
 	        		<li><b>Pagamenti: </b>&euro; {{sum_teamexpenses_pagamenti | intcomma}}</li>
+	        		{% endif %}
 	        	</ul>
       		</td>
       		<td class="text-right hidden-xs"><i>&euro; {{ sum_teamexpenses_impegno  | intcomma}}</i></td>
@@ -93,7 +95,9 @@
 	        	<td>{{expense.contraccordi}}
 	        		<ul class="list-unstyled visible-xs">
 	        			<li><b>Impegno: </b>&euro; {{expense.impegno | intcomma}}</li>
+	        			{% if expense.pagamenti > 0 %}
 	        			<li><b>Pagamenti: </b>&euro; {{expense.pagamenti | intcomma}}</li>
+	        			{% endif %}
 	        		</ul>
 	        	</td>
 	        	</tr>
