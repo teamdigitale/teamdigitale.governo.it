@@ -19,7 +19,9 @@
                 {% endif %}
             </h3>
             <p class="team-item-subtitle"><b>{{ one_page.role }}</b><br>
-            <small>{{ one_page.start_date }}{% if one_page.start_date %} - {% endif %}{{ one_page.end_date | default: t.Current[page.lang] }}</small>
+            {% if one_page.start_date %}
+            <small>{{ one_page.start_date }} - {{ one_page.end_date | default: t.Current[page.lang] }}</small>
+            {% endif %}
             </p>
             
         </div>
