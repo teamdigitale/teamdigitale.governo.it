@@ -42,7 +42,9 @@
       		<td><i>Totale</i>
       			<ul class="list-unstyled visible-xs">
 	        		<li><b>Impegno: </b>&euro; {{sum_teamexpenses_impegno | intcomma}}</li>
+	        		{% if expense.pagamenti > 0 %}
 	        		<li><b>Pagamenti: </b>&euro; {{sum_teamexpenses_pagamenti | intcomma}}</li>
+	        		{% endif %}
 	        	</ul>
       		</td>
       		<td class="text-right hidden-xs"><i>&euro; {{ sum_teamexpenses_impegno  | intcomma}}</i></td>
@@ -93,7 +95,9 @@
 	        	<td>{{expense.contraccordi}}
 	        		<ul class="list-unstyled visible-xs">
 	        			<li><b>Impegno: </b>&euro; {{expense.impegno | intcomma}}</li>
+	        			{% if expense.pagamenti > 0 %}
 	        			<li><b>Pagamenti: </b>&euro; {{expense.pagamenti | intcomma}}</li>
+	        			{% endif %}
 	        		</ul>
 	        	</td>
 	        	</tr>
@@ -105,6 +109,6 @@
 
 {% endfor %}
 <p class="expenses__disclaimer">
-* Compensi degli esperti del Team per la Trasformazione Digitale i cui Decreti del Presidente del Consiglio dei ministri della Repubblica Italiana (DPCM) sono registrati dalla Corte dei conti, i pagamenti per gli esperti vengono emessi come stipendi mensili
+* Compensi degli esperti del Team per la Trasformazione Digitale.
 </p>
 </div>
