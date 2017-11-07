@@ -19,7 +19,8 @@ dashboard_url: https://dashboard.teamdigitale.governo.it/public/dashboard/913699
 
 SPID, il Sistema Pubblico di Identità Digitale, è la soluzione che ti permette di accedere a tutti i servizi online della Pubblica Amministrazione con un'unica Identità Digitale utilizzabile da computer, tablet e smartphone. Oggi le nostre credenziali digitali sono diverse per ogni servizio a cui accediamo e una drastica riduzione del loro numero porta ad una semplificazione della vita del cittadino e a una maggiore sicurezza.
 
-#### [Scopri gli aspetti tecnici su Developers Italia](https://developers.italia.it/it/spid/)
+{:.h4}
+[Scopri gli aspetti tecnici su Developers Italia](https://developers.italia.it/it/spid/)
 
 ### I dati
 
