@@ -19,7 +19,8 @@ dashboard_url: https://dashboard.teamdigitale.governo.it/public/dashboard/2414d4
 
 Oggi le nostre identità sono disperse in ottomila anagrafi comunali. Dobbiamo portarle in una sola anagrafe, guadagnando in efficienza e risparmiando soldi ed energia, perché il cittadino non debba più preoccuparsi di comunicare a ogni ufficio della Pubblica Amministrazione i suoi dati anagrafici o il cambio di residenza, per semplificare le procedure di variazione e uniformarle a livello nazionale, perché sia possibile ottenere certificati senza più bisogno di recarsi allo sportello. 
 
-#### [Scopri gli aspetti tecnici su Developers Italia](https://developers.italia.it/it/anpr/)
+{:.h4}
+[Scopri gli aspetti tecnici su Developers Italia](https://developers.italia.it/it/anpr/)
 
 ### I dati
 {% include dashboard.html %}
