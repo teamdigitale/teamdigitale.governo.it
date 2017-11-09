@@ -2,9 +2,9 @@
 
 Sito web del [Team per la Trasformazione Digitale](https://teamdigitale.governo.it).
 
-|`master` branch|`development` branch|
-|------|-----------|
-|[![CircleCI](https://circleci.com/gh/teamdigitale/teamdigitale.governo.it/tree/master.svg?style=svg)](https://circleci.com/gh/teamdigitale/teamdigitale.governo.it/tree/master)|[![CircleCI](https://circleci.com/gh/teamdigitale/teamdigitale.governo.it/tree/development.svg?style=svg)](https://circleci.com/gh/teamdigitale/teamdigitale.governo.it/tree/development)|
+|`master` branch|
+|------|
+|[![CircleCI](https://circleci.com/gh/teamdigitale/teamdigitale.governo.it/tree/master.svg?style=svg)](https://circleci.com/gh/teamdigitale/teamdigitale.governo.it/tree/master)|
 
 ## Struttura del sito
 
