@@ -1,5 +1,5 @@
 {% capture proj_page_content %}
-<h2>{{ page.title }}</h2>
+<h2>{{ page.title }} </h2>
 {% if page.people != nil %}
 	<div class="row project__people">
 	{% for ppage in page.people %}
@@ -39,4 +39,5 @@
 </div>
 
 {% endcapture %}
+
 {% include layout_base.html content=proj_page_content %}
