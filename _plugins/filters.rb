@@ -1,4 +1,5 @@
 module LiquidFilters
+  require 'date'
 
   # Returns the tail of the array
   def tail(input)
@@ -39,6 +40,11 @@ module LiquidFilters
       orig == copy ? copy : intcomma(copy, delimiter)
     end
 
-end
+  def last_modified_sort(collection)
+    collection.sort_by do |el|
+      Date.parse(el.data['last_modified_at'].to_s, '%d-%m-%Y')
+    end
+  end
 
+end
 Liquid::Template.register_filter(LiquidFilters)
