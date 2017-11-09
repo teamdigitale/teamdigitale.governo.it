@@ -86,8 +86,16 @@ Queste traduzioni si trovano nel file `_data/t.yml`.
 
 ### Customizzazione della data di "ultimo aggiornamento"
 
-Una pagina del sito potrebbe avere un breve contenuto ma essere popolata da informazioni che provengono da pagine presenti in apposite cartelle e con specifici layout (es. la pagina del Team è composta da una lista di pagine che rappresentano le schede personali). Per questo motivo la data di "ultimo aggiornamento" presente in calce alla pagina dovrebbe rappresentare quella di almeno una delle sotto pagine mostrate nel corpo. 
-Per fare questo è necessario istruire il front-matter della pagina con apposito parametro "last_modified_by_layout" con l'indicazione del nome di layout (facendo riferimento all'esempio di prima avremo quindi last_modified_by_layout: people)
+Una pagina del sito potrebbe avere un breve contenuto ma essere popolata da informazioni che provengono da pagine presenti in apposite cartelle e con specifici layout (es. la pagina del Team è composta da una lista di pagine che rappresentano le schede personali). Per questo motivo la data di "ultimo aggiornamento" presente in calce alla pagina dovrebbe rappresentare quella di almeno una delle sotto pagine mostrate nel corpo.
+
+Per fare questo è necessario istruire il front-matter della pagina con apposito parametro `last_modified_by_layout` con l'indicazione del nome di layout. 
+
+Facendo riferimento all'esempio precedenre avremo quindi:
+
+```
+last_modified_by_layout: people
+---
+```
 
 ## Modifica dei contenuti del sito (principianti)
 
