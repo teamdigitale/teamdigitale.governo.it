@@ -33,7 +33,7 @@ di superare il modello dell'autocertificazione accorciando ed automatizzando
 tutte le procedure relative ai dati anagrafici.
 
 Con ANPR le amministrazioni potranno dialogare in maniera efficiente tra di
-loro avendo una fonte unica e certa per i dati dei cittadini.  Anche oggi però
+loro avendo una fonte unica e certa per i dati dei cittadini. Anche oggi però
 ANPR consente ai cittadini di ottenere vantaggi immediati quali la richiesta di
 certificati anagrafici in tutti i comuni, cambio di residenza più semplice ed
 immediato ed a breve la possibilità di ottenere certificati da un portale
