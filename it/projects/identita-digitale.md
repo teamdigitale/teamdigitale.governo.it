@@ -19,6 +19,12 @@ dashboard_url: https://dashboard.teamdigitale.governo.it/public/dashboard/913699
 
 SPID, il Sistema Pubblico di Identità Digitale, è la soluzione che ti permette di accedere a tutti i servizi online della Pubblica Amministrazione con un'unica Identità Digitale utilizzabile da computer, tablet e smartphone. Oggi le nostre credenziali digitali sono diverse per ogni servizio a cui accediamo e una drastica riduzione del loro numero porta ad una semplificazione della vita del cittadino e a una maggiore sicurezza.
 
+### Vantaggi per i cittadini e la pubblica amministrazione
+
+SPID consente alla Pubblica Amministrazione di abbandonare i servizi di autenticazione gestiti localmente, risparmiando quindi su questi costi sia in termini di manutenzione che di lavoro necessario per il rilascio di credenziali; inoltre la qualità dell'identificazione fornita da SPID è normalmente superiore e garantisce anche la PA stessa durante l'erogazione di servizi.
+
+Il cittadino ha l'opportunità di avere un solo set di credenziali, che può utilizzare con tutti i servizi della Pubblica Amministrazione e che assicurano, tra l'altro, una maggiore sicurezza, specialmente quando si utilizzano i Livelli 2 e 3 di SPID. Inoltre, al contrario di altri sistemi diffusi di login, SPID garantisce che ogni servizio collegato riceva sempre e solo le informazioni minime necessarie per la fornitura del servizio senza condividere con altri le informazioni sull'utilizzo, garantendo quindi la privacy dei cittadini. Infine, una identità SPID potrà essere utilizzata per accedere anche a tutti i servizi della Pubblica Amministrazione di tutti i paesi membri dell'Unione Europea.
+
 {:.h4}
 [Scopri gli aspetti tecnici su Developers Italia](https://developers.italia.it/it/spid/)
 
