@@ -49,7 +49,7 @@ unico.
 ### Il ruolo del Team
 
 ANPR è un passo essenziale per rendere possibili successive innovazioni che
-oggi sarebbero impossibili o molto costose. Il progetto  esisteva ben prima
+oggi sarebbero impossibili o molto costose. Il progetto esisteva ben prima
 della nascita del Team per la Trasformazione Digitale: ne abbiamo assunto la
 direzione con l'obiettivo di creare una roadmap di realizzazione chiara,
 modernizzare il metodo di lavoro e accelerarne il completamento. Nel nostro
