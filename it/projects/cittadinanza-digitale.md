@@ -75,7 +75,7 @@ Un'applicazione progettata per soddisfare i bisogni del cittadino, fornendo un
 luogo digitale di accesso all'esperienza di Cittadinanza Digitale.
 
 Inoltre l'applicazione di Cittadinanza Digitale vuole essere un banco di prova
-per sperimentare l'integrazione cone le piattaforme abilitanti, fornendo un
+per sperimentare l'integrazione cone le piattaforme abilitanti, fornendo un'
 implementazione di riferimento a tutte le Pubbliche Amministrazioni che vogliono
 sviluppare servizi digitali.
 
