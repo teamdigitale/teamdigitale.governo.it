@@ -11,7 +11,7 @@ linkedin_url: https://it.linkedin.com/in/marisandra-lizzi-972337
 email: marisandra@teamdigitale.governo.it
 ref: marisandra-lizzi
 parent_ref: team
-start_date: October 21, 2017
+start_date: October 21, 2016
 period_provided: until September 16, 2018
 annual_compensation: € 80,000
 approved_by_court: May 3, 2017
