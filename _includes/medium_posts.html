@@ -14,7 +14,7 @@
         <a href="{{ cover_post.medium_url }}" target="_blank" style="text-decoration: none;">{{ cover_post.medium_title }}</a>
       </h3>
 
-      <img src="https://cdn-images-1.medium.com/fit/t/800/240/{{ cover_post.medium_preview_image_id }}" class="img-responsive" style="margin: 2px;width:100%;" alt="{{ cover_post.medium_title }}">
+      <img src="https://cdn-images-1.medium.com/fit/t/1110/333/{{ cover_post.medium_preview_image_id }}" class="img-responsive" style="margin: 2px;width:100%;" alt="{{ cover_post.medium_title }}">
       <p class="team-item-subtitle">{{ cover_post.medium_subtitle }} <small>– {{cover_post.medium_published_at | divided_by: 1000 | date: site.data.t.FormatDate[page.lang] }}</small></p>
     </div>
   </div>
@@ -26,7 +26,7 @@
       {% for post_i in (post_i_start..post_i_end) %}
         {% assign this_post = other_posts[post_i] %}
         <div class="col-md-4">
-          <img src="https://cdn-images-1.medium.com/fit/t/800/240/{{ this_post.medium_preview_image_id }}" class="img-responsive" alt="{{ this_post.medium_title }}">
+          <img src="https://cdn-images-1.medium.com/fit/t/690/210/{{ this_post.medium_preview_image_id }}" class="img-responsive" alt="{{ this_post.medium_title }}">
           <h3 class="team-item-title">
             <a href="{{ this_post.medium_url }}" target="_blank" style="text-decoration: none;">{{ this_post.medium_title }}</a>
           </h3>
