@@ -6,8 +6,12 @@
 }
 .positionAbsolute {
 	position: absolute;
-}.positionStatic {
+}
+.positionStatic {
 	position: static;
+}
+.text-decoration--none {
+	text-decoration: none !important;
 }
 .page_last_update {
 	margin-bottom: 10px;
@@ -576,6 +580,18 @@ body.layout-project {
 		text-align:justify;
 	}
 
+}
+
+.legacy-cover {
+	margin-top: 15px;
+
+	@media screen and (max-width: 991px) {
+			display: inline-block;
+			margin-left: 8px;
+			margin-right: 10px;
+			margin-top: 0;
+			height: 120px;
+		}
 }
 
 /* TIMELINE */
