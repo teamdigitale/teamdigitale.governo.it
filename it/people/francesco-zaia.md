@@ -12,7 +12,7 @@ ref: francesco-zaia
 parent_ref: team
 start_date: 2 Novembre 2017
 period_provided: 16 settembre 2018
-annual_compensation: € 75,000
+annual_compensation: € 75.000
 approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti.
 ---
 Cresciuto sotto il livello del mare su un’isola alle foci del Po, dove il digital-divide aveva la concretezza di una navigazione a 56k ai tempi della fibra ottica, ho avuto fin da piccolo uno schermo con cui spendere i miei pomeriggi. Non il classico tubo catodico televisivo, ma il ben più attraente monitor incastonato in un cabinato arcade. Nel sottoscala della mia casa vivevo infatti il sogno di una sala giochi anni ’80 ad uso esclusivo mio e di un numero imprecisato di amici assolutamente disinteressati. Merito di mio padre, operaio nel ramo videoludico, a cui certamente posso imputare la mia passione per l’elettronica e, in seguito, la programmazione.
