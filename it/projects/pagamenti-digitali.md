@@ -39,7 +39,7 @@ Il cittadino deve poter scegliere metodi di pagamento moderni, a minima frizione
 - certezza del debito dovuto, con possibilità di ottenere l'attualizzazione dell'importo (ovvero l’importo da pagare è sempre quello valido e richiesto dalla PA. Se l’importo varia nel tempo per interessi di mora o altro, su PagoPA viene sempre aggiornato)
 - semplicità e velocità del processo: basta inserire il codice di avviso (IUV Identificativo Unico Versamento) per pagare e ricevere la quietanza liberatoria ovvero la certezza che la PA ha incassato il tributo e non potranno esserci verifiche o accertamenti successivi.
 
-### Vantaggi Per le Pubbliche Amministrazioni:
+### Vantaggi Per le Pubbliche Amministrazioni
 - riconciliazione automatica degli incassi
 - riduzione dei costi di transazione e processo
 - incasso delle somme D+1 (giorno lavorativo successivo al pagamento) direttamente sui conti di tesoreria
