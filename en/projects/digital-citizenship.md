@@ -1,6 +1,6 @@
 ---
 title: Digital citizenship
-lang: en 
+lang: en
 permalink: /en/projects/digital-citizenship.htm
 layout: project
 ref: cittadinanza-digitale
@@ -18,34 +18,34 @@ timeline:
     status: todo
 ---
 
-### In short 
+### In short
 
-Digital Citizenship aims to render interactions between citizens and the 
-Public Administration easier and more familiar, by designing digital services 
+Digital Citizenship aims to render interactions between citizens and the
+Public Administration easier and more familiar, by designing digital services
 around the citizen and his or her information.
 
-Through an open platform of shared components on which to construct 
-digital services, we will create an experience that will accompany the citizen 
+Through an open platform of shared components on which to construct
+digital services, we will create an experience that will accompany the citizen
 in interactions with local and national services, as if it were a single great digital home.
 
-The aim is to provide a simpler and more familiar way for the 
+The aim is to provide a simpler and more familiar way for the
 Public Administration to communicate with citizens, to provide notification of deeds, reminders concerning deadlines, to share information and documents through
  an interface built around the citizen.
 
-### The role of the Team 
+### The role of the Team
 
-The Digital Team immediately undertook a process of communication concerning 
-the vision, coordination and alignment of all the initiatives already underway or in 
+The Digital Team immediately undertook a process of communication concerning
+the vision, coordination and alignment of all the initiatives already underway or in
 the design phase, with the aim of creating a single ecosystem of national and shared components.
 
-Together with AgID, the Digital Transformation Team is developing a number 
+Together with AgID, the Digital Transformation Team is developing a number
 of initiatives that are fundamental for the realization of Digital Citizenship:
 
-#### The APIs for communication and preferences management 
+#### The APIs for communication and preferences management
 
-The APIs for preferences management will allow the citizen to centrally manage all the information associated with his/her digital citizen 
-profile. This information renders it possible to create personalized digital 
-services (communication channels, language preference, privacy 
+The APIs for preferences management will allow the citizen to centrally manage all the information associated with his/her digital citizen
+profile. This information renders it possible to create personalized digital
+services (communication channels, language preference, privacy
 settings, and so on).
 
 The APIs for communication provide a single channel that the Public
@@ -54,7 +54,7 @@ deadlines to the citizen. This communication system is in turn integrated with
 the APIs for preferences management to allow the services to communicate with
 the citizens based on these preferences.
 
-The APIs are developed as open source, with both the backlog of the activities 
+The APIs are developed as open source, with both the backlog of the activities
 and the code being freely accessible:
 
 *   [backlog of development activities](https://www.pivotaltracker.com/n/projects/2088623)
@@ -62,12 +62,12 @@ and the code being freely accessible:
 *   [API code](https://github.com/teamdigitale/digital-citizenship-functions)
 *   [documentation for using the APIs](https://teamdigitale.github.io/digital-citizenship/)
 
-To foster a discussion and an exchange of viewpoints, and to encourage the participation 
-of all the players involved in the projects, we created a [forum] (https://forum.italia.it/c/piano-triennale/piattaforme-abilitanti).
+To foster a discussion and an exchange of viewpoints, and to encourage the participation
+of all the players involved in the projects, we created a [forum](https://forum.italia.it/c/piano-triennale/piattaforme-abilitanti).
 
-#### The Digital Citizenship application 
+#### The Digital Citizenship application
 
-An application designed to meet the needs of the citizen, providing a 
+An application designed to meet the needs of the citizen, providing a
 digital place for accessing the experience of Digital Citizenship.
 
 Furthermore, the Digital Citizenship application aims to be a testing ground
@@ -85,24 +85,24 @@ The application and its components are developed as open source, with both the b
 
 ### Benefits
 
-#### For Citizens 
+#### For Citizens
 
-* access the archive of communications with the PA 
-* manage contact details from a central access point 
-* manage notices in an &quot;integrated&quot; mode (such as when making payments or marking 
+* access the archive of communications with the PA
+* manage contact details from a central access point
+* manage notices in an &quot;integrated&quot; mode (such as when making payments or marking
 deadlines on one&#39;s own calendar)
 
-#### For Administrations 
-* send electronic communications using only the tax code (without 
-having to ask for the citizens&#39; contact address) 
-* not having to deal with the management and updating of contacts 
+#### For Administrations
+* send electronic communications using only the tax code (without
+having to ask for the citizens&#39; contact address)
+* not having to deal with the management and updating of contacts
 * give greater authority to communications from the administration  
-* communicate deadlines and facilitate the payment of taxes 
+* communicate deadlines and facilitate the payment of taxes
 * determine the status of sending and reading of the communication
 
 {% include project_timeline.html %}
 
-### Media 
+### Media
 
 Any contact request from the media and journalists should be addressed to the Digital Transformation Team press and communications office.
 
