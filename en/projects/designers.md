@@ -88,7 +88,7 @@ A space for discussions about the design of public services.
 For any contact request received from the media and journalists, the Digital Transformation Team press and communication office is the point of reference.
 
 {% include ipress.html %}
-<div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="it" data-size="100" data-tag="9"></div>
+<div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="en" data-size="100" data-tag="9"></div>
 <script type="text/javascript" src="/js/ipress.js"></script>
 
 {% include project_timeline.html %}

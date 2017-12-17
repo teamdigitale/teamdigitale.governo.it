@@ -70,7 +70,7 @@ a journey with them to bring the development of projects within Developers Itali
 For any contact request received from the media and journalists, the Digital Transformation Team press and communication office is the point of reference.
 
 {% include ipress.html %}
-<div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="it" data-size="100" data-tag="8"></div>
+<div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="en" data-size="100" data-tag="8"></div>
 <script type="text/javascript" src="/js/ipress.js"></script>
 
 {% include project_timeline.html %}
