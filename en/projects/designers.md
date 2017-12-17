@@ -1,7 +1,7 @@
 ﻿---
 title: Designers Italia
 lang: en
-permalink: /it/projects/designers.htm
+permalink: /en/projects/designers.htm
 layout: project
 ref: designers
 parent_ref: projects

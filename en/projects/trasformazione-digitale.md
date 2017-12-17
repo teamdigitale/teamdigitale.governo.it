@@ -1,7 +1,7 @@
 ﻿---
 title: Digital transformation plan
 lang: en
-permalink: /it/projects/trasformazione-digitale.htm
+permalink: /en/projects/trasformazione-digitale.htm
 layout: project
 ref: trasformazione-digitale
 parent_ref: projects

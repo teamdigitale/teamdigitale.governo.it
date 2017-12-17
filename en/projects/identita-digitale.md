@@ -1,7 +1,7 @@
 ﻿---
 title: Public Digital Identity System (SPID)
 lang: en
-permalink: /it/projects/identita-digitale.htm
+permalink: /en/projects/identita-digitale.htm
 layout: project
 ref: spid
 parent_ref: projects

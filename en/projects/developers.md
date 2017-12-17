@@ -1,7 +1,7 @@
 ﻿---
 title: Developers Italia
 lang: en
-permalink: /it/projects/developers.htm
+permalink: /en/projects/developers.htm
 layout: project
 ref: developers
 parent_ref: projects
