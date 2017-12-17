@@ -62,8 +62,9 @@ here below, we share our vision of the project, the actions taken so far and the
 ### Forum 
 ANPR is a project of national relevance. To foster a discussion and 
 an exchange of viewpoints, as well as to encourage the participation of 
-all players involved in the project (starting from the 8,000+ Italian
- municipalities involved in the operation!), we created a [forum](https://forum.italia.it/c/anpr)
+all players involved in the project (starting from the 8,000+ Italian municipalities involved in the operation!), we created a [forum](https://forum.italia.it/c/anpr)
+
+{% include forum.html %}
 
 
 ### Media

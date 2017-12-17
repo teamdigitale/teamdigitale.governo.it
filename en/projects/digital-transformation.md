@@ -1,7 +1,7 @@
-﻿---
+---
 title: Digital transformation plan
 lang: en
-permalink: /en/projects/trasformazione-digitale.htm
+permalink: /en/projects/digital-transformation.htm
 layout: project
 ref: trasformazione-digitale
 parent_ref: projects
@@ -12,7 +12,6 @@ forum_category: piano-triennale
 forum_limit: 3
 twitter_tag: pianotriennale
 tweetdeck_id: 918772720397160448
-
 ---
 
 ### In short

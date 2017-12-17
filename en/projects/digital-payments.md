@@ -1,7 +1,7 @@
-﻿---
+---
 title: PagoPA digital payments
 lang: en
-permalink: /en/projects/pagamenti-digitali.htm
+permalink: /en/projects/digital-payments.htm
 layout: project
 ref: pagopa
 parent_ref: projects
@@ -11,12 +11,12 @@ medium_tag: payments
 forum_category: pagopa
 forum_limit: 3
 timeline: 
-- period: July 2017 
-title: Wisp 1.3 release 
-- period: October 2017 
-title: SDK mobile wisp 2.0 release 
-- period: December 2017 
-title: Release into production of the PAs with regards to wisp 2.0 and SDK mobile  
+  - period: July 2017 
+    title: Wisp 1.3 release 
+  - period: October 2017 
+    title: SDK mobile wisp 2.0 release 
+  - period: December 2017 
+    title: Release into production of the PAs with regards to wisp 2.0 and SDK mobile  
 status: to-do
 twitter_tag: pagopa
 tweetdeck_id: 913421951103897600

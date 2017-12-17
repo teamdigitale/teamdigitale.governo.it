@@ -1,4 +1,4 @@
-﻿---
+---
 title: Designers Italia
 lang: en
 permalink: /en/projects/designers.htm

@@ -200,3 +200,12 @@ FormatDate:
 Current:
   en: "current"
   it: "a oggi"
+FromBlog:
+  en: "From the blog"
+  it: "Dal blog"
+FromTwitter:
+  en: "From Twitter"
+  it: "Da Twitter"
+ProjectsFrontText:
+  en: "The Digital Transformation Team is working on bulding the “operating system” of the country: a series of fundamental blocks upon which services for citizens, the Public Administration, and enterprises are built with modern digital products."
+  it: "Il Team per la Trasformazione Digitale è impegnato nella costruzione del “sistema operativo” del Paese: una serie di componenti fondamentali sui quali costruire servizi più semplici ed efficaci tra i cittadini, le imprese e la Pubblica Amministrazione attraverso prodotti digitali innovativi."
