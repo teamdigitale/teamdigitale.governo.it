@@ -14,9 +14,9 @@ forum_limit: 3
 
 ### In short
 
-We must start writing fewer laws and more software [fewer codes and more coding] and, above all, we must ensure that the laws - general and abstract by definition - only carry those principles that are capable of lasting over time and that do not bind innovation and technologies to the past. 
+We have to start writing fewer laws and more software [less codes and more code] and, above all, we must ensure that the laws themselves — which are, by definition, both general and abstract — depict only those principles capable of resisting the passage of time and incapable of burdening us with the innovations and technologies of the past.
 
-The rules, i.e. the details, are to be translated into bits, whilst the conventions for the exchange of data between administrations using APIs, the administrative procedures in which the discretionary activity of the administration is absent or modest, should be transformed into machine-to-machine processes that are more effective and more democratic. 
+Detailed, rule-based regulations are to be translated into bit. Conventions for data exchange between administrations in API [Application Programming Interface] and administrative processes in which discretionary activity is either absent or modest are to be transformed into machine to machine processes, making them more efficient and democratic.
 
 **[Follow the latest project updates on Twitter](https://twitter.com/search?f=tweets&vertical=default&q=cad%20list%3AteamdigitaleIT%2Fteam-digitale&src=typd)**
 
@@ -24,10 +24,10 @@ The rules, i.e. the details, are to be translated into bits, whilst the conventi
 
 {% include forum.html %}
 
-### Media 
+### Media
 
 Any contact request from the media and journalists should be addressed to the
-Digital Transformation Team press and communication office. 
+Digital Transformation Team's press and communication office.
 
 {% include ipress.html %}
 <div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="en" data-size="100" data-tag="12"></div>

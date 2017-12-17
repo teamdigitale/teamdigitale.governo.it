@@ -54,7 +54,7 @@ timeline:
     status: to-do
   - period: November 2017
     title: Development of the POC toolkit in React/Bootstrap4/Angular
-    desc: New front-end technologies for the webtoolkit of public sites
+    desc: New front-end technologies for the web toolkit of public sites
     status: to-do
   - period: December 2017
     title: Wireframe kit
@@ -71,8 +71,8 @@ We intend to create guidelines, examples and development kits that can help all 
 
 ### The role of the Team
 The objective of [Designers Italia](https://designers.italia.it) is to disseminate a culture of design in digital services that makes the citizen the focal point, in order to save time and money for the public administration and to raise the quality of the services.
-The digital transformation team has strengthened the existing project relative to the guidelines of the public websites by creating a platform - Designers Italia - that constitutes a meeting point between the world of design and the public administration. All documentation relating to the design guidelines must be issued in its alpha version and embrace all aspects of human-centred design: service design, user interface design, content design and user research.
-Designers Italia not only produces guides and kits for all public administrations, but directly follows some of the public &quot;infrastructural&quot; digital services such as Pagopa and Spid, whilst activating the creation of models for the different types of public websites, starting from a project dedicated to school websites.
+The digital transformation team has strengthened the existing project relative to the guidelines of the public websites by creating a platform - Designers Italia - that constitutes a meeting point between the world of design and the public administration. All documentation relating to the design guidelines should come from its alpha version and embrace all aspects of human-centred design: service design, user interface design, content design and user research.
+Designers Italia not only produces guides and kits for all public administrations, but directly follows some of the public &quot;infrastructural&quot; digital services such as PagoPA and SPID, whilst activating the creation of models for the different types of public websites, starting from a project dedicated to school websites.
 
 
 {% include medium_project.html %}
@@ -85,7 +85,7 @@ A space for discussions about the design of public services.
 {% include twitter_timeline.html %}
 
 ### Media
-For any contact request received from the media and journalists, the Digital Transformation Team press and communication office is the point of reference.
+For any contact request received from the media and journalists, the Digital Transformation Team's press and communication office is the point of reference.
 
 {% include ipress.html %}
 <div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="en" data-size="100" data-tag="9"></div>

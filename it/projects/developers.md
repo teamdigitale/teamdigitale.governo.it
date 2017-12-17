@@ -18,7 +18,7 @@ timeline:
     desc: La roadmap di SPID, disponibile in community e costantemente aggiornata, è la prima roadmap di un servizio tecnologico italiano che viene pubblicata per il confronto con tutte le parti interessate e per coordinare le attività di sviluppo
   - period: Giugno 2017
     title: Inizio processo di gare per piccole aziende e startup (€1M)
-    desc: Con un processo innovativo, facendoci aiutare delle principali tech community italiane, abbiamo avviato un processo volto ad effettuare una serie di gare a supporto della realizzazione di progetti open-source in community, con un budget di 1 milione di euro. 
+    desc: Con un processo innovativo, facendoci aiutare dalle principali tech community italiane, abbiamo avviato un processo volto ad effettuare una serie di gare a supporto della realizzazione di progetti open-source in community, con un budget di 1 milione di euro. 
   - period: Luglio 2017
     title: Incontro con le software house
     desc: Abbiamo incontrato le principali software house italiane che realizzano software per la pubblica amministrazione, e abbiamo discusso con loro di Developers Italia e delle nuove sfide di innovazione che si apriranno su servizi sempre più innovativi.
@@ -41,8 +41,8 @@ timeline:
 
 Developers Italia è la community dedicata allo sviluppo di software open-source a supporto dei servizi pubblici digitali italiani.
 
-E' un cambiamento del modo in cui lavora la Pubblica Amministrazione, utilizzando standard e software aperti, realizzando SDK 
-per i principali linguaggi di programmazione e framework, API documentate pubblicamente, non con un linguaggio giuridico ma tecnico, 
+E' un cambiamento del modo in cui lavora la Pubblica Amministrazione, utilizzando standard e software aperti, realizzando SDK
+per i principali linguaggi di programmazione e framework, API documentate pubblicamente, non con un linguaggio giuridico ma tecnico,
 intorno alle quali poter coinvolgere una community di sviluppatori che crei innovazione.
 
 {:.h4}
@@ -52,8 +52,8 @@ intorno alle quali poter coinvolgere una community di sviluppatori che crei inno
 
 Il Team Digitale si è fatto fin da subito promotore e ha preso in carico la realizzazione e la strutturazione della community di
 Developers Italia. Abbiamo deciso di appoggiarci su strumenti standard di mercato (GitHub per il codice, ReadTheDocs per la documentazione,
-Discourse per il forum) a contorno dei quali è stato creato (in economia e in poche settimane) il sito principale che fa da 
-presentazione dei progetti e da indice delle attività. 
+Discourse per il forum) a contorno dei quali è stato creato (in economia e in poche settimane) il sito principale che fa da
+presentazione dei progetti e da indice delle attività.
 
 Abbiamo iniziato poi a coinvolgere fin da subito le persone che si sono avvicinate ai progetto, tramite call online periodiche,
 roadmap aperte, documenti architetturali; contemporaneamente, stiamo incontrando le amministrazioni che gestiscono le principali
@@ -72,7 +72,7 @@ Da questo approccio è nato [Hack Developers](https://hack.developers.italia.it/
 
 {% include twitter_timeline.html %}
 
-### Media 
+### Media
 Per ogni richiesta di contatto da parte di media e giornalisti il punto di riferimento è l'ufficio stampa e comunicazione del Team per la Trasformazione digitale
 
 {% include ipress.html %}
