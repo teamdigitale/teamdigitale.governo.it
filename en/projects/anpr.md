@@ -12,7 +12,7 @@ forum_category: anpr
 forum_limit: 3
 twitter_tag: anpr
 tweetdeck_id: 913424743981895680
-dashboard_url: https://dashboard.teamdigitale.governo.it/public/dashboard/2414d40b-9273-4e54-83ae-df346826fc53
+dashboard_url: https://dashboard.teamdigitale.governo.it/public/dashboard/40924a34-13fd-4d1e-b0d4-bbbea15a6ae4
 ---
 
 ### In short
@@ -27,9 +27,7 @@ an official office.
 
 ### The benefits for citizens and the public administration
 
-ANPR is an essential step in the digital agenda to render additional
-innovations possible, since having a database at a national level will allow for the advancement
-of the self-certification model by shortening and
+ANPR is an essential step in the digital agenda for enabling future innovations, since having a database at a national level will allow for the advancement of self-certification procedures by shortening and
 automating all procedures related to master data.
 
 With ANPR, the administrations will be able to efficiently dialogue with each other,
@@ -47,11 +45,8 @@ Shortly, the possibility of obtaining certificates from a single portal will als
 
 ### The Team&#39;s Role
 
-ANPR is an essential step in rendering future innovations possible, which
-would be impossible or very expensive today. The project existed well before
-the birth of the Digital Transformation Team: we took over the direction with the
-aim of creating a clear roadmap for implementation, modernising the operative method and accelerating its completion. In our blog
-here below, we share our vision of the project, the actions taken so far and the next steps we wish to take. Follow us on Twitter for all the news.
+ANPR is an essential step in enabling future innovations, which would be impossible or very expensive today. The project existed well before the birth of the Digital Transformation Team: we took over the direction with the
+aim of creating a clear roadmap for implementation, modernising the operative method and accelerating its completion. In our blog here below, we share our vision of the project, the actions taken so far and the next steps we wish to take. Follow us on Twitter for all the news.
 
 
 {% include medium_project.html %}
@@ -59,9 +54,7 @@ here below, we share our vision of the project, the actions taken so far and the
 {% include twitter_timeline.html %}
 
 ### Forum
-ANPR is a project of national relevance. To foster a discussion and
-an exchange of viewpoints, as well as to encourage the participation of
-all players involved in the project (starting from the 8,000+ Italian municipalities involved in the operation!), we created a [forum](https://forum.italia.it/c/anpr)
+ANPR is a project of national relevance. To foster a discussion and an exchange of viewpoints, as well as to encourage the participation of all players involved in the project (starting from the 8,000+ Italian municipalities involved in the operation!), we created a [forum](https://forum.italia.it/c/anpr)
 
 {% include forum.html %}
 

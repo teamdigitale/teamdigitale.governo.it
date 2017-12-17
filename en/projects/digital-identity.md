@@ -12,7 +12,7 @@ forum_category: spid
 forum_limit: 3
 twitter_tag: spid
 tweetdeck_id: 913425127978696706
-dashboard_url: https://dashboard.teamdigitale.governo.it/public/dashboard/91369902-9c46-42e9-94c6-1a8b1c92d6c4
+dashboard_url: https://dashboard.teamdigitale.governo.it/public/dashboard/5b0da6d7-3bc9-42fd-be12-24b3be247550
 ---
 
 ### In short

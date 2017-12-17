@@ -20,7 +20,7 @@ timeline:
 status: to-do
 twitter_tag: pagopa
 tweetdeck_id: 913421951103897600
-dashboard_url: https://dashboard.teamdigitale.governo.it/public/dashboard/2c8ee2ee-fa84-4dbf-8b6a-e7fb5f9ca950
+dashboard_url: https://dashboard.teamdigitale.governo.it/public/dashboard/d88a8ece-75ed-4668-ab8c-3a6c8693b4af
 ---
 
 ### In short

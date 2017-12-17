@@ -86,8 +86,7 @@ The application and its components are developed as open source, with both the b
 deadlines on one&#39;s own calendar)
 
 #### For Administrations
-* send electronic communications using only the tax code (without
-having to ask for the citizens&#39; contact address)
+* send electronic communications using only the tax code (without having to ask for the citizens&#39; contact address)
 * not having to deal with the management and updating of contacts
 * give greater authority to communications from the administration  
 * communicate deadlines and facilitate the payment of taxes
