@@ -1,5 +1,5 @@
 ---
-title: Digital citizenship
+title: Digital Citizenship
 lang: en
 permalink: /en/projects/digital-citizenship.htm
 layout: project
@@ -9,26 +9,26 @@ people: [federico-feroldi]
 toc: true
 timeline:
   - period: November 2017
-    title: Release of API Communications and Preferences (beta version)
+    title: Release of the Communications and Preferences API (beta version)
   - period: January 2018
-    title: Release of API Communications and Preferences (production)
+    title: Release of Communications and Preferences API (production)
     status: todo
   - period: January 2018
-    title: Release of Digital Citizenship application (beta version)
+    title: Release of the Digital Citizenship application (beta version)
     status: todo
 ---
 
 ### In short
 
-Digital Citizenship aims to make interactions between citizens and the
+The Digital Citizenship project aims to make interactions between citizens and the
 Public Administration easier and more familiar, by designing digital services
 around the citizen and his or her information.
 
-Through an open platform of shared components on which to build
-digital services, we will create an experience that will accompany the citizen
-in interactions with local and national services, as if it were a single great digital home.
+Through an open platform of shared components for building
+digital services, we will create an experience that will follow the citizen
+in the interactions with local and national services, as if it were a single great digital home.
 
-The aim is to provide a simpler and more familiar way for the Public Administration to communicate with citizens, to provide notification of acts, reminders concerning deadlines, to share information and documents through an interface built around the citizen.
+The aim is to provide a simpler and more familiar mechanism for the Public Administration to communicate with citizens, to provide notification of acts, reminders of deadlines, and share information and documents through an interface built around the citizen.
 
 ### The role of the Team
 
@@ -46,9 +46,9 @@ services (communication channels, language preference, privacy settings, and so 
 
 The APIs for communication provide a single channel that the Public
 Administration can use to send communications, notices, and reminders about
-deadlines to the citizen. This communication system is in turn integrated with
+deadlines. This communication system is in turn integrated with
 the APIs for preferences management to allow the services to communicate with
-the citizens based on these preferences.
+the citizens based on his/her contact preferences.
 
 The APIs are developed as open source, with both the backlog of the activities
 and the code being freely accessible:
@@ -59,14 +59,14 @@ and the code being freely accessible:
 *   [documentation for using the APIs](https://teamdigitale.github.io/digital-citizenship/)
 
 To foster a discussion and an exchange of viewpoints, and to encourage the participation
-of all the players involved in the projects, we created a [forum](https://forum.italia.it/c/piano-triennale/piattaforme-abilitanti).
+of all the players involved in the projects, we created a [forum](https://forum.italia.it/c/piano-triennale/piattaforme-abilitanti) (Italian).
 
 #### The Digital Citizenship application
 
 An application designed to meet the needs of the citizen, providing a
 digital place for accessing the experience of Digital Citizenship.
 
-Furthermore, the Digital Citizenship application aims to be a testing ground
+The Digital Citizenship application aims to be a testing ground
 to try out integration with the enabling platforms, providing a reference implementation for all the Public Administrations wanting to develop digital services.
 
 The application and its components are developed as open source, with both the backlog of the activities and the code being freely accessible:
@@ -82,11 +82,12 @@ The application and its components are developed as open source, with both the b
 
 * access the archive of communications with the public administration
 * manage contact details from a central access point
-* manage notices in an &quot;integrated&quot; mode (such as when making payments or marking
-deadlines on one&#39;s own calendar)
+* manage notices in an "integrated" mode (such as when making payments or marking
+deadlines on one's own calendar)
 
 #### For Administrations
-* send electronic communications using only the tax code (without having to ask for the citizens&#39; contact address)
+
+* send electronic communications using only the tax code (without having to ask for the citizens' contact address)
 * not having to deal with the management and updating of contacts
 * give greater authority to communications from the administration  
 * communicate deadlines and facilitate the payment of taxes
