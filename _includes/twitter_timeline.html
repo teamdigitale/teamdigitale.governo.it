@@ -1,7 +1,7 @@
 {% assign twitter_user = page.twitter_user | default: site.twitter_username[page.lang] %}
 {% assign tweetdeck_name = site.tweetdeck_names[page.lang] %}
 <a name="da-twitter"></a>
-<h3>Da Twitter</h3>
+<h3>{{ site.data.t.FromTwitter[page.lang] }}</h3>
 <div>
 
 {% if page.twitter_tag != nil and page.tweetdeck_id != nil %}

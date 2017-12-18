@@ -34,7 +34,7 @@ Il cittadino ha l'opportunità di avere un solo set di credenziali, che può uti
 
 ### Il ruolo del Team
 
-SPID è un servizio ideato e progettato dall'Agenzia per l'Italia Digitale, e il Team Digitale ne ha assunto il coordinamento con lo scopo di favorirne l'evoluzione e il consolodamento come sistema infrastrutturale chiave per il Paese. Il Team si occuperà di gestire l'apertura ai Gestori di Servizio privati, l'integrazione delle Attribute Authority e il miglioramento dell'usabilità, introducendo metodologie di lavoro e strumenti di misurazione delle performance.
+SPID è un servizio ideato e progettato dall'Agenzia per l'Italia Digitale, e il Team Digitale ne ha assunto il coordinamento con lo scopo di favorirne l'evoluzione e il consolidamento come sistema infrastrutturale chiave per il Paese. Il Team si occuperà di gestire l'apertura ai Gestori di Servizio privati, l'integrazione delle Attribute Authority e il miglioramento dell'usabilità, introducendo metodologie di lavoro e strumenti di misurazione delle performance.
 Nel blog troverete la nostra visione del progetto e il ruolo che ricoprirà nel Sistema Operativo del Paese.
 
 
@@ -48,10 +48,9 @@ SPID è un progetto di rilevanza nazionale. Per favorire la discussione e il con
 
 {% include forum.html %}
 
-### Media 
+### Media
 Per ogni richiesta di contatto da parte di media e giornalisti il punto di riferimento è l'ufficio stampa e comunicazione del Team per la Trasformazione digitale
 
 {% include ipress.html %}
 <div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="it" data-size="100" data-tag="2"></div>
 <script type="text/javascript" src="/js/ipress.js"></script>
-

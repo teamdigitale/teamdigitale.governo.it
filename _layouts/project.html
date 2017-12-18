@@ -1,4 +1,11 @@
 {% capture proj_page_content %}
+{% if page.lang == 'en' %}
+<div class="project-banner-en" >
+	<div class="container">
+		<p>This section was translated by Artificial Intelligence</p>
+	</div>
+</div>
+{% endif %}
 <h2>{{ page.title }} </h2>
 {% if page.people != nil %}
 	<div class="row project__people">

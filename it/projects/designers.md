@@ -62,7 +62,7 @@ timeline:
     status: todo
   - period: Dicembre 2017
     title: Kit service design e user research
-    desc: Personas, user journey maps e altri strumenti di lavoro 
+    desc: Personas, user journey maps e altri strumenti di lavoro
     status: todo
 ---
 
@@ -71,20 +71,20 @@ Intendiamo creare linee guida, esempi e kit di sviluppo che possano aiutare tutt
 
 ### Il ruolo del Team
 Obiettivo di [Designers Italia](https://designers.italia.it) è diffondere una cultura del design dei servizi digitali che metta al centro il cittadino per far risparmiare tempo e denaro alla pubblica amministrazione e innalzare la qualità dei servizi.
-Il team per la trasformazione digitale ha rafforzato il progetto esistente relativo alle linee guida dei siti web pubbici creando una piattaforma - Designers Italia - che si pone come punto di incontro tra mondo del design e pubblica amministrazione. La documentazione relativa alle linee guida di design deve uscire dalla versione alpha e abbracciare tutti gli aspetti dello human centered design: service design, user interface design, content design e user research. 
-Designers Italia non solo produce guide e kit per tutte le amministrazioni pubbliche, ma segue direttamente alcuni dei servizi digitali pubblici “infrastrutturali” come Pagopa e Spid e avvia la creazione di modelli per le diverse tipologie di siti web pubblici, a partire da un progetto dedicato ai siti delle scuole.
+Il team per la trasformazione digitale ha rafforzato il progetto esistente relativo alle linee guida dei siti web pubbici creando una piattaforma - Designers Italia - che si pone come punto di incontro tra mondo del design e pubblica amministrazione. La documentazione relativa alle linee guida di design deve uscire dalla versione alpha e abbracciare tutti gli aspetti dello human centered design: service design, user interface design, content design e user research.
+Designers Italia non solo produce guide e kit per tutte le amministrazioni pubbliche, ma segue direttamente alcuni dei servizi digitali pubblici “infrastrutturali” come PagoPA e SPID e avvia la creazione di modelli per le diverse tipologie di siti web pubblici, a partire da un progetto dedicato ai siti delle scuole.
 
 
 {% include medium_project.html %}
 
-### Forum 
+### Forum
 
-Uno spazio di discussione sul design dei servizi pubblici. 
+Uno spazio di discussione sul design dei servizi pubblici.
 {% include forum.html %}
 
 {% include twitter_timeline.html %}
 
-### Media 
+### Media
 Per ogni richiesta di contatto da parte di media e giornalisti il punto di riferimento è l'ufficio stampa e comunicazione del Team per la Trasformazione digitale
 
 {% include ipress.html %}

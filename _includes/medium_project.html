@@ -3,7 +3,7 @@
 {% assign medium_id = page.medium_post_id %}
 {% assign posts_by_id = posts | where_exp: "item", "item.medium_post_id == medium_id" %}
 <a name="dal-blog"></a>
-<h3>Dal blog</h3>
+<h3>{{ site.data.t.FromBlog[page.lang] }}</h3>
 <div>
 {% if medium_id != nil %}
 	{% for post in (posts_by_id) limit:1 %}
