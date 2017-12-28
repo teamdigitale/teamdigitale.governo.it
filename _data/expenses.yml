@@ -1,24 +1,24 @@
 ---
-SpeseUpdate: '31/10/2017'
+SpeseUpdate: '27/12/2017'
 SpeseDelTeam:
   - voce: Sviluppo software e design
-    impegno: 1777174
-    pagamenti: 1023405
+    impegno: 2671249 
+    pagamenti: 1060648 
   - voce: Hardware e accessori
-    impegno: 39722 
-    pagamenti: 35669 
+    impegno: 54713  
+    pagamenti: 39728  
   - voce: Canoni software as a service
-    impegno: 32133 
-    pagamenti: 26478 
+    impegno: 41652 
+    pagamenti: 34964  
   - voce: Comunicazione e relazioni pubbliche
-    impegno: 135675 
-    pagamenti: 0
+    impegno:  135675  
+    pagamenti: 54587 
   - voce: Funzionamento (missioni, eventi)
-    impegno: 33643 
-    pagamenti: 27727 
+    impegno: 38953  
+    pagamenti: 31430  
   - voce: Compensi Esperti*
-    impegno: 2412416.14
-    pagamenti: 1567729.73 
+    impegno: 2506623 
+    pagamenti: 2046757  
 SpeseAnalitiche:
   - voce: Ministero dell'Interno
     titolobreve: Accordo con il Ministero dell'Interno per attività di sviluppo tecnologico di ANPR
@@ -76,3 +76,11 @@ SpeseAnalitiche:
     pagamenti: 0
     contraccordi: Contratto con Università di Bari - DIPARTIMENTO DI INFORMATICA
     descrizione: "Nell’ambito del progetto DAF, il contratto è finalizzato all’utilizzo di un software specifico che consenta la costruzione di un sistema di FAQ basato su un motore di ricerca semantico. L’Università di Bari – Dipartimento di informatica, che ha condotto studi specialistici nel campo del Natural Language Processing (NPL) e ha realizzato un prodotto di Question Answering, effettuerà lo sviluppo del motore di ricerca citato, tramite l’adattamento dello stesso alle esigenze del progetto."
+  - voce: Teradata Italia
+    titolobreve: Contratto con Teradata Italia - sviluppo Kylo
+    progetto: DAF
+    ref: daf
+    impegno:  48678  
+    pagamenti: 0
+    contraccordi: Contratto con Teradata Italia
+    descrizione: "Nell’ambito del progetto DAF, il contratto è finalizzato allo sviluppo di una piattaforma software per la gestione di data lake in HDSF (Kylo) come tool per coadiuvare il processo di ingestion, data wrangling e pipeline management del DAF. Il processo di ingestion è basato su strumenti nativi dell’ecosistema Hadoop."
