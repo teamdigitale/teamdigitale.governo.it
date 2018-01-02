@@ -17,13 +17,12 @@ dashboard_url: https://dashboard.teamdigitale.governo.it/public/dashboard/913699
 
 ### In breve
 
-La CIE, la Carta d'Identità Elettronica, è un documento la soluzione che ti permette di accedere a tutti i servizi online della Pubblica Amministrazione con un'unica Identità Digitale utilizzabile da computer, tablet e smartphone. Oggi le nostre credenziali digitali sono diverse per ogni servizio a cui accediamo e una drastica riduzione del loro numero porta ad una semplificazione della vita del cittadino e a una maggiore sicurezza.
+La CIE, la Carta d'Identità Elettronica, è un documento elettronico altamente sicuro, dotato di un microprocessore a radiofrequenza che ne permette l'utilizzo in svariati scenari, incluso l'accesso a servizi online. Risponde alle esigenze di sicurezza del nostro paese e sostituisce la versione cartacea.
 
 ### Vantaggi per i cittadini e la pubblica amministrazione
 
-La CIE consente alla Pubblica Amministrazione di abbandonare i servizi di autenticazione gestiti localmente, risparmiando quindi su questi costi sia in termini di manutenzione che di lavoro necessario per il rilascio di credenziali; inoltre la qualità dell'identificazione fornita da SPID è normalmente superiore e garantisce anche la PA stessa durante l'erogazione di servizi.
-
-Il cittadino ha l'opportunità di avere un solo set di credenziali, che può utilizzare con tutti i servizi della Pubblica Amministrazione e che assicurano, tra l'altro, una maggiore sicurezza, specialmente quando si utilizzano i Livelli 2 e 3 di SPID. Inoltre, al contrario di altri sistemi diffusi di login, SPID garantisce che ogni servizio collegato riceva sempre e solo le informazioni minime necessarie per la fornitura del servizio senza condividere con altri le informazioni sull'utilizzo, garantendo quindi la privacy dei cittadini. Infine, una identità SPID potrà essere utilizzata per accedere anche a tutti i servizi della Pubblica Amministrazione di tutti i paesi membri dell'Unione Europea.
+La CIE è un documento non contraffattibile e consente l'accesso a servizi fisici e digitali con maggiore sicurezza. 
+La Pubblica Amministrazione può contare su una maggiore sicurezza del documento di identificazione, rispondente anche alle richieste avanzate a livello europeo, permettendo il completamento di una delle piattaforme abilitanti elencate nel Piano Triennale, così da consentire la creazione di servizi pubblici fisici e digitali che integrino la CIE come processo di riconoscimento (ad esempio per l’uso dei trasporti pubblici). Infine contribuisce al raggiungimento dell’obbiettivo europeo per la realizzazione del mercato unico digitale.
 
 {:.h4}
 [Scopri gli aspetti tecnici su Developers Italia](https://developers.italia.it/it/cie/)
@@ -36,7 +35,8 @@ Il cittadino ha l'opportunità di avere un solo set di credenziali, che può uti
 
 CIE è un servizio ideato e progettato dal Ministero dell'Interno con l'Istituto Poligrafico Zecca dello Stato,
 e il Team Digitale ne ha assunto il coordinamento con lo scopo di favorirne l'evoluzione e il consolidamento
-come sistema infrastrutturale chiave per il Paese. Il Team si occuperà di gestire l'apertura ai Gestori di Servizio privati, l'integrazione delle Attribute Authority e il miglioramento dell'usabilità, introducendo metodologie di lavoro e strumenti di misurazione delle performance.
+come sistema infrastrutturale chiave per il Paese. Il Team si occuperà di seguire il dispiegamento sul territorio e di favorire la creazione di un ecosistema che renda semplice l'integrazione della CIE.
+
 Nel blog troverete la nostra visione del progetto e il ruolo che ricoprirà nel Sistema Operativo del Paese.
 
 
@@ -46,7 +46,7 @@ Nel blog troverete la nostra visione del progetto e il ruolo che ricoprirà nel 
 
 
 ### Forum
-SPID è un progetto di rilevanza nazionale. Per favorire la discussione e il confronto, e per incoraggiare la partecipazione di tutti gli attori coinvolti nel progetto abbiamo creato un [forum](https://forum.italia.it/c/spid)
+CIE è un progetto di rilevanza nazionale. Per favorire la discussione e il confronto, e per incoraggiare la partecipazione di tutti gli attori coinvolti nel progetto abbiamo creato un [forum](https://forum.italia.it/c/cie)
 
 {% include forum.html %}
 
