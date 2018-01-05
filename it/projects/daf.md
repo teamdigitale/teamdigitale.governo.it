@@ -1,5 +1,5 @@
 ---
-title: Data Analytics Framework (DAF)
+title: Data & Analytics Framework (DAF)
 lang: it
 permalink: /it/projects/daf.htm
 layout: project
