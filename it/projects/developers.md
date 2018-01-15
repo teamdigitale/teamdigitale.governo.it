@@ -28,7 +28,6 @@ timeline:
   - period: Q4 2017
     title: 10 progetti in Developers Italia
     desc: Abbiamo un obiettivo di attivare lo sviluppo su 10 diversi progetti in community, coinvolgendo le amministrazioni di competenza nel nuovo modello di sviluppo aperto e collaborativo.
-    status: todo
   - period: Q1 2018
     title: Superamento del modello del "Catalogo del Riuso"
     desc: Pubblicheremo delle nuove linee guida che supereranno l'attuale "Catalogo del Riuso" di AgID, promuovendo invece la pubblicazione di codice con licenza open-source, come sistema superiore per convidere il codice tra diverse amministrazioni, senza necessità di contratti.
