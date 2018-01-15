@@ -28,11 +28,10 @@ timeline:
   - period: Q4 2017
     title: 10 projects in Developers Italia
     desc: Our objective is to integrate the development of 10 different community projects, involving the administrations responsible for them in the new open and collaborative development model.
-    status: to-do
   - period: Q1 2018
     title: Going beyond the &quot;Catalogue of the Reuse&quot; model
     desc: We will publish some new guidelines that will supersede the current AgID &quot;Reuse Catalogue&quot;, promoting the publishing of all code on collaborative platforms (such as GitHub or GitLab). We aim to go beyond (and simplify) the current system for sharing the code between different administrations, a system which doesn't have the need for contracts or other bureaucratic impediments.
-    status: to-do
+    status: todo
 ---
 
 ### In short
