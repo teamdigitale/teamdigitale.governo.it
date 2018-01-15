@@ -39,31 +39,31 @@ timeline:
   - period: October 2017
     title: Commencement of collaborative design experimentation
     desc: Sketch libraries (with Sketch v47), kactus.io, Github for the UI collaborative kit
-    status: to-do
+    status: todo
   - period: October 2017
     title: Evolution of the UI Kit and web Toolkit
     desc: Development of the UI Kit and alignment of the Toolkit to the UI Kit
-    status: to-do
+    status: todo
   - period: October 2017
     title: Blog with design case histories
     desc: Start-up of blog on Medium, dedicated to the case histories of design in public services
-    status: to-do
+    status: todo
   - period: November 2017
     title: ASO (App Store Optimisation) Guide
     desc: Tools for publishing and distributing an app on the App Store and Google Play
-    status: to-do
+    status: todo
   - period: November 2017
     title: Development of the POC toolkit in React/Bootstrap4/Angular
     desc: New front-end technologies for the web toolkit of public sites
-    status: to-do
+    status: todo
   - period: December 2017
     title: Wireframe kit
     desc: Release of wireframe kit for rapid prototyping of public websites
-    status: to-do
+    status: todo
   - period: December 2017
     title: Service design kit and user research
     description: Personas, user journey maps and other working tools
-    status: to-do
+    status: todo
 ---
 
 ### In short
