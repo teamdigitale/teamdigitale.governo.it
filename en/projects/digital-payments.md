@@ -12,12 +12,11 @@ forum_category: pagopa
 forum_limit: 3
 timeline:
   - period: July 2017
-    title: Wisp 1.3 release
+    title: WISP 1.3 release
   - period: October 2017
-    title: SDK mobile wisp 2.0 release
+    title: SDK mobile WISP 2.0 release
   - period: December 2017
-    title: Release into production of the public administrations with regards to Wisp 2.0 and SDK mobile  
-status: to-do
+    title: Pre-production release of WISP 2.0 and a mobile SDK, to be tested by Public Administrations
 twitter_tag: pagopa
 tweetdeck_id: 913421951103897600
 dashboard_url: https://dashboard.teamdigitale.governo.it/public/dashboard/d88a8ece-75ed-4668-ab8c-3a6c8693b4af
