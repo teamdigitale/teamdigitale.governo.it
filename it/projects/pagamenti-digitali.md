@@ -12,12 +12,11 @@ forum_category: pagopa
 forum_limit: 3
 timeline:
   - period: Luglio 2017
-    title: Rilascio Wisp 1.3
+    title: Rilascio WISP 1.3
   - period: Ottobre 2017
-    title: Rilascio SDK mobile wisp 2.0
+    title: Rilascio SDK mobile WISP 2.0
   - period: Dicembre 2017
-    title: Rilascio in produzione alle PA wisp 2.0 e SDK mobile
-    status: todo
+    title: Rilascio in collaudo alle PA WISP 2.0 e SDK mobile
 twitter_tag: pagopa
 tweetdeck_id: 913421951103897600
 dashboard_url: https://dashboard.teamdigitale.governo.it/public/dashboard/2c8ee2ee-fa84-4dbf-8b6a-e7fb5f9ca950
