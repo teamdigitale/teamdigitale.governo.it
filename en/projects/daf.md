@@ -25,7 +25,6 @@ timeline:
   - period: December 2017
     title: Definition and creation of the development plan for the Data &amp; Analytics testing phase
     desc: Identification of the governance model of the DAF and the public administrations that will be part of the testing phase. Defining the platform architecture and its evolutionary roadmap. Definition of use cases for the development of services for Public Administrations, citizens and business.
-    status: to-do
   - period: January 2018
     title: Production release of the DAF
     desc: The Digital Team and AgID will draw up the procedures for the future owner of the DAF who will manage the operation and the evolution of the project. The owner of the DAF will take care of the interactions with the public administrations to define plans for incorporating their databases and usage cases. From time to time, they will define the data ingestion means and how the DAF is suited to its own activities.
