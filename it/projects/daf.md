@@ -25,7 +25,6 @@ timeline:
   - period: Dicembre 2017
     title: Definizione e realizzazione del piano di sviluppo della fase di sperimentazione del Data & Analytics Framework
     desc: Individuazione del modello di governance del DAF e delle PA che faranno parte della fase di sperimentazione. Definizione dell’architettura della piattaforma e della sua roadmap di evoluzione. Definizione dei casi d’uso per lo sviluppo di servizi per Pubbliche amministrazioni, cittadini e imprese.
-    status: todo
   - period: Gennaio 2018
     title: Messa in Produzione del DAF
     desc: Il Team digitale e AgID predisporranno le procedure atte al subentro del futuro owner del DAF che gestirà l’operatività e l’evoluzione del progetto. L’owner del DAF curerà le interazioni con le PA per definire piani di inclusione delle relative basi di dati e casi d’uso. Le PA di volta in volta coinvolte definiranno le modalità di ingestione dei dati e utilizzo del DAF consone alle proprie attività.
