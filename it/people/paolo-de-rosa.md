@@ -3,7 +3,7 @@ title: Paolo de Rosa
 lang: it
 permalink: /it/people/paolo-de-rosa.html
 layout: people
-role: Cloud & Data Center expert 
+role: Cloud & Data Center expert
 is_new: true
 ref: paolo-de-rosa
 twitter_user: paolo_de_rosa
@@ -13,7 +13,7 @@ parent_ref: team
 start_date: 23 Ottobre 2017
 period_provided: fino a 16 Settembre 2018
 annual_compensation: € 80.000
-approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti.
+approved_by_court: 30 Novembre 2017
 ---
 
 Fin da ragazzo ho avuto la possibilità di giocare con alcuni strumenti
