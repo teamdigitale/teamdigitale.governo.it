@@ -8,6 +8,7 @@ is_new: false
 ref: luca-bigliardi
 parent_ref: team
 start_date: July 19, 2017
+end_date: December 31st, 2017
 period_provided: until September 16, 2018
 annual_compensation: € 80,000
 approved_by_court: September 26, 2017
