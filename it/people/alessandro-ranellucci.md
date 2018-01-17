@@ -4,7 +4,6 @@ lang: it
 permalink: /it/people/alessandro-ranellucci.html
 layout: people
 role: Open Source Project Leader
-is_new: true
 ref: alessandro-ranellucci
 parent_ref: team
 start_date: 4 ottobre 2017

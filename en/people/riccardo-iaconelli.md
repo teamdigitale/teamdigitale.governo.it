@@ -4,7 +4,6 @@ lang: en
 permalink: /en/people/riccardo-iaconelli.html
 layout: people
 role: Open Source Project Leader
-is_new: true
 ref: riccardo-iaconelli
 parent_ref: team
 start_date: October 4th, 2017
