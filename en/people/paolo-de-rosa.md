@@ -4,7 +4,6 @@ lang: en
 permalink: /en/people/paolo-de-rosa.html
 layout: people
 role: Cloud & Data Center expert
-is_new: true
 ref: paolo-de-rosa
 parent_ref: team
 twitter_user: paolo_de_rosa 
