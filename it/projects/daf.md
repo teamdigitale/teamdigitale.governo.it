@@ -33,10 +33,7 @@ timeline:
 
 ### In breve
 
-Niente più silos privati di questa o quella amministrazione, i dati pubblici sono un bene comune e una risorsa preziosa per il Paese che, come un giacimento petrolifero, può essere esplorata e minata per estrarre valore. Vogliamo una nuova interfaccia all’interno della quale singole amministrazioni comunichino e condividano tra loro dati e API in maniera libera e aperta, permettendo la nascita di servizi e data application nuovi e prima impensabili realizzati sui bisogni del cittadino. Ovviamente nel massimo rispetto delle norme di privacy e nella piena sicurezza tecnologica.
-
-### Video Demo
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/X2Sg-KauY6I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+Niente più silos privati di questa o quella amministrazione, i dati pubblici sono un bene comune e una risorsa preziosa per il Paese che, come un giacimento petrolifero, può essere esplorata e minata per estrarre valore. Vogliamo una nuova interfaccia all’interno della quale singole amministrazioni comunichino e condividano tra loro dati e API in maniera libera e aperta, permettendo la nascita di servizi e data application nuovi e prima impensabili realizzati sui bisogni del cittadino. Ovviamente nel massimo rispetto delle norme di privacy e nella piena sicurezza tecnologica. 
 
 {:.h4}
 [Scopri gli aspetti tecnici su Developers Italia](https://developers.italia.it/it/daf/)
