@@ -2,11 +2,11 @@
 title: Metrics, Analytics e Data Visualization
 lang: it
 permalink: /it/jobpositions/metrics-analytics-data.htm
-jazz_url: https://teamdigitale.applytojob.com/apply/3uMFXTVuT0/Metrics-Analytics-E-Data-Visualization
 iframeheight: 700
 layout: job
 ref: esperto-metrics-analytics-data
 parent_ref: join-us
+archived: true
 ---
 
 ### Descrizione e responsabilità
