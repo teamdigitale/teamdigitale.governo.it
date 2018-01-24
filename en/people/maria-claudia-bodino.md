@@ -12,7 +12,7 @@ parent_ref: team
 start_date: January 8, 2018
 period_provided: until September 16, 2018
 annual_compensation: € 63.000
-approved_by_court: Decree of the Presidency Council of Ministers:  December 27, 2017
+approved_by_court: in approval
 ---
 
 I grew up in Venasca, a small village in the Province of Cuneo, close to the French border, and in a valley which is dominated by the majestic Monviso (3841 m); the mountain is a constant reminder to the local people that by walking slowly, as the true mountaineers do, all destinations can be reached, even those where the broadband is still being deployed.
