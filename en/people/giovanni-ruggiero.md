@@ -29,28 +29,17 @@ After the college, I split my time between teaching courses for internet users a
 
 I lasted 20 months.
 
-In 2001 I realized that that was not my cup of tea and quitted. I leaved the so called "fixed place" to became
+In 2001 I realized that that was not my cup of tea and quitted to became
 the head of development in a small software house, whose characteristic was to use Progress, a software platform coming with a proprietary 4GL language.
 We developed several projects, of different sizes; likely the most prominent was the sales force automation for the Italian State Monopoly
 
 After a couple of years I leaved the firm to start a new adventure: by day I was a consultant for banks and insurances and by night I studied functional programming, at that time nearly not existent in the professional world.
-The first approaches were with the Lisp family languages, thanks to AutoLisp, the dialect used by AutoCad, learned during the college years.
-The language that I used most was Elisp, whose knowledge allowed me to appreciate the Emacs potential, the editora tha I still use today for most of my activities.
 
 In 2005 I started collaborating with Exprivia, a fairly big software company, inside a small independent group whose main asset was a proprietary NLP engine developed together with Tor Vergata University.
 
-That product was the kernel of several projects in disparate functional domains, which implied working with multiple technologies and languages, an experience that enriched me and made me further engage
-with the theory of programming languages.
+In those years I approached Scala. Its interoperability with Java and the group autonomy allowed me to introduce Scala at work, first in small internal utilities, then in a project (a sensor simulator) for Selex, a big defense contractor.
 
-In those years I approached the static typing world, at the beginning through the ML languages (mainly OCaml) and then with the functional language for excellence, Haskell.
-These personal interests had a minimal impact in the daily job where Java reigned, until I discovered Scala, in 2008.
-Its interoperability with Java and the group autonomy allowed me to introduce Scala at work, first in small internal utilities, then in non critical parts inside
-minor projects and finally as the official language for a project for Selex, a big defense contractor (we developed a sensor simulator:
-the signals were periodically sent through Lift actors)
-
-After that project Scala became my main programming language, used every time it was possible, until 2012, when I relocated to Amsterdam.
-
-In that city, few months before, a startup was founded, Eligotech, with the scope of create products for the Big Data world
+In 2012 I discovered that in Amsterdam a new startup was launched, Eligotech, with the scope of create products for the Big Data world
 (topic completely unknown at that time in Italy) using Scala.
 
 When I saw their job offering, I decided to try and shortly I found myself immersed in the Nederland climate.
@@ -59,9 +48,7 @@ From that day, Hadoop, Spark and alike became my world. We developed Harpoon, a 
 likely one of the first products of that kind in Europe. Later the company merged with a data analysis society and the focus shifted on big data projects
 for the italian market.
 
-When I had the chance to join the Digital Team, I was excited: having the opportunity to prove that it is indeed possible to change things in Italy,
-that there exists skills and professionality having nothing to envy to those of other countries, that the Public Administration can be really useful
-and especially being able to realize all of this thanks to a passion developed by night, for me is priceless.
+When I had the chance to join the Digital Team, I was excited: having the opportunity to prove that it is indeed possible to change things in Italy for me is priceless.
 
 I don't know what we will be able to achieve with our work, but one day we will be able to say that we have started a new path and when
 my sons will ask me what I have done to create a better world, I will know what to say.

@@ -35,7 +35,7 @@ all'interno di quello che all'epoca si chiamava Dipartimento del Territorio.
 
 Vi restai 20 mesi.
 
-Nel 2001 decisi che non era il tipo di lavoro adatto a me e rinunciai al "posto fisso" per diventare
+Nel 2001 decisi che non era il tipo di lavoro adatto a me e rinunciai per diventare
 responsabile dello sviluppo software in una piccola società di informatica, la cui peculiarità era
 l'utilizzo di Progress, una piattaforma software dotato di un 4GL proprietario.
 Ci occupammo di vari progetti, di diversa grandezza, probabilmente il piu' importante fu l'automazione forza
@@ -44,31 +44,13 @@ vendita dei Monopoli di Stato.
 Dopo un paio d'anni lasciai la societa' per iniziare una nuova avventura: di giorno ero consulente
 per conto di banche o assicurazioni e di notte approfondivo la programmazione funzionale, all'epoca
 praticamente inesistente nel mondo professionale.
-I primi approcci furono con i linguaggi della famiglia Lisp e derivati, grazie ad AutoLisp, il dialetto
-utilizzato da AutoCad, conosciuto anni prima all'università.
-Il dialetto che utilizzai maggiormente fu ELisp, il che mi permise di
-apprezzare le potenzialita' di Emacs, l'editor che tuttora uso per la stragrande maggioranza delle attivita'.
 
 Nel 2005 ho iniziato la mia collaborazione con Exprivia, all'epoca AISoftware, all'interno di un piccolo gruppo autonomo
 che aveva sviluppato un motore proprietario di NLP con il contributo di docenti dell'Università di Tor Vergata.
 
-Quel motore e' stato il fulcro attorno a cui sono nati diversi progetti nei piu' disparati ambiti applicativi, il che ha
-comportato lavorare con molteplici tecnologie e linguaggi, un'esperienza che mi ha arricchito e fatto ulteriormente appassionare
-alla teoria dei linguaggi di programmazione.
+In quegli anni mi avvicinai a Scala, L'interoperabilità con Java e l'autonomia del gruppo di lavoro mi consentirono di introdurlo nel lavoro quotidiano, dapprima in piccole utility interne ed in seguito in un progetto sulla simulazione di sensori per conto di Selex.
 
-In quegli anni mi avvicinai al mondo della tipizzazione statica, inizialmente con i linguaggi della famiglia ML
-(principalmente OCaml) e successivamente con il linguaggio funzionale per eccellenza, Haskell.
-Questi interessi personali avevano minimo riscontro nel lavoro quotidiano dove l'utilizzo di Java imperava, fino a quando scoprii
-Scala, nel 2008.
-L'interoperabilità con Java e l'autonomia del gruppo di lavoro mi consentirono di introdurre Scala nel lavoro quotidiano, dapprima tramite
-piccole utility poi in parti non critiche di progetti minori fino ad arrivare al suo utilizzo ufficiale quale linguaggio di sviluppo
-per un progetto per conto di Selex
-(un simulatore di sensori: i segnali venivano inviati periodicamente tramite messaggi tra attori in Lift).
-
-Da li' in poi Scala divenne il mio linguaggio di riferimento, utilizzato ogni qualvolta le condizioni lo permettevano,
-fino al 2012, quando mi trasferii ad Amsterdam.
-
-Li', pochi mesi prima, era stata creata Eligotech, una startup finalizzata allo sviluppo di prodotti nell'ambito Big Data,
+Nel 2012 venni a sapere che ad Amsterdam era stata creata Eligotech, una startup finalizzata allo sviluppo di prodotti nell'ambito Big Data,
 settore all'epoca praticamente sconosciuto in Italia, utilizzando Scala.
 
 Quando vidi la loro ricerca di personale, decisi di provare e in breve mi ritrovai immerso nel clima olandese.
@@ -78,10 +60,7 @@ per l'ingestion e l'analisi di dati provenienti da fonti eterogenee, probabilmen
 di quel genere in Europa. In seguito la societa' si e' fusa con un'azienda di data analysis ed il focus si e' spostato
 su progetti Big Data nel mercato italiano.
 
-Quando ho avuto l'occasione di unirmi al Team Digitale, ne sono stato entusiasta: avere l'opportunità di
-dimostrare che in Italia e' davvero possibile cambiare le cose, che esistono competenze e professionalità che non hanno
-nulla da invidiare a quelle estere, che la PA può davvero essere utile e sopratutto riuscire a fare tutto ciò grazie ad
-una passione coltivata di notte, per me e' impagabile.
+Quando ho avuto l'occasione di unirmi al Team Digitale, ne sono stato entusiasta: avere l'opportunità di dimostrare che in Italia e' davvero possibile cambiare le cose per me è impagabile.
 
 Non so dove riusciremo ad arrivare col nostro lavoro, ma un giorno potremo dire di aver aperto una strada e quando i miei
 figli mi chiederanno cosa ho fatto per migliorare la nostra societa', saprò cosa rispondere.
