@@ -39,30 +39,39 @@ timeline:
   - period: Ottobre 2017
     title: Avvio sperimentazione design collaborativo
     desc: Sketch libraries (con Sketch v47), kactus.io, Github per lo UI kit collaborativo
-    status: todo
-  - period: Ottobre 2017
-    title: Evoluzione UI kit e web Toolkit
-    desc: Evoluzione dello UI kit e allineamento del Toolkit allo UI kit
-    status: todo
   - period: Ottobre 2017
     title: Blog con case histories design
     desc: Avvio blog su Medium dedicato alle case histories di design dei servizi pubblici
-    status: todo
   - period: Novembre 2017
-    title: Guida ASO (App Store Optimization)
-    desc: Strumenti per la pubblicazione e distribuzione di una app su App Store e Google Play
+    title: Piwik per i siti della Pubblica Amministrazione
+    desc: Avvio dell’utilizzo di Piwik come sistema di web analytics per la Pubblica Amministrazione
+  - period: Febbraio 2018
+    title: Sviluppo di un POC per il web toolkit in Bootstrap 4
+    desc: Un nuovo approccio per l'implementazione del web toolkit
     status: todo
-  - period: Novembre 2017
-    title: Sviluppo POC toolkit in React / Bootstrap4 / Angular
-    desc: Nuove tecnologie di frontend per il webtoolkit dei siti pubblici
-    status: todo
-  - period: Dicembre 2017
-    title: Wireframe kit
-    desc: Rilascio wireframe kit per la prototipazione rapida di siti pubblici
-    status: todo
-  - period: Dicembre 2017
+  - period: Marzo 2018
     title: Kit service design e user research
     desc: Personas, user journey maps e altri strumenti di lavoro
+    status: todo
+  - period: Aprile 2018
+    title: Sviluppo di un POC per il web toolkit con React, Angular, Vue.js
+    desc: Sperimentazione di nuove tecnologie frontend per il web toolkit
+    status: todo
+  - period: Maggio 2018
+    title: Kit content
+    desc: Trello board per workflow editoriale, gestione tag, glossario linguaggio
+    status: todo
+  - period: Maggio 2018
+    title: Kit wireframe 
+    desc: Un wireframe kit per la prototipazione rapida di siti pubblici
+    status: todo
+  - period: Giugno 2018
+    title: Kit architettura dell'informazione
+    desc: Mappe concettuali, card sorting e albero di navigazione
+    status: todo
+  - period: Giugno 2018
+    title: Guida ASO (App Store Optimization)
+    desc: Strumenti per la pubblicazione e distribuzione di una app su App Store e Google Play
     status: todo
 ---
 
