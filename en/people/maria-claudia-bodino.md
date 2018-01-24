@@ -1,18 +1,18 @@
 ---
 title: Maria Claudia Bodino
 lang: en
-permalink: /en/people/mariaclaudia-bodino.htm
+permalink: /en/people/maria-claudia-bodino.htm
 layout: people
 role: Metrics, Analytics & Data Visualization Expert
 is_new: true
 twitter_user: MMariaClaudiAA
 linkedin_url: https://www.linkedin.com/in/mariaclaudiabodino/
-ref: mariaclaudia-bodino
+ref: maria-claudia-bodino
 parent_ref: team
 start_date: January 8, 2018
 period_provided: until September 16, 2018
 annual_compensation: € 63.000
-approved_by_court: in approval
+approved_by_court: The decree of appointment is pending before the Court of Auditors.
 ---
 
 I grew up in Venasca, a small village in the Province of Cuneo, close to the French border, and in a valley which is dominated by the majestic Monviso (3841 m); the mountain is a constant reminder to the local people that by walking slowly, as the true mountaineers do, all destinations can be reached, even those where the broadband is still being deployed.
