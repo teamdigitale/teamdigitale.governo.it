@@ -13,7 +13,7 @@ parent_ref: team
 start_date: October 30, 2017
 period_provided: until September 16, 2018
 annual_compensation: € 90,000
-approved_by_court: December 21, 2017
+approved_by_court: November 30, 2017
 ---
 I was eight years old when I started to program with a Commodore VIC-20 bought together with an English course from my parents, but it was all by chance. Finished high school, I decided to study computer science at University of Bari. At the beginning it was hard, but after that I literally fallen in love for this field of study. I got a first and second level degree in five years, in 2008 I received a prize as best graduate student for the Science Faculties at University of Bari, and decide to go for a PhD in Machine Learning.
 

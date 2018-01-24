@@ -13,7 +13,7 @@ parent_ref: team
 start_date: 30 Ottobre 2017
 period_provided: fino al 16 settembre 2018
 annual_compensation: € 90,000
-approved_by_court: 21 Dicembre 2017
+approved_by_court: 30 Novembre 2017
 ---
 Avevo otto anni quando ho iniziato per caso programmare con un Commodore VIC-20 comprato dai miei genitori insieme ad un corso di inglese. Terminato il liceo scientifico, ho deciso di studiare Informatica all'Università di Bari.All'inizio era difficile, ma passate le prime difficoltà mi sono letteralmente innamorato di questa materia di studio. Mi sono laureato alla triennale e specialistica in cinque anni. Nel 2008, ho ricevuto un premio come miglior laureato  per la Facoltà di Scienze all'Università di Bari e infine deciso di iniziare un dottorato di ricerca in Machine Learning.
 
