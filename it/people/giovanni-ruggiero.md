@@ -1,0 +1,87 @@
+---
+title: Giovanni Ruggiero
+lang: it
+permalink: /it/people/giovanni-ruggiero.htm
+layout: people
+role: Big Data Architect
+is_new: false
+twitter_user: gruggie
+medium_user:
+linkedin_url: http://linkedin.com/in/giovanniruggiero
+ref: giovanni-ruggiero
+parent_ref: team
+start_date: 5 Ottobre 2017
+period_provided: fino al 16 settembre 2018
+annual_compensation: € 72.000
+approved_by_court:
+---
+I miei primi passi nel mondo dell'informatica risalgono ai tempi del Commodore 64, regalo dei miei genitori, inconsapevoli
+delle conseguenze di quel dono. Imparai il BASIC grazie ad un corso in edicola e la creazione di piccoli programmi divenne
+il modo per trascorrere il tempo nella piccola città di provincia in cui crescevo,
+fino a quando avvenne il grande salto: un PC compatibile 386 con ben 4Mb di Ram e hard disk da 20 Mb,comprensivo di una esoterica scheda
+interna denominata "modem" capace di raggiungere la strabiliante velocità di 14.4 kbps.
+Prestazioni purtroppo inutilizzabili vista l'assenza di BBS locali ed i costi proibitivi delle telefonate interurbane.
+Ma la SIP aveva un subdolo modo per farmi diventare uno dei suoi maggiori contribuenti: ITAPAC.Fu così che entrai nel mondo della telematica alla mirabolante velocità di 2400 baud, essenzialmente per utilizzare McLink, storica BBS romana di cui sono ancora cliente.
+
+L'università trasformo' la mia passione in lavoro: iscritto al corso di laurea in Ingegneria civile,
+durante i miei studi i computer iniziarono a diffondersi sia come ausilio per i disegni tecnici che come strumento per il calcolo strutturale.
+Quest'ultimo utilizzo attirò molto il mio interesse, in particolare l'uso del metodo degli elementi finiti,
+permettendomi sia di realizzare una tesi di laurea sugli stati piani di tensione che di collaborare
+con una societa di software spagnola per la creazione di un modulo in Fortran del loro software strutturale.
+
+Dopo l'università, divisi il tempo tra l'insegnamento in corsi di formazione su internet e lo studio
+della programmazione ad oggetti, fino alla vincita di un concorso per Ingegnere Direttore al Ministero delle Finanze,
+all'interno di quello che all'epoca si chiamava Dipartimento del Territorio.
+
+Vi restai 20 mesi.
+
+Nel 2001 decisi che non era il tipo di lavoro adatto a me e rinunciai al "posto fisso" per diventare
+responsabile dello sviluppo software in una piccola società di informatica, la cui peculiarità era
+l'utilizzo di Progress, una piattaforma software dotato di un 4GL proprietario.
+Ci occupammo di vari progetti, di diversa grandezza, probabilmente il piu' importante fu l'automazione forza
+vendita dei Monopoli di Stato.
+
+Dopo un paio d'anni lasciai la societa' per iniziare una nuova avventura: di giorno ero consulente
+per conto di banche o assicurazioni e di notte approfondivo la programmazione funzionale, all'epoca
+praticamente inesistente nel mondo professionale.
+I primi approcci furono con i linguaggi della famiglia Lisp e derivati, grazie ad AutoLisp, il dialetto
+utilizzato da AutoCad, conosciuto anni prima all'università.
+Il dialetto che utilizzai maggiormente fu ELisp, il che mi permise di
+apprezzare le potenzialita' di Emacs, l'editor che tuttora uso per la stragrande maggioranza delle attivita'.
+
+Nel 2005 ho iniziato la mia collaborazione con Exprivia, all'epoca AISoftware, all'interno di un piccolo gruppo autonomo
+che aveva sviluppato un motore proprietario di NLP con il contributo di docenti dell'Università di Tor Vergata.
+
+Quel motore e' stato il fulcro attorno a cui sono nati diversi progetti nei piu' disparati ambiti applicativi, il che ha
+comportato lavorare con molteplici tecnologie e linguaggi, un'esperienza che mi ha arricchito e fatto ulteriormente appassionare
+alla teoria dei linguaggi di programmazione.
+
+In quegli anni mi avvicinai al mondo della tipizzazione statica, inizialmente con i linguaggi della famiglia ML
+(principalmente OCaml) e successivamente con il linguaggio funzionale per eccellenza, Haskell.
+Questi interessi personali avevano minimo riscontro nel lavoro quotidiano dove l'utilizzo di Java imperava, fino a quando scoprii
+Scala, nel 2008.
+L'interoperabilità con Java e l'autonomia del gruppo di lavoro mi consentirono di introdurre Scala nel lavoro quotidiano, dapprima tramite
+piccole utility poi in parti non critiche di progetti minori fino ad arrivare al suo utilizzo ufficiale quale linguaggio di sviluppo
+per un progetto per conto di Selex
+(un simulatore di sensori: i segnali venivano inviati periodicamente tramite messaggi tra attori in Lift).
+
+Da li' in poi Scala divenne il mio linguaggio di riferimento, utilizzato ogni qualvolta le condizioni lo permettevano,
+fino al 2012, quando mi trasferii ad Amsterdam.
+
+Li', pochi mesi prima, era stata creata Eligotech, una startup finalizzata allo sviluppo di prodotti nell'ambito Big Data,
+settore all'epoca praticamente sconosciuto in Italia, utilizzando Scala.
+
+Quando vidi la loro ricerca di personale, decisi di provare e in breve mi ritrovai immerso nel clima olandese.
+
+Da quel giorno, Hadoop, Spark e affini sono diventati il mio mondo. Sviluppammo Harpoon, un prodotto BI
+per l'ingestion e l'analisi di dati provenienti da fonti eterogenee, probabilmente uno dei primi prodotti
+di quel genere in Europa. In seguito la societa' si e' fusa con un'azienda di data analysis ed il focus si e' spostato
+su progetti Big Data nel mercato italiano.
+
+Quando ho avuto l'occasione di unirmi al Team Digitale, ne sono stato entusiasta: avere l'opportunità di
+dimostrare che in Italia e' davvero possibile cambiare le cose, che esistono competenze e professionalità che non hanno
+nulla da invidiare a quelle estere, che la PA può davvero essere utile e sopratutto riuscire a fare tutto ciò grazie ad
+una passione coltivata di notte, per me e' impagabile.
+
+Non so dove riusciremo ad arrivare col nostro lavoro, ma un giorno potremo dire di aver aperto una strada e quando i miei
+figli mi chiederanno cosa ho fatto per migliorare la nostra societa', saprò cosa rispondere.
