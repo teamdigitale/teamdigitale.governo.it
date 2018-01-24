@@ -29,7 +29,7 @@ After the college, I split my time between teaching courses for internet users a
 
 I lasted 20 months.
 
-In 2001 I realized that that was not my cup of tea and quitted to became
+In 2001 I realized that it was not my cup of tea and quitted to became
 the head of development in a small software house, whose characteristic was to use Progress, a software platform coming with a proprietary 4GL language.
 We developed several projects, of different sizes; likely the most prominent was the sales force automation for the Italian State Monopoly
 
