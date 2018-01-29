@@ -53,6 +53,4 @@ per l'ingestion e l'analisi di dati provenienti da fonti eterogenee, probabilmen
 di quel genere in Europa. In seguito la società si è fusa con un'azienda di data analysis ed il focus si è spostato
 su progetti Big Data nel mercato italiano.
 
-Quando ho avuto l'occasione di unirmi al Team Digitale, ne sono stato entusiasta: avere l'opportunità di dimostrare che in Italia e' davvero possibile cambiare le cose per me è impagabile.
-Non so dove riusciremo ad arrivare col nostro lavoro, ma un giorno potremo dire di aver aperto una strada e quando i miei
-figli mi chiederanno cosa ho fatto per migliorare la nostra societa', saprò cosa rispondere.
+Quando ho avuto l'occasione di unirmi al Team Digitale, ne sono stato entusiasta: avere l'opportunità di contribuire in Italia a cambiare le cose per me è impagabile. Non so dove riusciremo ad arrivare col nostro lavoro, ma un giorno potremo dire di aver aperto una strada e quando i miei figli mi chiederanno cosa ho fatto per contribuire a migliorare la nostra societa', saprò cosa rispondere.
