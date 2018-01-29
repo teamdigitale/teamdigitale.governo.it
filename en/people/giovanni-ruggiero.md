@@ -10,10 +10,10 @@ medium_user:
 linkedin_url: http://linkedin.com/in/giovanniruggiero
 ref: giovanni-ruggiero
 parent_ref: team
-start_date: October 5, 2017
+start_date: October 4, 2017
 period_provided:  until September 16, 2018
 annual_compensation: € 72.000
-approved_by_court:
+approved_by_court: November 3, 2017
 ---
 My first steps in the world of ICT go back to the years of the Commodore 64, my parent's present, not knowing what that gift would have caused.
 I learned BASIC from a booklets based course bought in a newsstand and I spent all days in the in the small city
