@@ -23,7 +23,7 @@ interna denominata "modem" capace di raggiungere la strabiliante velocità di 14
 Prestazioni purtroppo inutilizzabili vista l'assenza di BBS locali ed i costi proibitivi delle telefonate interurbane.
 Ma la SIP aveva un subdolo modo per farmi diventare uno dei suoi maggiori contribuenti: ITAPAC.Fu così che entrai nel mondo della telematica alla mirabolante velocità di 2400 baud, essenzialmente per utilizzare McLink, storica BBS romana di cui sono ancora cliente.
 
-L'università trasformo' la mia passione in lavoro: iscritto al corso di laurea in Ingegneria civile,
+L'università trasformò la mia passione in lavoro: iscritto al corso di laurea in Ingegneria civile,
 durante i miei studi i computer iniziarono a diffondersi sia come ausilio per i disegni tecnici che come strumento per il calcolo strutturale.
 Quest'ultimo utilizzo attirò molto il mio interesse, in particolare l'uso del metodo degli elementi finiti,
 permettendomi sia di realizzare una tesi di laurea sugli stati piani di tensione che di collaborare
@@ -41,26 +41,18 @@ l'utilizzo di Progress, una piattaforma software dotato di un 4GL proprietario.
 Ci occupammo di vari progetti, di diversa grandezza, probabilmente il piu' importante fu l'automazione forza
 vendita dei Monopoli di Stato.
 
-Dopo un paio d'anni lasciai la societa' per iniziare una nuova avventura: di giorno ero consulente
-per conto di banche o assicurazioni e di notte approfondivo la programmazione funzionale, all'epoca
-praticamente inesistente nel mondo professionale.
-
-Nel 2005 ho iniziato la mia collaborazione con Exprivia, all'epoca AISoftware, all'interno di un piccolo gruppo autonomo
+Dopo un paio d'anni lasciai la società per diventare consulente. Nel 2005 iniziai la mia collaborazione con Exprivia, all'epoca AISoftware, all'interno di un piccolo gruppo autonomo
 che aveva sviluppato un motore proprietario di NLP con il contributo di docenti dell'Università di Tor Vergata.
-
-In quegli anni mi avvicinai a Scala, L'interoperabilità con Java e l'autonomia del gruppo di lavoro mi consentirono di introdurlo nel lavoro quotidiano, dapprima in piccole utility interne ed in seguito in un progetto sulla simulazione di sensori per conto di Selex.
+In quegli anni mi avvicinai a Scala. L'interoperabilità con Java e l'autonomia del gruppo di lavoro mi consentirono di introdurlo nel lavoro quotidiano, dapprima in piccole utility interne ed in seguito in un progetto sulla simulazione di sensori per conto di Selex.
 
 Nel 2012 venni a sapere che ad Amsterdam era stata creata Eligotech, una startup finalizzata allo sviluppo di prodotti nell'ambito Big Data,
 settore all'epoca praticamente sconosciuto in Italia, utilizzando Scala.
-
 Quando vidi la loro ricerca di personale, decisi di provare e in breve mi ritrovai immerso nel clima olandese.
-
 Da quel giorno, Hadoop, Spark e affini sono diventati il mio mondo. Sviluppammo Harpoon, un prodotto BI
 per l'ingestion e l'analisi di dati provenienti da fonti eterogenee, probabilmente uno dei primi prodotti
-di quel genere in Europa. In seguito la societa' si e' fusa con un'azienda di data analysis ed il focus si e' spostato
+di quel genere in Europa. In seguito la società si è fusa con un'azienda di data analysis ed il focus si è spostato
 su progetti Big Data nel mercato italiano.
 
 Quando ho avuto l'occasione di unirmi al Team Digitale, ne sono stato entusiasta: avere l'opportunità di dimostrare che in Italia e' davvero possibile cambiare le cose per me è impagabile.
-
 Non so dove riusciremo ad arrivare col nostro lavoro, ma un giorno potremo dire di aver aperto una strada e quando i miei
 figli mi chiederanno cosa ho fatto per migliorare la nostra societa', saprò cosa rispondere.
