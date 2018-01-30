@@ -44,6 +44,11 @@ E' un cambiamento del modo in cui lavora la Pubblica Amministrazione, utilizzand
 per i principali linguaggi di programmazione e framework, API documentate pubblicamente, non con un linguaggio giuridico ma tecnico,
 intorno alle quali poter coinvolgere una community di sviluppatori che crei innovazione.
 
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8jIID_GmU5Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+
 {:.h4}
 [Scopri gli aspetti tecnici su Developers Italia](https://developers.italia.it)
 

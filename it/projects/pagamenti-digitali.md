@@ -28,6 +28,10 @@ Un modo diverso e più naturale per i cittadini di pagare la Pubblica Amministra
 
 Il cittadino deve poter scegliere metodi di pagamento moderni, a minima frizione, e il mercato deve potersi integrare, aggiungendo facilmente nuovi strumenti di pagamento innovativi. Vogliamo rendere il sistema più aperto e flessibile.
 
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RHOAu5GwKnE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
 {:.h4}
 [Scopri gli aspetti tecnici su Developers Italia](https://developers.italia.it/it/pagopa/)
 
