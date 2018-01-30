@@ -5,6 +5,7 @@ permalink: /en/projects/anpr.htm
 layout: project
 ref: anpr
 parent_ref: projects
+parent_menu: projects
 people: [carlo-contavalli, mirko-calvaresi, luca-bigliardi]
 toc: true
 medium_tag: anpr

@@ -5,6 +5,7 @@ permalink: /it/projects/daf.htm
 layout: project
 ref: daf
 parent_ref: projects
+parent_menu: projects
 people: [raffaele-lillo, fabiana-lanotte, david-greco, alessandro-ercolani ]
 toc: true
 medium_tag: big-data

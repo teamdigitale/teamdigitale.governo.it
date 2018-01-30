@@ -5,6 +5,7 @@ permalink: /en/projects/api.htm
 layout: project
 ref: api
 parent_ref: projects
+parent_menu: projects
 people: [simone-piunno, giovanni-bajo]
 toc: true
 forum_category:

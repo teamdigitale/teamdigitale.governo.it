@@ -5,6 +5,7 @@ permalink: /it/projects/trasformazione-digitale.htm
 layout: project
 ref: trasformazione-digitale
 parent_ref: projects
+parent_menu: projects
 people: [simone-piunno]
 toc: true
 medium_post_id: a54e27d55be9
