@@ -25,6 +25,9 @@ Make public services for citizens and businesses accessible in an easy manner, v
 4. Create a community of developers and designers who can contribute to the development of Application Programming Interfaces and digital services; report and solve technological challenges; provide information and training on digital innovation principles and create a shared wealth of tools and services
 5. Lay a foundation for an evolving architecture that will grow over time and will stay on top of emerging technological trends
 
+## Projects 
+{% include projects_list.html simplelayout=true %}
+
 ## Our Manifesto of Technological and Operating Principles
 
 _For now it is a decalogue, then who knows_
