@@ -15,9 +15,9 @@ period_provided:  until September 16, 2018
 annual_compensation: € 72.000
 approved_by_court: November 3, 2017
 ---
-My first steps in the world of ICT go back to the years of the Commodore 64, my parent's present, not knowing what that gift would have caused.
-I learned BASIC from a booklets based course bought in a newsstand and I spent all days in the in the small city
-where I grew creating  small programs, until I did the big jump to a PC 386 with no less than 4Mb Ram and 20 Mb hard disk, containing an esoteric internal board called "modem" able to reach the astonishing speed of 14.4 kbps.
+My first steps in the world of ICT go back to the years of the Commodore 64, my parents' present, not knowing what that gift would have caused.
+I learned BASIC from a booklets based course bought in a newsstand and I spent all days iin the small city
+where I grew creating  small programs, until I did the big jump to a 386 PC with no less than 4Mb Ram and 20 Mb hard disk, containing an esoteric internal board called "modem" able to reach the astonishing speed of 14.4 kbps.
 Unfortunately, such performance was impossible to reach as there were no local BBS and the intercity calls had prohibitive fares.
 SIP, the italian phone company, had a sneaky way to lure me though: ITAPAC (a primitive data connection line)
 
