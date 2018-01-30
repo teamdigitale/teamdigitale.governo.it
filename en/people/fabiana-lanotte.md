@@ -4,6 +4,9 @@ lang: en
 layout: people
 role: Software Developer
 is_new: false
+twitter_user:
+medium_user:
+linkedin_url:
 ref: fabiana-lanotte
 parent_ref: team
 start_date: January 15, 2017
@@ -34,4 +37,3 @@ Lastly, I worked as a big data architect for an Italian company that combines en
 When I found out that Diego Piacentini was creating a team for the digitization and transformation of our country, I applied immediately. During the various job interviews I went on for this position, I got to know some of the team members - brilliant and professional people with whom I could pool my knowledge and skills.
 
 And now here I am, with my good ol’ suitcase, ready to relocate for a new great experience.
-
