@@ -4685,11 +4685,11 @@ var _self = "undefined" != typeof window ? window : "undefined" != typeof Worker
                 t.preventDefault(), e(".row-offcanvas").toggleClass("active"), e(this).toggleClass("active")
             })
         }), e(document).ready(function () {
-            e(".row-offcanvas").click(function (t) {
+            /*e(".row-offcanvas").click(function (t) {
                 if(e(this).is(".active")) {
                     e('[data-toggle="offcanvas"]').click().focus()
                 }
-            })
+            })*/
         }), e(document).keyup(function (t) {
             27 === t.which && e('[data-toggle="offcanvas"]').click().focus()
         }), jQuery(document).ready(function (e) {

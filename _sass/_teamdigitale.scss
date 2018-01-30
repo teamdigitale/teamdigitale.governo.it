@@ -638,7 +638,18 @@ body.layout-project {
 		font-weight: inherit !important;
 	}
 }
-
+#sidebar #menu > ul {
+	padding-bottom: 1rem
+}
+.sidebar-horizontal-separator {
+	text-transform: uppercase;
+	padding: 1rem;
+	margin-top: 1rem;
+	margin-bottom: 0;
+}
+.sidebar-tools {
+	background-color: #d9e6f2;
+}
 
 /* PRINT TRICKS AND STYLES
 -------------------------- */

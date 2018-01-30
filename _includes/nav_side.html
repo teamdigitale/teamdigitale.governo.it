@@ -13,15 +13,23 @@ tutte le pagine del sito che:
             <ul class="nav navmenu">
                 {% for menu_page in sorted_pages %}
                   {% if menu_page.parent_ref == nil and menu_page.menu_position != nil %}
+                  {% assign sub_pages_query = same_lang_pages | where: "parent_menu", menu_page.ref %}
+                  {% assign sub_pages = sub_pages_query | sort: "title" %}
                     <li class="sidenav-menu-item {{ menu_page.ref }}">
+                      {% if sub_pages.size > 0 %}
+                        <a href="#">{{ menu_page.title }}</a>
+                        <ul>
+                          {% for subpage in  sub_pages %}
+                          <li><a href="{{subpage.url}}">{{subpage.title}}</a></li>
+                          {% endfor %}
+                        </ul>
+                        {% else %}
                         <a href="{{ menu_page.url }}">{{ menu_page.title }}</a>
+                        {% endif %}
                     </li>
                   {% endif %}
                 {% endfor %}
                 {% if page.lang=='en' %}
-                    <li>
-                      <a href="https://pianotriennale-ict.italia.it/en" target="_blank">Three Year Plan</a>
-                    </li>
                     <li><a href="/en/i7.html" 
                       {% if page.ref=='i7' %}class="active"{% endif %}
                       >Innovation7@G7</a>
@@ -32,12 +40,6 @@ tutte le pagine del sito che:
                     </li>
                   {% endif %}
                   {% if page.lang=='it' %}
-                    <li>
-                      <a href="https://pianotriennale-ict.italia.it/" target="_blank">Piano Triennale</a>
-                    </li>
-                    <li>
-                      <a href="https://hack.developers.italia.it/" target="_blank">Hack Developers</a>
-                    </li>
                     <li><a href="/en/i7.html" 
                       {% if page.ref=='i7' %}class="active"{% endif %}
                       >Find out about the Innovation7@G7</a>
@@ -47,6 +49,41 @@ tutte le pagine del sito che:
                     </li>
                   {% endif %}
             </ul>
+            <div class="sidebar-tools">
+            <h5 class="sidebar-horizontal-separator">{{ site.data.t.SideBarTools[page.lang] }}</h5>
+            <ul class="nav navmenu">
+              <li><a  href="{{ site.data.t.ThreeYearPlanUrl[page.lang] }}">
+                      {{ site.data.t.ThreeYearPlan[page.lang] }}
+                  </a>
+              </li>
+              <li class="delimiter hidden-xs hidden-sm">
+                <a href="{{ site.data.t.DevelopersUrl[page.lang] }}" target="_blank">
+                  Developers
+                </a>
+              </li>
+              <li >
+                <a class="u-color-white" href="{{ site.data.t.DesignersUrl[page.lang] }}" target="_blank">
+                  Designers
+                </a>
+              </li>
+              <li >
+                <a class="u-color-white" href="https://forum.italia.it/" target="_blank">
+                  Forum
+                </a>
+              </li>
+              <li >
+                <a class="u-color-white" href="https://docs.developers.italia.it/" target="_blank">
+                  Docs
+                </a>
+              </li>
+              <li>
+                <a class="u-color-white" href="https://github.com/italia/" target="_blank">
+                  GitHub
+                </a>
+              </li>
+            </ul>
+          </div>
+
         </nav>
     </div>
 
