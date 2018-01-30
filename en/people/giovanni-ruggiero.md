@@ -1,7 +1,7 @@
 ---
 title: Giovanni Ruggiero
 lang: en
-permalink: /it/people/giovanni-ruggiero.htm
+permalink: /en/people/giovanni-ruggiero.htm
 layout: people
 role: Big Data Architect
 is_new: false
