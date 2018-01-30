@@ -820,3 +820,19 @@ body.layout-project {
 		}
 	}
 }
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.49%; /* 1,77 */
+	padding-top: 25px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	height: 0;
+
+	iframe {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+	}
+}
