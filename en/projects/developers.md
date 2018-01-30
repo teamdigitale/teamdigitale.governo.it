@@ -5,6 +5,7 @@ permalink: /en/projects/developers.htm
 layout: project
 ref: developers
 parent_ref: projects
+parent_menu: projects
 people: [giovanni-bajo, riccardo-iaconelli, alessandro-ranellucci]
 toc: true
 twitter_user: developersITA

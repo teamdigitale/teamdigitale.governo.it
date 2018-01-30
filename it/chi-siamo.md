@@ -1,12 +1,10 @@
 ---
 title: Chi siamo
 lang: it
-ref: team
-parent_menu: chi-siamo
-parent_ref: chi-siamo
-permalink: /it/47-content.htm
+ref: chi-siamo
+menu_position: 2
+permalink: /it/chi-siamo.htm
 layout: default
-last_modified_by_layout: people
 ---
 
 <h2>Chi siamo</h2>

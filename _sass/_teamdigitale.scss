@@ -114,20 +114,16 @@
 			border-bottom: none;
 			padding-bottom: 3px !important;
 			}
-		}
-	}
-	.navbar-top-link .projects {
+			&[data-toggle='dropdown']:after {
+				content: '\f078';
+				display: inline;
+				color: #fff;
+				font-family: 'FontAwesome';
+				margin-left: 4px;
+				font-size: 16px;
+			}
 
-		& > a:after {
-			content: '\f078';
-			display: inline;
-			color: #fff;
-			font-family: 'FontAwesome';
-			margin-left: 4px;
-			font-size: 16px;
-		}
-		@media screen and (min-width: 768px) {
-			position: relative;
+
 		}
 	}
 
@@ -142,6 +138,9 @@
 		padding-top: 30px;
 		border-radius: 6px;
 		border-style: none !important;
+		&--half {
+			width: 250px;
+		}
 
 		&__row {
 

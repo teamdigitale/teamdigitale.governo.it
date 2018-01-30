@@ -5,6 +5,7 @@ permalink: /en/projects/digital-citizenship.htm
 layout: project
 ref: digital-citizenship
 parent_ref: projects
+parent_menu: projects
 people: [federico-feroldi]
 toc: true
 timeline:
