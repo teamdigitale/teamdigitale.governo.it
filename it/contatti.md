@@ -30,7 +30,7 @@ TeamDigitale è su [Twitter](https://twitter.com/teamdigitaleIT), [Medium](https
 
 
 ## Ufficio stampa
-Marisandra Lizzi (responsabile)
+[Ludovico Poggi](/it/people/ludovico-poggi.html)
 
 *Email - media.teamdigitale@governo.it*
 
