@@ -18,7 +18,7 @@ tweetdeck_id: 918772720397160448
 
 The three-year plan is a document with a strategic direction laid out by the Stability Law no. 208 of 28th December 2015. Its purpose is to describe the country&#39;s operating system and to guide the Public Administration in coherently implementing the investments necessary for its actuation. In reading the plan, each administration will find directions on the choices to be made in order to implement an organic digital transformation, including the rationalisation of data centres and cloud migration, the adoption of a unique digital identity system and a single payment platform within the specific services, the open sharing of its data and the security of its infrastructures.
 
-[Official website](https://pianotriennale-ict.italia.it/)
+[Official website](https://pianotriennale-ict.italia.it/en)
 
 
 {% include medium_project.html %}
