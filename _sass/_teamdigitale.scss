@@ -650,6 +650,25 @@ body.layout-project {
 .sidebar-tools {
 	background-color: #d9e6f2;
 }
+.row-offcanvas > .sidebar-close {
+	display: none;
+	position: fixed;
+	top: 0;
+	right: 0;
+	padding: 30px 15px;
+	width: 20%;
+	height: 100vh;
+	z-index: 9999;
+	text-align: center;
+	text-decoration: none !important;
+}
+.row-offcanvas.active > .sidebar-close {
+	display: block;
+	.glyphicon-remove {
+		color: #fff;
+		font-size: 3rem;
+	}
+}
 
 /* PRINT TRICKS AND STYLES
 -------------------------- */
