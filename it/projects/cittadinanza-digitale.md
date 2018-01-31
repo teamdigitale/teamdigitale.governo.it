@@ -5,6 +5,7 @@ permalink: /it/projects/cittadinanza-digitale.htm
 layout: project
 ref: cittadinanza-digitale
 parent_ref: projects
+parent_menu: projects
 people: [federico-feroldi]
 toc: true
 timeline:

@@ -5,6 +5,7 @@ permalink: /en/projects/digital-payments.htm
 layout: project
 ref: pagopa
 parent_ref: projects
+parent_menu: projects
 people: [giuseppe-virgone]
 toc: true
 medium_tag: payments

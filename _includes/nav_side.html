@@ -6,15 +6,29 @@ tutte le pagine del sito che:
 {% endcomment %}
 {% assign same_lang_pages = (site.html_pages | where: "lang", page.lang %}
 {% assign sorted_pages = (same_lang_pages | sort: "menu_position") %}
-<div class="row row-offcanvas row-offcanvas-right">
+<div class="row row-offcanvas row-offcanvas-right ">
+    <div class="sidebar-close">
+    <a href="#" class="glyphicon glyphicon-remove" aria-hidden="true"></a>
+    </div>
     <div id="sidebar" class="sidebar-offcanvas">
         <nav data-offset-bottom="250" data-offset-top="0" data-spy="_affix" tabindex="0" id="menu" class="hidden-print">
             <h2 class="sr-only">{{ site.data.t.DigitalTransformationTeam[page.lang] }}</h2>
             <ul class="nav navmenu">
                 {% for menu_page in sorted_pages %}
                   {% if menu_page.parent_ref == nil and menu_page.menu_position != nil %}
+                  {% assign sub_pages_query = same_lang_pages | where: "parent_menu", menu_page.ref %}
+                  {% assign sub_pages = sub_pages_query | sort: "title" %}
                     <li class="sidenav-menu-item {{ menu_page.ref }}">
+                      {% if sub_pages.size > 0 %}
+                        <a href="#">{{ menu_page.title }}</a>
+                        <ul>
+                          {% for subpage in  sub_pages %}
+                          <li><a href="{{subpage.url}}">{{subpage.title}}</a></li>
+                          {% endfor %}
+                        </ul>
+                        {% else %}
                         <a href="{{ menu_page.url }}">{{ menu_page.title }}</a>
+                        {% endif %}
                     </li>
                   {% endif %}
                 {% endfor %}
@@ -29,18 +43,47 @@ tutte le pagine del sito che:
                     </li>
                   {% endif %}
                   {% if page.lang=='it' %}
-                    <li>
-                      <a href="/it/spese.htm" target="_blank">Spese del Team</a>
-                    </li>
-                    <li>
-                      <a href="https://hack.developers.italia.it/" target="_blank">Hack Developers</a>
-                    </li>
                     <li><a href="/en/i7.html" 
                       {% if page.ref=='i7' %}class="active"{% endif %}
                       >Find out about the Innovation7@G7</a>
                     </li>
                   {% endif %}
             </ul>
+            <div class="sidebar-tools">
+            <h5 class="sidebar-horizontal-separator">{{ site.data.t.SideBarTools[page.lang] }}</h5>
+            <ul class="nav navmenu">
+              <li><a  href="{{ site.data.t.ThreeYearPlanUrl[page.lang] }}">
+                      {{ site.data.t.ThreeYearPlan[page.lang] }}
+                  </a>
+              </li>
+              <li >
+                <a href="{{ site.data.t.DevelopersUrl[page.lang] }}" target="_blank">
+                  Developers
+                </a>
+              </li>
+              <li >
+                <a  href="{{ site.data.t.DesignersUrl[page.lang] }}" target="_blank">
+                  Designers
+                </a>
+              </li>
+              <li >
+                <a  href="https://forum.italia.it/" target="_blank">
+                  Forum
+                </a>
+              </li>
+              <li >
+                <a  href="https://docs.developers.italia.it/" target="_blank">
+                  Docs
+                </a>
+              </li>
+              <li>
+                <a  href="https://github.com/italia/" target="_blank">
+                  GitHub
+                </a>
+              </li>
+            </ul>
+          </div>
+
         </nav>
     </div>
 

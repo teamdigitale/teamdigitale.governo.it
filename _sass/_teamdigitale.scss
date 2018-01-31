@@ -114,20 +114,16 @@
 			border-bottom: none;
 			padding-bottom: 3px !important;
 			}
-		}
-	}
-	.navbar-top-link .projects {
+			&[data-toggle='dropdown']:after {
+				content: '\f078';
+				display: inline;
+				color: #fff;
+				font-family: 'FontAwesome';
+				margin-left: 4px;
+				font-size: 16px;
+			}
 
-		& > a:after {
-			content: '\f078';
-			display: inline;
-			color: #fff;
-			font-family: 'FontAwesome';
-			margin-left: 4px;
-			font-size: 16px;
-		}
-		@media screen and (min-width: 768px) {
-			position: relative;
+
 		}
 	}
 
@@ -142,6 +138,9 @@
 		padding-top: 30px;
 		border-radius: 6px;
 		border-style: none !important;
+		&--half {
+			width: 250px;
+		}
 
 		&__row {
 
@@ -639,7 +638,37 @@ body.layout-project {
 		font-weight: inherit !important;
 	}
 }
-
+#sidebar #menu > ul {
+	padding-bottom: 1rem
+}
+.sidebar-horizontal-separator {
+	text-transform: uppercase;
+	padding: 1rem;
+	margin-top: 1rem;
+	margin-bottom: 0;
+}
+.sidebar-tools {
+	background-color: #d9e6f2;
+}
+.row-offcanvas > .sidebar-close {
+	display: none;
+	position: fixed;
+	top: 0;
+	right: 0;
+	padding: 30px 15px;
+	width: 20%;
+	height: 100vh;
+	z-index: 9999;
+	text-align: center;
+	text-decoration: none !important;
+}
+.row-offcanvas.active > .sidebar-close {
+	display: block;
+	.glyphicon-remove {
+		color: #fff;
+		font-size: 3rem;
+	}
+}
 
 /* PRINT TRICKS AND STYLES
 -------------------------- */
