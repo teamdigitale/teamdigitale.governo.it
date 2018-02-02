@@ -6,14 +6,13 @@ layout: project
 ref: cittadinanza-digitale
 parent_ref: projects
 parent_menu: projects
-people: [federico-feroldi]
+people: [federico-feroldi, matteo-de-santi, giuseppe-virgone]
 toc: true
 timeline:
   - period: Novembre 2017
     title: Rilascio API Comunicazioni e Preferenze (versione beta)
   - period: Gennaio 2018
     title: Rilascio API Comunicazioni e Preferenze (produzione)
-    status: todo
   - period: Gennaio 2018
     title: Rilascio applicazione di Cittadinanza Digitale (versione beta)
     status: todo
