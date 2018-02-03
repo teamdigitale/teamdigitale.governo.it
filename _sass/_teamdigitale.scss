@@ -288,6 +288,12 @@
 		    margin: 0;
 		    font-size: 18px;
 		}
+		&.person--inactive {
+			color: #bbb !important;
+			a {
+				color: #aaa !important;
+			}
+		}
 	}
 }
 .forumIntegration {
