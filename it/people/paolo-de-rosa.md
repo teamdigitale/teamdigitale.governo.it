@@ -3,7 +3,7 @@ title: Paolo de Rosa
 lang: it
 permalink: /it/people/paolo-de-rosa.html
 layout: people
-role: Cloud & Data Center expert
+role: Cloud & Data Center 
 ref: paolo-de-rosa
 twitter_user: paolo_de_rosa
 linkedin_url: https://www.linkedin.com/in/paoloderosa/
