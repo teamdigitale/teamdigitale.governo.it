@@ -1,4 +1,4 @@
-{% assign coldim = "12|12|4|4|3|4|4" | split: "|" %}
+{% assign coldim = "12|12|4|4|3|4|4|4|4|4" | split: "|" %}
 {% assign same_lang_pages = site.pages | where: "lang", page.lang %}
 {% assign people = "|" | split: '|' %}
 {% assign expeople = "|" | split: '|' %}
@@ -34,24 +34,13 @@
 		{% endfor %}
 	</div>
 	{% if expeople.size > 0 %}
-	<div class="row project__people">
-		<div class="col-sm-2">
-			<h5>Hanno contribuito:</h5>
-		</div>
-		<div class="col-sm-10">
-			<div class="row">
-		 	{% for person in expeople %}
-		 		<article class="col-sm-4 col-md-3 project__people__person person--inactive">
-				<a href="{{ person.url }}">
-	                <img class="img-circle img-responsive" src="/images/team/{{ person.ref }}.jpg" alt="{{ person.title }}">
-	            </a>
-				<h1 class="h4"><a href="{{ person.url }}">{{person.title}}</a></h1>
-				<h2 class="h5">{{person.role}}</h2>
-				
-				</article>
-		 	{% endfor %}
-		 	</div>
-		</div>
+	<div class="project__people ex">
+		<span class="h5">Hanno contribuito:</span>
+		{% for person in expeople %}
+			<span class="h4"><a href="{{ person.url }}">{{person.title}}</a></span>
+			{% unless forloop.last%},&nbsp;{% endunless %}
+		{% endfor %}
+		
 	</div>
 	{% endif %}
 
