@@ -273,6 +273,12 @@
 /* Project layout */
 .project__people {
     margin-bottom: 12px;
+    &.ex {
+    	margin-top: 6px;
+    	a {
+    		font-size: 20px !important;
+    	}
+    }
 
     &__person {
     	img {
@@ -295,6 +301,9 @@
 			}
 		}
 	}
+
+
+
 }
 .forumIntegration {
 	border: 1px solid #ddd;
