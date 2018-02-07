@@ -3,9 +3,9 @@
 {% assign people_pages = same_lang_pages | where: "layout", "people" %}
 {% assign sorted_people_pages = people_pages | sort_by_surname: "title" %}
 <div>
-<div class="row" style="margin-bottom:15px;">
+<div class="" style="margin-bottom:15px;">
 {% for one_page in sorted_people_pages %}
-    
+
         <div class="col-sm-6">
             <div class="row">
             <div class="col-xs-2" style="padding: 0; margin-bottom: 15px;">
@@ -34,7 +34,7 @@
         {% if thecycle == 'even' %}
             <div class="clearfix" ></div>
         {% endif %}
-    
+
 {% endfor %}
 </div>
 </div>
