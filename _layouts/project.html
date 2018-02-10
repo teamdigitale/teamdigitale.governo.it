@@ -35,12 +35,13 @@
 	</div>
 	{% if expeople.size > 0 %}
 	<div class="project__people ex">
-		<span class="h5">{{ site.data.t.ProjectExContributors[page.lang] }}</span>
+		<span class="h5">{{ site.data.t.ProjectExContributors[page.lang]}}</span>
+
 		{% for person in expeople %}
 			<span class="h4"><a href="{{ person.url }}">{{person.title}}</a></span>
 			{% unless forloop.last%},&nbsp;{% endunless %}
 		{% endfor %}
-
+		
 	</div>
 	{% endif %}
 
