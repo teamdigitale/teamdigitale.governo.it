@@ -849,6 +849,14 @@ body.layout-project {
 		}
 	}
 }
+.team-list-grid {
+	margin-bottom:15px;
+	
+	@media screen and (max-width: 767px) {
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+}
 .videoWrapper {
 	position: relative;
 	padding-bottom: 56.49%; /* 1,77 */
