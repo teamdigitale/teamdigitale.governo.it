@@ -40,15 +40,17 @@ No more private silos belonging to this or that administration, with public data
 #### Advantages for Public Administrations and citizens
 
 
-The Data & Analytics Framework (DAF) has the goal of improving and simplifying the interoperability and exchange of data between Pubblic Administrations, promoting and improving the management and usage of Open Data, optimizing activities of analysis and knowledge generation. Thanks to modern big data technologies, Public Administrations and citizens will have the following advantages:
+The Data & Analytics Framework (DAF) has the goal of improving and simplifying the interoperability and exchange of data between Pubblic Administrations, promoting and improving the management and usage of Open Data, optimizing activities of analysis and knowledge generation. The idea is to open the world of Public Administration to the benefits offered by modern Big Data management and analysis platforms. Thanks to Big Data technologies, it will be possible to operate along three main lines:
 
-* More value can be extracted from data: PA and citizens will have access to analytics tools thoughts to help synthesizing knowledge for better decision making and transparency.
+* Significantly enhance the value of PA's information assets through the preparation and use of analytical tools designed to synthesise knowledge for decision makers, and the dissemination of information to citizens and businesses.
 
-* Optimization and promotion of data exchange between PA and diffusion of open data with higher quality in terms of freshness and depth.
+* Optimize data exchange between PAs and Open Data deployment, minimizing transaction costs for data access and usage.
 
-* Support for the PAs with their data science activities, thanks to the direct support of the central Data Office.  
+* Facilitate data analysis and data management by data scientist teams within the PA, in order to improve knowledge of the phenomena described by the data and develop "intelligent" applications, as well as take initiatives to promote scientific research activities on application themes of interest to the PA.  
 
-
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X2Sg-KauY6I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 {:.h4}
 [Find out about the technical aspects on Developers Italia](https://developers.italia.it/it/daf/)
