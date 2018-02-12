@@ -44,7 +44,7 @@ gulp.task('jekyll', function() {
 
 // Validates html and links
 gulp.task('html-proofer', function(done) {
-    var cmd = 'htmlproofer ' + htmlproof_sitefolder+  ' ' + htmlproof_params;
+    var cmd = 'bundle exec htmlproofer ' + htmlproof_sitefolder+  ' ' + htmlproof_params;
     return gulp.src(htmlproof_sitefolder)
     .pipe( exec(cmd, function (error, stdout, stderr) {
             gutil.log( gutil.colors.cyan(cmd) );

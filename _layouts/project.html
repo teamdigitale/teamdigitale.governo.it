@@ -1,3 +1,16 @@
+{% assign coldim = "12|12|4|4|3|4|4|4|4|4" | split: "|" %}
+{% assign same_lang_pages = site.pages | where: "lang", page.lang %}
+{% assign people = "|" | split: '|' %}
+{% assign expeople = "|" | split: '|' %}
+{% for ppage in page.people %}
+	{% assign people_page = same_lang_pages | where: "ref", ppage | first %}
+	{% unless people_page.end_date==nil %}
+		{% assign expeople = expeople | push: people_page %}
+	{% else %}
+		{% assign people = people | push: people_page %}
+	{% endunless %}
+{% endfor %}
+
 {% capture proj_page_content %}
 {% if page.lang == 'en' %}
 <div class="project-banner-en" >
@@ -9,13 +22,7 @@
 <h2>{{ page.title }} </h2>
 {% if page.people != nil %}
 	<div class="row project__people">
-	{% for ppage in page.people %}
-		{% assign coldim = "12|12|4|4|3|4|4" | split: "|" %}
-		{% assign same_lang_pages = site.pages | where: "lang", page.lang %}
-		{% assign people_pages = same_lang_pages | where: "ref", ppage %}
-
-		{% for person in people_pages %}
-			{% assign fixedperiod = page.people_fixed_period | where: "ref", person.ref | first %}
+		{% for person in people %}
 			<article class="col-sm-{{coldim[page.people.size]}} project__people__person">
 				<a href="{{ person.url }}">
 	                <img class="img-circle img-responsive" src="/images/team/{{ person.ref }}.jpg" alt="{{ person.title }}">
@@ -25,8 +32,18 @@
 				
 			</article>
 		{% endfor %}
-	{% endfor %}
 	</div>
+	{% if expeople.size > 0 %}
+	<div class="project__people ex">
+		<span class="h5">{{ site.data.t.ProjectExContributors[page.lang]}}</span>
+
+		{% for person in expeople %}
+			<span class="h4"><a href="{{ person.url }}">{{person.title}}</a></span>
+			{% unless forloop.last%},&nbsp;{% endunless %}
+		{% endfor %}
+		
+	</div>
+	{% endif %}
 
 {% endif %}
 
