@@ -29,10 +29,29 @@ A different and more natural way for citizens to pay the Public Administration, 
 
 Citizens must be able to choose modern payment methods with minimal friction, whilst the market must be able to integrate and easily add new innovative payment instruments. We want to make the system more open and flexible.
 
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RHOAu5GwKnE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
 {:.h4}
 [Find out about the technical aspects on Developers Italia](https://developers.italia.it/it/pagopa/)
 
+#### Advantages for citizens
+
+- national integrated multi-channel system with transparency of fees costs, i. e. the citizen has as many payment channels as possible
+- uniformity of the paper notice and possibility to notify citizens digitally on the channels they prefer (notifications on the app or on the chosen PSP site, SMS or e-mail)
+- certainty of the debt amount (i. e. the amount to be paid is always the amount valid and required by the PA. If the amount varies over time for interest on arrears or otherwise, PagoPA will always be updated)
+- Simplicity and speed of the process: just enter the notice code (IUV Single Identification Payment) to pay and receive the release receipt or the certainty that the PA has collected the tax and there can be no subsequent checks or assessments.
+
+##### Advantages for Public Administrations
+
+- Automatic reconciliation of collections
+- reduction of transaction and process costs
+- settlement in D+1 (working day following payment) directly from treasury accounts
+- To supply more than one payment channel means to collect first
+
 ### The data
+
 {% include dashboard.html %}
 
 ### The role of the Team
