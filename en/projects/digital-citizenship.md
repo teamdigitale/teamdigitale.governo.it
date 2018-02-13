@@ -14,7 +14,7 @@ timeline:
   - period: January 2018
     title: Release of Communications and Preferences API (production)
     status: todo
-  - period: January 2018
+  - period: June 2018
     title: Release of the Digital Citizenship application (beta version)
     status: todo
 ---
