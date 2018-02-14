@@ -3,10 +3,10 @@ title: Digital Citizenship
 lang: en
 permalink: /en/projects/digital-citizenship.htm
 layout: project
-ref: digital-citizenship
+ref: cittadinanza-digitale
 parent_ref: projects
 parent_menu: projects
-people: [federico-feroldi]
+people: [federico-feroldi, matteo-de-santi, giuseppe-virgone]
 toc: true
 timeline:
   - period: November 2017
@@ -90,7 +90,7 @@ deadlines on one's own calendar)
 
 * send electronic communications using only the tax code (without having to ask for the citizens' contact address)
 * not having to deal with the management and updating of contacts
-* give greater authority to communications from the administration  
+* give greater authority to communications from the administration
 * communicate deadlines and facilitate the payment of taxes
 * determine the status of sending and reading of the communication
 
