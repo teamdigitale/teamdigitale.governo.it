@@ -6,7 +6,7 @@ layout: people
 role: Open Source Project Leader
 ref: riccardo-iaconelli
 parent_ref: team
-start_date: October 4th, 2017
+start_date: October 4, 2017
 period_provided: until September 16, 2018
 annual_compensation: € 80,000
 approved_by_court: The decree of appointment is pending before the Court of Auditors.
