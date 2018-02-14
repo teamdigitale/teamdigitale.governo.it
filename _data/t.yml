@@ -218,3 +218,12 @@ SideBarTools:
 ProjectExContributors:
   en: "Contributed to the project:"
   it: "Hanno contribuito:"
+HomeBanner:
+  en: "Digital innovation for citizens and for the development of the country"
+  it: "Innovazione digitale per i cittadini e lo sviluppo del Paese"
+HomeBannerMore:
+  en: "More"
+  it: "Per saperne di più"
+HomeBannerProjects:
+  en: "Our projects"
+  it: "I nostri progetti"
