@@ -4,7 +4,6 @@ lang: en
 permalink: /en/people/laura-bordin.htm
 layout: people
 role: Service & UX/UI Design
-is_new: true
 twitter_user: loreau
 medium_user: 
 linkedin_url: https://www.linkedin.com/in/laurabordin/
