@@ -4,7 +4,6 @@ lang: it
 permalink: /it/people/francesco-zaia.htm
 layout: people
 role: Sviluppo UX/UI
-is_new: true
 twitter_user: francescozaia
 medium_user: francescozaia
 linkedin_url: https://www.linkedin.com/in/francescozaia

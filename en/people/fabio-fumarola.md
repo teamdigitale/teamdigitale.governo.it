@@ -4,7 +4,6 @@ lang: en
 permalink: /en/people/fabio-fumarola-profile.htm
 layout: people
 role: Machine Learning Engineer
-is_new: true
 twitter_user: fabiofumarola
 medium_user:
 linkedin_url: http://linkedin.com/in/fabio-fumarola

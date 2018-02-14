@@ -4,7 +4,6 @@ lang: it
 permalink: /it/people/giuseppe-pasceri.htm
 layout: people
 role: Technical Project Manager
-is_new: true
 twitter_user: 
 medium_user:
 linkedin_url: https://www.linkedin.com/in/pasceri/
