@@ -50,12 +50,15 @@ tutte le pagine del sito che:
                   {% endif %}
             </ul>
             <div class="sidebar-tools">
-            <h5 class="sidebar-horizontal-separator">{{ site.data.t.SideBarTools[page.lang] }}</h5>
-            <ul class="nav navmenu">
+            <h5 class="sidebar-horizontal-separator">{{ site.data.t.SideBarProgram[page.lang] }}</h5>
+            <ul class="nav navmenu nopadding">
               <li><a  href="{{ site.data.t.ThreeYearPlanUrl[page.lang] }}">
                       {{ site.data.t.ThreeYearPlan[page.lang] }}
                   </a>
               </li>
+            </ul>
+            <h5 class="sidebar-horizontal-separator">{{ site.data.t.SideBarCommunities[page.lang] }}</h5>
+            <ul class="nav navmenu nopadding">
               <li >
                 <a href="{{ site.data.t.DevelopersUrl[page.lang] }}" target="_blank">
                   Developers
@@ -66,6 +69,9 @@ tutte le pagine del sito che:
                   Designers
                 </a>
               </li>
+            </ul>
+            <h5 class="sidebar-horizontal-separator">{{ site.data.t.SideBarTools[page.lang] }}</h5>
+            <ul class="nav navmenu nopadding">
               <li >
                 <a  href="https://forum.italia.it/" target="_blank">
                   Forum
