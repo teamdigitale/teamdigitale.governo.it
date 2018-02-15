@@ -13,7 +13,7 @@ timeline:
     title: Rilascio API Comunicazioni e Preferenze (versione beta)
   - period: Gennaio 2018
     title: Rilascio API Comunicazioni e Preferenze (produzione)
-  - period: Gennaio 2018
+  - period: Giugno 2018
     title: Rilascio applicazione di Cittadinanza Digitale (versione beta)
     status: todo
 ---

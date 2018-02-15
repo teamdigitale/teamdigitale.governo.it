@@ -4,7 +4,6 @@ lang: en
 permalink: /en/people/giuseppe-palestra.htm
 layout: people
 role: Technical Writer
-is_new: true
 twitter_user: giupalestra
 medium_user: 
 linkedin_url: https://www.linkedin.com/in/giuseppepalestra/
