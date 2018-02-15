@@ -215,6 +215,12 @@ ProjectDashboardUpdate:
 SideBarTools:
   en: "Tools"
   it: "Gli strumenti"
+SideBarProgram:
+  en: "Program"
+  it: "Il programma"
+SideBarCommunities:
+  en: "Communities"
+  it: "Le community"
 ProjectExContributors:
   en: "Contributed to the project:"
   it: "Hanno contribuito:"

@@ -54,15 +54,15 @@ tutte le pagine del sito che:
   {% endfor %}
 
   </div>
+  {% if page.lang=='en' %}
   <div class="col-md-4 navigation-hightlights navbar-top-link__item" style="text-align: right">
-    {% if page.lang=='en' %}
       <a href="/en/i7.html" class="hidden-xs hidden-sm">Innovation7@G7</a>
       <a href="/en/tallinn-conference.html" >EU - DTT</a>
-    {% endif %}
-    {% if page.lang=='it' %}
-    <a href="https://hack.developers.italia.it/" target="_blank">Hack Developers</a>
-    <a href="/en/i7.html" class="hidden-xs hidden-sm" >Innovation7@G7</a>
-    {% endif %}
   </div>
+  {% else %}
+  <div class="col-md-4 navigation-hightlights navbar-top-link__item hidden-xs hidden-sm" style="text-align: right">
+    <a href="/en/i7.html" >Innovation7@G7</a>
+  </div>
+  {% endif %}
 
 </div>
