@@ -6,7 +6,7 @@ layout: project
 ref: daf
 parent_ref: projects
 parent_menu: projects
-people: [raffaele-lillo, fabiana-lanotte, alessandro-ercolani, david-greco, giovanni-ruggiero, fabio-fumarola]
+people: [raffaele-lillo, fabiana-lanotte, alessandro-ercolani, david-greco, giovanni-ruggiero, fabio-fumarola, maria-claudia-bodino]
 toc: true
 medium_tag: big-data
 forum_category: 'daf'
@@ -49,8 +49,12 @@ Il Data & Analytics Framework (DAF) ha l'obiettivo di migliorare e semplificare 
 </div>
 
 
-{:.h4}
-[Scopri gli aspetti tecnici su Developers Italia](https://developers.italia.it/it/daf/)
+#### Link utili
+* [Il DAF nel Piano Triennale 2017-2019](https://pianotriennale-ict.italia.it/daf/)
+* [Scopri gli aspetti tecnici su Developers Italia](https://developers.italia.it/it/daf/)
+* [Piano di sviluppo del DAF (in fase di revisione)](http://daf-piano-di-sviluppo.readthedocs.io/it/latest/index.html)
+* [Basi di dati chiave](http://elenco-basi-di-dati-chiave.readthedocs.io/it/latest/index.html)
+
 
 {% include medium_project.html %}
 
