@@ -29,7 +29,7 @@ Nel mondo del software libero, ho contribuito, per diversi anni, al compilatore 
 
 Quando sono stato contattato da Diego, ero inizialmente curioso dell’iniziativa ma ho approcciato l’incontro con un po’ di scetticismo. Diego ha saputo trasmettermi non solo l’entusiasmo per il progetto, ma anche la consapevolezza che possiamo davvero fare qualcosa per migliorare il nostro Paese. Nel mio ruolo di relazione con le community di sviluppatori, cercherò di creare un legame stretto e continuo tra il nostro team e coloro che sono interessati al nostro progetto, che vogliono aiutarci o che, semplicemente, hanno bisogno di informazioni per adottare le tecnologie che rilasceremo.
 
-Entrato subito nel mondo del lavoro a 19 anni, ho portato avanti gli studi universitari di Informatica all’Università di Firenze negli anni, e spero di riuscire finalmente a discutere la tesi nel 2017.
+Entrato subito nel mondo del lavoro a 19 anni, ho portato avanti negli anni gli studi universitari di Informatica all’Università di Firenze, laureandomi con lode.
 
 Nella vita privata, cerco di passare le mie ore libere con Alessandra, mia moglie e compagna di vita ormai da 12 anni, che mi sopporta e mi è vicina anche quando le dedico meno tempo di quello che si meriterebbe.
 
