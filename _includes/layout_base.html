@@ -121,7 +121,7 @@
 
       </article>
       
-
+      {% unless page.hide_last_mod_date %}
       <small class="page_last_update">
       {% if page.last_modified_by_layout %}
         {% assign same_lang_pages = site.pages | where: "lang", page.lang %}
@@ -136,6 +136,7 @@
          
       {% endif %}
       </small>
+      {% endunless %}
       
     </div>
 
