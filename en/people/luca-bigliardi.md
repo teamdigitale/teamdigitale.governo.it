@@ -4,9 +4,14 @@ lang: en
 permalink: /en/people/luca-bigliardi.html
 layout: people
 role: Software Developer
-is_new: true
+is_new: false
 ref: luca-bigliardi
 parent_ref: team
+start_date: July 19, 2017
+end_date: December 31st, 2017
+period_provided: until September 16, 2018
+annual_compensation: € 80,000
+approved_by_court: September 26, 2017
 ---
 
 I got my first computer when I was 16. I used to take apart and put back
@@ -67,6 +72,3 @@ interviews.
 Working in the Team feels like I am making a small contribution to transforming
 Italy; it gives me the opportunity to reverse the brain-drain of which I am an
 active part by building local technical expertise and improving the PA machine.
-
-
-The decree of appointment is pending before the Court of Auditors.

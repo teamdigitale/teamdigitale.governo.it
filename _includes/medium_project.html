@@ -2,8 +2,8 @@
 {% assign posts_by_tag = posts | where_exp: "item", "item.medium_tagsarray contains page.medium_tag" %}
 {% assign medium_id = page.medium_post_id %}
 {% assign posts_by_id = posts | where_exp: "item", "item.medium_post_id == medium_id" %}
-
-<h3>Dal blog</h3>
+<a name="dal-blog"></a>
+<h3>{{ site.data.t.FromBlog[page.lang] }}</h3>
 <div>
 {% if medium_id != nil %}
 	{% for post in (posts_by_id) limit:1 %}
@@ -15,7 +15,7 @@
 	      </a>
 	    </figure>
 	    <p class="h3"><a href="{{ post.medium_url }}" target="_blank" title="{{post.medium_title}}">{{post.medium_title}}</a></p>
-	    <p >{{ post.medium_subtitle }}</p>
+	    <p >{{ post.medium_subtitle }} <i style="color: #5A6772">– {{post.medium_published_at | divided_by: 1000 | date: site.data.t.FormatDate[page.lang] }}</i></p>
 	  </div>
 	</div>
 	{% endfor %}
@@ -29,7 +29,7 @@
 	      </a>
 	    </figure>
 	    <p class="h3"><a href="{{ post.medium_url }}" target="_blank" title="{{post.medium_title}}">{{post.medium_title}}</a></p>
-	    <p >{{ post.medium_subtitle }}</p>
+	    <p >{{ post.medium_subtitle }} <i style="color: #5A6772">– {{post.medium_published_at | divided_by: 1000 | date: site.data.t.FormatDate[page.lang] }}</i></p>
 	  </div>
 	</div>
 	{% endfor %}

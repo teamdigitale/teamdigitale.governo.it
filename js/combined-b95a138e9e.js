@@ -4685,8 +4685,8 @@ var _self = "undefined" != typeof window ? window : "undefined" != typeof Worker
                 t.preventDefault(), e(".row-offcanvas").toggleClass("active"), e(this).toggleClass("active")
             })
         }), e(document).ready(function () {
-            e(".row-offcanvas").click(function (t) {
-                if(e(this).is(".active")) {
+            e(".sidebar-close").click(function (t) {
+                if(e('.row.row-offcanvas').is(".active")) {
                     e('[data-toggle="offcanvas"]').click().focus()
                 }
             })

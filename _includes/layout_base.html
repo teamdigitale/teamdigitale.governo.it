@@ -17,7 +17,7 @@
     </script><![endif]-->
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>{{ site.title[page.lang] }} - {{ page.title }}</title>
+  <title>{{ page.title }} - {{ site.title[page.lang] }}</title>
 
   {% for other_lang_page in site.pages %} {% if other_lang_page.ref == page.ref and other_lang_page.lang != page.lang %}
   <link rel="alternate" hreflang="{{ other_lang_page.lang }}" href="{{ other_lang_page.url }}" /> {% endif %} {% endfor %} {% include seo.html %}
@@ -82,7 +82,7 @@
             <div style="padding-left:5px; padding-top:1px;">
               <a tabindex="-1" style="color:white;" href="{{ homepage_href }}">
 
-                                {{ site.data.t.DigitalTransformationTeamBr[page.lang] }} 
+                                {{ site.data.t.DigitalTransformationTeamBr[page.lang] }}
 
                             </a>
             </div>
@@ -102,18 +102,42 @@
     </header>
 
   </div>
-  <!-- container -->
 
+  <!-- home banner -->
+  {% if page.url == "/" or page.url == "/en/" %}
+    {% include home_banner.html %}
+  {% endif %}
+  <!-- / home banner -->
+
+  <!-- container -->
   <div class="container">
     <div class="row row-offcanvas row-offcanvas-left">
 
+
       <!--/.sidebar-offcanvas-->
       <article tabindex="0" id="main" class="col-sm-12 col-md-12">
-
+        
         {{ include.content }}
 
       </article>
+      
+      {% unless page.hide_last_mod_date %}
+      <small class="page_last_update">
+      {% if page.last_modified_by_layout %}
+        {% assign same_lang_pages = site.pages | where: "lang", page.lang %}
+        {% assign layout_pages = same_lang_pages | where: "layout", page.last_modified_by_layout %}
+        {% assign layout_pages_sorted_first = layout_pages | last_modified_sort | reverse | first %}
 
+        {{ site.data.t.LastUpdateDate[page.lang] }} {{ layout_pages_sorted_first.last_modified_at | date: site.data.t.FormatDate[page.lang]  }}
+        
+      {% else %}
+        
+         {{ site.data.t.LastUpdateDate[page.lang] }} {{ page.last_modified_at | date: site.data.t.FormatDate[page.lang]  }}
+         
+      {% endif %}
+      </small>
+      {% endunless %}
+      
     </div>
 
   </div>
@@ -142,7 +166,7 @@
           </a>
           </div>
         </div><!--/footer__logod-->
-       
+
         </div>
         <div class="col-md-3 col-sm-6 col-xs-12">
           <div class="footer__logogov">
@@ -189,7 +213,9 @@
         <ul class="col-xs-12 footer__links clearfix">
           <li><a href="http://www.governo.it/privacy-policy" title="{{ site.data.t.PrivacyPolicy[page.lang] }}" target="_blank">{{ site.data.t.PrivacyPolicy[page.lang] }}</a></li>
           <li><a href="http://www.governo.it/note-legali" title="{{ site.data.t.LegalNotes[page.lang] }}" target="_blank">{{ site.data.t.LegalNotes[page.lang] }}</a></li>
-          <li></li>
+          {% if page.lang=='it' %}
+          <li><a href="/it/spese.htm" title="Spese del Team" >Spese del Team</a></li>
+          {% endif %}
         </ul>
       </div>
 
@@ -245,6 +271,7 @@
 
 
   <script src="/js/combined-b95a138e9e.js?{{ site.time | date: '%Y%m%d%H%M' }}"></script>
+  <script src="/js/jquery.sticky-sidebar.min.js"></script>
   <script src="/js/teamdigitale.js?{{ site.time | date: '%Y%m%d%H%M' }}"></script>
 
   {% if page.layout == 'project' %}

@@ -6,7 +6,7 @@ layout: default
 ---
 
 <a name="i7"></a>
-<img class="img-responsive" src="/images/i7/i7-header.jpg" title="G7 / I-7" />
+<img class="img-responsive" src="/images/i7/i7-header.jpg" title="G7 / I-7" alt="I7 header" />
 
 <h2> Innovators' Key Points to G7 leaders</h2>
 
@@ -14,7 +14,7 @@ layout: default
 “Technological innovation should give us hope, not despair”: in the <a href="http://www.g7italy.it/sites/default/files/documents/I-7%20Chair%20Summary.pdf">I-7 Chair Summary</a> the conclusions of the I-7 group, summarized into four themes - training and education, technology, ethics and society, jobs and income.<br />
 
 
-<a href="http://www.g7italy.it/sites/default/files/documents/G7_ICT_Industry_Declaration_%20Italy-26%20Sept_2017.pdf">The G7 takes note<a/> of the Chair’s Summary presented by Diego Piacentini at the closing session of the ICT and Industry Multistakeholder Conference.
+<a href="http://www.g7italy.it/sites/default/files/documents/G7_ICT_and_Industruy_Ministers%27_Declaration_2017.pdf">The G7 takes note</a> of the Chair’s Summary presented by Diego Piacentini at the closing session of the ICT and Industry Multistakeholder Conference.
 
 
 Venaria (Turin), 27th September 2017 - The I-7 group met and discussed for a day the multiple challenges that innovation poses and cannot be faced only at national level. As a result Innovators have identified a set of Key Points, putting people at the heart of any technological advancement and making innovation a source of well-being for the whole mankind.
@@ -33,7 +33,7 @@ The I-7 concentrated their work on three parallel sessions, whose results are av
 
 *“By becoming model users, Governments can tap the unprecedented opportunities offered by digital innovation to develop policies and create new services with a positive impact not only on their citizens’ well-being and the job market but also on the innovation ecosystem as a whole”*, - as you can read in the Chair’s Summary - *“Technological innovation should give us hope, not despair. If history is a guide, the march of innovation should give every human more opportunity, not less, therefore we need to take concerted actions.”*  
 
-In the Article 7 of [ICT and industry Ministers’ declaration](http://www.g7italy.it/sites/default/files/documents/G7_ICT_Industry_Declaration_%20Italy-26%20Sept_2017.pdf), G7 takes note of the **Chair’s Summary** presented by [Diego Piacentini](https://teamdigitale.governo.it/en/i7/people/diego-piacentini.htm) at the closing session of the **ICT and Industry Multistakeholder Conference**.
+In the Article 7 of [ICT and industry Ministers’ declaration](http://www.g7italy.it/sites/default/files/documents/G7_ICT_and_Industruy_Ministers%27_Declaration_2017.pdf), G7 takes note of the **Chair’s Summary** presented by [Diego Piacentini](https://teamdigitale.governo.it/en/i7/people/diego-piacentini.htm) at the closing session of the **ICT and Industry Multistakeholder Conference**.
 
 *“We embrace multi-faceted and multistakeholder approaches and we welcome the meeting of the “Strategic Advisory Board to G7 Leaders on People-Centered Innovation” (I-7), held in Torino on September 25th under the Italian Presidency. We take note of the Chair’s Summary of the dialogue between the G7 governments and stakeholders in innovation.”*
 

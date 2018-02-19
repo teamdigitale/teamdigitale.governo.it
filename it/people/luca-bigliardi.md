@@ -4,9 +4,14 @@ lang: it
 permalink: /it/people/luca-bigliardi.html
 layout: people
 role: Software Developer
-is_new: true
+is_new: false
 ref: luca-bigliardi
 parent_ref: team
+start_date: 19 luglio 2017
+end_date: 31 dicembre 2017
+period_provided: fino al 16 settembre 2018
+annual_compensation: € 80.000
+approved_by_court: 26 settembre 2017
 ---
 
 Ho avuto il mio primo computer a 16 anni. Prima di allora ero abituato a
@@ -69,7 +74,4 @@ resto della squadra a Roma, tra un colloquio e l'altro.
 Contribuire alla missione del Team per la Trasformazione Digitale è per me
 un’occasione per cercare nel mio piccolo di migliorare l’Italia, di portare
 indietro le conoscenze acquisite come _cervello_ _in_ _fuga_ per creare
-competenze tecniche e rendere più dinamica e funzionale la macchina pubblica
-
-
-Il decreto di nomina è in fase di registrazione presso la Corte dei Conti.
+competenze tecniche e rendere più dinamica e funzionale la macchina pubblica.

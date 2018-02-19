@@ -25,12 +25,18 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 {% endcomment %}
 <!-- Begin Jekyll SEO tag v2.1.4-custom -->
+{% assign seo_site_title = site.title[page.lang] | default: site.name %}
+{% if page.title %}
+{% assign seo_title = page.title | append:" - " | append: seo_site_title %}
+{% else %}
+{% assign seo_title = seo_site_title %}
+{% endif %}
 
+<!--
 {% if page.ref == "homepage" %}
   {% assign seo_homepage_or_about = true %}
 {% endif %}
 
-{% assign seo_site_title = site.title[page.lang] | default: site.name %}
 
 {% if page.title %}
   {% assign seo_title = page.title %}
@@ -39,6 +45,7 @@ THE SOFTWARE.
   {% if seo_site_title %}
     {% assign seo_title = seo_title | append:" - " | append: seo_site_title %}
   {% endif %}
+
 {% elsif seo_site_title %}
   {% assign seo_title = seo_site_title %}
   {% assign seo_page_title = seo_site_title %}
@@ -47,6 +54,8 @@ THE SOFTWARE.
     {% assign seo_title = seo_title | append:" - " | append: site.description[page.lang] %}
   {% endif %}
 {% endif %}
+-->
+
 
 {% if page.seo and page.seo.name %}
     {% assign seo_name = page.seo.name %}
@@ -150,7 +159,7 @@ Inizio dei tag SEO
 {% endif %}
 
 {% if seo_page_title %}
-  <meta property="og:title" content="{{ seo_page_title }}" />
+  <meta property="og:title" content="{{ seo_title }}" />
 {% endif %}
 
 {% if seo_author_name %}

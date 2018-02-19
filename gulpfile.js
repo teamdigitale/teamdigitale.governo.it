@@ -28,6 +28,10 @@ const concat = require('gulp-concat');
 const rename = require('gulp-rename');
 const uglify = require('gulp-uglify');
 const rsync = require('gulp-rsync');
+const exec = require('gulp-exec');
+
+const htmlproof_sitefolder = '_site/'
+const htmlproof_params = '--check-html --allow-hash-href --only-4xx --external_only --internal-domains teamdigitale.governo.it '
 
 gulp.task('jekyll', function() {
   return gulp.src('index.html', {
@@ -37,6 +41,19 @@ gulp.task('jekyll', function() {
       'bundle exec jekyll build'
     ]));
 });
+
+// Validates html and links
+gulp.task('html-proofer', function(done) {
+    var cmd = 'bundle exec htmlproofer ' + htmlproof_sitefolder+  ' ' + htmlproof_params;
+    return gulp.src(htmlproof_sitefolder)
+    .pipe( exec(cmd, function (error, stdout, stderr) {
+            gutil.log( gutil.colors.cyan(cmd) );
+            gutil.log( gutil.colors.cyan(stdout) );
+            gutil.log( gutil.colors.red(stderr) );
+            done(error);
+        } ));
+});
+
 
 gulp.task('optimize-images', function() {
   return gulp.src(['_site/**/*.jpg', '_site/**/*.jpeg', '_site/**/*.gif',
@@ -96,7 +113,8 @@ gulp.task('build', function(cb) {
       'optimize-js',
       'optimize-css',
       'optimize-html',
-      'optimize-images'
+      'optimize-images',
+      'html-proofer'
     ], cb);
 });
 

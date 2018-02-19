@@ -42,6 +42,9 @@ GEM
       safe_yaml (~> 1.0)
     jekyll-feed (0.9.2)
       jekyll (~> 3.3)
+    jekyll-last-modified-at (1.0.1)
+      jekyll (~> 3.3)
+      posix-spawn (~> 0.3.9)
     jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
     jekyll-sitemap (1.1.1)
@@ -69,6 +72,7 @@ GEM
     parallel (1.12.0)
     pathutil (0.16.0)
       forwardable-extended (~> 2.6)
+    posix-spawn (0.3.13)
     public_suffix (3.0.0)
     rb-fsevent (0.10.2)
     rb-inotify (0.9.10)
@@ -101,6 +105,7 @@ DEPENDENCIES
   html-proofer
   jekyll (= 3.6.0)
   jekyll-feed (~> 0.6)
+  jekyll-last-modified-at
   jekyll-sitemap
   jekyll-toc
   minima (~> 2.0)

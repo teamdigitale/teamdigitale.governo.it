@@ -9,11 +9,12 @@ medium_user:
 linkedin_url:
 ref: fabiana-lanotte
 parent_ref: team
-start_date: 15 settembre 2017
+start_date: 15 Gennaio 2017
 period_provided: fino al 16 settembre 2018
 annual_compensation: € 60.000
 approved_by_court: 3 maggio 2017
 ---
+
 Sono una software developer e una donna, insomma un ago in un pagliaio per la realtà italiana.
 
 Tuttavia è difficile farmi rientrare in un'unica etichetta; conosco la programmazione, ma sono anche esperta di big data, data mining, web mining, data science e appassionata di ricerca scientifica.
@@ -37,4 +38,3 @@ Infine ho lavorato come *big data architect* in un'azienda italiana che combina 
 Quando ho appreso la notizia che Diego Piacentini stava formando un team per la digitalizzazione e trasformazione del Paese, mi son subito candidata. Durante l'iter di colloqui che ho affrontato per questa posizione, ho avuto modo di conoscere alcuni membri del team, persone brillanti e professionali con cui mettere a fattor comune le mie conoscenze e competenze.
 
 Ed ora eccomi qui, con la solita valigia, pronta a trasferirmi per una nuova grande esperienza.
-

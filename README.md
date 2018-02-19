@@ -2,6 +2,10 @@
 
 Sito web del [Team per la Trasformazione Digitale](https://teamdigitale.governo.it).
 
+|`master` branch|
+|------|
+|[![CircleCI](https://circleci.com/gh/teamdigitale/teamdigitale.governo.it/tree/master.svg?style=svg)](https://circleci.com/gh/teamdigitale/teamdigitale.governo.it/tree/master)|
+
 ## Struttura del sito
 
 ### Configurazioni base
@@ -53,6 +57,17 @@ L'intestazione della pagina di profilo deve contenere i seguenti attributi:
 * `ref`: l'identificativo unico della pagina (es. `federico-feroldi`)
 * `parent_ref`: deve avere il valore `team`
 
+Il workflow di creazione delle pagine profilo segue le seguenti fasi:
+
+1. apertura issue GitHub;
+2. scrittura e revisione del contenuto;
+3. photo editing e upload della foto profilo;
+4. PR del profilo;
+5. traduzione e revisione del contenuto;
+6. PR del profilo in lingua inglese.
+
+L'autore della bio può [seguire questa procedura](https://docs.google.com/document/d/1k_y2s9sTUGLH5o4sXCiUvI4dj8ei_saK24_lAF2mmKk/edit)
+
 ### Post Medium
 
 I post Medium inclusi nell'homepage vengono sincronizzato ad ogni generazione del sito (tramite `gulp build`, `jekyll build` o `jekyll serve`).
@@ -61,11 +76,34 @@ I post di Medium vengono scaricati dall'URL impostato nella configurazione `medi
 
 La logica che sincronizza i post si trova nel plugin custom `_plugins/MediumImporter.rb`.
 
+L'autore del post può seguire questo [processo di pubblicazione](https://docs.google.com/a/teamdigitale.governo.it/document/d/1EuVqJgutjh22Np2axKtZswrVE8Tmg1VglnvOynlNf54/edit?usp=sharing)
+
 ### Traduzioni
 
 I template del sito utilizzano alcune traduzioni in modo dinamico (che non sono contenute nel testo della pagina).
 
 Queste traduzioni si trovano nel file `_data/t.yml`.
+
+### Customizzazione della data di "ultimo aggiornamento"
+
+Una pagina del sito potrebbe avere un breve contenuto ma essere popolata da informazioni che provengono da pagine presenti in apposite cartelle e con specifici layout (es. la pagina del Team è composta da una lista di pagine che rappresentano le schede personali). Per questo motivo la data di "ultimo aggiornamento" presente in calce alla pagina dovrebbe rappresentare quella di almeno una delle sotto pagine mostrate nel corpo.
+
+Per fare questo è necessario istruire il front-matter della pagina con apposito parametro `last_modified_by_layout` con l'indicazione del nome di layout. 
+
+Facendo riferimento all'esempio precedenre avremo quindi:
+
+```
+last_modified_by_layout: people
+---
+```
+#### Omettere la data di "ultimo aggiornamento"
+
+In alcuni casi specifici può rendersi necessario non far stampare la data di "ultimo aggiornamento" poichè può risultare fuorviante (es. homepage)
+
+```
+hide_last_mod_date: true
+---
+```
 
 ## Modifica dei contenuti del sito (principianti)
 

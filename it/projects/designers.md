@@ -5,6 +5,7 @@ permalink: /it/projects/designers.htm
 layout: project
 ref: designers
 parent_ref: projects
+parent_menu: projects
 people: [matteo-de-santi, lorenzo-fabbri]
 toc: true
 twitter_user: DesignersITA
@@ -39,30 +40,39 @@ timeline:
   - period: Ottobre 2017
     title: Avvio sperimentazione design collaborativo
     desc: Sketch libraries (con Sketch v47), kactus.io, Github per lo UI kit collaborativo
-    status: todo
-  - period: Ottobre 2017
-    title: Evoluzione UI kit e web Toolkit
-    desc: Evoluzione dello UI kit e allineamento del Toolkit allo UI kit
-    status: todo
   - period: Ottobre 2017
     title: Blog con case histories design
     desc: Avvio blog su Medium dedicato alle case histories di design dei servizi pubblici
-    status: todo
   - period: Novembre 2017
+    title: Piwik per i siti della Pubblica Amministrazione
+    desc: Avvio dell’utilizzo di Piwik come sistema di web analytics per la Pubblica Amministrazione
+  - period: Febbraio 2018
+    title: Sviluppo di un POC per il web toolkit in Bootstrap 4
+    desc: Un nuovo approccio per l'implementazione del web toolkit
+    status: todo
+  - period: Marzo 2018
+    title: Kit service design e user research
+    desc: Personas, user journey maps e altri strumenti di lavoro
+    status: todo
+  - period: Aprile 2018
+    title: Sviluppo di un POC per il web toolkit con React, Angular, Vue.js
+    desc: Sperimentazione di nuove tecnologie frontend per il web toolkit
+    status: todo
+  - period: Maggio 2018
+    title: Kit content
+    desc: Trello board per workflow editoriale, gestione tag, glossario linguaggio
+    status: todo
+  - period: Maggio 2018
+    title: Kit wireframe 
+    desc: Un wireframe kit per la prototipazione rapida di siti pubblici
+    status: todo
+  - period: Giugno 2018
+    title: Kit architettura dell'informazione
+    desc: Mappe concettuali, card sorting e albero di navigazione
+    status: todo
+  - period: Giugno 2018
     title: Guida ASO (App Store Optimization)
     desc: Strumenti per la pubblicazione e distribuzione di una app su App Store e Google Play
-    status: todo
-  - period: Novembre 2017
-    title: Sviluppo POC toolkit in React / Bootstrap4 / Angular
-    desc: Nuove tecnologie di frontend per il webtoolkit dei siti pubblici
-    status: todo
-  - period: Dicembre 2017
-    title: Wireframe kit
-    desc: Rilascio wireframe kit per la prototipazione rapida di siti pubblici
-    status: todo
-  - period: Dicembre 2017
-    title: Kit service design e user research
-    desc: Personas, user journey maps e altri strumenti di lavoro 
     status: todo
 ---
 
@@ -71,23 +81,24 @@ Intendiamo creare linee guida, esempi e kit di sviluppo che possano aiutare tutt
 
 ### Il ruolo del Team
 Obiettivo di [Designers Italia](https://designers.italia.it) è diffondere una cultura del design dei servizi digitali che metta al centro il cittadino per far risparmiare tempo e denaro alla pubblica amministrazione e innalzare la qualità dei servizi.
-Il team per la trasformazione digitale ha rafforzato il progetto esistente relativo alle linee guida dei siti web pubbici creando una piattaforma - Designers Italia - che si pone come punto di incontro tra mondo del design e pubblica amministrazione. La documentazione relativa alle linee guida di design deve uscire dalla versione alpha e abbracciare tutti gli aspetti dello human centered design: service design, user interface design, content design e user research. 
-Designers Italia non solo produce guide e kit per tutte le amministrazioni pubbliche, ma segue direttamente alcuni dei servizi digitali pubblici “infrastrutturali” come Pagopa e Spid e avvia la creazione di modelli per le diverse tipologie di siti web pubblici, a partire da un progetto dedicato ai siti delle scuole.
+Il team per la trasformazione digitale ha rafforzato il progetto esistente relativo alle linee guida dei siti web pubbici creando una piattaforma - Designers Italia - che si pone come punto di incontro tra mondo del design e pubblica amministrazione. La documentazione relativa alle linee guida di design deve uscire dalla versione alpha e abbracciare tutti gli aspetti dello human centered design: service design, user interface design, content design e user research.
+Designers Italia non solo produce guide e kit per tutte le amministrazioni pubbliche, ma segue direttamente alcuni dei servizi digitali pubblici “infrastrutturali” come PagoPA e SPID e avvia la creazione di modelli per le diverse tipologie di siti web pubblici, a partire da un progetto dedicato ai siti delle scuole.
 
 
 {% include medium_project.html %}
 
-### Forum 
+### Forum
 
-Uno spazio di discussione sul design dei servizi pubblici. 
+Uno spazio di discussione sul design dei servizi pubblici.
 {% include forum.html %}
 
 {% include twitter_timeline.html %}
 
-### Media 
+### Media
 Per ogni richiesta di contatto da parte di media e giornalisti il punto di riferimento è l'ufficio stampa e comunicazione del Team per la Trasformazione digitale
 
 {% include ipress.html %}
 <div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="it" data-size="100" data-tag="9"></div>
 <script type="text/javascript" src="/js/ipress.js"></script>
 
+{% include project_timeline.html %}

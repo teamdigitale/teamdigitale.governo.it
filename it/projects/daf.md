@@ -1,11 +1,12 @@
 ---
-title: Data Analytics Framework (DAF)
+title: Data & Analytics Framework (DAF)
 lang: it
 permalink: /it/projects/daf.htm
 layout: project
 ref: daf
 parent_ref: projects
-people: [raffaele-lillo, fabiana-lanotte, david-greco, alessandro-ercolani ]
+parent_menu: projects
+people: [raffaele-lillo, fabiana-lanotte, alessandro-ercolani, david-greco, giovanni-ruggiero, fabio-fumarola, maria-claudia-bodino]
 toc: true
 medium_tag: big-data
 forum_category: 'daf'
@@ -25,8 +26,7 @@ timeline:
   - period: Dicembre 2017
     title: Definizione e realizzazione del piano di sviluppo della fase di sperimentazione del Data & Analytics Framework
     desc: Individuazione del modello di governance del DAF e delle PA che faranno parte della fase di sperimentazione. Definizione dell’architettura della piattaforma e della sua roadmap di evoluzione. Definizione dei casi d’uso per lo sviluppo di servizi per Pubbliche amministrazioni, cittadini e imprese.
-    status: todo
-  - period: Gennaio 2018
+  - period: Dicembre 2018
     title: Messa in Produzione del DAF
     desc: Il Team digitale e AgID predisporranno le procedure atte al subentro del futuro owner del DAF che gestirà l’operatività e l’evoluzione del progetto. L’owner del DAF curerà le interazioni con le PA per definire piani di inclusione delle relative basi di dati e casi d’uso. Le PA di volta in volta coinvolte definiranno le modalità di ingestione dei dati e utilizzo del DAF consone alle proprie attività.
     status: todo
@@ -34,22 +34,41 @@ timeline:
 
 ### In breve
 
-Niente più silos privati di questa o quella amministrazione, i dati pubblici sono un bene comune e una risorsa preziosa per il Paese che, come un giacimento petrolifero, può essere esplorata e minata per estrarre valore. Vogliamo una nuova interfaccia all’interno della quale singole amministrazioni comunichino e condividano tra loro dati e API in maniera libera e aperta, permettendo la nascita di servizi e data application nuovi e prima impensabili realizzati sui bisogni del cittadino. Ovviamente nel massimo rispetto delle norme di privacy e nella piena sicurezza tecnologica. 
+Niente più silos privati di questa o quella amministrazione, i dati pubblici sono un bene comune e una risorsa preziosa per il Paese che, come un giacimento petrolifero, può essere esplorata e minata per estrarre valore. Vogliamo una nuova interfaccia all’interno della quale singole amministrazioni comunichino e condividano tra loro dati e API in maniera libera e aperta, permettendo la nascita di servizi e data application nuovi e prima impensabili realizzati sui bisogni del cittadino. Ovviamente nel massimo rispetto delle norme di privacy e nella piena sicurezza tecnologica.
 
-#### [Scopri gli aspetti tecnici su Developers Italia](https://developers.italia.it/it/daf/)
+#### Vantaggi per le Pubbliche Amministrazioni e i cittadini
+
+Il Data & Analytics Framework (DAF) ha l'obiettivo di migliorare e semplificare l'interoperabilità e lo scambio dei dati pubblici tra PA, standardizzare e promuovere la diffusione degli Open Data, ottimizzare i processi di analisi dati e generazione di sapere. L’idea è quella di aprire il mondo della Pubblica Amministrazione ai benefici offerti dalle moderne piattaforme per la gestione e l’analisi dei Big Data. Grazie alle tecnologie Big Data sarà possibile operare lungo tre direttrici principali:
+
+* Amplificare sensibilmente il valore del patrimonio informativo della PA mediante la predisposizione e l’uso di strumenti di analisi finalizzati a sintetizzare conoscenza per i decision makers, e diffusione di informazioni verso cittadini e imprese.
+* Ottimizzare lo scambio dei dati tra le PA e la diffusione degli Open Data, minimizzando i costi transattivi per l'accesso e l'utilizzo dei dati.
+* Favorire l'analisi e la gestione dei dati da parte di team di data scientist in seno alle PA, al fine di migliorare la conoscenza dei fenomeni descritti dai dati e sviluppare applicazioni "intelligenti", nonché condurre iniziative utili a promuovere attività di ricerca scientifica su tematiche applicative di interesse per la PA.
+
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X2Sg-KauY6I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+
+#### Link utili
+* [Il DAF nel Piano Triennale 2017-2019](https://pianotriennale-ict.italia.it/daf/)
+* [Scopri gli aspetti tecnici su Developers Italia](https://developers.italia.it/it/daf/)
+* [Piano di sviluppo del DAF (in fase di revisione)](http://daf-piano-di-sviluppo.readthedocs.io/it/latest/index.html)
+* [Basi di dati chiave](http://elenco-basi-di-dati-chiave.readthedocs.io/it/latest/index.html)
+
 
 {% include medium_project.html %}
 
-### Forum 
+### Forum
 
 {% include forum.html %}
 
 {% include twitter_timeline.html %}
 
-### Media 
+### Media
 Per ogni richiesta di contatto da parte di media e giornalisti il punto di riferimento è l'ufficio stampa e comunicazione del Team per la Trasformazione digitale
 
 {% include ipress.html %}
 <div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="it" data-size="100" data-tag="10"></div>
 <script type="text/javascript" src="/js/ipress.js"></script>
 
+{% include project_timeline.html %}

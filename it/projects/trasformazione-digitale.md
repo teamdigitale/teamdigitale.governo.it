@@ -5,13 +5,15 @@ permalink: /it/projects/trasformazione-digitale.htm
 layout: project
 ref: trasformazione-digitale
 parent_ref: projects
+parent_menu: projects
 people: [simone-piunno]
 toc: true
 medium_post_id: a54e27d55be9
 forum_category: piano-triennale
 forum_limit: 3
 twitter_tag: pianotriennale
-tweetdeck_id: 917399566806331393
+tweetdeck_id: 918772720397160448
+
 ---
 
 ### In breve
@@ -20,10 +22,10 @@ Il piano triennale è un documento di indirizzo strategico previsto dalla legge 
 
 [Sito ufficiale](https://pianotriennale-ict.italia.it/)
 
-**[Segui gli ultimi aggiornamenti del progetto su Twitter](https://twitter.com/settings/widgets/new/search?query=pianotriennale%20list%3AteamdigitaleIT%2Fteam-digitale)**
 
 {% include medium_project.html %}
 
+{% include twitter_timeline.html %}
 
 ### Forum 
 

@@ -5,10 +5,22 @@ permalink: /it/projects/api.htm
 layout: project
 ref: api
 parent_ref: projects
-people: [simone-piunno]
+parent_menu: projects
+people: [simone-piunno, giovanni-bajo]
 toc: true
 forum_category:
 forum_limit: 3
+timeline:
+  - period: Maggio 2017
+    title: Piano Triennale
+    desc: Il Piano Triennale per l'Informatica nella pubblica amministrazione è stato firmato dal Presidente del Consiglio.  Il piano dedica un intero capitolo al Modello di Interoperabilità, nel quale stabilisce alcuni principi base e definisce un piano di azione.
+  - period: Luglio 2017
+    title: Pubblicazione delle Linee guida per transitare al nuovo Modello di interoperabilità
+    desc: sono state pubblicate le Linee guida per transitare al nuovo Modello di interoperabilità che danno alcune indicazioni preliminari sui passi da seguire in attesa del rilascio della documentazione completa.
+  - period: Dicembre 2017
+    title: Pubblicazione del Nuovo Modello di Interoperabilità
+    desc: Pubblicazione della documentazione completa sul nuovo Modello di Interoperabilità.
+    status: todo
 ---
 
 ### In breve
@@ -33,3 +45,4 @@ Per ogni richiesta di contatto da parte di media e giornalisti il punto di rifer
 <div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="it" data-size="100" data-tag="7"></div>
 <script type="text/javascript" src="/js/ipress.js"></script>
 
+{% include project_timeline.html %}

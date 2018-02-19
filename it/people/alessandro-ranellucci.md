@@ -1,0 +1,21 @@
+---
+title: Alessandro Ranellucci
+lang: it
+permalink: /it/people/alessandro-ranellucci.html
+layout: people
+role: Open Source Project Leader
+ref: alessandro-ranellucci
+parent_ref: team
+start_date: 4 ottobre 2017
+period_provided: fino al 16 settembre 2018
+annual_compensation: € 60.000
+approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti.
+twitter_user: alranel
+---
+
+Era il 1990 quando misi le mani sul mio primo computer. Era un Mac IIsi, io avevo 5 anni. Imparai la programmazione con il mitico HyperCard, realizzando un programma che insegnava l’aritmetica in modo interattivo agli altri bambini e poi lanciandomi in rudimentali esperimenti di sintesi vocale. Entrai in Internet nel 1995 e rilasciai i miei software come freeware; di lì a poco furono inclusi nei CD-ROM di alcune riviste di informatica. Da allora la mia passione per il codice non si è mai spenta: ad oggi ho sviluppato piattaforme complesse per conto di decine di aziende private italiane e straniere, startup e anche per mie iniziative imprenditoriali, scegliendo di lavorare sempre su progetti digitali innovativi ed evitando accuratamente proposte prive di stimoli. Mi sono occupato di editoria digitale, CAD/CAM, robotica, streaming, big data, firma digitale, sicurezza ed altre tematiche. Nel frattempo, spinto da un’altra grande passione, decisi di studiare architettura.
+Da oltre 14 anni sono autore, contributore e maintainer di progetti open source, tra i quali 17 moduli Perl su CPAN e soprattutto quello che dal 2011 è stato il mio più grande impegno, ovvero Slic3r. Nato inizialmente come esperimento personale, Slic3r è diventato un progetto open source di scala internazionale affermandosi come il software di riferimento per la stampa 3D, che ha reso possibile l’evoluzione della tecnologia stessa. Ho passato questi anni a seguirne lo sviluppo in C++ e a gestirne la vasta community, che mi affascina ogni giorno ricordandomi il valore della collaborazione e dell’open source di cui sono ad oggi un grande e convinto sostenitore. Slic3r mi ha messo in contatto con il mondo dell’open source hardware e con il movimento maker che lo alimenta. Credo molto negli strumenti aperti come veicolo di innovazione, e questo entusiasmo verso il connubio innovazione-condivisione mi ha portato a collaborare con la Camera di Commercio di Roma per l’organizzazione di Maker Faire Rome, evento internazionale dei cui contenuti mi occupo dal 2013 ad oggi (da questa esperienza ho anche imparato come si muove una PA e quali ostacoli incontra nell’innovazione). Dal 2014 al 2015 sono stato condirettore della Fondazione Make in Italy Cdb che ha supportato la rete dei FabLab italiani negli anni del loro sviluppo. Oggi, oltre alla mia attività da libero professionista, coordino il corso di laurea triennale in Interaction Design presso la Quasar Design University di Roma e scrivo articoli sull’innovazione per AGI.it. Il mio più recente progetto è Bobuild, una piattaforma/startup innovativa per creazione di database e applicazioni web.
+
+Ho seguito il Team Digitale sin dalla nascita, con molta curiosità perché gli obiettivi mi sembravano ambiziosi. Ma poi ho visto alcune cose che mi sono piaciute, come l’uso di GitHub per lavorare sul codice e la documentazione, un forum aperto e utile (canale di comunicazione tutt’altro che scontato nella PA) e un generale approccio di grande concretezza in tutti i progetti, unito alla competenza del team e ai risultati di questo primo anno. Quando ho visto l’importanza data alla filosofia open source non ho esitato ad unirmi con entusiasmo: occorre un cambio di paradigma che porti la trasparenza e l’apertura anche nei processi di sviluppo dei servizi digitali, rovesciando le inefficienti prassi consolidate. La PA non deve limitarsi ad adottare il software open source a livello strumentale, ma deve acquisirne la metodologia anche per i propri progetti strategici. Supporterò Diego e il suo team con tutte le mie energie e competenze, per costruire una vera community intorno al codice aperto e diffondere all’interno della PA la cultura necessaria al suo radicamento, progetto dopo progetto.
+
+Fino al termine del mandato ridurrò i miei altri impegni -che continuerò tuttavia a seguire in parte del mio tempo- per non sottrarre al Team l’impegno che questa grande missione richiede.

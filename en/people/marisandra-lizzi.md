@@ -11,7 +11,8 @@ linkedin_url: https://it.linkedin.com/in/marisandra-lizzi-972337
 email: marisandra@teamdigitale.governo.it
 ref: marisandra-lizzi
 parent_ref: team
-start_date: February 1, 2017
+start_date: October 21, 2016
+end_date: December 1st, 2017
 period_provided: until September 16, 2018
 annual_compensation: € 80,000
 approved_by_court: May 3, 2017
@@ -31,4 +32,3 @@ I write a lot, but my name doesn't appear often times. I love interpreting the s
 The courage and ability to manage all this comes from Mauro, my partner in life and adventure, who, after having trod the stages of theaters all over the world, decided to take root and take care of us. For a while he dedicated his managerial skills to the theater and then he magically transferred them to our life, to nurture our dreams and those of our children, Carlotta, 14, who is passionate about singing and music, and Riccardo, 10, who loves basketball and chess. They’re the ones who give me the strength I need. They’re the biggest fans when it comes to this team’s mission, and they're the reason that I’ve enthusiastically taken up this beautiful challenge.
 
 I attend bio-energy courses, as they give me an opportunity to bring together all my different roles, as a mother, wife and worker, which are all such important sources of positive energy in my life.
-
