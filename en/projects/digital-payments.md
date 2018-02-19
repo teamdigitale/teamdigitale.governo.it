@@ -43,7 +43,7 @@ Citizens must be able to choose modern payment methods with minimal friction, wh
 - certainty of the debt amount (i. e. the amount to be paid is always the amount valid and required by the PA. If the amount varies over time for interest on arrears or otherwise, PagoPA will always be updated)
 - Simplicity and speed of the process: just enter the notice code (IUV Single Identification Payment) to pay and receive the release receipt or the certainty that the PA has collected the tax and there can be no subsequent checks or assessments.
 
-##### Advantages for Public Administrations
+#### Advantages for Public Administrations
 
 - Automatic reconciliation of collections
 - reduction of transaction and process costs
