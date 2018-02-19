@@ -96,6 +96,14 @@ Facendo riferimento all'esempio precedenre avremo quindi:
 last_modified_by_layout: people
 ---
 ```
+#### Omettere la data di "ultimo aggiornamento"
+
+In alcuni casi specifici può rendersi necessario non far stampare la data di "ultimo aggiornamento" poichè può risultare fuorviante (es. homepage)
+
+```
+hide_last_mod_date: true
+---
+```
 
 ## Modifica dei contenuti del sito (principianti)
 
