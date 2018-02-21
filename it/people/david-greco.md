@@ -10,7 +10,7 @@ linkedin_url: https://it.linkedin.com/in/davgreco
 ref: david-greco
 parent_ref: team
 start_date: 15 aprile 2017
-end_date: settembre 2017
+end_date: 11 settembre 2017
 period_provided: fino al 16 settembre 2018
 annual_compensation: € 90.000
 approved_by_court: 8 maggio 2017
