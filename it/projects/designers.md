@@ -6,7 +6,7 @@ layout: project
 ref: designers
 parent_ref: projects
 parent_menu: projects
-people: [matteo-de-santi, lorenzo-fabbri]
+people: [matteo-de-santi, lorenzo-fabbri, francesco-zaia, laura-bordin]
 toc: true
 twitter_user: DesignersITA
 medium_tag: design

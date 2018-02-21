@@ -27,7 +27,7 @@ In the open software world I contributed for several years to the GCC compiler, 
 
 When Diego contacted me, I was curious about the initiative at the beginning, but as the meeting neared I felt a bit skeptical. Diego was able to convey to me not only his enthusiasm for the project, but also the awareness that we can actually do something to improve our country. In my role as developer relation, I will try to create a tight and continuous relationship between our team and those who are interested in our project, who want to help, or who simply need information in order to adopt the technologies that we'll launch.
 
-I started working when I was 19 years old and have been pursuing my graduate studies in Computer Science at the University of Florence over the years, and I hope to eventually be able to discuss my thesis in 2017.
+I started working when I was 19 years old and have pursued my graduate studies in Computer Science at the University of Florence over the years, graduating with honors.
 
 In terms of my private life, I try to spend my free time with Alessandra, who has been my wife and partner in life for 12 years now, and who puts up with me and supports me even when I am unable to dedicate to her the time she deserves.
 
