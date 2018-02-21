@@ -26,5 +26,19 @@ TeamDigitale is on [Twitter](https://twitter.com/ITdigitalteam), [Medium](https:
 <div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="en" data-size="10" ></div>
 <script type="text/javascript" src="/js/ipress.js"></script>
 
+## Offices
 
+
+**Palazzo Chigi**
+
+*Square Colonna 370*
+
+*00187 Rome - Italy*
+
+
+**Cassa Depositi e Prestiti (CDP)**
+
+*St. Castelfidardo, 1*
+
+*00185 Rome - Italy*
 
