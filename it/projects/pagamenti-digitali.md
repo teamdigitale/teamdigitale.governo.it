@@ -20,7 +20,7 @@ timeline:
     title: Rilascio in collaudo alle PA WISP 2.0 e SDK mobile
 twitter_tag: pagopa
 tweetdeck_id: 913421951103897600
-dashboard_url: https://dashboard.teamdigitale.governo.it/public/dashboard/2c8ee2ee-fa84-4dbf-8b6a-e7fb5f9ca950
+dashboard_url: https://dashboard2.teamdigitale.governo.it/public/dashboard/2c8ee2ee-fa84-4dbf-8b6a-e7fb5f9ca950
 ---
 
 ### In breve
