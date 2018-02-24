@@ -36,6 +36,8 @@ timeline:
 
 No more private silos belonging to this or that administration, with public data being a common good and a precious resource for the country that, like an oil field, can be explored and mined to extract value. We are seeking a new interface within which the single administrations can communicate and share data and APIs in a free and open way, allowing for the creation of new and previously-unthinkable services and data applications realised on the basis of the needs of the citizen. Obviously, this is all with the utmost respect for the regulations on privacy and in complete technological security.
 
+The recent review of the Code for Digital Administration ("Codice Amministrazione Digitale (CAD)" in Italian) acknowledges the DAF at art. 50-ter, introducing the National Digital Data Platform ("Piattaforma Digitale Nazionale Dati (PDND)" in Italian). PDND is the institutional reference for the DAF project introduced in the Three-Year Plan for ICT in the Public Administration. As stated in the above mentioned law, we are currently working with Economics and Finance Ministry to define the final governance of the project.
+
 #### Advantages for Public Administrations and citizens
 
 

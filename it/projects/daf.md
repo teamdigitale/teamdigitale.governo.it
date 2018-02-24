@@ -36,6 +36,8 @@ timeline:
 
 Niente più silos privati di questa o quella amministrazione, i dati pubblici sono un bene comune e una risorsa preziosa per il Paese che, come un giacimento petrolifero, può essere esplorata e minata per estrarre valore. Vogliamo una nuova interfaccia all’interno della quale singole amministrazioni comunichino e condividano tra loro dati e API in maniera libera e aperta, permettendo la nascita di servizi e data application nuovi e prima impensabili realizzati sui bisogni del cittadino. Ovviamente nel massimo rispetto delle norme di privacy e nella piena sicurezza tecnologica.
 
+La recente riforma del Codice Amministrazione Digitale (CAD) recepisce il DAF all'art. 50-ter, introducendo la Piattaforma Digitale Nazionale Dati (PDND). PDND è quindi il riferimento istituzionale al progetto DAF, precedentemente introdotto nel Piano Triennale per l'Informatica 2017-2019. Come previsto dalla norma, stiamo lavorando insieme al MEF per preparare il DPCM di attuazione, e definire la governance finale del progetto.
+
 #### Vantaggi per le Pubbliche Amministrazioni e i cittadini
 
 Il Data & Analytics Framework (DAF) ha l'obiettivo di migliorare e semplificare l'interoperabilità e lo scambio dei dati pubblici tra PA, standardizzare e promuovere la diffusione degli Open Data, ottimizzare i processi di analisi dati e generazione di sapere. L’idea è quella di aprire il mondo della Pubblica Amministrazione ai benefici offerti dalle moderne piattaforme per la gestione e l’analisi dei Big Data. Grazie alle tecnologie Big Data sarà possibile operare lungo tre direttrici principali:
