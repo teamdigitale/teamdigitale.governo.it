@@ -13,7 +13,7 @@ forum_category: anpr
 forum_limit: 3
 twitter_tag: anpr
 tweetdeck_id: 913424743981895680
-dashboard_url: https://dashboard2.teamdigitale.governo.it/public/dashboard/40924a34-13fd-4d1e-b0d4-bbbea15a6ae4
+dashboard_url: https://dashboard.teamdigitale.governo.it/public/dashboard/40924a34-13fd-4d1e-b0d4-bbbea15a6ae4
 ---
 
 ### In short
