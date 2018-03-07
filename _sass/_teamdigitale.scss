@@ -436,6 +436,19 @@
 	}
 }
 
+.newsletter_form {
+	border-right: 2px solid #6F6F70;
+	border-left: 2px solid #6F6F70;
+
+	label {
+	font-size: 16px;
+	line-height: 1.5;
+	}
+	input {
+		padding: 7px;
+	}
+}
+
 /* IPRESS */
 .iPress, .iPress>a, .iPress>ol>li, .iPress>p, .iPress>ul>li, .iPress p>a, .i-lineHeight-xl, .i-text-p {
     line-height: 1.55!important;

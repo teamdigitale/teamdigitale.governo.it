@@ -79,4 +79,8 @@ Per ogni richiesta di contatto da parte di media e giornalisti il punto di rifer
 <div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="it" data-size="100" data-tag="3"></div>
 <script type="text/javascript" src="/js/ipress.js"></script>
 
+### Newsletter
+{% include newsletter_form.html action = 'http://a0x0b4.emailsp.com/frontend/subscribe.aspx' list='5'%}
+
+
 {% include project_timeline.html %}
