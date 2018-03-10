@@ -44,6 +44,7 @@ unico.
 {:.h4}
 [Scopri gli aspetti tecnici su Developers Italia](https://developers.italia.it/it/anpr/)
 
+<a name="dati"></a>
 ### I dati
 {% include dashboard.html %}
 
