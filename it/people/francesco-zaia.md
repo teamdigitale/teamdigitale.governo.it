@@ -9,7 +9,7 @@ medium_user: francescozaia
 linkedin_url: https://www.linkedin.com/in/francescozaia
 ref: francesco-zaia
 parent_ref: team
-start_date: 2 Novembre 2017
+start_date: 2 novembre 2017
 period_provided: 16 Settembre 2018
 annual_compensation: € 75.000
 approved_by_court: 30 Novembre 2017
