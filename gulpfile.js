@@ -115,7 +115,7 @@ gulp.task('clean', function() {
 gulp.task('build', function(cb) {
   runSequence(
     'clean',
-    'jekyll' + jekyll_config, [
+    'jekyll', [
       'optimize-js',
       'optimize-css',
       'optimize-html',
