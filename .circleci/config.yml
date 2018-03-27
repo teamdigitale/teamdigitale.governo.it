@@ -38,11 +38,10 @@ jobs:
             paths:
               - node_modules
               - ~/.cache/yarn
-      # Build the site
-      - run: yarn gulp build --env=circleci
+        - run: yarn gulp build --env=circleci
 
-      - store_artifacts:
-          path: /home/circleci/teamdigitale.governo.it/_site
+        - store_artifacts:
+            path: /home/circleci/teamdigitale.governo.it/_site
 
   build:
     <<: *defaults
