@@ -59,6 +59,9 @@ jobs:
           paths:
             - teamdigitale.governo.it
 
+      - store_artifacts:
+          path: /home/circleci/teamdigitale.governo.it/_site
+
   # Deploy to production site
   # Note that we need a custom SSH config to let rsync know
   # how to reach the production site.
