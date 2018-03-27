@@ -12,7 +12,7 @@ forum_category: cie
 forum_limit: 3
 twitter_tag: cie
 tweetdeck_id: 913425127978696706
-dashboard_url: https://dashboard.teamdigitale.governo.it/public/dashboard/91369902-9c46-42e9-94c6-1a8b1c92d6c4
+dashboard_url: https://dashboard.teamdigitale.governo.it/public/dashboard/e155f9b3-7624-4e62-8b29-25e9f7d6dad5
 ---
 
 ### In breve
@@ -22,7 +22,8 @@ La CIE, la Carta d'Identità Elettronica, è un documento elettronico altamente 
 ### Vantaggi per i cittadini e la pubblica amministrazione
 
 La CIE è un documento non contraffattibile e consente l'accesso a servizi fisici e digitali con maggiore sicurezza. 
-La Pubblica Amministrazione può contare su una maggiore sicurezza del documento di identificazione, rispondente anche alle richieste avanzate a livello europeo, permettendo il completamento di una delle piattaforme abilitanti elencate nel Piano Triennale, così da consentire la creazione di servizi pubblici fisici e digitali che integrino la CIE come processo di riconoscimento (ad esempio per l’uso dei trasporti pubblici). Infine contribuisce al raggiungimento dell’obbiettivo europeo per la realizzazione del mercato unico digitale.
+La Pubblica Amministrazione può contare su una maggiore sicurezza del documento di identificazione, rispondente anche alle richieste avanzate a livello europeo, permettendo il completamento di una delle piattaforme abilitanti elencate nel Piano Triennale. Inoltre, consente la creazione di servizi pubblici fisici e digitali che integrano la CIE come processo di riconoscimento (ad esempio per l’uso dei trasporti pubblici) e contribuisce al raggiungimento dell’obiettivo europeo di un mercato unico digitale.
+
 
 {:.h4}
 [Scopri gli aspetti tecnici su Developers Italia](https://developers.italia.it/it/cie/)
