@@ -35,6 +35,7 @@ const htmlproof_params = '--check-html --allow-hash-href --only-4xx --external_o
 
 var jekyll_base_path = '/';
 if (gutil.env.env === 'circleci') {
+  gutil.log("producing CircleCI artifacts");
   jekyll_base_path = '/0/home/circleci/teamdigitale.governo.it/_site/';
 }
 
