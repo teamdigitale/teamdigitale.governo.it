@@ -5,7 +5,8 @@ permalink: /it/projects/anpr.htm
 layout: project
 ref: anpr
 parent_ref: projects
-people: [carlo-contavalli, mirko-calvaresi, luca-bigliardi]
+parent_menu: projects
+people: [carlo-contavalli, mirko-calvaresi, luca-bigliardi, giuseppe-pasceri]
 toc: true
 medium_tag: anpr
 forum_category: anpr
@@ -43,6 +44,7 @@ unico.
 {:.h4}
 [Scopri gli aspetti tecnici su Developers Italia](https://developers.italia.it/it/anpr/)
 
+<a name="dati"></a>
 ### I dati
 {% include dashboard.html %}
 
@@ -81,5 +83,3 @@ digitale
 {% include ipress.html %}
 <div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="it" data-size="100" data-tag="6"></div>
 <script type="text/javascript" src="/js/ipress.js"></script>
-
-

@@ -5,6 +5,7 @@ layout: default_with_toc
 permalink: /en/contacts.htm
 ref: contacts
 toc: true
+menu_position: 6
 ---
 # Contacts
 
@@ -25,5 +26,19 @@ TeamDigitale is on [Twitter](https://twitter.com/ITdigitalteam), [Medium](https:
 <div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="en" data-size="10" ></div>
 <script type="text/javascript" src="/js/ipress.js"></script>
 
+## Offices
 
+
+**Palazzo Chigi**
+
+*Colonna Square 370*
+
+*00187 Rome - Italy*
+
+
+**Cassa Depositi e Prestiti (CDP)**
+
+*Castelfidardo Street, 1*
+
+*00185 Rome - Italy*
 

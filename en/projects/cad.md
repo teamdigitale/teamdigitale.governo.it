@@ -5,6 +5,7 @@ permalink: /en/projects/cad.htm
 layout: project
 ref: cad
 parent_ref: projects
+parent_menu: projects
 people: [guido-scorza]
 toc: true
 medium_tag: legislation

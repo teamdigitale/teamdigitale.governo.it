@@ -6,36 +6,46 @@ tutte le pagine del sito che:
 {% endcomment %}
 {% assign same_lang_pages = (site.html_pages | where: "lang", page.lang %}
 {% assign sorted_pages = (same_lang_pages | sort: "menu_position") %}
-{% assign proj_pages = same_lang_pages | where: "layout", "project" %}
-{% assign sorted_proj_pages = proj_pages | sort_by_title: "title" %}
-{% assign projbytwo = sorted_proj_pages.size | divided_by:2 %}
 <div class="container text-center navbar-top-link positionRelative" style=" margin-top:10px; padding-top:5px;">
   <div class="col-md-8 hidden-xs hidden-sm">
   {% for menu_page in sorted_pages %}
     {% if menu_page.parent_ref == nil and menu_page.menu_position != nil %}
+      {% assign sub_pages_query = same_lang_pages | where: "parent_menu", menu_page.ref %}
+      {% assign sub_pages = sub_pages_query | sort: "title" %}
+      {% assign pagebytwo = sub_pages.size | divided_by:2 %}
+
         {% if menu_page.ref == page.ref or menu_page.ref == page.parent_ref %}
           {% assign isActive = true %}
         {% else %}
           {% assign isActive = false %}
         {% endif %}
-        <div class="navbar-top-link__item {{ menu_page.ref }}">
+        <div class="navbar-top-link__item positionRelative {{ menu_page.ref }}">
           <a href="{{ menu_page.url }}"
           {% if isActive %}class="active"{% endif %}
-          {% if menu_page.ref=='projects' %}
-            id="dropdownMenu" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
+          {% if sub_pages.size > 0 %}
+           data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
           {% endif %} >{{ menu_page.title }}</a>
-          {% if menu_page.ref=='projects' %}
-            <div class="navbar-projectslist row dropdown-menu" aria-labelledby="dropdownMenu">
+          {% if sub_pages.size > 0 %}
+            <div class="navbar-projectslist row dropdown-menu {% if sub_pages.size < 4 %}navbar-projectslist--half{% endif %}" 
+            aria-labelledby="dropdownMenu">
+              {% if sub_pages.size > 4 %}
               <div class="col-md-6 navbar-projectslist__column">
-              {% for proj in  sorted_proj_pages limit:projbytwo %}
-                    <div class="navbar-projectslist__item"><a href="{{proj.url}}">{{proj.title}}</a></div>
-              {% endfor %}
+                {% for subpage in  sub_pages limit:pagebytwo %}
+                      <div class="navbar-projectslist__item"><a href="{{subpage.url}}">{{subpage.title}}</a></div>
+                {% endfor %}
               </div>
               <div class="col-md-6 navbar-projectslist__column">
-              {% for proj in  sorted_proj_pages offset:projbytwo %}
-                    <div class="navbar-projectslist__item"><a href="{{proj.url}}">{{proj.title}}</a></div>
-              {% endfor %}
+                {% for subpage in  sub_pages offset:pagebytwo %}
+                    <div class="navbar-projectslist__item"><a href="{{subpage.url}}">{{subpage.title}}</a></div>
+                {% endfor %}
               </div>
+              {% else %}
+                <div class="navbar-projectslist__column">
+                {% for subpage in sub_pages %}
+                      <div class="navbar-projectslist__item"><a href="{{subpage.url}}">{{subpage.title}}</a></div>
+                {% endfor %}
+                </div>
+              {% endif %}
             </div>
           {% endif %}
         </div>
@@ -44,15 +54,15 @@ tutte le pagine del sito che:
   {% endfor %}
 
   </div>
+  {% if page.lang=='en' %}
   <div class="col-md-4 navigation-hightlights navbar-top-link__item" style="text-align: right">
-    {% if page.lang=='en' %}
       <a href="/en/i7.html" class="hidden-xs hidden-sm">Innovation7@G7</a>
       <a href="/en/tallinn-conference.html" >EU - DTT</a>
-    {% endif %}
-    {% if page.lang=='it' %}
-    <a href="https://hack.developers.italia.it/" target="_blank">Hack Developers</a>
-    <a href="/en/i7.html" class="hidden-xs hidden-sm" >Innovation7@G7</a>
-    {% endif %}
   </div>
+  {% else %}
+  <div class="col-md-4 navigation-hightlights navbar-top-link__item hidden-xs hidden-sm" style="text-align: right">
+    <a href="/en/i7.html" >Innovation7@G7</a>
+  </div>
+  {% endif %}
 
 </div>

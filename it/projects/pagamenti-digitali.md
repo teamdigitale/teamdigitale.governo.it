@@ -5,6 +5,7 @@ permalink: /it/projects/pagamenti-digitali.htm
 layout: project
 ref: pagopa
 parent_ref: projects
+parent_menu: projects
 people: [giuseppe-virgone]
 toc: true
 medium_tag: payments
@@ -12,12 +13,11 @@ forum_category: pagopa
 forum_limit: 3
 timeline:
   - period: Luglio 2017
-    title: Rilascio Wisp 1.3
+    title: Rilascio WISP 1.3
   - period: Ottobre 2017
-    title: Rilascio SDK mobile wisp 2.0
+    title: Rilascio SDK mobile WISP 2.0
   - period: Dicembre 2017
-    title: Rilascio in produzione alle PA wisp 2.0 e SDK mobile
-    status: todo
+    title: Rilascio in collaudo alle PA WISP 2.0 e SDK mobile
 twitter_tag: pagopa
 tweetdeck_id: 913421951103897600
 dashboard_url: https://dashboard.teamdigitale.governo.it/public/dashboard/2c8ee2ee-fa84-4dbf-8b6a-e7fb5f9ca950
@@ -28,6 +28,10 @@ dashboard_url: https://dashboard.teamdigitale.governo.it/public/dashboard/2c8ee2
 Un modo diverso e più naturale per i cittadini di pagare la Pubblica Amministrazione, che diventi più immediato, veloce, e più economico per il Paese.
 
 Il cittadino deve poter scegliere metodi di pagamento moderni, a minima frizione, e il mercato deve potersi integrare, aggiungendo facilmente nuovi strumenti di pagamento innovativi. Vogliamo rendere il sistema più aperto e flessibile.
+
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RHOAu5GwKnE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 {:.h4}
 [Scopri gli aspetti tecnici su Developers Italia](https://developers.italia.it/it/pagopa/)
@@ -74,5 +78,9 @@ Per ogni richiesta di contatto da parte di media e giornalisti il punto di rifer
 {% include ipress.html %}
 <div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="it" data-size="100" data-tag="3"></div>
 <script type="text/javascript" src="/js/ipress.js"></script>
+
+### Newsletter
+{% include newsletter_form.html action = 'http://a0x0b4.emailsp.com/frontend/subscribe.aspx' list='5'%}
+
 
 {% include project_timeline.html %}

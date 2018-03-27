@@ -104,7 +104,7 @@
   </div>
 
   <!-- home banner -->
-  {% if page.url == "/" %}
+  {% if page.url == "/" or page.url == "/en/" %}
     {% include home_banner.html %}
   {% endif %}
   <!-- / home banner -->
@@ -116,12 +116,12 @@
 
       <!--/.sidebar-offcanvas-->
       <article tabindex="0" id="main" class="col-sm-12 col-md-12">
-
+        
         {{ include.content }}
 
       </article>
       
-
+      {% unless page.hide_last_mod_date %}
       <small class="page_last_update">
       {% if page.last_modified_by_layout %}
         {% assign same_lang_pages = site.pages | where: "lang", page.lang %}
@@ -136,6 +136,7 @@
          
       {% endif %}
       </small>
+      {% endunless %}
       
     </div>
 

@@ -69,7 +69,7 @@ ThreeYearPlan:
   en: "Three Year Plan"
   it: "Piano Triennale"
 ThreeYearPlanUrl:
-  en: "http://pianotriennale-ict.readthedocs.io/en/latest/"
+  en: "https://pianotriennale-ict.italia.it/en"
   it: "https://pianotriennale-ict.italia.it"
 PrivacyPolicy:
   en: "Privacy policy"
@@ -212,3 +212,33 @@ ProjectsFrontText:
 ProjectDashboardUpdate:
   en: "The dashboard data is updated on a weekly basis. Last update: "
   it: "I dati delle dashboard vengono aggiornati su base settimanale. Ultimo aggiornamento: "
+SideBarTools:
+  en: "Tools"
+  it: "Gli strumenti"
+SideBarProgram:
+  en: "Program"
+  it: "Il programma"
+SideBarCommunities:
+  en: "Communities"
+  it: "Le community"
+ProjectExContributors:
+  en: "Contributed to the project:"
+  it: "Hanno contribuito:"
+HomeBanner:
+  en: "Digital innovation for citizens and for the development of the country"
+  it: "Innovazione digitale per i cittadini e lo sviluppo del Paese"
+HomeBannerMore:
+  en: "More"
+  it: "Per saperne di più"
+HomeBannerProjects:
+  en: "Our projects"
+  it: "I nostri progetti"
+NewsletterEmail:
+  en: "Your e-mail"
+  it: "Inserisci la tua email"
+NewsletterPrivacy:
+  en: 'I accept the <a href="http://www.governo.it/privacy-policy" target="_blank">Privacy Policy</a>'
+  it: 'Accetto la <a href="http://www.governo.it/privacy-policy" target="_blank">Privacy Policy</a>'
+NewsletterSubmit:
+  en: "Submit"
+  it: "Iscriviti"

@@ -7,6 +7,10 @@ defaults: &defaults
   working_directory: /home/circleci/teamdigitale.governo.it
   docker:
     - image: circleci/ruby:2.4.1-node
+      environment:
+        BUNDLE_JOBS: 3
+        BUNDLE_RETRY: 3
+        BUNDLE_PATH: vendor/bundle
 
 version: 2
 jobs:
@@ -15,22 +19,37 @@ jobs:
     steps:
       - checkout
 
-      # Download and cache dependencies
+      #
+      # Download and cache Ruby dependencies
+      #
+
       - restore_cache:
           keys:
-          - v1-dependencies-{{ checksum "yarn.lock" }}-{{ checksum "Gemfile.lock" }}
-          # fallback to using the latest cache if no exact match is found
-          - v1-dependencies-
+          - v1-dependencies-ruby-{{ checksum "Gemfile.lock" }}
+          - v1-dependencies-ruby-
 
-      # Update dependencies
-      - run: bundle install
-      - run: yarn install
+      - run: bundle check || bundle install
 
-      # Update cache
       - save_cache:
+          key: v1-dependencies-ruby-{{ checksum "Gemfile.lock" }}
+          paths:
+            - vendor/bundle
+
+      #
+      # Download and cache node dependencies
+      #
+      - restore_cache:
+          keys:
+          - v1-dependencies-node-{{ checksum "yarn.lock" }}
+          - v1-dependencies-node-
+
+      - run: yarn install --cache-folder ~/.cache/yarn
+
+      - save_cache:
+          key: v1-dependencies-node-{{ checksum "yarn.lock" }}
           paths:
             - node_modules
-          key: v1-dependencies-{{ checksum "yarn.lock" }}-{{ checksum "Gemfile.lock" }}
+            - ~/.cache/yarn
 
       # Build the site
       - run: yarn gulp build
@@ -39,6 +58,9 @@ jobs:
           root: /home/circleci
           paths:
             - teamdigitale.governo.it
+
+      - store_artifacts:
+          path: /home/circleci/teamdigitale.governo.it/_site
 
   # Deploy to production site
   # Note that we need a custom SSH config to let rsync know

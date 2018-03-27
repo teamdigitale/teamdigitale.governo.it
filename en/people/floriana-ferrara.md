@@ -4,7 +4,6 @@ lang: en
 permalink: /en/people/floriana-ferrara.html
 layout: people
 role: Technical Project Manager
-is_new: true
 twitter_user: FlorianaFer
 medium_user: FlorianaFer
 linkedin_url: https://www.linkedin.com/in/filomena-floriana-ferrara-50588912 

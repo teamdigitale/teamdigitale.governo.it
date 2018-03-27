@@ -5,6 +5,7 @@ permalink: /it/projects/developers.htm
 layout: project
 ref: developers
 parent_ref: projects
+parent_menu: projects
 people: [giovanni-bajo, riccardo-iaconelli, alessandro-ranellucci]
 toc: true
 twitter_user: developersITA
@@ -28,7 +29,6 @@ timeline:
   - period: Q4 2017
     title: 10 progetti in Developers Italia
     desc: Abbiamo un obiettivo di attivare lo sviluppo su 10 diversi progetti in community, coinvolgendo le amministrazioni di competenza nel nuovo modello di sviluppo aperto e collaborativo.
-    status: todo
   - period: Q1 2018
     title: Superamento del modello del "Catalogo del Riuso"
     desc: Pubblicheremo delle nuove linee guida che supereranno l'attuale "Catalogo del Riuso" di AgID, promuovendo invece la pubblicazione di codice con licenza open-source, come sistema superiore per convidere il codice tra diverse amministrazioni, senza necessità di contratti.
@@ -44,6 +44,11 @@ Developers Italia è la community dedicata allo sviluppo di software open-source
 E' un cambiamento del modo in cui lavora la Pubblica Amministrazione, utilizzando standard e software aperti, realizzando SDK
 per i principali linguaggi di programmazione e framework, API documentate pubblicamente, non con un linguaggio giuridico ma tecnico,
 intorno alle quali poter coinvolgere una community di sviluppatori che crei innovazione.
+
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8jIID_GmU5Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
 
 {:.h4}
 [Scopri gli aspetti tecnici su Developers Italia](https://developers.italia.it)

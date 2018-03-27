@@ -10,7 +10,7 @@ medium_user: simonepiunno
 linkedin_url: https://it.linkedin.com/in/simone-piunno-a94ba91
 ref: simone-piunno
 parent_ref: team
-start_date: 14 norembre 2016
+start_date: 14 novembre 2016
 period_provided: fino al 16 settembre 2018
 annual_compensation: € 150.000
 approved_by_court: 29 novembre 2016

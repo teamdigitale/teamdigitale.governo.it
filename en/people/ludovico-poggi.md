@@ -10,7 +10,7 @@ medium_user:
 linkedin_url: https://www.linkedin.com/in/ludovico-poggi-212a738/
 ref: ludovico-poggi
 parent_ref: team
-start_date: February 1st, 2017
+start_date: February 1, 2017
 period_provided: until September 16, 2018
 annual_compensation: € 67,000
 approved_by_court: May 3rd, 2017

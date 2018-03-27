@@ -3,17 +3,16 @@ title: Paolo de Rosa
 lang: en
 permalink: /en/people/paolo-de-rosa.html
 layout: people
-role: Cloud & Data Center expert 
-is_new: true
+role: Cloud & Data Center expert
 ref: paolo-de-rosa
 parent_ref: team
 twitter_user: paolo_de_rosa 
 linkedin_url: https://www.linkedin.com/in/paoloderosa/
 medium_user: cripto
-start_date: 23 October, 2017
+start_date: October 23, 2017
 period_provided: until September 16, 2018
 annual_compensation: € 80.000
-approved_by_court: The decree of appointment is pending before the Court of Auditors
+approved_by_court: November 30, 2017
 ---
 
 As a kid, I had the chance to play with some electronic instruments of my

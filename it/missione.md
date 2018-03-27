@@ -25,25 +25,7 @@ In particolare vogliamo:
 
 I progetti del team:
 
-[Anagrafe Nazionale Popolazione Residente (ANPR)](https://teamdigitale.governo.it/it/projects/anpr.htm)
-
-[Ecosistema di API](https://teamdigitale.governo.it/it/projects/api.htm)
-
-[Codice Amministrazione Digitale (CAD)](https://teamdigitale.governo.it/it/projects/cad.htm)
-
-[Cittadinanza digitale](https://teamdigitale.governo.it/it/projects/cittadinanza-digitale.htm)
-
-[Data Analytics Framework (DAF)](https://teamdigitale.governo.it/it/projects/daf.htm)
-
-[Designers Italia](https://teamdigitale.governo.it/it/projects/designers.htm)
-
-[Developers Italia](https://teamdigitale.governo.it/it/projects/developers.htm)
-
-[Sistema Pubblico di Identita Digitale (SPID)](https://teamdigitale.governo.it/it/projects/identita-digitale.htm)
-
-[Pagamenti digitali PagoPA](https://teamdigitale.governo.it/it/projects/pagamenti-digitali.htm)
-
-[Piano trasformazione digitale](https://teamdigitale.governo.it/it/projects/trasformazione-digitale.htm)
+{% include projects_list.html simplelayout=true %}
 
 ## Il Manifesto dei principi tecnologici e operativi del team
 

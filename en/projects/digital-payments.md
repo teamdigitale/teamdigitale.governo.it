@@ -5,6 +5,7 @@ permalink: /en/projects/digital-payments.htm
 layout: project
 ref: pagopa
 parent_ref: projects
+parent_menu: projects
 people: [giuseppe-virgone]
 toc: true
 medium_tag: payments
@@ -12,12 +13,11 @@ forum_category: pagopa
 forum_limit: 3
 timeline:
   - period: July 2017
-    title: Wisp 1.3 release
+    title: WISP 1.3 release
   - period: October 2017
-    title: SDK mobile wisp 2.0 release
+    title: SDK mobile WISP 2.0 release
   - period: December 2017
-    title: Release into production of the public administrations with regards to Wisp 2.0 and SDK mobile  
-status: to-do
+    title: Pre-production release of WISP 2.0 and a mobile SDK, to be tested by Public Administrations
 twitter_tag: pagopa
 tweetdeck_id: 913421951103897600
 dashboard_url: https://dashboard.teamdigitale.governo.it/public/dashboard/d88a8ece-75ed-4668-ab8c-3a6c8693b4af
@@ -29,10 +29,29 @@ A different and more natural way for citizens to pay the Public Administration, 
 
 Citizens must be able to choose modern payment methods with minimal friction, whilst the market must be able to integrate and easily add new innovative payment instruments. We want to make the system more open and flexible.
 
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RHOAu5GwKnE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
 {:.h4}
 [Find out about the technical aspects on Developers Italia](https://developers.italia.it/it/pagopa/)
 
+#### Advantages for citizens
+
+- national integrated multi-channel system with transparency of fees costs, i. e. the citizen has as many payment channels as possible
+- uniformity of the paper notice and possibility to notify citizens digitally on the channels they prefer (notifications on the app or on the chosen PSP site, SMS or e-mail)
+- certainty of the debt amount (i. e. the amount to be paid is always the amount valid and required by the PA. If the amount varies over time for interest on arrears or otherwise, PagoPA will always be updated)
+- Simplicity and speed of the process: just enter the notice code (IUV Single Identification Payment) to pay and receive the release receipt or the certainty that the PA has collected the tax and there can be no subsequent checks or assessments.
+
+#### Advantages for Public Administrations
+
+- Automatic reconciliation of collections
+- reduction of transaction and process costs
+- settlement in D+1 (working day following payment) directly from treasury accounts
+- To supply more than one payment channel means to collect first
+
 ### The data
+
 {% include dashboard.html %}
 
 ### The role of the Team

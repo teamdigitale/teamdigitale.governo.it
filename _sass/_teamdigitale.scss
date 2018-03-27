@@ -114,20 +114,16 @@
 			border-bottom: none;
 			padding-bottom: 3px !important;
 			}
-		}
-	}
-	.navbar-top-link .projects {
+			&[data-toggle='dropdown']:after {
+				content: '\f078';
+				display: inline;
+				color: #fff;
+				font-family: 'FontAwesome';
+				margin-left: 4px;
+				font-size: 16px;
+			}
 
-		& > a:after {
-			content: '\f078';
-			display: inline;
-			color: #fff;
-			font-family: 'FontAwesome';
-			margin-left: 4px;
-			font-size: 16px;
-		}
-		@media screen and (min-width: 768px) {
-			position: relative;
+
 		}
 	}
 
@@ -142,6 +138,9 @@
 		padding-top: 30px;
 		border-radius: 6px;
 		border-style: none !important;
+		&--half {
+			width: 250px;
+		}
 
 		&__row {
 
@@ -274,6 +273,13 @@
 /* Project layout */
 .project__people {
     margin-bottom: 12px;
+    &.ex {
+		margin-top: 6px;
+		a {
+		font-size: 20px !important;
+		}
+
+    }
 
     &__person {
     	img {
@@ -288,8 +294,18 @@
 		h2 {
 		    margin: 0;
 		    font-size: 18px;
+		    display: flex;
+		}
+		&.person--inactive {
+			color: #bbb !important;
+			a {
+				color: #aaa !important;
+			}
 		}
 	}
+
+
+
 }
 .forumIntegration {
 	border: 1px solid #ddd;
@@ -417,6 +433,19 @@
 				width: auto;
 			}
 		}
+	}
+}
+
+.newsletter_form {
+	border-right: 2px solid #6F6F70;
+	border-left: 2px solid #6F6F70;
+
+	label {
+	font-size: 16px;
+	line-height: 1.5;
+	}
+	input {
+		padding: 7px;
 	}
 }
 
@@ -639,7 +668,37 @@ body.layout-project {
 		font-weight: inherit !important;
 	}
 }
-
+#sidebar #menu > ul {
+	padding-bottom: 1rem
+}
+.sidebar-horizontal-separator {
+	text-transform: uppercase;
+	padding: 1rem;
+	margin-top: 1rem;
+	margin-bottom: 0;
+}
+.sidebar-tools {
+	background-color: #d9e6f2;
+}
+.row-offcanvas > .sidebar-close {
+	display: none;
+	position: fixed;
+	top: 0;
+	right: 0;
+	padding: 30px 15px;
+	width: 20%;
+	height: 100vh;
+	z-index: 9999;
+	text-align: center;
+	text-decoration: none !important;
+}
+.row-offcanvas.active > .sidebar-close {
+	display: block;
+	.glyphicon-remove {
+		color: #fff;
+		font-size: 3rem;
+	}
+}
 
 /* PRINT TRICKS AND STYLES
 -------------------------- */
@@ -818,5 +877,29 @@ body.layout-project {
 		&:hover a {
 			color: #fff;
 		}
+	}
+}
+.team-list-grid {
+	margin-bottom:15px;
+	
+	@media screen and (max-width: 767px) {
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+}
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.49%; /* 1,77 */
+	padding-top: 25px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	height: 0;
+
+	iframe {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
 	}
 }

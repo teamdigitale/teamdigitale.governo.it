@@ -5,15 +5,15 @@ permalink: /it/projects/cittadinanza-digitale.htm
 layout: project
 ref: cittadinanza-digitale
 parent_ref: projects
-people: [federico-feroldi]
+parent_menu: projects
+people: [federico-feroldi, matteo-de-santi, giuseppe-virgone]
 toc: true
 timeline:
   - period: Novembre 2017
     title: Rilascio API Comunicazioni e Preferenze (versione beta)
   - period: Gennaio 2018
     title: Rilascio API Comunicazioni e Preferenze (produzione)
-    status: todo
-  - period: Gennaio 2018
+  - period: Giugno 2018
     title: Rilascio applicazione di Cittadinanza Digitale (versione beta)
     status: todo
 ---
@@ -87,16 +87,14 @@ delle attività che il codice sono accessibili liberamente:
 *   codice: [app mobile](https://github.com/teamdigitale/italia-app)
     e [API proxy](https://github.com/teamdigitale/italia-backend)
 
-### Benefici
-
-#### Per i Cittadini
+### Vantaggi per i cittadini
 
 *   accedere all’archivio delle comunicazioni con la PA
 *   gestire i contatti di recapito da un punto di accesso centrale
 *   gestire avvisi in modalità «integrata» (es. effettuare pagamenti o segnare
     delle scadenze nel proprio calendario)
 
-#### Per le Amministrazioni
+### Vantaggi per le Pubbliche Amministrazioni
 
 *   inviare comunicazioni elettroniche utilizzando solo il codice fiscale (senza
     dover chiedere l’indirizzo di contatto ai cittadini)
