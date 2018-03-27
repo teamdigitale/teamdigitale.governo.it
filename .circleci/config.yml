@@ -14,15 +14,10 @@ defaults: &defaults
 
 version: 2
 jobs:
-  build:
+  prepare-environment:
     <<: *defaults
     steps:
       - checkout
-
-      #
-      # Download and cache Ruby dependencies
-      #
-
       - restore_cache:
           keys:
           - v1-dependencies-ruby-{{ checksum "Gemfile.lock" }}
@@ -34,10 +29,6 @@ jobs:
           key: v1-dependencies-ruby-{{ checksum "Gemfile.lock" }}
           paths:
             - vendor/bundle
-
-      #
-      # Download and cache node dependencies
-      #
       - restore_cache:
           keys:
           - v1-dependencies-node-{{ checksum "yarn.lock" }}
@@ -51,6 +42,18 @@ jobs:
             - node_modules
             - ~/.cache/yarn
 
+  build-artifacts:
+    <<: *defaults
+    steps:
+      # Build the site
+      - run: yarn gulp build --env=circleci
+
+      - store_artifacts:
+          path: /home/circleci/teamdigitale.governo.it/_site
+
+  build:
+    <<: *defaults
+    steps:
       # Build the site
       - run: yarn gulp build
 
@@ -97,8 +100,13 @@ jobs:
 
 workflows:
   version: 2
+  build-pr:
+      - prepare-environment
+      - build-artifacts
+
   build-test-and-approval-deploy:
     jobs:
+      - prepare-environment
       - build
       # TODO: run tests
       - deploy-staging:
