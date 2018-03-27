@@ -119,7 +119,7 @@ workflows:
 
   build-test-and-approval-deploy:
     jobs:
-      - build
+      - build:
           filters:
             branches:
               only:
