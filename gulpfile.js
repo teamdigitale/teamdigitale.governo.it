@@ -33,10 +33,10 @@ const exec = require('gulp-exec');
 const htmlproof_sitefolder = '_site/'
 const htmlproof_params = '--check-html --allow-hash-href --only-4xx --external_only --internal-domains teamdigitale.governo.it '
 
-var jekyll_config = "--config _config.yml"
+var jekyll_config = " --config _config.yml"
 if (gutil.env.env === 'circleci') {
     gutil.log("Producing CircleCI artifacts");
-    jekyll_config = "--config _config.yml,_config_staging.yml"
+    jekyll_config = " --config _config.yml,_config_staging.yml"
 }
 
 gulp.task('jekyll', function() {
@@ -115,7 +115,7 @@ gulp.task('clean', function() {
 gulp.task('build', function(cb) {
   runSequence(
     'clean',
-    'jekyll', [
+    'jekyll' + jekyll_config, [
       'optimize-js',
       'optimize-css',
       'optimize-html',
