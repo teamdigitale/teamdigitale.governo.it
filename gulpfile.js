@@ -33,10 +33,10 @@ const exec = require('gulp-exec');
 const htmlproof_sitefolder = '_site/'
 const htmlproof_params = '--check-html --allow-hash-href --only-4xx --external_only --internal-domains teamdigitale.governo.it '
 
-var jekyll_base_path = '/';
+var jekyll_config = "--config _config.yml"
 if (gutil.env.env === 'circleci') {
-  gutil.log("producing CircleCI artifacts");
-  jekyll_base_path = '/0/home/circleci/teamdigitale.governo.it/_site/';
+    gutil.log("Producing CircleCI artifacts");
+    jekyll_config = "--config _config.yml,_config_staging.yml"
 }
 
 gulp.task('jekyll', function() {
@@ -44,7 +44,7 @@ gulp.task('jekyll', function() {
       read: false
     })
     .pipe(shell([
-      'bundle exec jekyll build' + ' --baseurl ' + jekyll_base_path
+      'bundle exec jekyll build ' + jekyll_config
     ]));
 });
 
