@@ -26,7 +26,7 @@ tutte le pagine del sito che:
            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
           {% endif %} >{{ menu_page.title }}</a>
           {% if sub_pages.size > 0 %}
-            <div class="navbar-projectslist row dropdown-menu {% if sub_pages.size < 4 %}navbar-projectslist--half{% endif %}" 
+            <div class="navbar-projectslist row dropdown-menu {% if sub_pages.size < 4 %}navbar-projectslist--half{% endif %}"
             aria-labelledby="dropdownMenu">
               {% if sub_pages.size > 4 %}
               <div class="col-md-6 navbar-projectslist__column">
@@ -56,11 +56,13 @@ tutte le pagine del sito che:
   </div>
   {% if page.lang=='en' %}
   <div class="col-md-4 navigation-hightlights navbar-top-link__item" style="text-align: right">
+      <a href="/upload/docs/2018/cryptofax-pa-en.pdf">CryptofaxPA</a>
       <a href="/en/i7.html" class="hidden-xs hidden-sm">Innovation7@G7</a>
       <a href="/en/tallinn-conference.html" >EU - DTT</a>
   </div>
   {% else %}
   <div class="col-md-4 navigation-hightlights navbar-top-link__item hidden-xs hidden-sm" style="text-align: right">
+    <a href="/upload/docs/2018/cryptofax-pa-it.pdf">CryptofaxPA</a>
     <a href="/en/i7.html" >Innovation7@G7</a>
   </div>
   {% endif %}
