@@ -4,6 +4,7 @@ lang: en
 ref: g7canada
 layout: default
 ---
+<div class="container">
 <div class="row" style="margin-top: 10px !important; margin-bottom: 10px !important; ">
 <div class="col-md-3">
 	<img class="img-responsive " src="/images/g7canada.jpg" title="G7 Canada" alt="G7 Canada" />
@@ -26,7 +27,7 @@ layout: default
 	<p></p>
 	</div>
 </div>
-
+</div>
 
 
 
