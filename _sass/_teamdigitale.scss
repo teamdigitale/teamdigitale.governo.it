@@ -186,7 +186,43 @@
 	}
 
 }
+.navtop-extra {
+	display: inline-block;
+	position: relative;
 
+	.navbar-projectslist {
+		left: auto;
+		right: 0;
+		a {
+			background-color: transparent !important;
+			font-size: 18px !important;
+			font-weight: normal !important;
+		}
+		@media screen and (max-width: 991px) {
+			left: 50% !important;
+			transform: translateX(-50%);
+			right: auto;
+		}
+	}
+	.navbar-projectslist:after {
+		left: auto !important;
+		right: 24px;
+		@media screen and (max-width: 991px) {
+			left: 50% !important;
+			transform: translateX(-50%);
+			right: auto;
+		}
+	}
+
+}
+.alert-i7 {
+
+	border: none;
+	margin: 10px 0;
+	text-align: center;
+	font-size: 18px;
+
+}
 .project-banner-en {
 	background-color: #00C5CA;
 	color: #fff;
