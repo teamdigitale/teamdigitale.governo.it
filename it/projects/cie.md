@@ -34,9 +34,7 @@ La Pubblica Amministrazione può contare su una maggiore sicurezza del documento
 
 ### Il ruolo del Team
 
-CIE è un servizio ideato e progettato dal Ministero dell'Interno con l'Istituto Poligrafico Zecca dello Stato,
-e il Team Digitale ne ha assunto il coordinamento con lo scopo di favorirne l'evoluzione e il consolidamento
-come sistema infrastrutturale chiave per il Paese. Il Team si occuperà di seguire il dispiegamento sul territorio e di favorire la creazione di un ecosistema che renda semplice l'integrazione della CIE.
+CIE è un servizio ideato e progettato dal Ministero dell'Interno con l'Istituto Poligrafico Zecca dello Stato. Il Team Digitale ne supporta lo sviluppo e l’evoluzione come Piattaforma Abilitante chiave per il Paese, in particolare usando la CIE per la creazione di un ecosistema di servizi digitali.
 
 Nel blog troverete la nostra visione del progetto e il ruolo che ricoprirà nel Sistema Operativo del Paese.
 
