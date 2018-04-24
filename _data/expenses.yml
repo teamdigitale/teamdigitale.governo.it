@@ -1,24 +1,24 @@
 ---
-SpeseUpdate: '12/03/2018'
+SpeseUpdate: '20/04/2018'
 SpeseDelTeam:
   - voce: Sviluppo software e design
-    impegno:  3221992   
-    pagamenti: 1100694  
+    impegno: 3217859    
+    pagamenti: 1198189   
   - voce: Hardware e accessori
     impegno: 54713  
     pagamenti: 39728  
   - voce: Canoni software as a service
-    impegno: 46200 
-    pagamenti: 41652  
+    impegno: 47452
+    pagamenti: 47452  
   - voce: Comunicazione e relazioni pubbliche
-    impegno: 177875   
-    pagamenti: 68769  
+    impegno:  170535    
+    pagamenti: 99252   
   - voce: Funzionamento (missioni, eventi)
-    impegno: 70748   
-    pagamenti: 39116   
+    impegno:  70748    
+    pagamenti: 59732    
   - voce: Compensi Esperti*
-    impegno: 2506623 
-    pagamenti: 2260885  
+    impegno:  4679615  
+    pagamenti: 2987460   
 SpeseAnalitiche:
   - voce: Ministero dell'Interno
     titolobreve: Accordo con il Ministero dell'Interno per attività di sviluppo tecnologico di ANPR
@@ -48,8 +48,8 @@ SpeseAnalitiche:
     titolobreve: Accordo ISTC-CNR per Sviluppo Ontologie, Vocabolari Controllati e servizi associati per il DAF
     progetto: DAF
     ref: daf
-    impegno:  46360 
-    pagamenti: 0
+    impegno: 38000  
+    pagamenti: 18000
     contraccordi: Accordo ISTC - CNR - progetto DAF
     descrizione: "L’accordo è finalizzato alla creazione di Ontologie che permettano di applicare uno schema logico alle relazioni tra le entità descritte dai dati, migliorando la sistematizzazione dei dati nel Data & Analytics Framework  nonchè l’analisi e la ricerca dei dati stessi;"
   - voce: Università di Bologna - CIRSFID
@@ -64,8 +64,8 @@ SpeseAnalitiche:
     titolobreve: Contratto con GEOSOLUTIONS per lo Sviluppo componente DCATAP_IT per CKAN e Harvesting del DAF
     progetto: DAF
     ref: daf
-    impegno:  48788 
-    pagamenti: 0
+    impegno: 48788,80
+    pagamenti: 32524,00 
     contraccordi: Contratto con GEOSOLUTIONS per Integrazione software per harvester nazionale basato su CKAN 
     descrizione: "Nell’ambito del progetto di evoluzione del catalogo nazionale dei dati aperti, attualmente denominato “dati.gov.it”, il contratto è finalizzato alla progettazione e allo sviluppo di un cosiddetto  “harvester” nazionale basato su tecnologia CKAN. Un harvester è definito come una componente software che, grazie all’uso di standard nazionali e di API (Application Programming Interface), sia in grado automaticamente e periodicamente di raccogliere metadati relativi a dati pubblici delle pubbliche amministrazioni (siano esse pubbliche amministrazioni centrali che regionali/comunali)."
   - voce: Università di BARI
@@ -81,6 +81,6 @@ SpeseAnalitiche:
     progetto: DAF
     ref: daf
     impegno:  48678  
-    pagamenti: 0
+    pagamenti: 48678
     contraccordi: Contratto con Teradata Italia
     descrizione: "Nell’ambito del progetto DAF, il contratto è finalizzato allo sviluppo di una piattaforma software per la gestione di data lake in HDSF (Kylo) come tool per coadiuvare il processo di ingestion, data wrangling e pipeline management del DAF. Il processo di ingestion è basato su strumenti nativi dell’ecosistema Hadoop."
