@@ -60,7 +60,7 @@ roadmap aperte, documenti architetturali; contemporaneamente, stiamo incontrando
 "piattaforme abilitanti" (cioè tecnologie centrali importanti su cui costruire i servizi digitali) e stiamo avviando un percorso
 con loro per portare lo sviluppo dei progetti dentro Developers Italia.
 
-Da questo approccio è nato [Hack Developers](https://hack.developers.italia.it/), il più grande Hackathon dedicato ai servizi pubblici. Qui il video dell'evento che si è tenuto in decine di città italiane (e non solo!) ad ottobre 2017
+Da questo approccio è nato [Hack Developers](https://hack.developers.italia.it/), il più grande Hackathon dedicato ai servizi pubblici. Qui il video dell'evento che si è tenuto in decine di città italiane (e non solo!) ad ottobre 2017:
 
  <div class="videoWrapper">
  <iframe width="560" height="315" src="https://www.youtube.com/embed/8jIID_GmU5Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
