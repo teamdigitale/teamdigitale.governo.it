@@ -23,7 +23,7 @@ timeline:
     title: Guida SEO
     desc: <a href="https://design-italia.readthedocs.io/it/stable/doc/content-design/seo.html">Indicazioni per la SEO</a> dei siti pubblici
   - period: Giugno 2017
-    title: UI kit e Icon Kit
+    title: UI kit e Icon kit
     desc: Il primo modulo per un design system dei siti pubblici
   - period: Agosto 2017
     title: Web Analytics
@@ -47,17 +47,17 @@ timeline:
     title: Piwik per i siti della Pubblica Amministrazione
     desc: Avvio dell’utilizzo di Piwik come sistema di web analytics per la Pubblica Amministrazione
   - period: Febbraio 2018
-    title: Sviluppo di un POC per il web toolkit in Bootstrap 4
-    desc: Un nuovo approccio per l'implementazione del web toolkit
-    status: todo
+    title: Avvio dello sviluppo per il <a href="https://italia.github.io/bootstrap-italia/">web toolkit in Bootstrap 4</a>
+    desc: Un nuovo approccio per il web toolkit, costruito sulle basi di una delle librerie più usate dagli sviluppatori web
   - period: Marzo 2018
     title: Kit service design e user research
     desc: Personas, user journey maps e altri strumenti di lavoro
-    status: todo
   - period: Aprile 2018
-    title: Sviluppo di un POC per il web toolkit con React, Angular, Vue.js
+    title: Avvio dello sviluppo dei web toolkit con React, Angular, Vue.js
     desc: Sperimentazione di nuove tecnologie frontend per il web toolkit
-    status: todo
+  - period: Aprile 2018
+    title: I nuovi kit di progettazione su <a href="https://designers.italia.it/">Designers Italia</a>
+    desc: Un set di strumenti pratici a disposizione di tutta la Pubblica Amministrazione
   - period: Maggio 2018
     title: Kit content
     desc: Trello board per workflow editoriale, gestione tag, glossario linguaggio
@@ -73,6 +73,14 @@ timeline:
   - period: Giugno 2018
     title: Guida ASO (App Store Optimization)
     desc: Strumenti per la pubblicazione e distribuzione di una app su App Store e Google Play
+    status: todo
+  - period: Giugno 2018
+    title: Nuovo UI kit
+    desc: Un nuovo design kit per la costruzione di interfacce per i servizi web della Pubblica Amministrazione
+    status: todo
+  - period: Giugno 2018
+    title: Completamento web toolkit in Bootstrap 4
+    desc: Implementazione Bootstrap di tutti i componenti presenti all'interno del nuovo design kit
     status: todo
 ---
 
