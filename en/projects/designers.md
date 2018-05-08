@@ -23,7 +23,7 @@ timeline:
     title: SEO Guide
     desc: <a href="https://design-italia.readthedocs.io/it/stable/doc/content-design/seo.html">Instructions on SEO</a> for public sites
   - period: June 2017
-    title: UI Kits and Icon Kits
+    title: UI Kits and Icon kits
     desc: The first design system module for public sites
   - period: August 2017
     title: Web Analytics
@@ -47,17 +47,17 @@ timeline:
     title: Piwik for the public sector websites
     desc: Starting using Piwik as web analytics system for the public sector websites
   - period: February 2018
-    title: Development of a POC for the web toolkit with Bootstrap 4
-    desc: A new approact for the web toolkit implementation
-    status: todo
+    title: Development started for the <a href="https://italia.github.io/bootstrap-italia/">Bootstrap 4 web toolkit</a>
+    desc: A new approach for the web toolkit implementation, built upon Bootstrap 4
   - period: March 2018
     title: Service design kit and user research
     description: Personas, user journey maps and other working tools
-    status: todo
   - period: April 2018
-    title: Development of a POC for the web toolkit with React, Angular, Vue.js
+    title: Development started for React, Angular, Vue.js web toolkits
     desc: New frontend technologies for the web toolkit
-    status: todo
+  - period: April 2018
+    title: New designers kits on <a href="https://designers.italia.it/">Designers Italia</a>
+    desc: A practical toolset to help designers building services for public websites
   - period: May 2018
     title: Content kit
     desc: A Trello board for editorial workflow, tagging and language
@@ -73,6 +73,14 @@ timeline:
   - period: June 2018
     title: ASO (App Store Optimisation) Guide
     desc: Tools for publishing and distributing an app on the App Store and Google Play
+    status: todo
+  - period: June 2018
+    title: User Interface design kit
+    desc: A new UI kit for the public sector websites with new and redesigned components
+    status: todo
+  - period: June 2018
+    title: Bootstrap 4 web toolkit
+    desc: Complete coverage for the new UI kit components, built with Bootstrap library
     status: todo
 ---
 
