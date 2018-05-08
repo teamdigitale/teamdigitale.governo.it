@@ -10,9 +10,10 @@ linkedin_url: https://www.linkedin.com/in/pasceri/
 ref: giuseppe-pasceri
 parent_ref: team
 start_date: 27 dicembre 2017
+end_date: 31 marzo 2018
 period_provided: 16 settembre 2018
 annual_compensation: € 80.000
-approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti.
+approved_by_court: 26 marzo 2018
 ---
 La mia passione per il software ed il pensiero computazionale nasce tanti anni fa, quando di anni io probabilmente ne avevo meno di dieci. Una sera mia mamma  tornando a casa mi portò un vecchissimo manuale delle periferiche IBM serie 36 che qualcuno aveva gettato via (non ho mai saputo dove l’avesse recuperato!), sapendo che ero già appassionato di “computer” e quella fu la svolta della mia vita.
 

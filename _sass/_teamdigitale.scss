@@ -186,7 +186,43 @@
 	}
 
 }
+.navtop-extra {
+	display: inline-block;
+	position: relative;
 
+	.navbar-projectslist {
+		left: auto;
+		right: 0;
+		a {
+			background-color: transparent !important;
+			font-size: 18px !important;
+			font-weight: normal !important;
+		}
+		@media screen and (max-width: 991px) {
+			left: 50% !important;
+			transform: translateX(-50%);
+			right: auto;
+		}
+	}
+	.navbar-projectslist:after {
+		left: auto !important;
+		right: 24px;
+		@media screen and (max-width: 991px) {
+			left: 50% !important;
+			transform: translateX(-50%);
+			right: auto;
+		}
+	}
+
+}
+.alert-i7 {
+
+	border: none;
+	margin: 10px 0;
+	text-align: center;
+	font-size: 18px;
+
+}
 .project-banner-en {
 	background-color: #00C5CA;
 	color: #fff;
@@ -433,6 +469,19 @@
 				width: auto;
 			}
 		}
+	}
+}
+
+.newsletter_form {
+	border-right: 2px solid #6F6F70;
+	border-left: 2px solid #6F6F70;
+
+	label {
+	font-size: 16px;
+	line-height: 1.5;
+	}
+	input {
+		padding: 7px;
 	}
 }
 
@@ -725,7 +774,7 @@ body.layout-project {
 }
 
 
-.navigation-hightlights a{ background: #00C5CA; font-size: .9em; white-space: nowrap; font-weight: bold; margin-left: 8px;}
+.navigation-hightlights a{ background: #00C5CA; font-size: .7em; white-space: nowrap; font-weight: bold; margin-left: 8px;}
 .navigation-hightlights a:nth-child(0) {margin-left: 0;}
 
 // Navigation highlight fix #245

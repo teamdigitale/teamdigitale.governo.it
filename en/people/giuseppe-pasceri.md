@@ -10,9 +10,10 @@ linkedin_url: https://www.linkedin.com/in/pasceri/
 ref: giuseppe-pasceri
 parent_ref: team
 start_date: December 27, 2017
+end_date: March 31, 2018
 period_provided: until September 16, 2018
 annual_compensation: € 80,000
-approved_by_court: The decree of appointment is pending before the Court of Auditors.
+approved_by_court: March 26, 2018
 ---
 My passion for software and computational thinking was born many years ago, when I was probably less than ten years old. One evening my Mum coming back home brought to me a very old manual of the IBM series 36 devices that someone had thrown away (I never knew where she had recovered!), knowing that I was already crazy for "the computers" ... well, in addition to having read it many times it was the turning point of my life.
 

@@ -9,7 +9,7 @@ twitter_user: paolo_de_rosa
 linkedin_url: https://www.linkedin.com/in/paoloderosa/
 medium_user: cripto
 parent_ref: team
-start_date: 23 Ottobre 2017
+start_date: 23 ottobre 2017
 period_provided: fino a 16 Settembre 2018
 annual_compensation: € 80.000
 approved_by_court: 30 Novembre 2017

@@ -6,7 +6,7 @@
 defaults: &defaults
   working_directory: /home/circleci/teamdigitale.governo.it
   docker:
-    - image: circleci/ruby:2.4.1-node
+    - image: circleci/ruby:2.5.1-node-browsers
       environment:
         BUNDLE_JOBS: 3
         BUNDLE_RETRY: 3
@@ -58,6 +58,9 @@ jobs:
           root: /home/circleci
           paths:
             - teamdigitale.governo.it
+
+      - store_artifacts:
+          path: /home/circleci/teamdigitale.governo.it/_site
 
   # Deploy to production site
   # Note that we need a custom SSH config to let rsync know

@@ -2,8 +2,8 @@
 title: Funzionario Amministrativo di supporto agli Acquisti (di ruolo nella pubblica amministrazione centrale o locale)
 lang: it
 permalink: /it/jobpositions/funzionario-amministrativo-supporto-acquisti.htm
-jazz_url: https://teamdigitale.applytojob.com/apply/MQMOLbIarP/Funzionario-Amministrativo-Di-Supporto-Agli-Acquisti-di-Ruolo-Nella-Pubblica-Amministrazione-Centrale-O-Locale
-iframeheight: 700
+jazz_url: 
+archived: true
 layout: job
 parent_ref: join-us
 ---

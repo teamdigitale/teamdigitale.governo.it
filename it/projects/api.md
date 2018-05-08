@@ -6,7 +6,7 @@ layout: project
 ref: api
 parent_ref: projects
 parent_menu: projects
-people: [simone-piunno, giovanni-bajo]
+people: [simone-piunno, giovanni-bajo, roberto-polli]
 toc: true
 forum_category:
 forum_limit: 3

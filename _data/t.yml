@@ -233,3 +233,15 @@ HomeBannerMore:
 HomeBannerProjects:
   en: "Our projects"
   it: "I nostri progetti"
+NewsletterEmail:
+  en: "Your e-mail"
+  it: "Inserisci la tua email"
+NewsletterPrivacy:
+  en: 'I accept the <a href="http://www.governo.it/privacy-policy" target="_blank">Privacy Policy</a>'
+  it: 'Accetto la <a href="http://www.governo.it/privacy-policy" target="_blank">Privacy Policy</a>'
+NewsletterSubmit:
+  en: "Submit"
+  it: "Iscriviti"
+SignatureFooter:
+  en: ""
+  it: "Il Team per la Trasformazione Digitale, salvo eccezioni, comunica con le altre Amministrazioni via posta elettronica ordinaria e non posta elettronica certificata, in conformità a quanto previsto dall’art.47 del Codice dell’Amministrazione Digitale."

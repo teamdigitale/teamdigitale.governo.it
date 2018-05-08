@@ -9,7 +9,7 @@ parent_ref: team
 start_date: October 4, 2017
 period_provided: until September 16, 2018
 annual_compensation: € 80,000
-approved_by_court: The decree of appointment is pending before the Court of Auditors.
+approved_by_court: November 3, 2017
 twitter_user: ruphy
 medium_user: ruphy
 linkedin_url: https://www.linkedin.com/in/riccardoiaconelli/
