@@ -44,6 +44,15 @@ SpeseAnalitiche:
     pagamenti: 0
     contraccordi: Contratti con R.T.I. Telecom Italia S.p.A.- adesioni a Contratto Quadro Consip SPC Cloud Lotto 1
     descrizione: "Nell’ambito del progetto Data & Analytics Framework il contratto è finalizzato al'acquisizione di Virtual Data Center a canone al fine di creare un cluster big data basato su Hadoop e suo ecosistema accoppiato ad una installazione di un DB operazionale (MongoDB) e ad un layer di esposizione dati tramite API"
+  - voce: R.T.I. Almaviva S.p.A. (mandataria), Almawave s.r.l., INDRA ITALIA S.p.A.,PricewaterhouseCoopers Advisory S.p.A.
+    titolobreve: Adesione a Contratto Quadro Consip SPC Cloud Lotto 4 per “Servizi di realizzazione e gestione di Portali e Servizi on-line” 
+    progetto: Designers
+    ref: designers
+    impegno:  81417 
+    pagamenti: 0
+    contraccordi: Contratto con R.T.I. ALMAVIVA - adesione a Contratto Quadro Consip SPC Cloud Lotto 4
+    descrizione: "Nell'ambito del progetto Designers Italia, il contratto è finalizzato alla realizzazione di servizi innovativi abilitanti, forniti secondo un modello di community cloud, per l’attuazione dell’Agenda Digitale Italiana , al fine ultimo di realizzare servizi pubblici per i cittadini e le aziende accessibili nel modo più semplice possibile, innanzitutto tramite dispositivi mobili, con architetture sicure, scalabili e altamente affidabili."
+
   - voce: ISTC-CNR
     titolobreve: Accordo ISTC-CNR per Sviluppo Ontologie, Vocabolari Controllati e servizi associati per il DAF
     progetto: DAF
