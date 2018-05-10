@@ -92,4 +92,4 @@ SpeseAnalitiche:
     impegno:  48678  
     pagamenti: 48678
     contraccordi: Contratto con Teradata Italia
-    descrizione: "Nell’ambito del progetto DAF, il contratto è finalizzato allo sviluppo di una piattaforma software per la gestione di data lake in HDSF (Kylo) come tool per coadiuvare il processo di ingestion, data wrangling e pipeline management del DAF. Il processo di ingestion è basato su strumenti nativi dell’ecosistema Hadoop."
+    descrizione: "Nell’ambito del progetto DAF, il contratto è finalizzato allo sviluppo di una piattaforma software per la gestione di data lake in HDFS (Kylo) come tool per coadiuvare il processo di ingestion, data wrangling e pipeline management del DAF. Il processo di ingestion è basato su strumenti nativi dell’ecosistema Hadoop."
