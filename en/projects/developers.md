@@ -32,6 +32,9 @@ timeline:
   - period: Q1 2018
     title: Going beyond the &quot;Catalogue of the Reuse&quot; model
     desc: We will publish some new guidelines that will supersede the current AgID &quot;Reuse Catalogue&quot;, promoting the publishing of all code on collaborative platforms (such as GitHub or GitLab). We aim to go beyond (and simplify) the current system for sharing the code between different administrations, a system which doesn't have the need for contracts or other bureaucratic impediments.
+  - period: Q2 2018
+    title: Developers Italia 2.0
+    desc: In addition to the national enabling platforms, Developers Italia will host the new Reuse Catalogue for open source and reusable software, according to the new guidelines; it will also contain the new API Catalogue.
     status: todo
 ---
 
