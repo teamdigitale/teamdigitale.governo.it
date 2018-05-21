@@ -17,10 +17,17 @@ timeline:
   - period: July 2017
     title: Publication of the Guidelines for transitioning to the new Interoperability Model
     desc: The Guidelines for transitioning to the new Interoperability Model have been published, providing certain preliminary instructions on the steps to be followed pending the issuance of the complete documentation.
-  - period: December 2017
-    title: Publication of the New Interoperability Model
-    desc: Publication of the complete documentation on the new Interoperability Model.
-    status: to-do
+  - period: May 2018
+    title: Open Consultation of the New Interoperability Model
+    desc: The Interoperability Model is published for consultation
+  - period: August 2018
+    title: New Interoperability Model is fully published
+    desc: The New Interoperability Model in its final version is complete and published.
+    status: todo
+  - period: December 2018
+    title: API Marketplace
+    desc: First version of the API Catalog/Marketplace 
+    status: todo
 ---
 
 ### In short
