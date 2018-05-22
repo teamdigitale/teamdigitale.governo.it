@@ -1,5 +1,5 @@
 ---
-title: Electronic Identity Card (CIE)
+title: Electronic Identity Card (EIC)
 lang: en
 permalink: /en/projects/cie.htm
 layout: project
@@ -17,11 +17,11 @@ dashboard_url: https://dashboard.teamdigitale.governo.it/public/dashboard/e155f9
 
 ### In short
 
-CIE, the Italian Electronic Identity Card, is a highly secure electronic document, equipped with a radio frequency microprocessor that enables it for various use cases, including access to online services. CIE complies with security regulations and substitutes the previous paper format.
+CIE, the Italian Electronic Identity Card, is a highly secure electronic document, equipped with a radio frequency microprocessor that enables various use cases, including access to online services. CIE complies with security regulations and substitutes the previous paper format.
 
 ### The benefits for citizens and the public administration
 
-CIE is a document not subject to counterfeiting and allows secure access to physical and digital services.
+CIE is secured against counterfeiting attempts and allows secure access to physical and digital services.
 
 Public Administration can rely on a more secure identification document, also complying with European requirements,
 allowing the completion of one of the enabling platforms listed in the Three-Year Plan. 
