@@ -17,9 +17,16 @@ timeline:
   - period: Luglio 2017
     title: Pubblicazione delle Linee guida per transitare al nuovo Modello di interoperabilità
     desc: sono state pubblicate le Linee guida per transitare al nuovo Modello di interoperabilità che danno alcune indicazioni preliminari sui passi da seguire in attesa del rilascio della documentazione completa.
-  - period: Dicembre 2017
-    title: Pubblicazione del Nuovo Modello di Interoperabilità
-    desc: Pubblicazione della documentazione completa sul nuovo Modello di Interoperabilità.
+  - period: Maggio 2018
+    title: Consultazione del Nuovo Modello di Interoperabilità
+    desc: Pubblicazione in consultazione della documentazione sul nuovo Modello di Interoperabilità.
+  - period: Agosto 2018
+    title: Pubblicazione completa Nuovo Modello di Interoperabilità
+    desc: Pubblicazione versione finale della documentazione completa sul nuovo Modello di Interoperabilità.
+    status: todo
+  - period: Dicembre 2018
+    title: Marketplace delle API
+    desc: Prima versione del Catalogo / Marketplace delle API
     status: todo
 ---
 
