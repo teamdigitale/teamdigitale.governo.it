@@ -1,9 +1,9 @@
 ---
-SpeseUpdate: '18/05/2018'
+SpeseUpdate: '25/05/2018'
 SpeseDelTeam:
   - voce: Sviluppo software e design
-    impegno: 3315077    
-    pagamenti: 1273114   
+    impegno: 3434484    
+    pagamenti: 1298473   
   - voce: Hardware e accessori
     impegno: 66230  
     pagamenti: 66230  
@@ -17,8 +17,8 @@ SpeseDelTeam:
     impegno:  95281    
     pagamenti: 95281    
   - voce: Compensi Esperti*
-    impegno:  4679615  
-    pagamenti: 2987460   
+    impegno:  4661113  
+    pagamenti: 3259843   
 SpeseAnalitiche:
   - voce: Ministero dell'Interno
     titolobreve: Accordo con il Ministero dell'Interno per attività di sviluppo tecnologico di ANPR
