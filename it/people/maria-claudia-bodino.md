@@ -4,7 +4,6 @@ lang: it
 permalink: /it/people/maria-claudia-bodino.htm
 layout: people
 role: Metrics, Analytics & Data Visualization 
-is_new: true
 twitter_user: MMariaClaudiAA
 linkedin_url: https://www.linkedin.com/in/mariaclaudiabodino/
 ref: maria-claudia-bodino
@@ -12,7 +11,7 @@ parent_ref: team
 start_date: 8 gennaio 2018
 period_provided: fino al 16 settembre 2018
 annual_compensation: € 63.000
-approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti.
+approved_by_court: 26 marzo 2018
 ---
 Sono cresciuta in un paesino della provincia di Cuneo, a Venasca, in Valle Varaita alla frontiera con la Francia, dominato dall’imponente Monviso (3.841m.) che alla mia gente ricorda che, con il passo del montanaro lento ma costante, si può arrivare ovunque, persino dove la banda larga stenta ancora a farsi strada.
  

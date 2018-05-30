@@ -117,6 +117,9 @@
               team-per-la-trasformazione-digitale
             </a>
           </div>
+          {% if site.data.t.SignatureFooter[page.lang] %}
+            <p style="color: #a0a0a0;margin-top: 15px; font-size:11px;">{{ site.data.t.SignatureFooter[page.lang] }}</p>
+          {% endif %}
         </td>
         <td width="40" height="70" style="height:70px;"></td>
     </tr>

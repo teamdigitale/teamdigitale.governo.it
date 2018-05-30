@@ -18,6 +18,9 @@ timeline:
     title: SDK mobile WISP 2.0 release
   - period: December 2017
     title: Pre-production release of WISP 2.0 and a mobile SDK, to be tested by Public Administrations
+  - period: June 2018
+    title: Release of the new paper notification's guidelines
+    status: todo
 twitter_tag: pagopa
 tweetdeck_id: 913421951103897600
 dashboard_url: https://dashboard.teamdigitale.governo.it/public/dashboard/d88a8ece-75ed-4668-ab8c-3a6c8693b4af

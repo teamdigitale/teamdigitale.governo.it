@@ -45,11 +45,6 @@ E' un cambiamento del modo in cui lavora la Pubblica Amministrazione, utilizzand
 per i principali linguaggi di programmazione e framework, API documentate pubblicamente, non con un linguaggio giuridico ma tecnico,
 intorno alle quali poter coinvolgere una community di sviluppatori che crei innovazione.
 
-<div class="videoWrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8jIID_GmU5Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-
-
 {:.h4}
 [Scopri gli aspetti tecnici su Developers Italia](https://developers.italia.it)
 
@@ -65,12 +60,11 @@ roadmap aperte, documenti architetturali; contemporaneamente, stiamo incontrando
 "piattaforme abilitanti" (cioè tecnologie centrali importanti su cui costruire i servizi digitali) e stiamo avviando un percorso
 con loro per portare lo sviluppo dei progetti dentro Developers Italia.
 
-Da questo approccio è nato [Hack Developers](https://hack.developers.italia.it/), il più grande Hackathon dedicato ai servizi pubblici. Qui il video dell'evento che si è tenuto in decine di città italiane (e non solo!) ad ottobre 2017
+Da questo approccio è nato [Hack Developers](https://hack.developers.italia.it/), il più grande Hackathon dedicato ai servizi pubblici. Qui il video dell'evento che si è tenuto in decine di città italiane (e non solo!) ad ottobre 2017:
 
-<blockquote class="twitter-video" data-lang="it"><p lang="it" dir="ltr">Cos&#39;è stato <a href="https://twitter.com/hashtag/HackDev17?src=hash&amp;ref_src=twsrc%5Etfw">#HackDev17</a>, il code sprint che il nostro Team <a href="https://twitter.com/developersITA?ref_src=twsrc%5Etfw">@developersITA</a> ha organizzato in tutta Italia, in collaborazione con <a href="https://twitter.com/CodemotionIT?ref_src=twsrc%5Etfw">@CodemotionIT</a> <a href="https://t.co/7giCzAALnK">pic.twitter.com/7giCzAALnK</a></p>&mdash; Team Digitale (@teamdigitaleIT) <a href="https://twitter.com/teamdigitaleIT/status/917058075877629954?ref_src=twsrc%5Etfw">8 ottobre 2017</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
+ <div class="videoWrapper">
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/8jIID_GmU5Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+ </div>
 
 {% include medium_project.html %}
 

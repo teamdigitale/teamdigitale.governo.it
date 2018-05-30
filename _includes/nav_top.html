@@ -6,6 +6,7 @@ tutte le pagine del sito che:
 {% endcomment %}
 {% assign same_lang_pages = (site.html_pages | where: "lang", page.lang %}
 {% assign sorted_pages = (same_lang_pages | sort: "menu_position") %}
+{% assign extra_menu = site.data.extra_menu %}
 <div class="container text-center navbar-top-link positionRelative" style=" margin-top:10px; padding-top:5px;">
   <div class="col-md-8 hidden-xs hidden-sm">
   {% for menu_page in sorted_pages %}
@@ -26,7 +27,7 @@ tutte le pagine del sito che:
            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
           {% endif %} >{{ menu_page.title }}</a>
           {% if sub_pages.size > 0 %}
-            <div class="navbar-projectslist row dropdown-menu {% if sub_pages.size < 4 %}navbar-projectslist--half{% endif %}" 
+            <div class="navbar-projectslist row dropdown-menu {% if sub_pages.size < 4 %}navbar-projectslist--half{% endif %}"
             aria-labelledby="dropdownMenu">
               {% if sub_pages.size > 4 %}
               <div class="col-md-6 navbar-projectslist__column">
@@ -54,14 +55,30 @@ tutte le pagine del sito che:
   {% endfor %}
 
   </div>
-  {% if page.lang=='en' %}
+  {% if extra_menu[page.lang] %}
+  {% assign extra_menu_lang = extra_menu[page.lang] %}
   <div class="col-md-4 navigation-hightlights navbar-top-link__item" style="text-align: right">
-      <a href="/en/i7.html" class="hidden-xs hidden-sm">Innovation7@G7</a>
-      <a href="/en/tallinn-conference.html" >EU - DTT</a>
-  </div>
-  {% else %}
-  <div class="col-md-4 navigation-hightlights navbar-top-link__item hidden-xs hidden-sm" style="text-align: right">
-    <a href="/en/i7.html" >Innovation7@G7</a>
+    {% for item in extra_menu_lang %}
+    <div class="navtop-extra">
+    {% if item.subitems %}
+    <a href="{{item.url}}" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    {{item.title}}</a>
+    <div class="navbar-projectslist row dropdown-menu navbar-projectslist--half" aria-labelledby="dropdownMenu">
+      <div class="navbar-projectslist__column">
+        {% for subitem in item.subitems %}
+        <div class="navbar-projectslist__item">
+          <a href="{{subitem.url}}">{{subitem.title}}</a>
+        </div>
+        {% endfor %}
+        </div><!--navbar-projectslist__column-->
+    </div><!--navbar-projectslist-->
+    {% else %}
+      <a href="{{item.url}}">{{item.title}}</a>
+    {% endif %}
+
+    </div><!--nav-top-extra-->
+    {% endfor %}
+
   </div>
   {% endif %}
 

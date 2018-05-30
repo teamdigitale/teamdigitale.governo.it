@@ -44,7 +44,12 @@
     </tr>
     <tr>
         <td colspan="4"></td>
-        <td valign="top"><a style="color:#0066CC;font-size:11px;" href="https://teamdigitale.governo.it/">teamdigitale.governo.it</a></td>
+        <td valign="top">
+            <a style="color:#0066CC;font-size:11px;" href="https://teamdigitale.governo.it/">teamdigitale.governo.it</a>
+            {% if site.data.t.SignatureFooter[page.lang] %}
+            <p style="color: #a0a0a0;margin-top: 6px; font-size:11px;">{{ site.data.t.SignatureFooter[page.lang] }}</p>
+            {% endif %}
+        </td>
         <td width="40" height="70" style="height:70px; border-bottom: solid 5px #65dbde;"></td>
     </tr>
 </table>
