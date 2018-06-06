@@ -6,7 +6,7 @@ layout: project
 ref: anpr
 parent_ref: projects
 parent_menu: projects
-people: [carlo-contavalli, mirko-calvaresi, luca-bigliardi, giuseppe-pasceri]
+people: [carlo-contavalli, mirko-calvaresi, luca-bigliardi, giuseppe-pasceri, elisabetta-pique]
 toc: true
 medium_tag: anpr
 forum_category: anpr
