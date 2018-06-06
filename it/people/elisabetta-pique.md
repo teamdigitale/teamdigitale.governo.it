@@ -3,16 +3,17 @@ title: Elisabetta Pique'
 lang: it
 permalink: /it/people/elisabetta-pique.html
 layout: people
-role: Executive Assistant di Diego Piacentini
+role: Program Manager ANPR
 is_new: false
 twitter_user: elisabettapique
 medium_user:
 linkedin_url: https://linkedin.com/in/elisabettapique
 ref: elisabetta-pique
 parent_ref: team
-start_date: 27 febbraio 2017
-period_provided: fino al 31 dicembre 2017
-approved_by_court: 5 aprile 2017
+start_date: 1 aprile 2018
+period_provided: fino al 30 giugno 2018
+approved_by_court: 14 maggio 2018
+annual_compensation: € 60.000
 ---
 Ho avuto il mio primo contatto con un computer a 10 anni: era grosso, pesante, in bianco e nero, e mio padre ci programmava in MS-DOS. A differenza di molti miei colleghi del Team per la Trasformazione Digitale, non sono diventata una sviluppatrice o una data scientist ma, dentro di me, è rimasto forte il fascino per le tecnologie, di come riescano a snellire e velocizzare molti processi nella vita di tutti i giorni e di quante possibilità ne possano scaturire. Credo sia nata così la mia passione per l’analisi statistica dei risultati e l’ottimizzazione.
 
