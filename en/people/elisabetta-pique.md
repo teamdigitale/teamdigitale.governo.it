@@ -4,7 +4,7 @@ lang: en
 permalink: /en/people/elisabetta-pique.html
 layout: people
 role: Program Manager ANPR
-ex_role: Executive Assistant of Diego Piacentini
+pre_role: Executive Assistant of Diego Piacentini
 is_new: false
 twitter_user: elisabettapique
 medium_user:
