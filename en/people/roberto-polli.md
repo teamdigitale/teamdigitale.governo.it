@@ -4,7 +4,6 @@ lang: en
 permalink: /en/people/roberto-polli.htm
 layout: people
 role: Full Stack Developer
-is_new: true
 twitter_user: ioggstream
 medium_user:
 linkedin_url: https://it.linkedin.com/in/rpolli
