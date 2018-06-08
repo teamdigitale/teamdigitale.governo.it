@@ -1,9 +1,9 @@
 ---
-SpeseUpdate: '25/05/2018'
+SpeseUpdate: '08/06/2018'
 SpeseDelTeam:
   - voce: Sviluppo software e design
-    impegno: 3434484    
-    pagamenti: 1298473   
+    impegno: 4049329    
+    pagamenti: 1327021   
   - voce: Hardware e accessori
     impegno: 66230  
     pagamenti: 66230  
@@ -14,8 +14,8 @@ SpeseDelTeam:
     impegno:  170535    
     pagamenti: 99252   
   - voce: Funzionamento (missioni, eventi)
-    impegno:  95281    
-    pagamenti: 95281    
+    impegno:  95949   
+    pagamenti: 95949    
   - voce: Compensi Esperti*
     impegno:  4661113  
     pagamenti: 3259843   
@@ -57,10 +57,10 @@ SpeseAnalitiche:
     titolobreve: Accordo ISTC-CNR per Sviluppo Ontologie, Vocabolari Controllati e servizi associati per il DAF
     progetto: DAF
     ref: daf
-    impegno: 38000  
+    impegno: 63000  
     pagamenti: 18000
     contraccordi: Accordo ISTC - CNR - progetto DAF
-    descrizione: "L’accordo è finalizzato alla creazione di Ontologie che permettano di applicare uno schema logico alle relazioni tra le entità descritte dai dati, migliorando la sistematizzazione dei dati nel Data & Analytics Framework  nonchè l’analisi e la ricerca dei dati stessi;"
+    descrizione: "L’accordo, stipulato nel 2017, è finalizzato alla creazione di Ontologie che permettano di applicare uno schema logico alle relazioni tra le entità descritte dai dati, migliorando la sistematizzazione dei dati nel Data & Analytics Framework  nonchè l’analisi e la ricerca dei dati stessi. Il successivo accordo, del 2018, ha ad oggetto l'estensione e la manutenzione delle predette Ontologie."
   - voce: Università di Bologna - CIRSFID
     titolobreve: Accordo con l’Università di Bologna - CIRSFID per la definizione standard per tagging normativo e implementazione in Normattiva per il DAF
     progetto: DAF
