@@ -41,7 +41,7 @@ The recent review of the Code for Digital Administration ("Codice Amministrazion
 #### Advantages for Public Administrations and citizens
 
 
-The Data & Analytics Framework (DAF) has the goal of improving and simplifying the interoperability and exchange of data between Pubblic Administrations, promoting and improving the management and usage of Open Data, optimizing activities of analysis and knowledge generation. The idea is to open the world of Public Administration to the benefits offered by modern Big Data management and analysis platforms. Thanks to Big Data technologies, it will be possible to operate along three main lines:
+The Data & Analytics Framework (DAF) has the goal of improving and simplifying the interoperability and exchange of data between Public Administrations, promoting and improving the management and usage of Open Data, optimizing activities of analysis and knowledge generation. The idea is to open the world of Public Administration to the benefits offered by modern Big Data management and analysis platforms. Thanks to Big Data technologies, it will be possible to operate along three main lines:
 
 * Significantly enhance the value of PA’s information assets through the preparation and use of analytical tools designed to synthesise knowledge for decision makers, and the dissemination of information to citizens and businesses.
 
