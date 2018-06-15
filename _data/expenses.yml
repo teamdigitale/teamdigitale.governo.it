@@ -1,9 +1,9 @@
 ---
-SpeseUpdate: '08/06/2018'
+SpeseUpdate: '15/06/2018'
 SpeseDelTeam:
   - voce: Sviluppo software e design
-    impegno: 4049329    
-    pagamenti: 1327021   
+    impegno: 4561826    
+    pagamenti: 1330925   
   - voce: Hardware e accessori
     impegno: 66230  
     pagamenti: 66230  
@@ -12,10 +12,10 @@ SpeseDelTeam:
     pagamenti: 47452  
   - voce: Comunicazione e relazioni pubbliche
     impegno:  170535    
-    pagamenti: 99252   
+    pagamenti: 99508   
   - voce: Funzionamento (missioni, eventi)
-    impegno:  95949   
-    pagamenti: 95949    
+    impegno:  96304  
+    pagamenti: 96304    
   - voce: Compensi Esperti*
     impegno:  4661113  
     pagamenti: 3259843   
