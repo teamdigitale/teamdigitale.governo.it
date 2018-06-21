@@ -5,6 +5,7 @@ permalink: /it/projects/cie.htm
 layout: project
 ref: cie
 parent_ref: projects
+parent_menu: projects
 people: [valerio-paolini]
 toc: true
 medium_tag: cie
@@ -21,7 +22,7 @@ La CIE, la Carta d'Identità Elettronica, è un documento elettronico altamente 
 
 ### Vantaggi per i cittadini e la pubblica amministrazione
 
-La CIE è un documento non contraffattibile e consente l'accesso a servizi fisici e digitali con maggiore sicurezza. 
+La CIE è un documento non contraffattibile e consente l'accesso a servizi fisici e digitali con maggiore sicurezza.
 La Pubblica Amministrazione può contare su una maggiore sicurezza del documento di identificazione, rispondente anche alle richieste avanzate a livello europeo, permettendo il completamento di una delle piattaforme abilitanti elencate nel Piano Triennale. Inoltre, consente la creazione di servizi pubblici fisici e digitali che integrano la CIE come processo di riconoscimento (ad esempio per l’uso dei trasporti pubblici) e contribuisce al raggiungimento dell’obiettivo europeo di un mercato unico digitale.
 
 
