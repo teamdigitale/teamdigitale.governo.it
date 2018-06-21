@@ -5,6 +5,7 @@ permalink: /en/projects/cie.htm
 layout: project
 ref: cie
 parent_ref: projects
+parent_menu: projects
 people: [valerio-paolini]
 toc: true
 medium_tag: cie
@@ -24,7 +25,7 @@ CIE, the Italian Electronic Identity Card, is a highly secure electronic documen
 CIE is secured against counterfeiting attempts and allows secure access to physical and digital services.
 
 Public Administration can rely on a more secure identification document, also complying with European requirements,
-allowing the completion of one of the enabling platforms listed in the Three-Year Plan. 
+allowing the completion of one of the enabling platforms listed in the Three-Year Plan.
 
 Furthermore, it allows the creation of physical and digital public services that integrate the CIE as an identification tool
 (eg. for use of public transport) and contributes to achieving the European single digital market goal.
@@ -52,7 +53,7 @@ You will find our vision of the project and the role it will play in the operati
 ### Forum
 
 CIE is a project of national relevance. To foster a discussion and an exchange of viewpoints,
-as well as to encourage the participation of all players involved in the project, we created a 
+as well as to encourage the participation of all players involved in the project, we created a
 [forum](https://forum.italia.it/c/cie)
 
 
