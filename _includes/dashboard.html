@@ -1,4 +1,10 @@
 {% assign dashboard_url = page.dashboard_url %}
+{% assign dashboard_daily = page.dashboard_daily | default: false %}
+
+{% if dashboard_daily %}
+<small>{{ site.data.t.ProjectDashboardUpdateDaily[page.lang] }}</small>
+{% else %}
 <small>{{ site.data.t.ProjectDashboardUpdate[page.lang] }}<span id="getmonday"></span> </small>
+{% endif %}
 <iframe src="{{dashboard_url }}"  
         frameborder="0" width="100%" height="600" allowtransparency></iframe>
