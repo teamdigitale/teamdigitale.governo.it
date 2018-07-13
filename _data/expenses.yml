@@ -1,9 +1,9 @@
 ---
-SpeseUpdate: '05/07/2018'
+SpeseUpdate: '13/07/2018'
 SpeseDelTeam:
   - voce: Sviluppo software e design
     impegno: 4561826    
-    pagamenti: 1341175   
+    pagamenti: 1840514   
   - voce: Hardware e accessori
     impegno: 66230  
     pagamenti: 66230  
@@ -14,8 +14,8 @@ SpeseDelTeam:
     impegno:  170535    
     pagamenti: 99508   
   - voce: Funzionamento (missioni, eventi)
-    impegno:  96440  
-    pagamenti: 96440    
+    impegno:  99250  
+    pagamenti: 99250    
   - voce: Compensi Esperti*
     impegno:  4677833  
     pagamenti: 3544489   
@@ -58,7 +58,7 @@ SpeseAnalitiche:
     progetto: DAF
     ref: daf
     impegno: 63000  
-    pagamenti: 18000
+    pagamenti: 30000
     contraccordi: Accordo ISTC - CNR - progetto DAF
     descrizione: "L’accordo, stipulato nel 2017, è finalizzato alla creazione di Ontologie che permettano di applicare uno schema logico alle relazioni tra le entità descritte dai dati, migliorando la sistematizzazione dei dati nel Data & Analytics Framework  nonchè l’analisi e la ricerca dei dati stessi. Il successivo accordo, del 2018, ha ad oggetto l'estensione e la manutenzione delle predette Ontologie."
   - voce: Università di Bologna - CIRSFID
@@ -74,7 +74,7 @@ SpeseAnalitiche:
     progetto: DAF
     ref: daf
     impegno: 48788
-    pagamenti: 32524 
+    pagamenti: 48787 
     contraccordi: Contratto con GEOSOLUTIONS per Integrazione software per harvester nazionale basato su CKAN 
     descrizione: "Nell’ambito del progetto di evoluzione del catalogo nazionale dei dati aperti, attualmente denominato “dati.gov.it”, il contratto è finalizzato alla progettazione e allo sviluppo di un cosiddetto  “harvester” nazionale basato su tecnologia CKAN. Un harvester è definito come una componente software che, grazie all’uso di standard nazionali e di API (Application Programming Interface), sia in grado automaticamente e periodicamente di raccogliere metadati relativi a dati pubblici delle pubbliche amministrazioni (siano esse pubbliche amministrazioni centrali che regionali/comunali)."
   - voce: Università di BARI
