@@ -1,21 +1,21 @@
 ---
-SpeseUpdate: '20/07/2018'
+SpeseUpdate: '27/07/2018'
 SpeseDelTeam:
   - voce: Sviluppo software e design
     impegno: 4692667    
-    pagamenti: 1875460   
+    pagamenti: 1952824   
   - voce: Hardware e accessori
     impegno: 66230  
     pagamenti: 66230  
   - voce: Canoni software as a service
-    impegno: 47452
-    pagamenti: 47452  
+    impegno: 63265
+    pagamenti: 63265  
   - voce: Comunicazione e relazioni pubbliche
     impegno:  170535    
-    pagamenti: 105978   
+    pagamenti: 109378   
   - voce: Funzionamento (missioni, eventi)
-    impegno:  99250  
-    pagamenti: 99250    
+    impegno:  99341  
+    pagamenti: 99341    
   - voce: Compensi Esperti*
     impegno:  4677833  
     pagamenti: 3544489   
@@ -33,7 +33,7 @@ SpeseAnalitiche:
     progetto: DAF
     ref: daf
     impegno:  1133466 
-    pagamenti: 0
+    pagamenti: 450996
     contraccordi: Contratti con R.T.I. ALMAVIVA - adesioni a Contratto Quadro Consip SPC Cloud Lotto 3
     descrizione: "Nell’ambito del progetto Data & Analytics Framework il contratto è finalizzato allo sviluppo di funzionalità di base della piattaforma big data tra cui rientrano le componenti infrastrutturali in Cloud e on premises, l’installazione di software dell’ecosistema Hadoop, un sistema di applicazioni a microservizi per interagire e fare operazioni sui dati gestiti, un sistema di sicurezza per la gestione degli accessi e il logging delle attività svolte. L’attività riguarda, anche, l’integrazione delle basi di dati attualmente esistenti nella pubblica amministrazione in un data lake unificato, la predisposizione di un’architettura per esporre i dati verso 3rd parties applications, nonché la creazione di un ecosistema di data applications capace di utilizzare e sfruttare dati grezzi e aggregati per fornire funzionalità sia ad end-users che ad altre applicazioni."
   - voce: R.T.I. Telecom Italia S.p.A. (mandataria), HP Enterprise Services Italia S.r.l., Poste Italiane S.p.A. con socio unico, Postecom S.p.A. e Postel S.p.A.
@@ -82,7 +82,7 @@ SpeseAnalitiche:
     progetto: DAF
     ref: daf
     impegno:  48191 
-    pagamenti: 0
+    pagamenti: 24095
     contraccordi: Contratto con Università di Bari - DIPARTIMENTO DI INFORMATICA
     descrizione: "Nell’ambito del progetto DAF, il contratto è finalizzato all’utilizzo di un software specifico che consenta la costruzione di un sistema di FAQ basato su un motore di ricerca semantico. L’Università di Bari – Dipartimento di informatica, che ha condotto studi specialistici nel campo del Natural Language Processing (NPL) e ha realizzato un prodotto di Question Answering, effettuerà lo sviluppo del motore di ricerca citato, tramite l’adattamento dello stesso alle esigenze del progetto."
   - voce: Teradata Italia
