@@ -14,43 +14,58 @@ defaults: &defaults
 
 version: 2
 jobs:
+
+  build-artifacts:
+    <<: *defaults
+    steps:
+        - checkout
+        - restore_cache:
+            keys:
+            - v1-dependencies-ruby-{{ checksum "Gemfile.lock" }}
+            - v1-dependencies-ruby-
+        - run: bundle check || bundle install
+        - save_cache:
+            key: v1-dependencies-ruby-{{ checksum "Gemfile.lock" }}
+            paths:
+              - vendor/bundle
+        - restore_cache:
+            keys:
+            - v1-dependencies-node-{{ checksum "yarn.lock" }}
+            - v1-dependencies-node-
+        - run: yarn install --cache-folder ~/.cache/yarn
+        - save_cache:
+            key: v1-dependencies-node-{{ checksum "yarn.lock" }}
+            paths:
+              - node_modules
+              - ~/.cache/yarn
+        - run: yarn gulp build --env=circleci
+
+        - store_artifacts:
+            path: /home/circleci/teamdigitale.governo.it/_site
+
   build:
     <<: *defaults
     steps:
       - checkout
-
-      #
-      # Download and cache Ruby dependencies
-      #
-
       - restore_cache:
           keys:
           - v1-dependencies-ruby-{{ checksum "Gemfile.lock" }}
           - v1-dependencies-ruby-
-
       - run: bundle check || bundle install
-
       - save_cache:
           key: v1-dependencies-ruby-{{ checksum "Gemfile.lock" }}
           paths:
             - vendor/bundle
-
-      #
-      # Download and cache node dependencies
-      #
       - restore_cache:
           keys:
           - v1-dependencies-node-{{ checksum "yarn.lock" }}
           - v1-dependencies-node-
-
       - run: yarn install --cache-folder ~/.cache/yarn
-
       - save_cache:
           key: v1-dependencies-node-{{ checksum "yarn.lock" }}
           paths:
             - node_modules
             - ~/.cache/yarn
-
       # Build the site
       - run: yarn gulp build
 
@@ -97,9 +112,17 @@ jobs:
 
 workflows:
   version: 2
+  build-pr:
+    jobs:
+      - build-artifacts
+
   build-test-and-approval-deploy:
     jobs:
-      - build
+      - build:
+          filters:
+            branches:
+              only:
+                - development
       # TODO: run tests
       - deploy-staging:
           requires:

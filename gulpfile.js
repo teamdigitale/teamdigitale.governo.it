@@ -33,12 +33,18 @@ const exec = require('gulp-exec');
 const htmlproof_sitefolder = '_site/'
 const htmlproof_params = '--check-html --allow-hash-href --only-4xx --external_only --internal-domains teamdigitale.governo.it '
 
+var jekyll_config = " --config _config.yml"
+if (gutil.env.env === 'circleci') {
+    gutil.log("Producing CircleCI artifacts");
+    jekyll_config = " --config _config_staging.yml,_config.yml"
+}
+
 gulp.task('jekyll', function() {
   return gulp.src('index.html', {
       read: false
     })
     .pipe(shell([
-      'bundle exec jekyll build'
+      'bundle exec jekyll build ' + jekyll_config
     ]));
 });
 
