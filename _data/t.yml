@@ -104,6 +104,9 @@ Close:
 AnnualCompensation:
   en: "Annual Compensation"
   it: "Compenso su base annua"
+AnnualCompensationRole:
+  en: "Role and Compensation Level"
+  it: "Ruolo e fascia economica"
 Months:
   en: "months"
   it: "mesi"
