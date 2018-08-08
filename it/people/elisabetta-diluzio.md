@@ -3,7 +3,7 @@ title: Elisabetta Di Luzio
 lang: it
 permalink: /it/people/elisabetta-diluzio.htm 
 layout: people
-role: Collaboratore amministrativo di supporto alla struttura
+role: Assistente amministrativo di supporto alla struttura
 is_new: false
 twitter_user: 
 medium_user: 
@@ -12,7 +12,7 @@ ref: elisabetta-diluzio
 parent_ref: team
 start_date: 6 novembre 2017
 period_provided: fino al 15 settembre 2018
-annual_compensationrole: collaboratore amministrativo Area II - fascia economica F3 
+annual_compensationrole: assistente amministrativo Area II - fascia economica F3 
 approved_by_court: 
 ---
 I primi computer li ho visti all’inizio degli anni ’70 quando mio padre, tecnico della Selenia (azienda italiana che operava nei settori dell’elettronica e della difesa), mi portò a vedere dove lavorava. Devo dire che, all’epoca, il mio interesse per l’informatica si esaurì lì: davanti ai “calcolatori”non scattò alcun amore, nessuna passione.

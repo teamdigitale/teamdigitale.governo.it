@@ -3,7 +3,7 @@ title: Ornella Di Maria
 lang: it
 permalink: /it/people/ornella-dimaria.htm 
 layout: people
-role: Collaboratore amministrativo di supporto alla struttura
+role: Assistente amministrativo di supporto alla struttura
 is_new: false
 twitter_user: 
 medium_user: 
@@ -12,7 +12,7 @@ ref: ornella-dimaria
 parent_ref: team
 start_date: 8 gennaio 2018
 period_provided: fino al 15 settembre 2018
-annual_compensationrole: collaboratore amministrativo Area II - fascia economica F3 
+annual_compensationrole: assistente amministrativo Area II - fascia economica F3 
 approved_by_court: 
 ---
 Sono cresciuta in un paese in periferia di Roma e, dopo la maturità scientifica, ho studiato Discipline dello spettacolo alla Sapienza, scelta dettata dalla mia passione per il Cinema: il mio sogno era fare la sceneggiatrice o la regista.

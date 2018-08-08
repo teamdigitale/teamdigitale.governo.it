@@ -3,7 +3,7 @@ title: Fortunata Grande
 lang: it
 permalink: /it/people/fortunata-grande.htm 
 layout: people
-role: Collaboratore amministrativo di supporto a pagamenti ed acquisti
+role: Assistente amministrativo di supporto a pagamenti ed acquisti
 is_new: false
 twitter_user: 
 medium_user: 
@@ -12,7 +12,7 @@ ref: fortunata-grande
 parent_ref: team
 start_date: 1 febbraio 2018
 period_provided: fino al 15 settembre 2018
-annual_compensationrole: collaboratore amministrativo Area II - fascia economica F3 
+annual_compensationrole: assistente amministrativo Area II - fascia economica F3 
 approved_by_court: 
 ---
 Sono nata in un piccolo capoluogo di provincia della Calabria, dove mi sono diplomata in Ragioneria nel 1987.
