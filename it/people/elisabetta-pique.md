@@ -12,6 +12,7 @@ linkedin_url: https://linkedin.com/in/elisabettapique
 ref: elisabetta-pique
 parent_ref: team
 start_date: 1 aprile 2018
+end_date: 30 giugno 2018
 period_provided: fino al 30 giugno 2018
 approved_by_court: 14 maggio 2018
 annual_compensation: € 60.000

@@ -10,6 +10,7 @@ linkedin_url: https://www.linkedin.com/in/giuseppepalestra
 ref: giuseppe-palestra
 parent_ref: team
 start_date: 23 ottobre 2017
+end_date: 31 luglio 2018
 period_provided: 16 settembre 2018
 annual_compensation: € 60.000
 approved_by_court: 30 Novembre 2017
