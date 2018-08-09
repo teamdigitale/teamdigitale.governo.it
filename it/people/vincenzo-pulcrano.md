@@ -18,7 +18,7 @@ approved_by_court:
 Il mio percorso formativo è definito, in genere, come tipicamente “tradizionale”: liceo classico a Pomigliano d’Arco - paese dove sono cresciuto - laurea in giurisprudenza conseguita all’Università degli studi di Napoli Federico II, Scuola di specializzazione in professioni legali, due anni di pratica forense, l’abilitazione all’esercizio della professione di avvocato e, intanto, lo studio matto e disperato per i mille concorsi che mi avrebbero consentito di accedere al mondo della pubblica amministrazione, realizzando le mie aspirazioni personali e professionali, in coerenza con le mie inclinazioni e il mio percorso di studi.
 
 Di concorsi ne ho superati vari, facilitato dalla mia passione per il diritto amministrativo e per la scrittura, quella con penna e foglio, cosa che è emersa anche durante il colloquio con il Responsabile delle risorse umane del primo Ente presso il quale, nel 2010, sono stato assunto:
-Responsabile: qual'è il tuo rapporto con il PC?
+Responsabile: qual è il tuo rapporto con il PC?
 Vincenzo:  preferisco penna e carta alla tastiera!
 Morale della favola: sono assegnato alla Direzione Sistemi Informativi dell’Agenzia del Territorio e per qualche mese mi sono chiesto cosa potesse mai fare un avvocato in una Direzione di ingegneri. 
 
