@@ -52,8 +52,8 @@
 {% if page.annual_compensation != nil %}
   <p>{{site.data.t.AnnualCompensation[page.lang]}}: {{ page.annual_compensation }}</p>
 {% endif %}
-{% if page.annual_compensationrole != nil %}
-  <p>{{site.data.t.AnnualCompensationRole[page.lang]}}: {{ page.annual_compensationrole }}</p>
+{% if page.pa_compensation_level != nil %}
+  <p>{{site.data.t.CompensationLevel[page.lang]}}: {{ page.pa_compensation_level }}</p>
 {% endif %}
 {% if page.approved_by_court != nil %}
   <p>{{site.data.t.ApprovedOn[page.lang]}}: {{ page.approved_by_court }}</p>

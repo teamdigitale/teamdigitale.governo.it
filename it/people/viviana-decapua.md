@@ -12,7 +12,7 @@ ref: viviana-decapua
 parent_ref: team
 start_date: 16 marzo 2017 
 period_provided: fino al 15 settembre 2018
-annual_compensationrole: funzionario amministrativo Area III - fascia economica F1 
+pa_compensation_level: funzionario amministrativo Area III - fascia economica F1 
 approved_by_court: 
 ---
 Sin da quando ero piccola la cultura e la musica fanno parte della mia vita. Mio nonno, infatti, era un Professore d'orchestra e insegnante al conservatorio e io amo tutto ciò che ha a che fare con l’arte. Sin da ragazzina, essendo molto curiosa, impiegavo la mia paghetta per l’acquisto di libri.

@@ -12,7 +12,7 @@ ref: fortunata-grande
 parent_ref: team
 start_date: 1 febbraio 2018
 period_provided: fino al 15 settembre 2018
-annual_compensationrole: assistente amministrativo Area II - fascia economica F3 
+pa_compensation_level: assistente amministrativo Area II - fascia economica F3 
 approved_by_court: 
 ---
 Sono nata in un piccolo capoluogo di provincia della Calabria, dove mi sono diplomata in Ragioneria nel 1987.

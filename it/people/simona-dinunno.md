@@ -12,7 +12,7 @@ ref: simona-dinunno
 parent_ref: team
 start_date: 24 ottobre 2017
 period_provided: fino al 15 settembre 2018
-annual_compensationrole: funzionario amministrativo Area III - fascia economica F2 
+pa_compensation_level: funzionario amministrativo Area III - fascia economica F2 
 approved_by_court: 
 ---
 Sono nata in Puglia e, dopo la maturità scientifica, ho studiato Giurisprudenza all’Università di Bologna, affascinata dalla tradizione di questa Facoltà e dalla vivacità culturale ed economica che anima la città.
