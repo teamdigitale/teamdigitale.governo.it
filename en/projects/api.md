@@ -44,6 +44,11 @@ The old [SPCoop Application Cooperation](http://www.agid.gov.it/agenda-digitale/
 
 Together with AgID, we are working on the definition of the technical rules, guidelines, technology standards and the profiles that each public administration must adopt, as well as on the design of a new API Catalogue.
 
+We confronted continuously with other european institutions, 
+contributed to the discussion around interesting and related standards
+and promoting the new framework during [national](https://forumpa2018.eventifpa.it/it/event-details/?id=8030) 
+and [international](https://www.slideshare.net/TeamDigitale/interoperability-rules-for-an-european-api-ecosystem-do-we-still-need-soap-107649055) events.
+
 
 ### Media
 

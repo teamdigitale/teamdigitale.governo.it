@@ -44,6 +44,11 @@ Il vecchio modello di [Cooperazione Applicativa SPCoop](http://www.agid.gov.it/a
 
 Stiamo lavorando insieme ad AgID nella definizione di regole tecniche, linee guida, standard tecnologici e profili che ogni PA dovrà adottare, nonchè nella progettazione di un nuovo Catalogo delle API.
 
+Il tutto confrontandoci con istituzioni europee ed estere, 
+contribuendo nei forum alla discussione sugli standard di  interesse 
+e promuovendo il nuovo modello durante eventi [nazionali](https://forumpa2018.eventifpa.it/it/event-details/?id=8030) 
+ed [internazionali](https://www.slideshare.net/TeamDigitale/interoperability-rules-for-an-european-api-ecosystem-do-we-still-need-soap-107649055).
+
 
 ### Media 
 Per ogni richiesta di contatto da parte di media e giornalisti il punto di riferimento è l'ufficio stampa e comunicazione del Team per la Trasformazione digitale
