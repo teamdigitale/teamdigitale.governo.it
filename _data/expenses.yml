@@ -1,9 +1,9 @@
 ---
-SpeseUpdate: '27/07/2018'
+SpeseUpdate: '10/08/2018'
 SpeseDelTeam:
   - voce: Sviluppo software e design
-    impegno: 4692667    
-    pagamenti: 1952824   
+    impegno: 4881818    
+    pagamenti: 2155534   
   - voce: Hardware e accessori
     impegno: 66230  
     pagamenti: 66230  
@@ -32,7 +32,7 @@ SpeseAnalitiche:
     titolobreve: Adesioni a Contratto Quadro Consip SPC Cloud Lotto 3 per attività di sviluppo tecnologico del DAF
     progetto: DAF
     ref: daf
-    impegno:  1133466 
+    impegno:  165963 
     pagamenti: 450996
     contraccordi: Contratti con R.T.I. ALMAVIVA - adesioni a Contratto Quadro Consip SPC Cloud Lotto 3
     descrizione: "Nell’ambito del progetto Data & Analytics Framework il contratto è finalizzato allo sviluppo di funzionalità di base della piattaforma big data tra cui rientrano le componenti infrastrutturali in Cloud e on premises, l’installazione di software dell’ecosistema Hadoop, un sistema di applicazioni a microservizi per interagire e fare operazioni sui dati gestiti, un sistema di sicurezza per la gestione degli accessi e il logging delle attività svolte. L’attività riguarda, anche, l’integrazione delle basi di dati attualmente esistenti nella pubblica amministrazione in un data lake unificato, la predisposizione di un’architettura per esporre i dati verso 3rd parties applications, nonché la creazione di un ecosistema di data applications capace di utilizzare e sfruttare dati grezzi e aggregati per fornire funzionalità sia ad end-users che ad altre applicazioni."
@@ -41,14 +41,14 @@ SpeseAnalitiche:
     progetto: DAF
     ref: daf
     impegno:  193815 
-    pagamenti: 0
+    pagamenti: 18833
     contraccordi: Contratti con R.T.I. Telecom Italia S.p.A.- adesioni a Contratto Quadro Consip SPC Cloud Lotto 1
     descrizione: "Nell’ambito del progetto Data & Analytics Framework il contratto è finalizzato al'acquisizione di Virtual Data Center a canone al fine di creare un cluster big data basato su Hadoop e suo ecosistema accoppiato ad una installazione di un DB operazionale (MongoDB) e ad un layer di esposizione dati tramite API"
   - voce: R.T.I. Almaviva S.p.A. (mandataria), Almawave s.r.l., INDRA ITALIA S.p.A.,PricewaterhouseCoopers Advisory S.p.A.
     titolobreve: Adesione a Contratto Quadro Consip SPC Cloud Lotto 4 per “Servizi di realizzazione e gestione di Portali e Servizi on-line” 
     progetto: Designers
     ref: designers
-    impegno:  81417 
+    impegno:  222011 
     pagamenti: 0
     contraccordi: Contratto con R.T.I. ALMAVIVA - adesione a Contratto Quadro Consip SPC Cloud Lotto 4
     descrizione: "Nell'ambito del progetto Designers Italia, il contratto è finalizzato alla realizzazione di servizi innovativi abilitanti, forniti secondo un modello di community cloud, per l’attuazione dell’Agenda Digitale Italiana , al fine ultimo di realizzare servizi pubblici per i cittadini e le aziende accessibili nel modo più semplice possibile, innanzitutto tramite dispositivi mobili, con architetture sicure, scalabili e altamente affidabili."
