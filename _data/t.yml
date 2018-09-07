@@ -239,6 +239,12 @@ HomeBannerMore:
 HomeBannerProjects:
   en: "Our projects"
   it: "I nostri progetti"
+HomeBannerReport:
+  en: "Report"
+  it: "Report"
+HomeBannerReportSubtitle:
+  en: "All the activites of the Team"
+  it: "Tutte le attività del Team"
 NewsletterEmail:
   en: "Your e-mail"
   it: "Inserisci la tua email"
