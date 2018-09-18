@@ -11,6 +11,7 @@ linkedin_url: https://www.linkedin.com/in/gvarisco
 ref: gianluca-varisco
 parent_ref: team
 start_date: 9 gennaio 2017
+end_date: 16 settembre 2018
 period_provided: fino al 16 settembre 2018
 annual_compensation: € 150.000
 approved_by_court: 3 maggio 2017
