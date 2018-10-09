@@ -1,0 +1,65 @@
+---
+title: Docs Italia
+lang: it
+permalink: /it/projects/docs.htm
+layout: project
+ref: docs
+parent_ref: projects
+parent_menu: projects
+people: [giovanni-bajo, lorenzo-fabbri, francesco-zaia]
+toc: true
+twitter_user: developersita
+medium_tag: docs
+forum_category: design/content
+forum_limit: 3
+timeline:
+  - period: Maggio 2017
+    title: Nasce Docs Italia
+    desc: E' on line la prima versione della piattaforma basata sul progetto readthedocs
+  - period: Settembre 2017
+    title: Pubblicato il piano triennale per la trasformazione digitale
+    desc: Il piano triennale per l'informatica nella Pubblica Amministrazione viene pubblicato su Docs Italia
+  - period: Giugno 2018
+    title: Nuova release della piattaforma 
+    desc: La piattaforma gestisce ora il processo di consultazione pubblica di documenti,stabilito dal CAD
+  - period: Giugno 2017
+    title: Linee guida per il software open source
+    desc: Le linee guida per l'adozione e l'utilizzo di software open source vengono pubblicate su Docs Italia
+  - period: Agosto 2017
+    title: Designers Italia
+    desc: Pubblicata, utilizzando il version control system di Docs Italia, la versione 2018 delle linee guida di design
+  - period: Agosto 2017
+  - period: Ottobre 2018
+    title: Nuova release di Docs Italia
+    desc: Nuovo stile per i documenti, che consente soluzioni più flessibili per produrre documenti ancora più facili e piacevole da leggere
+    status: todo
+  - period: Dicembre 2018
+    title: Nuove funzionalità di navigazione e ricerca tra i documenti
+---
+
+### In breve
+Intendiamo creare linee guida, esempi e kit di sviluppo che possano aiutare tutte le Amministrazioni ad  offrire servizi digitali semplici da usare per i cittadini. Vogliamo introdurre una logica di sviluppo e miglioramento continuo, perché i prodotti digitali e le interfacce devono essere un corpo vivo, che evolve insieme ai bisogni degli utenti e alle innovazioni digitali. Il primo passo è stato la creazione di [Designers Italia](https://designers.italia.it).
+
+### Il ruolo del Team
+Obiettivo di [Designers Italia](https://designers.italia.it) è diffondere una cultura del design dei servizi digitali che metta al centro il cittadino per far risparmiare tempo e denaro alla pubblica amministrazione e innalzare la qualità dei servizi.
+Il team per la trasformazione digitale ha rafforzato il progetto esistente relativo alle linee guida dei siti web pubbici creando una piattaforma - Designers Italia - che si pone come punto di incontro tra mondo del design e pubblica amministrazione. La documentazione relativa alle linee guida di design deve uscire dalla versione alpha e abbracciare tutti gli aspetti dello human centered design: service design, user interface design, content design e user research.
+Designers Italia non solo produce guide e kit per tutte le amministrazioni pubbliche, ma segue direttamente alcuni dei servizi digitali pubblici “infrastrutturali” come PagoPA e SPID e avvia la creazione di modelli per le diverse tipologie di siti web pubblici, a partire da un progetto dedicato ai siti delle scuole.
+
+
+{% include medium_project.html %}
+
+### Forum
+
+Uno spazio di discussione sul design dei servizi pubblici.
+{% include forum.html %}
+
+{% include twitter_timeline.html %}
+
+### Media
+Per ogni richiesta di contatto da parte di media e giornalisti il punto di riferimento è l'ufficio stampa e comunicazione del Team per la Trasformazione digitale
+
+{% include ipress.html %}
+<div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="it" data-size="100" data-tag="9"></div>
+<script type="text/javascript" src="/js/ipress.js"></script>
+
+{% include project_timeline.html %}
