@@ -2,7 +2,6 @@
   "private": true,
   "devDependencies": {
     "gulp": "^3.9.1",
-    "gulp-autoprefixer": "^6.0.0",
     "gulp-clean": "^0.4.0",
     "gulp-clean-css": "^3.0.3",
     "gulp-concat": "^2.6.1",
@@ -13,7 +12,6 @@
     "gulp-rsync": "0.0.8",
     "gulp-shell": "^0.6.5",
     "gulp-uglify": "^3.0.1",
-    "gulp-uncss": "^1.0.6",
     "gulp-util": "^3.0.8",
     "imagemin-gifsicle": "^5.1.0",
     "imagemin-jpegtran": "^5.0.2",
