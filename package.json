@@ -13,6 +13,7 @@
     "gulp-shell": "^0.6.5",
     "gulp-uglify": "^3.0.1",
     "gulp-util": "^3.0.8",
+    "imagemin": "^6.0.0",
     "imagemin-gifsicle": "^5.1.0",
     "imagemin-jpegtran": "^5.0.2",
     "imagemin-pngquant": "^6.0.0",
