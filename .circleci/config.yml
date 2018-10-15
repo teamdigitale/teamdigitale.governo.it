@@ -2,6 +2,7 @@
 #
 # Check https://circleci.com/docs/2.0/ for more details
 #
+# test ioggstream2
 
 defaults: &defaults
   working_directory: /home/circleci/teamdigitale.governo.it
@@ -40,13 +41,13 @@ jobs:
       #
       - restore_cache:
           keys:
-          - v1-dependencies-node-{{ checksum "yarn.lock" }}
-          - v1-dependencies-node-
+          - v1-dependencies-1-node-{{ checksum "yarn.lock" }}
+          - v1-dependencies-1-node-
 
       - run: yarn install --cache-folder ~/.cache/yarn
 
       - save_cache:
-          key: v1-dependencies-node-{{ checksum "yarn.lock" }}
+          key: v1-dependencies-1-node-{{ checksum "yarn.lock" }}
           paths:
             - node_modules
             - ~/.cache/yarn
