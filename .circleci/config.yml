@@ -2,6 +2,7 @@
 #
 # Check https://circleci.com/docs/2.0/ for more details
 #
+# Test ioggstream
 
 defaults: &defaults
   working_directory: /home/circleci/teamdigitale.governo.it
