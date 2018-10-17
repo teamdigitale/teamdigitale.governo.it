@@ -31,7 +31,13 @@ timeline:
     desc: Abbiamo un obiettivo di attivare lo sviluppo su 10 diversi progetti in community, coinvolgendo le amministrazioni di competenza nel nuovo modello di sviluppo aperto e collaborativo.
   - period: Q1 2018
     title: Superamento del modello del "Catalogo del Riuso"
-    desc: Pubblicheremo delle nuove linee guida che supereranno l'attuale "Catalogo del Riuso" di AgID, promuovendo invece la pubblicazione di codice con licenza open-source, come sistema superiore per convidere il codice tra diverse amministrazioni, senza necessità di contratti.
+    desc: Abbiamo pubblicato le nuove [linee guida](https://docs.italia.it/AgID/linee-guida-riuso-software/lg-acquisizione-e-riuso-software-per-pa-docs/) che superano l'attuale "Catalogo del Riuso" di AgID, promuovendo invece la pubblicazione di codice con licenza open-source, come sistema superiore per convidere il codice tra diverse amministrazioni, senza necessità di contratti.
+  - period: Q2 2018
+    title: Catalogo delle API
+    desc: Developers Italia contiene il nuovo catalogo delle API, integrato con Swagger.
+  - period: Q3 2018
+    title: Developers Italia 2.0
+    desc: Oltre alle piattaforme abilitanti nazionali, Developers Italia fungerà da nuovo catalogo per il software open source e a riuso, in attuazione delle nuove linee guida in materia.
     status: todo
 
 
@@ -65,6 +71,8 @@ Da questo approccio è nato [Hack Developers](https://hack.developers.italia.it/
  <div class="videoWrapper">
  <iframe width="560" height="315" src="https://www.youtube.com/embed/8jIID_GmU5Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
  </div>
+
+Nel 2018, in stretta collaborazione con AgID, abbiamo lavorato alla stesura delle nuove [Linee Guida per l'Acquisizione e il Riuso di Software per le Pubbliche Amministrazioni](https://docs.italia.it/AgID/linee-guida-riuso-software/lg-acquisizione-e-riuso-software-per-pa-docs/) che applicano un modello basato sull'open source e mettono le basi per un'efficace costruzione di un patrimonio di software pubblico aperto e di qualità.
 
 {% include medium_project.html %}
 

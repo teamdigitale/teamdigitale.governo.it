@@ -31,7 +31,13 @@ timeline:
     desc: Our objective is to integrate the development of 10 different community projects, involving the administrations responsible for them in the new open and collaborative development model.
   - period: Q1 2018
     title: Going beyond the &quot;Catalogue of the Reuse&quot; model
-    desc: We will publish some new guidelines that will supersede the current AgID &quot;Reuse Catalogue&quot;, promoting the publishing of all code on collaborative platforms (such as GitHub or GitLab). We aim to go beyond (and simplify) the current system for sharing the code between different administrations, a system which doesn't have the need for contracts or other bureaucratic impediments.
+    desc: We published the new [guidelines](https://docs.italia.it/AgID/linee-guida-riuso-software/lg-acquisizione-e-riuso-software-per-pa-docs/) that supersede the current AgID &quot;Reuse Catalogue&quot;, promoting the publishing of all code on collaborative platforms (such as GitHub or GitLab). We aim to go beyond (and simplify) the current system for sharing the code between different administrations, a system which doesn't have the need for contracts or other bureaucratic impediments.
+  - period: Q2 2018
+    title: API catalogue
+    desc: Developers Italia now contains a new API catalogue with Swagger integration. Further work is planned on this catalogue.
+  - period: Q3 2018
+    title: Developers Italia 2.0
+    desc: In addition to the national enabling platforms, Developers Italia will host the new Reuse Catalogue for open source and reusable software, according to the new guidelines.
     status: todo
 ---
 
@@ -52,6 +58,13 @@ Developers Italia community. We decided to rely on common, public tools (GitHub 
 We then began to immediately involve the people who were approaching the project, through periodic online calls, drafting
 open roadmaps and architectural documents. At the same time, we meet with the administrations that take responsability for the main &quot;enabling platforms&quot; (the pillars of the new digital infrastructure, on which digital services are built) and began a journey with them to bring the development of those projects within Developers Italia.
 
+Following this approach we organized [Hack Developers](https://hack.developers.italia.it/), the largest hackathon about public services. Here's some footage from this event, which took place in 26 Italian cities in October 2017:
+
+ <div class="videoWrapper">
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/8jIID_GmU5Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+ </div>
+
+In 2018, working closesly with AgID, we worked on the new [Guidelines for Acquisition and Reuse of Software](https://docs.italia.it/AgID/linee-guida-riuso-software/lg-acquisizione-e-riuso-software-per-pa-docs/) which apply a new model based on open source.
 
 {% include medium_project.html %}
 
