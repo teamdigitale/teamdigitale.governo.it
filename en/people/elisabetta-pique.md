@@ -3,16 +3,19 @@ title: Elisabetta Pique'
 lang: en
 permalink: /en/people/elisabetta-pique.html
 layout: people
-role: Executive Assistant of Diego Piacentini
+role: Program Manager ANPR
+pre_role: Executive Assistant of Diego Piacentini
 is_new: false
 twitter_user: elisabettapique
 medium_user:
 linkedin_url: https://linkedin.com/in/elisabettapique
 ref: elisabetta-pique
 parent_ref: team
-start_date: 27 February 2017
-period_provided: until 31st December 2017
-approved_by_court: 5 April 2017
+start_date: 1 April 2018
+end_date: 30 June 2018
+period_provided: until 30st June 2018
+approved_by_court: 14 May 2018
+annual_compensation: € 60.000
 ---
 My first interaction with a computer happened when I was 10: it was very big, heavy, with black and white images; my dad used to code on it in MS-DOS. Unlike my colleagues of the Italian Digital Team, I didn’t become a developer or a computer scientist but, inside me, the interest for technologies remained vivid. I am fascinated by the potential of streamlining and improving many aspects of everyday life and by all the possibilities that could arise from these processes. I believe my passion for data analytics and optimization was born this way.
 

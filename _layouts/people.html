@@ -1,6 +1,9 @@
 {% capture people_page_content %}
 <h2>{{ page.title }}</h2>
 <h4>{{ page.role }}</h4>
+{% if page.pre_role %}
+<h4 style="color: #ccc;margin:0;font-size:2rem;">{{ site.data.t.PreRole[page.lang] }} {{ page.pre_role }}</h4>
+{% endif %}
 
 <div class="row">
   <div class="col-sm-6">
@@ -48,6 +51,9 @@
 {% endif %}
 {% if page.annual_compensation != nil %}
   <p>{{site.data.t.AnnualCompensation[page.lang]}}: {{ page.annual_compensation }}</p>
+{% endif %}
+{% if page.pa_compensation_level != nil %}
+  <p>{{site.data.t.CompensationLevel[page.lang]}}: {{ page.pa_compensation_level }}</p>
 {% endif %}
 {% if page.approved_by_court != nil %}
   <p>{{site.data.t.ApprovedOn[page.lang]}}: {{ page.approved_by_court }}</p>

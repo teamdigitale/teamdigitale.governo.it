@@ -6,7 +6,7 @@ layout: project
 ref: api
 parent_ref: projects
 parent_menu: projects
-people: [simone-piunno, giovanni-bajo]
+people: [simone-piunno, giovanni-bajo, roberto-polli]
 toc: true
 forum_category:
 forum_limit: 3
@@ -17,9 +17,16 @@ timeline:
   - period: Luglio 2017
     title: Pubblicazione delle Linee guida per transitare al nuovo Modello di interoperabilità
     desc: sono state pubblicate le Linee guida per transitare al nuovo Modello di interoperabilità che danno alcune indicazioni preliminari sui passi da seguire in attesa del rilascio della documentazione completa.
-  - period: Dicembre 2017
-    title: Pubblicazione del Nuovo Modello di Interoperabilità
-    desc: Pubblicazione della documentazione completa sul nuovo Modello di Interoperabilità.
+  - period: Maggio 2018
+    title: Consultazione del Nuovo Modello di Interoperabilità
+    desc: Pubblicazione in consultazione della documentazione sul nuovo Modello di Interoperabilità.
+  - period: Agosto 2018
+    title: Pubblicazione completa Nuovo Modello di Interoperabilità
+    desc: Pubblicazione versione finale della documentazione completa sul nuovo Modello di Interoperabilità.
+    status: todo
+  - period: Dicembre 2018
+    title: Marketplace delle API
+    desc: Prima versione del Catalogo / Marketplace delle API
     status: todo
 ---
 
@@ -29,7 +36,7 @@ Questo progetto rappresenta l'esecuzione del [Capitolo 5 Modello di Interoperabi
 
 I sistemi informatici della Pubblica Amministrazione devono essere connessi tra loro e parlare la stessa lingua, rendendo disponibile l’informazione immediatamente dove serve. Tutte le applicazioni dovranno esporre interfacce comprensibili alle macchine (dette API - [Application Programming Interface](https://it.wikipedia.org/wiki/Application_programming_interface)) e lavorare in maniera integrata, collaborativa e sicura, facilitando il riuso delle applicazioni esistenti per costruire nuove soluzioni più potenti e innovative.  
 
-Il vecchio modello di [Cooperazione Applicativa SPCoop](http://www.agid.gov.it/agenda-digitale/infrastrutture-architetture/sistema-pubblico-connettivita/cooperazione-applicativa), basato sulle [Porte di Dominio](http://www.agid.gov.it/sites/default/files/documentazione/spcoop-portadominio_v1.1_0.pdf), non è più efficace e [sarà superato](http://lg-transizione-interoperabilita.readthedocs.io/) da un nuovo modello aperto, che avrà anche l'obiettivo di semplificare le procedure di convenzione tra gli enti e l'interazione con il Garante della Privacy.
+Il vecchio modello di [Cooperazione Applicativa SPCoop](http://www.agid.gov.it/agenda-digitale/infrastrutture-architetture/sistema-pubblico-connettivita/cooperazione-applicativa), basato sulle [Porte di Dominio](http://www.agid.gov.it/sites/default/files/documentazione/spcoop-portadominio_v1.1_0.pdf), non è più efficace e [sarà superato](http://lg-transizione-interoperabilita.readthedocs.io/) da un nuovo modello aperto ([ora in consultazione](https://lg-modellointeroperabilita.readthedocs.io)), che avrà anche l'obiettivo di semplificare le procedure di convenzione tra gli enti e l'interazione con il Garante della Privacy.
 
 **[Segui gli ultimi aggiornamenti del progetto su Twitter](https://twitter.com/search?f=tweets&vertical=default&q=api%20list%3AteamdigitaleIT%2Fteam-digitale)**
 

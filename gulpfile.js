@@ -21,9 +21,7 @@ const pngquant = require('imagemin-pngquant');
 const jpegtran = require('imagemin-jpegtran');
 const gifsicle = require('imagemin-gifsicle');
 const minifyHTML = require('gulp-minify-html');
-const autoprefixer = require('gulp-autoprefixer');
-const uncss = require('gulp-uncss');
-const cleanCss = require('gulp-clean-css');
+const cleanCSS = require('gulp-clean-css');
 const concat = require('gulp-concat');
 const rename = require('gulp-rename');
 const uglify = require('gulp-uglify');
@@ -79,12 +77,7 @@ gulp.task('optimize-html', function() {
 
 gulp.task('optimize-css', function() {
   return gulp.src('styles/*.css')
-    // .pipe(autoprefixer())
-    // .pipe(uncss({
-    //   html: ['_site/**/*.html'],
-    //   ignore: []
-    // }))
-    .pipe(cleanCss({
+    .pipe(cleanCSS({
       keepBreaks: false
     }))
     .pipe(gulp.dest('_site/styles'));

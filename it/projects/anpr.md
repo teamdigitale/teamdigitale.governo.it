@@ -6,13 +6,14 @@ layout: project
 ref: anpr
 parent_ref: projects
 parent_menu: projects
-people: [carlo-contavalli, mirko-calvaresi, luca-bigliardi, giuseppe-pasceri]
+people: [carlo-contavalli, mirko-calvaresi, luca-bigliardi, giuseppe-pasceri, elisabetta-pique]
 toc: true
 medium_tag: anpr
 forum_category: anpr
 forum_limit: 3
 twitter_tag: anpr
 tweetdeck_id: 913424743981895680
+dashboard_daily: true
 dashboard_url: https://dashboard.teamdigitale.governo.it/public/dashboard/2414d40b-9273-4e54-83ae-df346826fc53
 ---
 

@@ -1,24 +1,24 @@
 ---
-SpeseUpdate: '20/04/2018'
+SpeseUpdate: '28/09/2018'
 SpeseDelTeam:
   - voce: Sviluppo software e design
-    impegno: 3217859    
-    pagamenti: 1198189   
+    impegno: 4877957    
+    pagamenti: 2992558   
   - voce: Hardware e accessori
-    impegno: 54713  
-    pagamenti: 39728  
+    impegno: 66230  
+    pagamenti: 66230  
   - voce: Canoni software as a service
-    impegno: 47452
-    pagamenti: 47452  
+    impegno: 63265
+    pagamenti: 63265  
   - voce: Comunicazione e relazioni pubbliche
     impegno:  170535    
-    pagamenti: 99252   
+    pagamenti: 97178   
   - voce: Funzionamento (missioni, eventi)
-    impegno:  70748    
-    pagamenti: 59732    
+    impegno:  107753  
+    pagamenti: 107753    
   - voce: Compensi Esperti*
-    impegno:  4679615  
-    pagamenti: 2987460   
+    impegno:  4673718 
+    pagamenti: 4286000   
 SpeseAnalitiche:
   - voce: Ministero dell'Interno
     titolobreve: Accordo con il Ministero dell'Interno per attività di sviluppo tecnologico di ANPR
@@ -29,29 +29,38 @@ SpeseAnalitiche:
     contraccordi: Accordo con il Ministero dell’interno per l’implementazione del progetto relativo alla realizzazione dell’Anagrafe nazionale della popolazione residente
     descrizione: "L’accordo del 28 giugno 2017, stipulato con il Ministero dell’interno, è volto ad accelerare il completamento delle attività di sviluppo tecnologico dell'Anagrafe nazionale della popolazione residente (ANPR), banca dati nazionale unica, nella quale far confluire i dati anagrafici di tutti i residenti in Italia e degli italiani residenti all'estero. Il progetto ANPR si articola in tre fasi: attività di preparazione alla migrazione dei comuni in ANPR; migrazione dei comuni; fase a regime. Il Commissario, supportato da un proprio team (Program Office), cura il coordinamento tecnico-operativo delle attività e dei processi necessari alla realizzazione del progetto. L’accordo definisce nuove impostazioni concernenti modalità e strumenti di lavoro nonché la creazione di un ambiente free test e prevede una serie di attività specifiche, anche di carattere tecnico operativo, tra cui: elaborazione del piano di migrazione dei comuni, realizzazioni e implementazioni funzioni software, attività di supporto al subentro dei comuni, creazione di una pagina web vetrina dedicata al progetto, messa a disposizione di un sistema informatico di gestione delle richieste di assistenza e segnalazioni di problemi, da utilizzare come strumento di risoluzione delle segnalazioni e delle proposte evolutive dei Comuni che migrano in ANPR. "
   - voce: R.T.I. Almaviva S.p.A. (mandataria), Almawave s.r.l., INDRA ITALIA S.p.A.,PricewaterhouseCoopers Advisory S.p.A.
-    titolobreve: Adesione a Contratto Quadro Consip SPC Cloud Lotto 3 per attività di sviluppo tecnologico del DAF
+    titolobreve: Adesioni a Contratto Quadro Consip SPC Cloud Lotto 3 per attività di sviluppo tecnologico del DAF
     progetto: DAF
     ref: daf
-    impegno:  456129 
-    pagamenti: 0
-    contraccordi: Contratto con R.T.I. ALMAVIVA - adesione a Contratto Quadro Consip SPC Cloud Lotto 3
-    descrizione: "Nell’ambito del progetto Data & Analytics Framework il contratto è finalizzato allo sviluppo di funzionalità di base della piattaforma big data tra cui rientrano le componenti infrastrutturali in Cloud e on premises, l’installazione di software dell’ecosistema Hadoop, un sistema di applicazioni a microservizi per interagire e fare operazioni sui dati gestiti, un sistema di sicurezza per la gestione degli accessi e il logging delle attività svolte. L’attività riguarda, anche, l’integrazione delle basi di dati attualmente esistenti nella pubblica amministrazione in un data lake unificato, la predisposizione di un’architettura per esporre i dati verso 3rd parties applications, nonché la creazione di un ecosistema di data applications capace di utilizzare e sfruttare dati grezzi e aggregati per fornire funzionalità sia ad end-users che ad altre applicazioni."
+    impegno:  1645963 
+    pagamenti: 1133466
+    contraccordi: Contratti con R.T.I. ALMAVIVA - adesioni a Contratto Quadro Consip SPC Cloud Lotto 3
+    descrizione: "Nell’ambito del progetto Data & Analytics Framework i contratti esecutivi, stipulati a valle delle adesioni all'Accordo quadro Consip, sono finalizzati allo sviluppo di funzionalità di base della piattaforma big data tra cui rientrano le componenti infrastrutturali in Cloud e on premises, l’installazione di software dell’ecosistema Hadoop, un sistema di applicazioni a microservizi per interagire e fare operazioni sui dati gestiti, un sistema di sicurezza per la gestione degli accessi e il logging delle attività svolte. L’attività riguarda, anche, l’integrazione delle basi di dati attualmente esistenti nella pubblica amministrazione in un data lake unificato, la predisposizione di un’architettura per esporre i dati verso 3rd parties applications, nonché la creazione di un ecosistema di data applications capace di utilizzare e sfruttare dati grezzi e aggregati per fornire funzionalità sia ad end-users che ad altre applicazioni."
   - voce: R.T.I. Telecom Italia S.p.A. (mandataria), HP Enterprise Services Italia S.r.l., Poste Italiane S.p.A. con socio unico, Postecom S.p.A. e Postel S.p.A.
-    titolobreve: Adesione a Contratto Quadro Consip SPC Cloud Lotto 1 per Cloud per il DAF
+    titolobreve: Adesioni a Contratto Quadro Consip SPC Cloud Lotto 1 per Cloud per il DAF
     progetto: DAF
     ref: daf
-    impegno:  33548 
+    impegno:  193815 
+    pagamenti: 18833
+    contraccordi: Contratti con R.T.I. Telecom Italia S.p.A.- adesioni a Contratto Quadro Consip SPC Cloud Lotto 1
+    descrizione: "Nell’ambito del progetto Data & Analytics Framework i contratti, stipulati a valle delle adesioni all'Accordo quadro Consip, sono finalizzati all'acquisizione di Virtual Data Center a canone al fine di creare un cluster big data basato su Hadoop e suo ecosistema accoppiato ad una installazione di un DB operazionale (MongoDB) e ad un layer di esposizione dati tramite API"
+  - voce: R.T.I. Almaviva S.p.A. (mandataria), Almawave s.r.l., INDRA ITALIA S.p.A.,PricewaterhouseCoopers Advisory S.p.A.
+    titolobreve: Adesione a Contratto Quadro Consip SPC Cloud Lotto 4 per “Servizi di realizzazione e gestione di Portali e Servizi on-line” 
+    progetto: Designers
+    ref: designers
+    impegno:  222011 
     pagamenti: 0
-    contraccordi: Contratto con R.T.I. Telecom Italia S.p.A.- adesione a Contratto Quadro Consip SPC Cloud Lotto 1
-    descrizione: "Nell’ambito del progetto Data & Analytics Framework il contratto è finalizzato al'acquisizione di Virtual Data Center a canone al fine di creare un cluster big data basato su Hadoop e suo ecosistema accoppiato ad una installazione di un DB operazionale (MongoDB) e ad un layer di esposizione dati tramite API"
+    contraccordi: Contratti con R.T.I. ALMAVIVA - adesione a Contratto Quadro Consip SPC Cloud Lotto 4
+    descrizione: "Nell'ambito del progetto Designers Italia, i contratti, stipulati a valle delle adesioni all'Accordo quadro Consip, sono finalizzati alla realizzazione di servizi innovativi abilitanti, forniti secondo un modello di community cloud, per l’attuazione dell’Agenda Digitale Italiana , al fine ultimo di realizzare servizi pubblici per i cittadini e le aziende accessibili nel modo più semplice possibile, innanzitutto tramite dispositivi mobili, con architetture sicure, scalabili e altamente affidabili."
+
   - voce: ISTC-CNR
-    titolobreve: Accordo ISTC-CNR per Sviluppo Ontologie, Vocabolari Controllati e servizi associati per il DAF
+    titolobreve: Accordi ISTC-CNR per Sviluppo Ontologie, Vocabolari Controllati e servizi associati per il DAF
     progetto: DAF
     ref: daf
-    impegno: 38000  
-    pagamenti: 18000
-    contraccordi: Accordo ISTC - CNR - progetto DAF
-    descrizione: "L’accordo è finalizzato alla creazione di Ontologie che permettano di applicare uno schema logico alle relazioni tra le entità descritte dai dati, migliorando la sistematizzazione dei dati nel Data & Analytics Framework  nonchè l’analisi e la ricerca dei dati stessi;"
+    impegno: 63000  
+    pagamenti: 30000
+    contraccordi: Accordi ISTC - CNR - progetto DAF
+    descrizione: "L’accordo, stipulato nel 2017, è finalizzato alla creazione di Ontologie che permettano di applicare uno schema logico alle relazioni tra le entità descritte dai dati, migliorando la sistematizzazione dei dati nel Data & Analytics Framework  nonchè l’analisi e la ricerca dei dati stessi. Il successivo accordo, del 2018, ha ad oggetto l'estensione e la manutenzione delle predette Ontologie."
   - voce: Università di Bologna - CIRSFID
     titolobreve: Accordo con l’Università di Bologna - CIRSFID per la definizione standard per tagging normativo e implementazione in Normattiva per il DAF
     progetto: DAF
@@ -64,8 +73,8 @@ SpeseAnalitiche:
     titolobreve: Contratto con GEOSOLUTIONS per lo Sviluppo componente DCATAP_IT per CKAN e Harvesting del DAF
     progetto: DAF
     ref: daf
-    impegno: 48788,80
-    pagamenti: 32524,00 
+    impegno: 48788
+    pagamenti: 48788 
     contraccordi: Contratto con GEOSOLUTIONS per Integrazione software per harvester nazionale basato su CKAN 
     descrizione: "Nell’ambito del progetto di evoluzione del catalogo nazionale dei dati aperti, attualmente denominato “dati.gov.it”, il contratto è finalizzato alla progettazione e allo sviluppo di un cosiddetto  “harvester” nazionale basato su tecnologia CKAN. Un harvester è definito come una componente software che, grazie all’uso di standard nazionali e di API (Application Programming Interface), sia in grado automaticamente e periodicamente di raccogliere metadati relativi a dati pubblici delle pubbliche amministrazioni (siano esse pubbliche amministrazioni centrali che regionali/comunali)."
   - voce: Università di BARI
@@ -73,14 +82,14 @@ SpeseAnalitiche:
     progetto: DAF
     ref: daf
     impegno:  48191 
-    pagamenti: 0
+    pagamenti: 24096
     contraccordi: Contratto con Università di Bari - DIPARTIMENTO DI INFORMATICA
     descrizione: "Nell’ambito del progetto DAF, il contratto è finalizzato all’utilizzo di un software specifico che consenta la costruzione di un sistema di FAQ basato su un motore di ricerca semantico. L’Università di Bari – Dipartimento di informatica, che ha condotto studi specialistici nel campo del Natural Language Processing (NPL) e ha realizzato un prodotto di Question Answering, effettuerà lo sviluppo del motore di ricerca citato, tramite l’adattamento dello stesso alle esigenze del progetto."
   - voce: Teradata Italia
-    titolobreve: Contratto con Teradata Italia - sviluppo Kylo
+    titolobreve: Contratti con Teradata Italia - sviluppo Kylo
     progetto: DAF
     ref: daf
     impegno:  48678  
     pagamenti: 48678
-    contraccordi: Contratto con Teradata Italia
-    descrizione: "Nell’ambito del progetto DAF, il contratto è finalizzato allo sviluppo di una piattaforma software per la gestione di data lake in HDSF (Kylo) come tool per coadiuvare il processo di ingestion, data wrangling e pipeline management del DAF. Il processo di ingestion è basato su strumenti nativi dell’ecosistema Hadoop."
+    contraccordi: Contratti con Teradata Italia
+    descrizione: Nell’ambito del progetto DAF, il contratto stipulato nel 2017 è finalizzato allo sviluppo di una piattaforma software per la gestione di data lake in HDFS (Kylo) come tool per coadiuvare il processo di ingestion, data wrangling e pipeline management del DAF. Il processo di ingestion è basato su strumenti nativi dell’ecosistema Hadoop. Con successivo contratto del 2018è stato affidato alla Società il servizio specificamente diretto alla verifica di sicurezza delle attività e delle componenti del software Kylo, già integrato nel DAF.
