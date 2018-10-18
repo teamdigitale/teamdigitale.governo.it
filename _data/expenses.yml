@@ -1,21 +1,21 @@
 ---
-SpeseUpdate: '28/09/2018'
+SpeseUpdate: '18/10/2018'
 SpeseDelTeam:
   - voce: Sviluppo software e design
-    impegno: 4877957    
-    pagamenti: 2992558   
+    impegno: 5025481    
+    pagamenti: 3260282   
   - voce: Hardware e accessori
     impegno: 66230  
     pagamenti: 66230  
   - voce: Canoni software as a service
-    impegno: 63265
-    pagamenti: 63265  
+    impegno: 70317
+    pagamenti: 703175  
   - voce: Comunicazione e relazioni pubbliche
-    impegno:  170535    
-    pagamenti: 97178   
+    impegno:  174016    
+    pagamenti: 104891   
   - voce: Funzionamento (missioni, eventi)
-    impegno:  107753  
-    pagamenti: 107753    
+    impegno:  108952  
+    pagamenti: 108952    
   - voce: Compensi Esperti*
     impegno:  4673718 
     pagamenti: 4286000   
@@ -32,7 +32,7 @@ SpeseAnalitiche:
     titolobreve: Adesioni a Contratto Quadro Consip SPC Cloud Lotto 3 per attività di sviluppo tecnologico del DAF
     progetto: DAF
     ref: daf
-    impegno:  1645963 
+    impegno:  1748452 
     pagamenti: 1133466
     contraccordi: Contratti con R.T.I. ALMAVIVA - adesioni a Contratto Quadro Consip SPC Cloud Lotto 3
     descrizione: "Nell’ambito del progetto Data & Analytics Framework i contratti esecutivi, stipulati a valle delle adesioni all'Accordo quadro Consip, sono finalizzati allo sviluppo di funzionalità di base della piattaforma big data tra cui rientrano le componenti infrastrutturali in Cloud e on premises, l’installazione di software dell’ecosistema Hadoop, un sistema di applicazioni a microservizi per interagire e fare operazioni sui dati gestiti, un sistema di sicurezza per la gestione degli accessi e il logging delle attività svolte. L’attività riguarda, anche, l’integrazione delle basi di dati attualmente esistenti nella pubblica amministrazione in un data lake unificato, la predisposizione di un’architettura per esporre i dati verso 3rd parties applications, nonché la creazione di un ecosistema di data applications capace di utilizzare e sfruttare dati grezzi e aggregati per fornire funzionalità sia ad end-users che ad altre applicazioni."
@@ -41,7 +41,7 @@ SpeseAnalitiche:
     progetto: DAF
     ref: daf
     impegno:  193815 
-    pagamenti: 18833
+    pagamenti: 33548
     contraccordi: Contratti con R.T.I. Telecom Italia S.p.A.- adesioni a Contratto Quadro Consip SPC Cloud Lotto 1
     descrizione: "Nell’ambito del progetto Data & Analytics Framework i contratti, stipulati a valle delle adesioni all'Accordo quadro Consip, sono finalizzati all'acquisizione di Virtual Data Center a canone al fine di creare un cluster big data basato su Hadoop e suo ecosistema accoppiato ad una installazione di un DB operazionale (MongoDB) e ad un layer di esposizione dati tramite API"
   - voce: R.T.I. Almaviva S.p.A. (mandataria), Almawave s.r.l., INDRA ITALIA S.p.A.,PricewaterhouseCoopers Advisory S.p.A.
@@ -52,7 +52,6 @@ SpeseAnalitiche:
     pagamenti: 0
     contraccordi: Contratti con R.T.I. ALMAVIVA - adesione a Contratto Quadro Consip SPC Cloud Lotto 4
     descrizione: "Nell'ambito del progetto Designers Italia, i contratti, stipulati a valle delle adesioni all'Accordo quadro Consip, sono finalizzati alla realizzazione di servizi innovativi abilitanti, forniti secondo un modello di community cloud, per l’attuazione dell’Agenda Digitale Italiana , al fine ultimo di realizzare servizi pubblici per i cittadini e le aziende accessibili nel modo più semplice possibile, innanzitutto tramite dispositivi mobili, con architetture sicure, scalabili e altamente affidabili."
-
   - voce: ISTC-CNR
     titolobreve: Accordi ISTC-CNR per Sviluppo Ontologie, Vocabolari Controllati e servizi associati per il DAF
     progetto: DAF
@@ -89,7 +88,7 @@ SpeseAnalitiche:
     titolobreve: Contratti con Teradata Italia - sviluppo Kylo
     progetto: DAF
     ref: daf
-    impegno:  48678  
+    impegno:  97234  
     pagamenti: 48678
     contraccordi: Contratti con Teradata Italia
     descrizione: Nell’ambito del progetto DAF, il contratto stipulato nel 2017 è finalizzato allo sviluppo di una piattaforma software per la gestione di data lake in HDFS (Kylo) come tool per coadiuvare il processo di ingestion, data wrangling e pipeline management del DAF. Il processo di ingestion è basato su strumenti nativi dell’ecosistema Hadoop. Con successivo contratto del 2018è stato affidato alla Società il servizio specificamente diretto alla verifica di sicurezza delle attività e delle componenti del software Kylo, già integrato nel DAF.
