@@ -10,6 +10,7 @@ linkedin_url: http://linkedin.com/in/fabio-fumarola
 ref: fabio-fumarola
 parent_ref: team
 start_date: 30 ottobre 2017
+end_date: 30 settembre 2018
 period_provided: fino al 16 settembre 2018
 annual_compensation: € 90,000
 approved_by_court: 30 Novembre 2017
