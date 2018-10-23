@@ -7,6 +7,7 @@ role: Open Source Project Leader
 ref: riccardo-iaconelli
 parent_ref: team
 start_date: October 4, 2017
+end_date: September 15, 2018
 period_provided: until September 16, 2018
 annual_compensation: € 80,000
 approved_by_court: November 3, 2017
