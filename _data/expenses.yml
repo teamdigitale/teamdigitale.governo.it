@@ -1,5 +1,5 @@
 ---
-SpeseUpdate: '18/10/2018'
+SpeseUpdate: '19/10/2018'
 SpeseDelTeam:
   - voce: Sviluppo software e design
     impegno: 5025481    
@@ -9,7 +9,7 @@ SpeseDelTeam:
     pagamenti: 66230  
   - voce: Canoni software as a service
     impegno: 70317
-    pagamenti: 703175  
+    pagamenti: 70317  
   - voce: Comunicazione e relazioni pubbliche
     impegno:  174016    
     pagamenti: 104891   
