@@ -241,10 +241,10 @@ HomeBannerProjects:
   it: "I nostri progetti"
 HomeBannerReport:
   en: "Report"
-  it: "Report"
+  it: "Relazione"
 HomeBannerReportSubtitle:
   en: "All the activites of the Team"
-  it: "Tutte le attività del Team"
+  it: "Ultimo aggiornamento: 30/09/2018"
 NewsletterEmail:
   en: "Your e-mail"
   it: "Inserisci la tua email"
