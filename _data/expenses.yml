@@ -1,9 +1,9 @@
 ---
-SpeseUpdate: '19/10/2018'
+SpeseUpdate: '26/10/2018'
 SpeseDelTeam:
   - voce: Sviluppo software e design
-    impegno: 5025481    
-    pagamenti: 3260282   
+    impegno: 5067514    
+    pagamenti: 3320173   
   - voce: Hardware e accessori
     impegno: 66230  
     pagamenti: 66230  
@@ -11,14 +11,14 @@ SpeseDelTeam:
     impegno: 70317
     pagamenti: 70317  
   - voce: Comunicazione e relazioni pubbliche
-    impegno:  174016    
-    pagamenti: 104891   
+    impegno:  170276    
+    pagamenti: 125225   
   - voce: Funzionamento (missioni, eventi)
-    impegno:  108952  
-    pagamenti: 108952    
+    impegno:  112360  
+    pagamenti: 112360    
   - voce: Compensi Esperti*
     impegno:  4673718 
-    pagamenti: 4286000   
+    pagamenti: 4533790   
 SpeseAnalitiche:
   - voce: Ministero dell'Interno
     titolobreve: Accordo con il Ministero dell'Interno per attività di sviluppo tecnologico di ANPR
@@ -40,7 +40,7 @@ SpeseAnalitiche:
     titolobreve: Adesioni a Contratto Quadro Consip SPC Cloud Lotto 1 per Cloud per il DAF
     progetto: DAF
     ref: daf
-    impegno:  193815 
+    impegno:  235679 
     pagamenti: 33548
     contraccordi: Contratti con R.T.I. Telecom Italia S.p.A.- adesioni a Contratto Quadro Consip SPC Cloud Lotto 1
     descrizione: "Nell’ambito del progetto Data & Analytics Framework i contratti, stipulati a valle delle adesioni all'Accordo quadro Consip, sono finalizzati all'acquisizione di Virtual Data Center a canone al fine di creare un cluster big data basato su Hadoop e suo ecosistema accoppiato ad una installazione di un DB operazionale (MongoDB) e ad un layer di esposizione dati tramite API"
