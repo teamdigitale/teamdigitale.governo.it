@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /it/signatures.html
+Disallow: /en/signatures.html
+Disallow: /en/signatures/*.html
+Disallow: /it/signatures/*.html
+Sitemap: https://teamdigitale.governo.it/sitemap.xml

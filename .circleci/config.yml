@@ -1,0 +1,156 @@
+# Javascript Node CircleCI 2.0 configuration file
+#
+# Check https://circleci.com/docs/2.0/ for more details
+#
+
+defaults: &defaults
+  working_directory: /home/circleci/teamdigitale.governo.it
+  docker:
+    - image: circleci/ruby:2.5.1-node-browsers
+      environment:
+        BUNDLE_JOBS: 3
+        BUNDLE_RETRY: 3
+        BUNDLE_PATH: vendor/bundle
+
+# we use a rw SSH key instead of the default one injected by CircleCI because we
+# use it for deploy as well
+anchor_2: &add_ssh_keys
+    fingerprints:
+      - "b6:93:00:2d:79:da:bf:37:da:18:b1:11:1f:40:73:7f"
+
+version: 2
+jobs:
+  build:
+    <<: *defaults
+    steps:
+      - add_ssh_keys: *add_ssh_keys
+      - checkout
+
+      #
+      # Download and cache Ruby dependencies
+      #
+
+      - restore_cache:
+          keys:
+          - v2-dependencies-ruby-{{ checksum "Gemfile.lock" }}
+          - v2-dependencies-ruby-
+
+      - run: bundle check || bundle install
+
+      - save_cache:
+          key: v2-dependencies-ruby-{{ checksum "Gemfile.lock" }}
+          paths:
+            - vendor/bundle
+
+      #
+      # Download and cache node dependencies
+      #
+      - restore_cache:
+          keys:
+          - v2-dependencies-node-{{ checksum "yarn.lock" }}
+          - v2-dependencies-node-
+
+      - run: yarn install --cache-folder ~/.cache/yarn
+
+      - save_cache:
+          key: v2-dependencies-node-{{ checksum "yarn.lock" }}
+          paths:
+            - node_modules
+            - ~/.cache/yarn
+
+      # Build the site
+      - run: yarn gulp build
+
+      - persist_to_workspace:
+          root: /home/circleci
+          paths:
+            - teamdigitale.governo.it
+
+      - store_artifacts:
+          path: /home/circleci/teamdigitale.governo.it/_site
+
+  # Deploy to production site
+  # Note that we need a custom SSH config to let rsync know
+  # how to reach the production site.
+  deploy-production:
+    <<: *defaults
+    steps:
+      - attach_workspace:
+          at: /home/circleci
+      
+      # Deploy the site to the legacy server
+      - run: mkdir -p ~/.ssh
+      - run: echo $TEAMDIGITALE_SSH_CONF | base64 -d > ~/.ssh/config
+      - run: echo $TEAMDIGITALE_SSH_KNOWN_HOSTS | base64 -d > ~/.ssh/known_hosts
+      - run: which rsync || sudo apt-get install rsync
+      - run: yarn gulp publish-production
+
+      # Deploy the site to GitHub Pages
+      - add_ssh_keys: *add_ssh_keys
+      - checkout:
+          path: /tmp/gh-pages
+      - deploy:
+          name: Deploy
+          command: |
+            git config --global user.email no-reply@teamdigitale.governo.it
+            git config --global user.name "Deploy Bot"
+
+            cd /tmp/gh-pages
+            git checkout gh-pages || git checkout --orphan gh-pages
+            git rm -rf .
+
+            cp -a /home/circleci/teamdigitale.governo.it/_site/. .
+            # copy .circleci as well so that the branch filter is honored
+            mkdir -p .circleci && cp -a /home/circleci/teamdigitale.governo.it/.circleci/. .circleci/.
+
+            git add -A
+            git commit -m "Automated deployment to GitHub Pages: ${CIRCLE_SHA1}" --allow-empty
+            git push origin gh-pages
+
+  deploy-staging:
+    <<: *defaults
+    steps:
+      - attach_workspace:
+          at: /home/circleci
+      - run: mkdir -p ~/.ssh
+      - run: echo $TEAMDIGITALE_SSH_CONF | base64 -d > ~/.ssh/config
+      - run: echo $TEAMDIGITALE_SSH_KNOWN_HOSTS | base64 -d > ~/.ssh/known_hosts
+      - run: which rsync || sudo apt-get install rsync
+      - run: yarn gulp publish-staging
+
+  htmlproofer:
+    <<: *defaults
+    steps:
+      - attach_workspace:
+          at: /home/circleci
+      - run: bundle install
+      - run: bundle exec htmlproofer ./_site --check-html --allow-hash-href --only-4xx --alt-ignore '/.*/'
+
+workflows:
+  version: 2
+  build-test-and-approval-deploy:
+    jobs:
+      - build
+      # TODO: run tests
+      - deploy-staging:
+          requires:
+            - build
+          filters:
+            branches:
+              only:
+                - development
+      - hold:
+          type: approval
+          requires:
+            - build
+          filters:
+            branches:
+              only:
+                - master
+      - deploy-production:
+          requires:
+            - hold
+          filters:
+            branches:
+              only:
+                - master
