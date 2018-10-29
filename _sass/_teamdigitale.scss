@@ -859,13 +859,17 @@ body.layout-project {
 	}
 	&__buttons {
 		margin-top: 0.2em;
-		text-align: center;
+		text-align: left;
 
 		& > br {
 			@media screen and (max-width: 991px) {
 				display: none;
 			}
 		}
+	}
+	&__buttons__after {
+		margin-top: 2rem;
+		display: block;
 	}
 	.button{
 		border-radius: 4px;
@@ -908,7 +912,7 @@ body.layout-project {
 		&__caption {
 			font-size: 2rem;
 			line-height: 2.2rem;
-			min-width: 180px;
+			
 		}
 		&__smalltext {
 			font-size: 1.2rem;
@@ -923,9 +927,10 @@ body.layout-project {
 	}
 	.report-button{
 		margin-left: 0.5em;
+		margin-right: 1rem;
 
 		@media screen and (min-width: 992px) {
-			display: inline-block;
+			display: inline;
 			float: none;
 			margin-left: 0;
 			margin-top: 0.5em;
@@ -946,7 +951,43 @@ body.layout-project {
 		&__caption {
 			font-size: 2rem;
 			line-height: 2.2rem;
-			min-width: 180px;
+		}
+		&__smalltext {
+			font-size: 1.2rem;
+			line-height: 1.2rem;
+			font-weight: 300;
+			text-transform: none;
+			margin-top: -6px;
+		}
+		&:hover a {
+			color: #fff;
+		}
+	}
+	.future-button{
+		margin-left: 0.5em;
+
+		@media screen and (min-width: 992px) {
+			display: inline;
+			float: none;
+			margin-left: 0;
+			margin-top: 0.5em;
+		}
+		@media screen and (max-width: 637px) {
+			margin-left: 0;
+		}
+		svg{
+			width: 60px;
+			margin: 0 2rem 0 0;
+			vertical-align: middle;
+		}
+		a {
+			display: inline-block;
+			padding: 0;
+			vertical-align: middle;
+		}
+		&__caption {
+			font-size: 2rem;
+			line-height: 2.2rem;
 		}
 		&__smalltext {
 			font-size: 1.2rem;
