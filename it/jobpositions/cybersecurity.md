@@ -12,7 +12,6 @@ is_new: true
 Il Team per la Trasformazione Digitale è alla ricerca di un **ingegnere esperto in security e cybersecurity**.
 
 Questa figura valuterà le infrastrutture, processi e pratiche di *cybersecurity* che sono sotto il coordinamento del Team per la Trasformazione Digitale o di altri dipartimenti della Pubblica Amministrazione.
-Siamo alla ricerca di talenti con una comprovata esperienza nel settore, con una forte preparazione tecnica e scientifica e con una grande capacità nel trovare e risolvere problemi di sicurezza all’interno di piattaforme digitali su larga scala e ad alta affidabilità.
 
 Siamo alla ricerca di talenti con una comprovata esperienza nel settore, con una forte preparazione tecnica e scientifica e con una grande capacità nel trovare e risolvere problemi di sicurezza all’interno di piattaforme digitali su larga scala e ad alta affidabilità.
 
@@ -33,5 +32,5 @@ Siamo alla ricerca di talenti con una comprovata esperienza nel settore, con una
 
 ### Formazione
 - Laurea in Informatica o affine con almeno 7 anni di solida esperienza in *Security* e *Cybersecurity* per piattaforme digitali oppure, in assenza di laurea, almeno 9 anni di solida esperienza in *Security* e *Cybersecurity* per piattaforme digitali 
--Ottima conoscenza della lingua inglese
+- Ottima conoscenza della lingua inglese
 

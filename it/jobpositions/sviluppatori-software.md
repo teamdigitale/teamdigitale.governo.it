@@ -9,7 +9,9 @@ parent_ref: join-us
 ---
 
 ### Descrizione e responsabilità
-Il Team per la Trasformazione Digitale è alla ricerca di **sviluppatori esperti**. Le figure ricercate supporteranno lo sviluppo delle piattaforme digitali coordinate dal Team per la Trasformazione Digitale.
+Il Team per la Trasformazione Digitale è alla ricerca di **sviluppatori esperti**. 
+
+Le figure ricercate supporteranno lo sviluppo delle piattaforme digitali coordinate dal Team per la Trasformazione Digitale.
 
 Siamo alla ricerca di talenti con esperienza nel settore, con una preparazione tecnica e con un portfolio di progetti e applicazioni sviluppate in precedenza.
 

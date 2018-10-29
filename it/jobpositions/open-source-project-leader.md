@@ -12,12 +12,14 @@ is_new: true
 
 ### Descrizione e responsabilità
 Il Team per la Trasformazione Digitale è alla ricerca di due **Open Source Project Leaders**.
-Le figure saranno responsabile di coordinare e dirigere lo sviluppo di diversi progetti *open source* pubblicati sulla piattaforma Developers Italia nonché di gestire la relazione con le Pubbliche Amministrazioni e la comunità degli sviluppatori disposti a contribuire alla piattaforma. 
+
+Le figure saranno responsabili di coordinare e dirigere lo sviluppo di diversi progetti *open source* pubblicati sulla piattaforma Developers Italia nonché di gestire la relazione con le Pubbliche Amministrazioni e la comunità degli sviluppatori disposti a contribuire alla piattaforma. 
 
 I profili inoltre pubblicheranno la *roadmap* dei progetti condivisi su Developers Italia, coordineranno gli sviluppatori della *community* pronti a contribuire, verificheranno i loro progressi, eseguiranno verifiche di qualità sul codice prodotto (*code review*, controlli sulla documentazione, monitoraggio della *continuous integration*), e in generale assicureranno che i progetti siano sempre in buono stato e funzionanti.
 
 Le figure tracceranno il progresso di implementazioni parallele eseguite in diversi linguaggi di programmazione e cercheranno di mantenere la parità di funzionalità tra di esse, di assicurare API simili e aggiornamenti uniformi.
-Siamo alla ricerca di talenti con una solida esperienza nello sviluppo open source e nelle comunità collaborative.
+
+Siamo alla ricerca di talenti con una solida esperienza nello sviluppo *open source* e nelle comunità collaborative.
 
 
 ### Qualifiche chiave
@@ -28,7 +30,7 @@ Siamo alla ricerca di talenti con una solida esperienza nello sviluppo open sour
 - Esperienza nell'integrazione e nell'analisi di strumenti e librerie *software*
 - Esperienza di lavoro in ambienti con molteplici *stack* tecnologici: PHP, Java, Ruby, Python, .NET
 - Esperienza nella scrittura di documentazione al codice
-- Esperienza con le procedure di test automatico e piattaforme di *continuous integrations* quali: TravisCI, CircleCI, Jenkins
+- Esperienza con le procedure di *test* automatico e piattaforme di *continuous integrations* quali: TravisCI, CircleCI, Jenkins
 - Esperienza nello sviluppo *web* - inclusa l'analisi di vulnerabilità *front end* e *web*
 - Conoscenza delle architetture applicative e del *design* orientato agli oggetti
 - Esperienza nella comprensione di larghe e complesse basi di codice, incluse tecniche di API *design* e *versioning* per facilitare la pulizia e la manutenibilità

@@ -11,13 +11,14 @@ parent_ref: join-us
 ### Descrizione e responsabilità
 Il Team per la Trasformazione Digitale è alla ricerca di esperti **Service Designer**. 
 
-Le figure saranno responsabili per le attività di *user research* e di analisi e progettazione di servizi complessi che tengano in considerazione l'interazione delle diverse tipologie di utenti e i *touchpoint* digitali coinvolti. Il lavoro del *Service Designer* sarà propedeutico alla fase di definizione e implementazione dei servizi realizzati dalla struttura commissariale e dalle Pubbliche Amministrazioni.
+Le figure saranno responsabili per le attività di *user research* e di analisi e progettazione di servizi complessi che tengano in considerazione l'interazione delle diverse tipologie di utenti e i *touchpoint* digitali coinvolti. Il lavoro del *Service Designer* sarà propedeutico alla fase di definizione e implementazione dei servizi realizzati dal Team per la Trasformazione Digitale e dalle Pubbliche Amministrazioni.
+
 Siamo alla ricerca di talenti con un portfolio di ricerche e concettualizzazione di servizi digitali pubblicati e una buona competenza nel riconoscimento dei limiti e delle opportunità forniti dalle principali tecnologie di *front end*.
 
 ### Qualifiche chiave
 - Esperienza come *service designer* con un *portfolio* di *case study* contenente ricerche qualitative, definizione delle personas, analisi dello *user journey*
 - Esperienza qualificata nell'applicazione dell'approccio *user centered design* e naturale attenzione per l'esperienza utente
-- Competenze di strategia e *desktop research* per analizzare il contesto, il bacino di utenza e l'impatto che i nuovi servizi potranno avere  una volta lanciati sul mercato
+- Competenze di strategia e *desktop research* per analizzare il contesto, il bacino di utenza e l'impatto che i nuovi servizi potranno avere una volta lanciati 
 - Competenza e autonomia nella definizione di un nuovo servizio (architettura, *user scenarios*, *hero flows*)
 - Capacità di *storytelling* e capacità di presentazione del progetto a interlocutori senior e figure chiave della Pubblica Amministrazione
 - Esperienza nell'uso di applicazioni di grafica (Sketch, Adobe Illustrator, Adobe Photoshop)

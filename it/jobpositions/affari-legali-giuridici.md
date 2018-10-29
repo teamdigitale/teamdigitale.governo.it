@@ -10,6 +10,7 @@ is_new: true
 
 ### Descrizione e responsabilità
 Il Team per la Trasformazione Digitale è alla ricerca di un professionista con comprovata esperienza in **affari legali, giuridici e regolamentari nazionali ed europei**.
+
 Questa figura sarà responsabile dell’analisi del quadro normativo e legislativo nazionale ed europeo che guida le azioni del governo per la realizzazione dell’Agenda Digitale. Sarà anche responsabile dell’identificazione di specifici e mirati interventi normativi e regolatori e/o loro modificazioni necessari per l’attuazione della strategia di innovazione e crescita digitale del Governo Italiano.
 
 Questa figura gestirà le relazioni con le altre istituzioni nazionali, europee e internazionali che giocano un ruolo nel quadro regolatorio delle politiche dell’innovazione, nella regolazione ed esecuzione dell’Agenda Digitale così come con tutte le istituzioni indipendenti che giocano un ruolo chiave nel settore digitale e si farà promotrice della corretta applicazione del quadro normativo in vigore. 
