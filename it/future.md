@@ -9,7 +9,11 @@ hide_last_mod_date: true
 
 ## La strategia per il futuro della trasformazione digitale
 
-Testo
+La Trasformazione Digitale della Pubblica Amministrazione in Italia è partita numerosi anni dopo la maggior parte dei paesi europei. A maggior ragione, questo processo di trasformazione di lungo periodo deve avvenire con una forte governance politica e con competenze tecnologiche, di disegno dei servizi (il cittadino al centro) e di gestione di processi. Ora che abbiamo una chiara strategia espressa dal Piano Triennale, il Presidente del Consiglio deve di fatto guidare la Trasformazione Digitale che prima di tutto è una trasformazione politica, culturale e di processo.
+
+*It’s day one - siamo solo al giorno 1!*
+
+In base all’esperienza accumulata nei 24 mesi di attività suggeriamo i seguenti interventi.
 
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/518HgsPiSUSmMD" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
