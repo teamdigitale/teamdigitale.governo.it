@@ -7,7 +7,7 @@ ref: future
 hide_last_mod_date: true
 ---
 
-## First two years of Digital Transformation Team
+## Strategy for the future of digital transformation
 
 The Digital Transformation of the public administration in Italy started years later than in most European countries. All the more reason why this process of long-term transformation must involve strong political governance and technology skills, citizen-focused service design and process management. Now that we have a clear strategy set out by the [Three-year Plan](https://pianotriennale-ict.italia.it/en/), the Presidency of the Council of Ministers must lead the Digital Transformation, which, first and foremost, is a political, cultural and process-based transformation.
 
