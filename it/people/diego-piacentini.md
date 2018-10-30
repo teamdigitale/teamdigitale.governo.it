@@ -11,6 +11,7 @@ linkedin_url: https://www.linkedin.com/in/diego-piacentini-612597
 ref: diego-piacentini
 parent_ref: team
 start_date: 16 settembre 2016
+end_date: 30 ottobre 2018
 period_provided: fino al 16 settembre 2018
 ---
 Diego Piacentini ha iniziato una nuova attività dal mese di agosto 2016, lavorerà per due anni *pro bono* per il Governo italiano, dando il proprio aiuto nella trasformazione digitale della Pubblica Amministrazione.
