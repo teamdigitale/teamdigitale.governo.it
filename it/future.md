@@ -16,8 +16,8 @@ La Trasformazione Digitale della Pubblica Amministrazione in Italia è partita n
 In base all’esperienza accumulata nei 24 mesi di attività suggeriamo i seguenti interventi.
 
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/518HgsPiSUSmMD" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
+<script async class="speakerdeck-embed" data-id="b13f2d4775ae494c89373705a93cb7db" data-ratio="1.41436464088398" src="//speakerdeck.com/assets/embed.js"></script>
 
-#### [Scarica il documento integrale](https://teamdigitale.governo.it)
+#### [Scarica il documento integrale](/assets/pdf/Relazione_TeamTrasformazioneDigitale_ITA_30set_raccomandazioni.pdf)
 
 

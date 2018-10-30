@@ -14,8 +14,8 @@ Il presente documento contiene un resoconto dell’attività svolta dal Team per
 Il documento include inoltre raccomandazioni dirette al Governo per la creazione di un modello permanente di governance del digitale - inclusa una revisione delle responsabilità e dei compiti assegnati ad AgID (Agenzia per l'Italia Digitale).
 
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/518HgsPiSUSmMD" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
+<script async class="speakerdeck-embed" data-id="3bb8839e73b14e259be5179a837cfe8d" data-ratio="1.41436464088398" src="//speakerdeck.com/assets/embed.js"></script>
 
-#### [Scarica il documento integrale](https://teamdigitale.governo.it)
+#### [Scarica il documento integrale](/assets/pdf/Relazione_TeamTrasformazioneDigitale_ITA_30set.pdf)
 
 
