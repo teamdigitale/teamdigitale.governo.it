@@ -13,7 +13,7 @@ parent_ref: join-us
 ### Descrizione e responsabilità
 Il Team per la Trasformazione Digitale è alla ricerca di un **Chief Data Product Manager** con competenze di sviluppo *software*, nella gestione di progetti e piattaforme digitali e con conoscenze specifiche nella gestione, nell'analisi e nella manipolazione dei dati. 
 
-Questa figura avrà il compito di coordinare progetti, rendere più intelligenti le applicazioni sviluppate, identificare soluzioni tecniche. In particolare lavorerà con i team di sviluppo e si occuperà di raccogliere e gestire grandi quantità di dati provenienti da più fonti, trasformare e rendere fruibili i dati con strumenti adeguati e tecnologie *innovative*.
+Questa figura avrà il compito di coordinare progetti, rendere più intelligenti le applicazioni sviluppate, identificare soluzioni tecniche. In particolare lavorerà con i team di sviluppo e si occuperà di raccogliere e gestire grandi quantità di dati provenienti da più fonti, trasformare e rendere fruibili i dati con strumenti adeguati e tecnologie innovative.
 
 
 ### Qualifiche chiave

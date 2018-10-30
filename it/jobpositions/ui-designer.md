@@ -19,7 +19,7 @@ Siamo alla ricerca di talenti con un *portfolio* di prodotti digitali pubblicati
 
 
 ### Qualifiche chiave
-- Esperienza come UI *designer* con un portfolio di prodotti contenente *web app single-page/headless*, siti *mobile-first responsive*, applicazioni ibride e *native*.
+- Esperienza come UI *designer* con un portfolio di prodotti contenente *web app single-page/headless*, siti *mobile-first responsive*, applicazioni ibride e *native*
 - Esperienza nell'uso di *sketchapp*
 - Conoscenza dello stato di sviluppo e delle peculiarità di Figma e Adobe XD
 - Esperienza nel *design* e nella esportazione di SVG pronti per la produzione, ottimizzati per essere inclusi inline nei documenti HTML e animati con CSS e Javascript

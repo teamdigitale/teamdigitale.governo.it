@@ -9,7 +9,7 @@ parent_ref: join-us
 ---
 
 ### Descrizione e responsabilità
-Il Team per la Trasformazione Digitale è alla ricerca di esperti **Service Designer**. 
+Il Team per la Trasformazione Digitale è alla ricerca di **esperti Service Designer**. 
 
 Le figure saranno responsabili per le attività di *user research* e di analisi e progettazione di servizi complessi che tengano in considerazione l'interazione delle diverse tipologie di utenti e i *touchpoint* digitali coinvolti. Il lavoro del *Service Designer* sarà propedeutico alla fase di definizione e implementazione dei servizi realizzati dal Team per la Trasformazione Digitale e dalle Pubbliche Amministrazioni.
 

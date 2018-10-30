@@ -17,8 +17,8 @@ L’Assistente Tecnico ha un ruolo operativo volto a facilitare le attività quo
 
 Di seguito una lista di alcuni degli specifici compiti dell’Assistente Tecnico, tali da assicurare che le attività del Commissario siano concentrate sui progetti di maggiore importanza e prioritari:
 
-- Definire gli ordini del giorno settimanali, mensili per gli incontri e per le attività di revisione dei progressi
-- Gestire il calendario di incontri per assicurare che gli argomenti e i punti più importanti vengano trattati e analizzati approfonditamente 
+- Definire gli ordini del giorno settimanali e mensili per gli incontri e per le attività di revisione dei progressi
+- Gestire il calendario degli incontri per assicurare che gli argomenti e i punti più importanti vengano trattati e analizzati approfonditamente 
 - Implementare processi atti ad assicurare l'effettiva realizzazione delle attività individuate e assegnate duranti gli incontri
 - Fornire template per i documenti che richiedono uno specifico format, fornendo  un tempo sufficiente per la loro compilazione
 - Coinvolgere i corretti partecipanti ai meeting e assicurarsi che siano informati in modo adeguato sulle tematiche da affrontare
@@ -32,7 +32,7 @@ Di seguito una lista di alcuni degli specifici compiti dell’Assistente Tecnico
 - Identificare problemi e anomalie oppure processi che necessitino di miglior documentazione o di un maggior presidio
 
 
-Più in generale, l’Assistente Tecnico supporterà il Commissario nell’identificazione di problematiche e opportunità chiave nonché potenziali soluzioni e ne guiderà le implementazioni
+Più in generale, l’Assistente Tecnico supporterà il Commissario nell’identificazione di problematiche e opportunità chiave nonché potenziali soluzioni e ne guiderà le *implementazioni*.
 
 Il candidato ideale dovrà:
 - Confrontare le attività di uffici simili in altre nazioni guida, stabilendo le *best practice* e identificando differenze e lacune

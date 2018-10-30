@@ -12,7 +12,7 @@ parent_ref: join-us
 Il Team per la Trasformazione Digitale è alla ricerca di un esperto **Site Reliability Engineer/Production Engineer**, che gestisca e supporti lo sviluppo delle piattaforme digitali coordinate dalla struttura. 
 
 Le principali responsabilità di tale figura saranno:
-- Gestire l’intero ciclo di vita dei servizi infrastrutturali delle piattaforme applicative (sviluppo, produzione e dismissione).
+- Gestire l’intero ciclo di vita dei servizi infrastrutturali delle piattaforme applicative (sviluppo, produzione e dismissione)
 progettare il monitoraggio delle piattaforme applicative,  individuando le metriche più appropriate per garantire l’alta affidabilità delle infrastrutture
 - Progettare e implementare infrastrutture *cloud* basate sui requisiti degli *stakeholder*
 - Produrre dettagliate specifiche tecniche di progettazione delle infrastrutture *cloud*

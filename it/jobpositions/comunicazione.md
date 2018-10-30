@@ -11,11 +11,12 @@ parent_ref: join-us
 ---
 
 ### Descrizione e responsabilità
-Il Team per la Trasformazione Digitale è alla ricerca di un **Esperto comunicatore**.
+Il Team per la Trasformazione Digitale è alla ricerca di un **esperto Comunicatore**.
 
 Questa figura coordinerà tutte le attività di comunicazione che coinvolgono il team nelle relazioni con i cittadini, gli addetti stampa e le istituzioni, comunicando concetti complessi in modo semplice e chiaro.
 
-Avranno la responsabilità di progettare e realizzare attività di comunicazione utilizzando diversi strumenti (eventi, *social media*, siti *web*, *blog*) e diversi linguaggi e tipi di contenuti (verbale, visuale e video) verso ogni tipo di interlocutore, dai cittadini alle istituzioni fino ai media utilizzando sempre le tecnologie più innovative e le *best practice* di *design* dei contenuti e di linguaggio della Pubblica Amministrazione e partecipando alla definizione di *standard* di *content design* per la Pubblica Amministrazione . 
+Avranno la responsabilità di progettare e realizzare attività di comunicazione utilizzando diversi strumenti (eventi, *social media*, siti *web*, *blog*) e diversi linguaggi e tipi di contenuti (verbale, visuale e video) verso ogni tipo di interlocutore, dai cittadini alle istituzioni fino ai media utilizzando sempre le tecnologie più innovative e le *best practice* di *design* dei contenuti e di linguaggio della Pubblica Amministrazione e partecipando alla definizione di *standard* di *content design* per la Pubblica Amministrazione.
+ 
 Siamo alla ricerca di talenti con forte autonomia professionale, orientamento ai risultati, soluzione dei problemi ed esperienza di coordinamento di team di comunicazione nelle diverse fasi di un progetto da quella creativa a quella di pianificazione fino a quella di esecuzione e di analisi dei risultati.
 
 

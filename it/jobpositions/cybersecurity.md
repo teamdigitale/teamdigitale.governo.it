@@ -26,7 +26,7 @@ Siamo alla ricerca di talenti con una comprovata esperienza nel settore, con una
 - Forte esperienza con linguaggi di programmazione interpretati (PHP, Python, Ruby, etc.)
 - Vasta conoscenza delle problematiche di sicurezza internet e familiarità con tutti gli aspetti connessi alla *cybersecurity*
 - Eccellenti doti comunicative, di presentazione, interpersonali e analitiche ed capacità di comunicare chiaramente concetti complessi
-- Comprovata esperienza nel gestire e fare da mentore a squadre di sviluppatori software
+- Comprovata esperienza nel gestire e fare da mentore a squadre di sviluppatori *software*
 
 
 

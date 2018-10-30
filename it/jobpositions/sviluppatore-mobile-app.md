@@ -29,7 +29,7 @@ Siamo alla ricerca di talenti con una comprovata esperienza nel settore, con una
 - Esperienza nelle seguenti aree: programmazione *multi-thread*, *socket* TCP/IP, SQLite
 - Comprovata capacità di tradurre intuizioni in scelte operative
 - Eccellenti doti comunicative, di presentazione, interpersonali e analitiche e capacità di comunicare chiaramente concetti complessi
-- Comprovata esperienza nel gestire e fare da mentore a team di sviluppatori software
+- Comprovata esperienza nel gestire e fare da mentore a team di sviluppatori *software*
 
 
 
