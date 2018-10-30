@@ -3,13 +3,12 @@ title: Luca Attias
 lang: en
 permalink: /en/people/luca-attias.htm
 layout: people
-role: Commissario Straordinario per l'attuazione dell'Agenda Digitale
+role: Government Commissioner for the Digital Agenda
 is_new: true
 ref: luca-attias
 parent_ref: team
-start_date: 31 ottobre 2018
-period_provided: fino al 15 settembre 2019
-approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti.
+start_date: October 31, 2018
+period_provided: until September 15, 2019
 approved_by_court: The decree of appointment is pending before the Court of Auditors.
 ---
 
