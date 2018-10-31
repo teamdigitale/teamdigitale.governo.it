@@ -239,6 +239,18 @@ HomeBannerMore:
 HomeBannerProjects:
   en: "Our projects"
   it: "I nostri progetti"
+HomeBannerReport:
+  en: "Our first two years"
+  it: "I nostri primi due anni"
+HomeBannerReportSubtitle:
+  en: "Last update: 30/09/2018"
+  it: "Ultimo aggiornamento: 30/09/2018"
+HomeBannerFuture:
+  en: "Strategy for the future"
+  it: "Strategia per il futuro"
+HomeBannerFutureSubtitle:
+  en: "Last update: 30/09/2018"
+  it: "Ultimo aggiornamento: 30/09/2018"
 NewsletterEmail:
   en: "Your e-mail"
   it: "Inserisci la tua email"
