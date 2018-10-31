@@ -78,12 +78,13 @@ jobs:
       - attach_workspace:
           at: /home/circleci
       
-      # Deploy the site to the legacy server
-      - run: mkdir -p ~/.ssh
-      - run: echo $TEAMDIGITALE_SSH_CONF | base64 -d > ~/.ssh/config
-      - run: echo $TEAMDIGITALE_SSH_KNOWN_HOSTS | base64 -d > ~/.ssh/known_hosts
-      - run: which rsync || sudo apt-get install rsync
-      - run: yarn gulp publish-production
+      # Do not deploy the site to the legacy server anymore
+      # because we use GitHub Pages now
+      # - run: mkdir -p ~/.ssh
+      # - run: echo $TEAMDIGITALE_SSH_CONF | base64 -d > ~/.ssh/config
+      # - run: echo $TEAMDIGITALE_SSH_KNOWN_HOSTS | base64 -d > ~/.ssh/known_hosts
+      # - run: which rsync || sudo apt-get install rsync
+      # - run: yarn gulp publish-production
 
       # Deploy the site to GitHub Pages
       - add_ssh_keys: *add_ssh_keys
@@ -130,7 +131,11 @@ workflows:
   version: 2
   build-test-and-approval-deploy:
     jobs:
-      - build
+      - build:
+          filters:
+            branches:
+              ignore:
+                - gh-pages
       # TODO: run tests
       - deploy-staging:
           requires:
