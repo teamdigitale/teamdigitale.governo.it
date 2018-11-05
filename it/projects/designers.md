@@ -21,7 +21,7 @@ timeline:
     desc: Partecipazione all'evento dedicato al design
   - period: Giugno 2017
     title: Guida SEO
-    desc: <a href="https://design-italia.readthedocs.io/it/stable/doc/content-design/seo.html">Indicazioni per la SEO</a> dei siti pubblici
+    desc: <a href="https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/doc/content-design/seo.html">Indicazioni per la SEO</a> dei siti pubblici
   - period: Giugno 2017
     title: UI kit e Icon kit
     desc: Il primo modulo per un design system dei siti pubblici
@@ -35,7 +35,7 @@ timeline:
     title: Aggiornamenti guida content design
     desc: Consigli e esempi per strutturare le informazioni e i servizi nei siti pubblici
   - period: Settembre 2017
-    title: <a href="https://design-italia.readthedocs.io/it/stable/doc/introduzione-linee-guida-design.html">Versionamento linee guida</a>
+    title: <a href="https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/doc/introduzione-linee-guida-design.html">Versionamento linee guida</a>
     desc: Definizione workflow e rilascio release 2017.1 delle linee guida
   - period: Ottobre 2017
     title: Avvio sperimentazione design collaborativo
@@ -63,7 +63,7 @@ timeline:
     desc: Trello board per workflow editoriale, gestione tag, glossario linguaggio
     status: todo
   - period: Maggio 2018
-    title: Kit wireframe 
+    title: Kit wireframe
     desc: Un wireframe kit per la prototipazione rapida di siti pubblici
     status: todo
   - period: Giugno 2018

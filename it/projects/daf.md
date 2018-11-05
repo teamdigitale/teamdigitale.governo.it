@@ -54,8 +54,8 @@ Il Data & Analytics Framework (DAF) ha l'obiettivo di migliorare e semplificare 
 #### Link utili
 * [Il DAF nel Piano Triennale 2017-2019](https://pianotriennale-ict.italia.it/daf/)
 * [Scopri gli aspetti tecnici su Developers Italia](https://developers.italia.it/it/daf/)
-* [Piano di sviluppo del DAF (in fase di revisione)](http://daf-piano-di-sviluppo.readthedocs.io/it/latest/index.html)
-* [Basi di dati chiave](http://elenco-basi-di-dati-chiave.readthedocs.io/it/latest/index.html)
+* [Piano di sviluppo del DAF](https://docs.italia.it/italia/daf/daf-piano-di-sviluppo/) (in fase di revisione)
+* [Basi di dati chiave](https://docs.italia.it/italia/daf/pianotri-elencobasidatichiave/)
 
 
 {% include medium_project.html %}

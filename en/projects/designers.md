@@ -21,7 +21,7 @@ timeline:
     desc: Participation in the event dedicated to design
   - period: June 2017
     title: SEO Guide
-    desc: <a href="https://design-italia.readthedocs.io/it/stable/doc/content-design/seo.html">Instructions on SEO</a> for public sites
+    desc: <a href="https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/doc/content-design/seo.html">Instructions on SEO</a> for public sites
   - period: June 2017
     title: UI Kits and Icon kits
     desc: The first design system module for public sites
@@ -35,7 +35,7 @@ timeline:
     title: Updates on content design guide
     desc: Tips and examples for structuring the information and services on public sites
   - period: September 2017
-    title: <a href="https://design-italia.readthedocs.io/it/stable/doc/introduzione-linee-guida-design.html">Versioning guidelines</a>
+    title: <a href="https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/doc/introduzione-linee-guida-design.html">Versioning guidelines</a>
     desc: Definition of the Workflow and release of the 2017.1 guidelines
   - period: October 2017
     title: Commencement of collaborative design experimentation
