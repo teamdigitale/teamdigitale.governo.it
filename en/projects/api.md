@@ -26,15 +26,15 @@ timeline:
     status: todo
   - period: December 2018
     title: API Marketplace
-    desc: First version of the API Catalog/Marketplace 
+    desc: First version of the API Catalog/Marketplace
     status: todo
 ---
 
 ### In short
 
-This project represents the execution of [Chapter 5 Interoperability Model](https://pianotriennale-ict-en.readthedocs.io/en/latest/doc/05_modello-di-interoperabilita.html) of the [Three-year Plan](https://pianotriennale-ict.italia.it/).
+This project represents the execution of [Chapter 5 Interoperability Model](https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc-en/en/bozza/doc/05_modello-di-interoperabilita.html) of the [Three-year Plan](https://pianotriennale-ict.italia.it/en/index.html).
 
-Public Administration IT systems must be connected to each other and must speak the same language, rendering the information immediately available wherever it is needed. All applications will have to expose interfaces that are comprehensible to the machines (the so-called APIs - [Application Programming Interface](https://en.wikipedia.org/wiki/Application_programming_interface)) and work in an integrated, collaborative and secure manner, facilitating the reuse of existing applications to build new, more powerful and innovative solutions.  
+Public Administration IT systems must be connected to each other and must speak the same language, rendering the information immediately available wherever it is needed. All applications will have to expose interfaces that are comprehensible to the machines (the so-called APIs - [Application Programming Interface](https://en.wikipedia.org/wiki/Application_programming_interface)) and work in an integrated, collaborative and secure manner, facilitating the reuse of existing applications to build new, more powerful and innovative solutions.
 
 The old [SPCoop Application Cooperation](http://www.agid.gov.it/agenda-digitale/infrastrutture-architetture/sistema-pubblico-connettivita/cooperazione-applicativa) model, based on the [Porte di Dominio](http://www.agid.gov.it/sites/default/files/documentazione/spcoop-portadominio_v1.1_0.pdf), is no longer effective and [will be superseded](http://lg-transizione-interoperabilita.readthedocs.io/) by a new open model ([published for consultation](https://lg-modellointeroperabilita.readthedocs.io)), which will also have the objective of simplifying the convention procedures between the entities and the interaction with the Data Protection Authority.
 

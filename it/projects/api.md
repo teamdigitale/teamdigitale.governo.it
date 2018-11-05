@@ -32,9 +32,9 @@ timeline:
 
 ### In breve
 
-Questo progetto rappresenta l'esecuzione del [Capitolo 5 Modello di Interoperabilità](https://pianotriennale-ict.readthedocs.io/it/latest/doc/05_modello-di-interoperabilita.html) del [Piano Triennale](https://pianotriennale-ict.italia.it/)
+Questo progetto rappresenta l'esecuzione del [Capitolo 5 Modello di Interoperabilità](https://docs.italia.it/italia/pianotriennale-ict/pianotriennale-ict-doc/it/bozza/doc/05_modello-di-interoperabilita.html) del [Piano Triennale](https://pianotriennale-ict.italia.it/)
 
-I sistemi informatici della Pubblica Amministrazione devono essere connessi tra loro e parlare la stessa lingua, rendendo disponibile l’informazione immediatamente dove serve. Tutte le applicazioni dovranno esporre interfacce comprensibili alle macchine (dette API - [Application Programming Interface](https://it.wikipedia.org/wiki/Application_programming_interface)) e lavorare in maniera integrata, collaborativa e sicura, facilitando il riuso delle applicazioni esistenti per costruire nuove soluzioni più potenti e innovative.  
+I sistemi informatici della Pubblica Amministrazione devono essere connessi tra loro e parlare la stessa lingua, rendendo disponibile l’informazione immediatamente dove serve. Tutte le applicazioni dovranno esporre interfacce comprensibili alle macchine (dette API - [Application Programming Interface](https://it.wikipedia.org/wiki/Application_programming_interface)) e lavorare in maniera integrata, collaborativa e sicura, facilitando il riuso delle applicazioni esistenti per costruire nuove soluzioni più potenti e innovative.
 
 Il vecchio modello di [Cooperazione Applicativa SPCoop](http://www.agid.gov.it/agenda-digitale/infrastrutture-architetture/sistema-pubblico-connettivita/cooperazione-applicativa), basato sulle [Porte di Dominio](http://www.agid.gov.it/sites/default/files/documentazione/spcoop-portadominio_v1.1_0.pdf), non è più efficace e [sarà superato](http://lg-transizione-interoperabilita.readthedocs.io/) da un nuovo modello aperto ([ora in consultazione](https://lg-modellointeroperabilita.readthedocs.io)), che avrà anche l'obiettivo di semplificare le procedure di convenzione tra gli enti e l'interazione con il Garante della Privacy.
 
@@ -45,7 +45,7 @@ Il vecchio modello di [Cooperazione Applicativa SPCoop](http://www.agid.gov.it/a
 Stiamo lavorando insieme ad AgID nella definizione di regole tecniche, linee guida, standard tecnologici e profili che ogni PA dovrà adottare, nonchè nella progettazione di un nuovo Catalogo delle API.
 
 
-### Media 
+### Media
 Per ogni richiesta di contatto da parte di media e giornalisti il punto di riferimento è l'ufficio stampa e comunicazione del Team per la Trasformazione digitale
 
 {% include ipress.html %}
