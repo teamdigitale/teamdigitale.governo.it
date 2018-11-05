@@ -11,7 +11,7 @@ linkedin_url: https://www.linkedin.com/in/giovannibajo
 ref: giovanni-bajo
 parent_ref: team
 start_date: October 31, 2016
-period_provided: until September 16, 2018
+end_date: October 30, 2018
 annual_compensation: € 78,000
 approved_by_court: November 29, 2016
 ---
