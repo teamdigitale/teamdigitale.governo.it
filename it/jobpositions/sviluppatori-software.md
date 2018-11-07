@@ -6,6 +6,8 @@ layout: job
 ref: sviluppatori-software
 is_new: true
 parent_ref: join-us
+jazz_url: https://teamdigitale.applytojob.com/apply/Mwa8qGDrSw/Software-Developer
+iframeheight: 700
 ---
 
 ### Descrizione e responsabilità

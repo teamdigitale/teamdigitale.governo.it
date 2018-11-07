@@ -2,7 +2,7 @@
 title: UI Designer
 lang: it
 permalink: /it/jobpositions/ui-designer.htm
-jazz_url: 
+jazz_url: https://teamdigitale.applytojob.com/apply/solcCu6fbF/UI-Designer
 iframeheight: 700
 layout: job
 is_new: true

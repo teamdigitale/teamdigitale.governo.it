@@ -6,6 +6,8 @@ layout: job
 ref: sviluppatore-mobile-app
 parent_ref: join-us
 is_new: true
+jazz_url: https://teamdigitale.applytojob.com/apply/w9WEk9DfAg/MobileApp-Development
+iframeheight: 700
 ---
 
 ### Descrizione e responsabilità

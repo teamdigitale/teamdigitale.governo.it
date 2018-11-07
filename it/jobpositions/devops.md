@@ -6,6 +6,8 @@ layout: job
 ref: devops
 is_new: true
 parent_ref: join-us
+jazz_url: https://teamdigitale.applytojob.com/apply/A2lJePQAte/Site-Reliability-Engineer-DevOps-Engineer
+iframeheight: 700
 ---
 
 ### Descrizione e responsabilità
@@ -13,7 +15,7 @@ Il Team per la Trasformazione Digitale è alla ricerca di un esperto **Site Reli
 
 Le principali responsabilità di tale figura saranno:
 - Gestire l’intero ciclo di vita dei servizi infrastrutturali delle piattaforme applicative (sviluppo, produzione e dismissione)
-progettare il monitoraggio delle piattaforme applicative,  individuando le metriche più appropriate per garantire l’alta affidabilità delle infrastrutture
+- Progettare il monitoraggio delle piattaforme applicative,  individuando le metriche più appropriate per garantire l’alta affidabilità delle infrastrutture
 - Progettare e implementare infrastrutture *cloud* basate sui requisiti degli *stakeholder*
 - Produrre dettagliate specifiche tecniche di progettazione delle infrastrutture *cloud*
 - Investire sull'automazione dei processi per migliorare scalabilità e affidabilità delle piattaforme applicative

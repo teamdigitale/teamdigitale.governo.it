@@ -6,6 +6,8 @@ layout: job
 ref: affari-legali-giuridici
 parent_ref: join-us
 is_new: true
+jazz_url: https://teamdigitale.applytojob.com/apply/5WwNvdMT1j/Italian-And-EU-Regulatory-Affairs
+iframeheight: 700
 ---
 
 ### Descrizione e responsabilità

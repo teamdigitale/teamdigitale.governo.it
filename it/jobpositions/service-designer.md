@@ -6,12 +6,14 @@ layout: job
 ref: service-designer
 is_new: true
 parent_ref: join-us
+jazz_url: https://teamdigitale.applytojob.com/apply/jPdbp18jtd/Service-Designer
+iframeheight: 700
 ---
 
 ### Descrizione e responsabilità
-Il Team per la Trasformazione Digitale è alla ricerca di **esperti Service Designer**. 
+Il Team per la Trasformazione Digitale è alla ricerca di un **esperto Service Designer**. 
 
-Le figure saranno responsabili per le attività di *user research* e di analisi e progettazione di servizi complessi che tengano in considerazione l'interazione delle diverse tipologie di utenti e i *touchpoint* digitali coinvolti. Il lavoro del *Service Designer* sarà propedeutico alla fase di definizione e implementazione dei servizi realizzati dal Team per la Trasformazione Digitale e dalle Pubbliche Amministrazioni.
+La figura sarà responsabili per le attività di *user research* e di analisi e progettazione di servizi complessi che tengano in considerazione l'interazione delle diverse tipologie di utenti e i *touchpoint* digitali coinvolti. Il lavoro del *Service Designer* sarà propedeutico alla fase di definizione e implementazione dei servizi realizzati dal Team per la Trasformazione Digitale e dalle Pubbliche Amministrazioni.
 
 Siamo alla ricerca di talenti con un portfolio di ricerche e concettualizzazione di servizi digitali pubblicati e una buona competenza nel riconoscimento dei limiti e delle opportunità forniti dalle principali tecnologie di *front end*.
 
