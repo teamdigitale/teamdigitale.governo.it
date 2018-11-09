@@ -12,26 +12,27 @@ iframeheight: 700
 
 ### Description & Responsibilities
 The Digital Transformation Team is looking for an experienced **professional with proven track record to serve as Technical Assistant (TA)**.
+
 The Technical Assistant and coordinator of operations is a highly visible role, which serves as a liaison and point of contact on numerous technology and policy topics between the Digital Transformation Team and the various ministries, committees, entities and all parties that have a role in the technological innovation of the country.
 
 You will have an operational role to facilitate the day-to-day activity of the Commissioner and to drive effective processes, which will enable the Digital Transformation Team to become more effective.
 
 This a list of specific required tasks in order to ensure the time of the Commissioner is focused on the highest value activities:
 
-- defining agendas of weekly and monthly meetings and specific reviews 
-- managing meeting agendas to ensure the most important topics and hot points are being framed and considered
-- providing templates for commonly formatted documents with adequate time to complete
-- selecting the right attendees and making sure they are properly briefed
-- taking precise and effective notes during meetings
-- implementing processes to ensure a strong follow-up on action items from such meetings
-- collecting feedback in order to improve meeting formats and contents
-- reviewing all materials in advance to ensure proper focus and level of details and summarizing major write-ups
-- attending some meetings as a proxy for the Commissioner
-- prioritizing outstanding email threads and create and keep a watch on key follow-ups
-- managing follow-ups from the Prime Minister and other minister’s requests
-- creating content for periodical update emails as well as internal and external presentations
-- identifying metrics and monitoring the progress of the projects driven by the Digital Transformation Team
-- identifying recurring defects or processes that need stronger documentation and policing
+- Defining agendas of weekly and monthly meetings and specific reviews 
+- Managing meeting agendas to ensure the most important topics and hot points are being framed and considered
+- Providing templates for commonly formatted documents with adequate time to complete
+- Selecting the right attendees and making sure they are properly briefed
+- Taking precise and effective notes during meetings
+- Implementing processes to ensure a strong follow-up on action items from such meetings
+- Collecting feedback in order to improve meeting formats and contents
+- Reviewing all materials in advance to ensure proper focus and level of details and summarizing major write-ups
+- Attending some meetings as a proxy for the Commissioner
+- Prioritizing outstanding email threads and create and keep a watch on key follow-ups
+- Managing follow-ups from the Prime Minister and other minister’s requests
+- Creating content for periodical update emails as well as internal and external presentations
+- Identifying metrics and monitoring the progress of the projects driven by the Digital Transformation Team
+- Identifying recurring defects or processes that need stronger documentation and policing
 
 More in general, the TA will be drawing the Commissioner’s focus and attention to key issues and opportunities, identifying potential solutions and leading implementation.
 

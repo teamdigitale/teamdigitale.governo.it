@@ -15,7 +15,7 @@ Il Team per la Trasformazione Digitale è alla ricerca di un esperto **UI Design
 
 La figura sarà responsabile per la concettualizzazione, il *design* e il miglioramento continuo delle interfacce utente per le applicazioni *mobile* e *web* realizzate dal Team per la Trasformazione Digitale e dalle Pubbliche Amministrazioni.
 
-Siamo alla ricerca di talenti con un *portfolio* di prodotti digitali pubblicati e una profonda competenza nel riconoscimento dei limiti e delle opportunità forniti dalle principali tecnologie di *front end*.
+Siamo alla ricerca di talenti con un portfolio di prodotti digitali pubblicati e una profonda competenza nel riconoscimento dei limiti e delle opportunità forniti dalle principali tecnologie di *front end*.
 
 
 ### Qualifiche chiave

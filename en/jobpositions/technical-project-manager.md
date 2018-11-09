@@ -12,6 +12,7 @@ parent_ref: join-us
 
 ### Description & Responsibilities
 The Digital Transformation Team is looking for **Technical Program Managers**.
+
 You will support the management and supervision of the development of those digital platforms under development by the Team.
 
 We’re looking for talents with a proven track record in coordinating teams for ideating, building and delivering complex digital platforms, with a very strong scientific and technical background.
@@ -26,7 +27,7 @@ We’re looking for talents with a proven track record in coordinating teams for
 - Hands on experience in DevOps practices
 - Hands on experience with traditional (Gantt) and agile (Scrum, Kanban, Jira) project management tools
 - Highly motivated, goal driven, innovative, curious and open-minded
-- Excellent communication, presentation, interpersonal, and analytical skills, ability to communicate complex interaction concepts clearly
+- Excellent communication, presentation, interpersonal and analytical skills, ability to communicate complex interaction concepts clearly
 - Experience in providing leadership for a team of software engineers
 
 

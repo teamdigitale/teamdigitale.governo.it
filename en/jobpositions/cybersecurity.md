@@ -11,7 +11,7 @@ iframeheight: 700
 ---
 
 ### Description & Responsibilities
-The Digital Transformation Team is looking for an experienced security and cybersecurity engineer.
+The Digital Transformation Team is looking for an experienced **security and cybersecurity engineer**.
 
 You will assess security and cybersecurity infrastructures, processes and practices of those digital platforms and websites coordinated by the Digital Transformation Team or other PA departments.
 
@@ -27,7 +27,7 @@ We’re looking for a talented professional with a proven track record in securi
 - Advanced knowledge of TCP/IP networking, and network services such as DNS, SMTP, DHCP, etc.
 - Strong experience with an interpreted programming language (PHP, Python, Ruby, etc.)
 - Extensive knowledge of internet security issues and the threat landscape
-- Excellent communication, presentation, interpersonal, and analytical skills, ability to communicate complex interaction concepts clearly
+- Excellent communication, presentation, interpersonal and analytical skills, ability to communicate complex interaction concepts clearly
 - Track record in providing leadership, direction, and mentorship for a team of software engineers
 
 

@@ -25,8 +25,8 @@ You will be in charge for coordinating projects, making the applications develop
 - Ability to effectively communicate with both business and technical teams
 - High levels of integrity and discretion in handling confidential information
 - Excellent debugging, critical thinking
-- Excellent communication, presentation, interpersonal, and analytical skills, ability to communicate complex interaction concepts clearly 
-- Track record in providing leadership, direction, and mentorship for a team of software engineers
+- Excellent communication, presentation, interpersonal and analytical skills, ability to communicate complex interaction concepts clearly 
+- Track record in providing leadership, direction and mentorship for a team of software engineers
 
 
 

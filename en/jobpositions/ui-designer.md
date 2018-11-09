@@ -12,6 +12,7 @@ parent_ref: join-us
 
 ### Description & Responsibilities
 The Digital Transformation Team is looking for a **talented UI Designer**.
+
 You will be responsible for the ideation, design and continuous improvement of the user interfaces related to the web and mobile applications coordinated by the Team and by the Public Administration. 
 
 We’re looking for a talented professional with a portfolio of previously developed projects and a proven track record in recognizing limits and opportunities provided by the most important front-end technologies.
@@ -19,9 +20,9 @@ We’re looking for a talented professional with a portfolio of previously devel
 
 
 ### Key Qualifications
-- Experience as a UI designer with a portfolio of previously developed projects containing single-page/headless web apps, mobile-first responsive sites, hybrid and native applications.
+- Experience as a UI designer with a portfolio of previously developed projects containing single-page/headless web apps, mobile-first responsive sites, hybrid and native applications
 - Experience in the use of sketchapp 
-- Knowledge of the Figma and Adobe XD framework.
+- Knowledge of the Figma and Adobe XD framework
 - Experience in the design and export of SVG files, optimized to be embedded into HTML and animated with CSS and Javascripts files 
 - Experience in the use of icons and icon generators based on web font or SVG sprite  
 - Experience in the recent implementations of CSS3 (flexbox, css grid, 3d transform, etc..), HTML5, Javascript, etc.
@@ -29,7 +30,7 @@ We’re looking for a talented professional with a portfolio of previously devel
 - Knowledge of the particular characteristics of the following frameworks of front-end development: Bootstrap 3, 4, React, AngularJS, etc.
 - Knowledge of the user centered design approach and natural ability to focus on the user experience
 - Experience in at least one of the following prototyping platforms: invisionapp.com, marvelapp.com, moqups.com, uxpin.com
-- Experience in at least one of the following hi-fi prototyping tools: Principle, Framer, Flinto or similar.
+- Experience in at least one of the following hi-fi prototyping tools: Principle, Framer, Flinto or similar
 - Excellent communication, presentation, interpersonal, and analytical skills and ability to communicate complex interaction concepts clearly 
 - Ability to carry on the development of projects independently 
 

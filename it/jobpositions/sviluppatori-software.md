@@ -26,7 +26,7 @@ Siamo alla ricerca di talenti con esperienza nel settore, con una preparazione t
 - Esperienza su sviluppo *Mobile Web*, Android e iOS, con conoscenza delle *best practice*, API e librerie
 - Esperienza nello sviluppo Web - HTML5, CSS, Javascript, PHP, MySQL
 - Esperienza nella gestione di *codebase* grandi e complesse, inclusa la conoscenza di tecniche di progettazione di API con l'obiettivo di mantenere il codice pulito, elegante e facilmente manutenibile
-- Esperienza con protocolli di rete e di *messaging*, interfacce REST.
+- Esperienza con protocolli di rete e di *messaging*, interfacce REST
 - Esperienza nelle seguenti aree: programmazione *multi-thread*, *socket* TCP/IP, SQLite
 - Comprovata capacità di tradurre intuizioni in scelte operative
 - Eccellenti doti comunicative, di presentazione, interpersonali e analitiche e capacità di comunicare chiaramente concetti complessi

@@ -27,7 +27,7 @@ Siamo alla ricerca di talenti con una comprovata esperienza nel settore, con una
 - Conoscenza avanzata del protocollo TCP/IP e dei servizi di rete come DNS, SMTP, DHCP, etc.
 - Forte esperienza con linguaggi di programmazione interpretati (PHP, Python, Ruby, etc.)
 - Vasta conoscenza delle problematiche di sicurezza internet e familiarità con tutti gli aspetti connessi alla *cybersecurity*
-- Eccellenti doti comunicative, di presentazione, interpersonali e analitiche ed capacità di comunicare chiaramente concetti complessi
+- Eccellenti doti comunicative, di presentazione, interpersonali e analitiche e capacità di comunicare chiaramente concetti complessi
 - Comprovata esperienza nel gestire e fare da mentore a squadre di sviluppatori *software*
 
 

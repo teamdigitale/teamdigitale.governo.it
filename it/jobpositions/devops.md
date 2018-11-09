@@ -32,8 +32,7 @@ Le principali responsabilità di tale figura saranno:
 Siamo alla ricerca di talenti appassionati nel costruire e gestire infrastrutture IT complesse, con una comprovata esperienza nello sviluppo e costruzione di piattaforme digitali, con un *background* scientifico e tecnico molto forte.
 
 ### Qualifiche chiave
-- Almeno 3 anni di esperienza in un ruolo di *Site Reliability Engineer/ Production Engineer* o equivalente.
-- Buona conoscenza di Linux, delle pratiche di sicurezza informatica e delle nozioni fondamentali di rete.
+- Buona conoscenza di Linux, delle pratiche di sicurezza informatica e delle nozioni fondamentali di rete
 - Esperienza pratica nel *cloud* pubblico (Google Cloud, Azure o AWS)
 - Esperienza pratica nelle tecnologie *cloud Open Source* specificamente OpenStack
 - Esperienza lavorativa in ambiente *agile*
@@ -41,14 +40,14 @@ Siamo alla ricerca di talenti appassionati nel costruire e gestire infrastruttur
 - Esperienza con tecnologie di *scheduling* per container come Kubernetes o Docker Swarm
 - Esperienza con moderni sistemi di *logging* come ElasticSearch o Graylog
 - Comprensione ed esperienza  di processi di *monitoring* con tecnologie come Graphite o Prometheus
-- Familiarità con i principi e della filosofia *DevOps* e una forte attitudine  a ridurre il sovraccarico operativo dei sistemi mediante i processi di automazione
+- Familiarità con i principi e la filosofia *DevOps* e una forte attitudine  a ridurre il sovraccarico operativo dei sistemi mediante i processi di automazione
 - Esperienza nel *design* nello sviluppo di architetture *software* robuste e scalabili
 - Esperienza di lavoro con strumenti di gestione di progetti tradizionali (Gantt) e agili (Scrum o Kanban)
 - Atteggiamento fortemente motivato, orientato all’innovazione, curioso e aperto
 
 
 ### Formazione
-- Laurea magistrale in Informatica o affine con almeno 3 anni di esperienza nell’industria IT, o, in assenza di laurea, almeno 5 anni di esperienza nell’industria IT
+- Laurea magistrale in Informatica o affine con almeno 3 anni di esperienza nell’industria IT come *Site Reliability Engineer/ Production Engineer*, o, in assenza di laurea, almeno 5 anni di esperienza nell’industria IT come *Site Reliability Engineer/ Production Engineer*
 - Ottima conoscenza della lingua inglese
 
 

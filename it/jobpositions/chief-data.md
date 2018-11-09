@@ -24,7 +24,7 @@ Questa figura avrà il compito di coordinare progetti, rendere più intelligenti
 - Esperienza con SQL in scenari di utilizzo reale
 - Capacità di comunicare con efficacia sia con i team di business sia con quelli tecnici
 - Alto livello di riservatezza e discrezione nella gestione di informazioni confidenziali
-- Eccellenti capacità di *debugging*, pensiero critico, e capacità comunicativa
+- Eccellenti capacità di *debugging*, pensiero critico e capacità comunicativa
 - Eccellenti doti comunicative, di presentazione, interpersonali e analitiche e capacità di comunicare chiaramente concetti complessi
 - Comprovata esperienza nel gestire e fare da mentore a squadre di sviluppatori *software*
 

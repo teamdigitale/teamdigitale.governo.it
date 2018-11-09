@@ -30,8 +30,8 @@ We’re looking for a talented professional with a proven track record in the fi
 - Working experience with networking and messaging protocols
 - Proficiency in the following areas: multi-threaded programming, TCP/IP sockets, SQLite
 - Proven track-record ability to translate insights into business recommendations 
-- Excellent communication, presentation, interpersonal, and analytical skills, ability to communicate complex interaction concepts clearly 
-- Track record in providing leadership, direction, and mentorship for a team of software engineers
+- Excellent communication, presentation, interpersonal and analytical skills, ability to communicate complex interaction concepts clearly 
+- Track record in providing leadership, direction and mentorship for a team of software engineers
 
 
 
