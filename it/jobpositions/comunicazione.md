@@ -3,11 +3,9 @@ title: Comunicazione
 lang: it
 permalink: /it/jobpositions/comunicazione.htm
 layout: job
-is_new: true
+archived: true
 ref: comunicazione
 parent_ref: join-us
-jazz_url: https://teamdigitale.applytojob.com/apply/kXwipuj3Di/Comunicazione
-iframeheight: 700
 ---
 
 ### Descrizione e responsabilità

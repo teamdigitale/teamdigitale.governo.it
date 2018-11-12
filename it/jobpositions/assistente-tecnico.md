@@ -4,10 +4,8 @@ lang: it
 permalink: /it/jobpositions/assistente-tecnico.htm
 layout: job
 ref: assistente-tecnico
-is_new: true
+archived: true
 parent_ref: join-us
-jazz_url: https://teamdigitale.applytojob.com/apply/NfgS7ugSbs/Technical-Assistant-And-Coordinator-Of-Operations
-iframeheight: 700
 ---
 
 ### Descrizione e responsabilità

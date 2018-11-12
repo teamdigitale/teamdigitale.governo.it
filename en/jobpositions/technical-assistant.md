@@ -3,11 +3,9 @@ title: Technical Assistant
 lang: en
 permalink: /en/jobpositions/technical-assistant.htm
 layout: job
-is_new: true
+archived: true
 ref: assistente-tecnico
 parent_ref: join-us
-jazz_url: https://teamdigitale.applytojob.com/apply/NfgS7ugSbs/Technical-Assistant-And-Coordinator-Of-Operations
-iframeheight: 700
 ---
 
 ### Description & Responsibilities
