@@ -2,10 +2,8 @@
 title: UI Designer
 lang: en
 permalink: /en/jobpositions/ui-designer.htm
-jazz_url: https://teamdigitale.applytojob.com/apply/solcCu6fbF/UI-Designer
-iframeheight: 700
 layout: job
-is_new: true
+archived: true
 ref: ui-designer
 parent_ref: join-us
 ---
