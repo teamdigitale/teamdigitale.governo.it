@@ -9,16 +9,18 @@ parent_ref: join-us
 ---
 
 ### Description & Responsibilities
-The Technical Assistant (TA)  and coordinator of operations is a highly visible role, which serves as a liaison and point of contact on numerous technology and policy topics between the Digital Transformation Team and the various ministries, committees, entities and all parties that have a role in the technological innovation of the country.
+The Digital Transformation Team is looking for an experienced **professional with proven track record to serve as Technical Assistant (TA)**.
+
+The Technical Assistant and coordinator of operations is a highly visible role, which serves as a liaison and point of contact on numerous technology and policy topics between the Digital Transformation Team and the various ministries, committees, entities and all parties that have a role in the technological innovation of the country.
 
 You will have an operational role to facilitate the day-to-day activity of the Commissioner and to drive effective processes, which will enable the Digital Transformation Team to become more effective.
 
-This a list of specific required tasks in order to ensure the time of the Commissioner  is focused on the highest value activities:
+This a list of specific required tasks in order to ensure the time of the Commissioner is focused on the highest value activities:
 
-- Defining agendas of weekly, monthly and quarterly meetings and specific reviews
+- Defining agendas of weekly and monthly meetings and specific reviews 
 - Managing meeting agendas to ensure the most important topics and hot points are being framed and considered
-- providing templates for commonly formatted documents with adequate time to complete
-- selecting the right attendees and making sure they are properly briefed
+- Providing templates for commonly formatted documents with adequate time to complete
+- Selecting the right attendees and making sure they are properly briefed
 - Taking precise and effective notes during meetings
 - Implementing processes to ensure a strong follow-up on action items from such meetings
 - Collecting feedback in order to improve meeting formats and contents
@@ -32,11 +34,12 @@ This a list of specific required tasks in order to ensure the time of the Commis
 
 More in general, the TA will be drawing the Commissioner’s focus and attention to key issues and opportunities, identifying potential solutions and leading implementation.
 
-The qualified individual will:
+The qualified individuals will:
 
 - Benchmark the activity of similar offices in other leading nations, determining best practices and identifying gaps
-- Discover and exploring trends, disruptive programs, new technologies that present strategic opportunities for the Digital agenda
+- Discover and exploring trends, disruptive programs, new technologies that present strategic opportunities for the Digital Agenda
 - Identifying key players in the industry
+
 
 
 ### Key Qualifications
@@ -48,3 +51,4 @@ The qualified individual will:
 - Advanced school degree (PhD or MS) in quantitative disciplines (Computer Science knowledge preferred but any type of science is welcome)
 - International study and/or work experience
 - Proficiency in English
+
