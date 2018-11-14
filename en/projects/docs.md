@@ -35,7 +35,7 @@ timeline:
 
 ### In short
 
-Docs Italia is the platform for public documents available to all administrations to manage documents in a transparent and useful way for citizens. Furthermore, Docs Italia is, together with Forum Italia, the national platform for the governance of the digital transformation envisaged
+[Docs Italia](https://docs.italia.it/) is the platform for public documents available to all administrations to manage documents in a transparent and useful way for citizens. Furthermore, Docs Italia is, together with Forum Italia, the national platform for the governance of the digital transformation envisaged
 by the article 18 of the CAD (Digital Administration Code) to manage documents related to the digital agenda and the consultation processes.
 
 ### Benefits for citizens

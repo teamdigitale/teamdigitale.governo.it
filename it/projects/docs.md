@@ -35,7 +35,7 @@ timeline:
 
 ### In breve
 
-Docs Italia è la piattaforma per i documenti pubblici a disposizione di tutte le amministrazioni che vogliono gestire i documenti in modo trasparente e utile per i cittadini. Inoltre, Docs Italia è, insieme a Forum Italia, la piattaforma nazionale per la governance della trasformazione digitale prevista
+[Docs Italia](https://docs.italia.it/) è la piattaforma per i documenti pubblici a disposizione di tutte le amministrazioni che vogliono gestire i documenti in modo trasparente e utile per i cittadini. Inoltre, Docs Italia è, insieme a Forum Italia, la piattaforma nazionale per la governance della trasformazione digitale prevista
 dall’art. 18 del CAD (Codice dell’amministrazione digitale) per gestire i documenti relativi all'agenda digitale e i processi di consultazione.
 
 ### Vantaggi per i cittadini
