@@ -2,8 +2,6 @@
 title: Machine Learning and Data Science 
 lang: en
 permalink: /en/jobpositions/machine-learning-data-science.htm
-jazz_url: https://teamdigitale.applytojob.com/apply/oHQC5VFz1I/Machine-Learning-Data-Scientist
-iframeheight: 700
 layout: job
 ref: esperto-machine-learning-data-scientist
 archived: true
