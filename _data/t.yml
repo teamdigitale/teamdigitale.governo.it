@@ -156,8 +156,8 @@ JobsAccordion_7:
   en: "Keep in mind"
   it: "Nota bene"
 JobsAccordionDesc_1:
-  en: "We would ask for a commitment up to September 2019."
-  it: "Chiediamo un impegno fino a settembre 2019."
+  en: "We would ask for a commitment up to 15 September 2019, as the Digital Transformation Team has been renewed until that date. <a href=\"https://teamdigitale.governo.it/en/49-content.htm\">Read More</a>."
+  it: "Chiediamo un impegno fino al 15 settembre 2019, in quanto la struttura del Team per la Trasformazione Digitale è stata rinnovata fino a quella data. <a href=\"https://teamdigitale.governo.it/it/47-content.htm\">Leggi di più</a>."
 JobsAccordionDesc_2:
   en: "Most positions will be paid in the income brackets of €60,000–80,000 per annum. There could be exceptions based on the complexity of the role and the seniority of the candidate."
   it: "La maggior parte dei ruoli sarà remunerata tra 60.000 € e 80.000 € all’anno. Potranno esserci eccezioni in base alla complessità del ruolo e alla seniority del candidato."
@@ -175,7 +175,7 @@ JobsAccordionDesc_6:
   it: "Occasionalmente si dovrà essere eleganti, ma normalmente ci si può vestire anche in modo casual e sportivo"
 JobsAccordionDesc_7:
   en: "<p>In the first call for talents launched in September 2016 we wrote the \"Keep in Mind\" reported below. We confirm all we wrote at that time. If you easily frustrate yourself, this job doesn’t suit you.</p><p>\"We are going to be working in a government environment. We will have the opportunity to collaborate with incredibly bright, smart, strong-willed and well-intentioned people scattered around the Public Administration who have a sincere desire to improve and do the right things. There are, in fact, modern and innovative teams and excellent but isolated units, capable of achieving a lot with few resources.
-</p><p>However, the current status of the public digital infrastructure shows the consequence of lack of agile central coordination. Much has been done in the recent past, but most of the programs are not aligned and many systems and websites were built with outdated technology, insufficient attention to user experience, poor integration and, often, a lack of interoperability.  
+</p><p>However, the current status of the public digital infrastructure shows the consequence of lack of agile central coordination. Much has been done in the recent past, but most of the programs are not aligned and many systems and websites were built with outdated technology, insufficient attention to user experience, poor integration and, often, a lack of interoperability.
 </p><p>We will also find many complicated, sometimes unintelligible, norms and rules; we will need to be prepared to cleverly deal with bureaucracy.
 </p><p>People will tell us “you don’t comprehend how the public administration works”, “many already tried and failed” and “in Italy it doesn’t work this way!”
 </p><p>We will get a lot of criticism. Some will be sincere and helpful, some will be prejudiced and cynical. The former will come from people who genuinely want to help, the latter from people who either need to defend the status quo or believe the glass is always “half empty” or, more simply, have learned helplessness.</p>
@@ -265,4 +265,4 @@ SignatureFooter:
   it: "Il Team per la Trasformazione Digitale, salvo eccezioni, comunica con le altre Amministrazioni via posta elettronica ordinaria e non posta elettronica certificata, in conformità a quanto previsto dall’art.47 del Codice dell’Amministrazione Digitale."
 PreRole:
   en: Formerly
-  it: Precedentemente 
+  it: Precedentemente
