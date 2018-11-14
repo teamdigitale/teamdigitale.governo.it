@@ -10,6 +10,7 @@ linkedin_url: https://www.linkedin.com/in/laurabordin/
 ref: laura-bordin
 parent_ref: team
 start_date: November 29, 2017
+end_date: October 30, 2018
 period_provided: until September 16, 2018
 annual_compensation: € 75,000
 approved_by_court: January 30, 2018
