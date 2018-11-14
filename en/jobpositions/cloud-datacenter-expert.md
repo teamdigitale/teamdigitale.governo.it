@@ -2,8 +2,6 @@
 title: Cloud and Data Center 
 lang: en
 permalink: /en/jobpositions/cloud-datacenter.htm
-jazz_url: https://teamdigitale.applytojob.com/apply/1NroAwJ06t/Cloud-And-Data-Center
-iframeheight: 700
 layout: job
 ref: esperto-cloud-datacenter
 archived: true
