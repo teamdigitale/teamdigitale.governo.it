@@ -3,7 +3,7 @@ title: Matteo de Santi
 lang: en
 permalink: /en/people/33-profile.htm
 layout: people
-role: UX/UI & Product Designer
+role: Chief Product & Design Officer
 is_new: false
 twitter_user: matteo_desanti
 medium_user:
@@ -11,9 +11,9 @@ linkedin_url: https://www.linkedin.com/in/matteodesanti
 ref: matteo-de-santi
 parent_ref: team
 start_date: February 17, 2017
-period_provided: until September 16, 2018
+period_provided: until September 15, 2019
 annual_compensation: € 95,000
-approved_by_court: April 10, 2017
+approved_by_court: The decree of appointment is pending before the Court of Auditors.
 ---
 When I was in high school I began experimenting with the mythical Amiga, the IT expressive potential, trying at the same time to make what I was designing actually work, doing my best to have it interactive.
 

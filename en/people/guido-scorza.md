@@ -11,9 +11,9 @@ linkedin_url:
 ref: guido-scorza
 parent_ref: team
 start_date: October 31, 2016
-period_provided: until September 16, 2018
+period_provided: until September 15, 2019
 annual_compensation: € 75,000
-approved_by_court: November 29, 2016
+approved_by_court: The decree of appointment is pending before the Court of Auditors.
 ---
 I graduated in Law in 1996 at LUISS University with a thesis on the legal protection of software and I then obtained a PhD in legal informatics and computer law at the University of Bologna.
 

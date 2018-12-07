@@ -11,9 +11,9 @@ linkedin_url: https://it.linkedin.com/in/simone-piunno-a94ba91
 ref: simone-piunno
 parent_ref: team
 start_date: 14 novembre 2016
-period_provided: fino al 16 settembre 2018
+period_provided: fino al 15 settembre 2019
 annual_compensation: € 150.000
-approved_by_court: 29 novembre 2016
+approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti.
 ---
 Fin da piccolo ho sempre avuto la passione per l'Informatica e il mio primo programma l'ho scritto su un Commodore VIC20 quando ero ancora alle medie.  A fine anni 80, prima che arrivasse Internet, avevo già conosciuto la potenza della rete con le BBS Fidonet, che usavo per scambiare messaggi elettronici con amici in tutta Italia, facendo arrabbiare i miei genitori con i fischi del modem a 1200 bps e soprattutto per le salate bollette della SIP.  
 

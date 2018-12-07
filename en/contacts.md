@@ -29,16 +29,12 @@ TeamDigitale is on [Twitter](https://twitter.com/ITdigitalteam), [Medium](https:
 ## Offices
 
 
-**Palazzo Chigi**
-
-*Colonna Square 370*
-
-*00187 Rome - Italy*
+**Palazzo Verospi**
+*via della Impresa, 90*
+*00186 Rome (RM) - Italy*
 
 
 **Cassa Depositi e Prestiti (CDP)**
-
-*Castelfidardo Street, 1*
-
-*00185 Rome - Italy*
+*Via Versilia, 2*
+*00187 Rome (RM) - Italy*
 

@@ -11,9 +11,9 @@ linkedin_url: https://www.linkedin.com/in/ludovico-poggi-212a738/
 ref: ludovico-poggi
 parent_ref: team
 start_date: February 1, 2017
-period_provided: until September 16, 2018
+period_provided: until September 15, 2019
 annual_compensation: € 67,000
-approved_by_court: May 3rd, 2017
+approved_by_court: The decree of appointment is pending before the Court of Auditors.
 ---
 I started my career at lavoce.info, an italian think tank and economic policy watch dog founded in 2002 by Tito Boeri. During this experience I learnt how to differentiate comments and facts, and used the latter to develop a solid assessment of the process of policy making, independently from the political parties that generated it. In this laboratory of ideas, where independence is of utmost importance, I managed to meet tight deadlines and covered different areas of the communication universe: press office, editing, fundraising, social media management and organization of events. I developed a learning-by-doing approach relying extensively on a wide range of instruments: internet, Twitter, a weekly newsletter, crowdfunding events and the community management.
 

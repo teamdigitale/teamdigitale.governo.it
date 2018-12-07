@@ -10,9 +10,9 @@ linkedin_url: https://www.linkedin.com/in/paoloderosa/
 medium_user: cripto
 parent_ref: team
 start_date: 23 ottobre 2017
-period_provided: fino a 16 Settembre 2018
+period_provided: fino al 15 settembre 2019
 annual_compensation: € 80.000
-approved_by_court: 30 Novembre 2017
+approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti.
 ---
 
 Fin da ragazzo ho avuto la possibilità di giocare con alcuni strumenti
