@@ -30,7 +30,7 @@ TeamDigitale is on [Twitter](https://twitter.com/ITdigitalteam), [Medium](https:
 
 
 **Palazzo Verospi**
-*via della Impresa, 90*
+*Via della Impresa, 90*
 *00186 Rome (RM) - Italy*
 
 
