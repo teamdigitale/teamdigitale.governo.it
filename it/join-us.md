@@ -6,6 +6,9 @@ permalink: /it/36-content.htm
 ref: join-us
 menu_position: 5
 last_modified_by_layout: job
+redirect_from:
+  - /lavora-con-noi/
+  - /it/lavora-con-noi/
 ---
 # Lavora con noi
 

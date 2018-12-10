@@ -6,6 +6,9 @@ permalink: /en/43-content.htm
 ref: join-us
 menu_position: 5
 last_modified_by_layout: job
+redirect_from:
+  - /join-us/
+  - /en/join-us/
 ---
 
 # Join us

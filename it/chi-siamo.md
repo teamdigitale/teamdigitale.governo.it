@@ -5,6 +5,9 @@ ref: chi-siamo
 menu_position: 2
 permalink: /it/chi-siamo.htm
 layout: default
+redirect_from:
+  - /chi-siamo/
+  - /it/chi-siamo/
 ---
 
 <h2>Chi siamo</h2>
