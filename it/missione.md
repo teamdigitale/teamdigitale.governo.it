@@ -5,7 +5,10 @@ ref: mission
 menu_position: 4
 layout: default_with_toc
 toc: true
-permalink: /it/1-content.htm
+permalink: /it/missione
+redirect_from:
+  - /missione
+  - /it/1-content.htm
 ---
 # Innovazione digitale per i cittadini e per lo sviluppo del Paese
 

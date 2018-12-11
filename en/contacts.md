@@ -1,11 +1,14 @@
 ---
 title: Contacts
 lang: en
-layout: default_with_toc
-permalink: /en/contacts.htm
 ref: contacts
+layout: default_with_toc
 toc: true
 menu_position: 6
+permalink: /en/contacts
+redirect_from:
+  - /contacts
+  - /en/contacts.htm
 ---
 # Contacts
 

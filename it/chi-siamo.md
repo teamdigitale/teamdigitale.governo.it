@@ -1,13 +1,13 @@
 ---
 title: Chi siamo
 lang: it
-ref: chi-siamo
-menu_position: 2
-permalink: /it/chi-siamo.htm
+ref: team
 layout: default
+menu_position: 2
+permalink: /it/chi-siamo
 redirect_from:
-  - /chi-siamo/
-  - /it/chi-siamo/
+  - /chi-siamo
+  - /it/chi-siamo.htm
 ---
 
 <h2>Chi siamo</h2>
