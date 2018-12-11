@@ -11,9 +11,9 @@ linkedin_url: https://it.linkedin.com/in/giuseppe-virgone-0420a144
 ref: giuseppe-virgone
 parent_ref: team
 start_date: 5 dicembre 2016
-period_provided: fino al 16 settembre 2018
+period_provided: fino al 15 settembre 2019
 annual_compensation: € 100.000
-approved_by_court: 9 gennaio 2017
+approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti.
 ---
 Sono entrato nel mondo del lavoro all’età di vent’anni nel settore dell’*Information & Communication Technology* in ambito bancario. In questo ambiente sono cresciuto professionalmente, ricoprendo vari ruoli e occupandomi di automazione bancaria dei processi, di *Logical Security* e di *Identity Management*. Ho lavorato per Sicilcassa, Banco di Sicilia, Capitalia Informatica e infine per UGIS di Unicredit. L’esperienza bancaria è stata estremamente formativa, consentendomi di conoscere e approfondire tematiche difficilmente acquisibili all’esterno. Entrare nel mondo del lavoro così giovane in aziende di questa importanza e in ruoli stimolanti e impegnativi, da un lato mi ha entusiasmato, dall’altro mi ha portato a concentrarmi soltanto sulla crescita lavorativa e a rinunciare alla laurea dopo il diploma, non riuscendo più a frequentare i corsi di Ingegneria Elettronica, con grande delusione dei miei genitori che tenevano fortemente al titolo del loro figlio maggiore.
 

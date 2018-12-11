@@ -3,13 +3,13 @@ title: Alessandro Ranellucci
 lang: en
 permalink: /en/people/alessandro-ranellucci.html
 layout: people
-role: Open Source Project Leader
+role: Developer Relations
 ref: alessandro-ranellucci
 parent_ref: team
 start_date: October 4, 2017
-period_provided: until September 16, 2018
+period_provided: until September 15, 2019
 annual_compensation: € 60,000
-approved_by_court: November 3, 2017
+approved_by_court: The decree of appointment is pending before the Court of Auditors.
 twitter_user: alranel
 ---
 

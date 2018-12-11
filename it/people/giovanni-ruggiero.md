@@ -3,7 +3,7 @@ title: Giovanni Ruggiero
 lang: it
 permalink: /it/people/giovanni-ruggiero.htm
 layout: people
-role: Big Data Architect
+role: Big Data Engineer
 is_new: false
 twitter_user: gruggie
 medium_user:
@@ -11,9 +11,9 @@ linkedin_url: http://linkedin.com/in/giovanniruggiero
 ref: giovanni-ruggiero
 parent_ref: team
 start_date: 4 ottobre 2017
-period_provided: fino al 16 settembre 2018
+period_provided: fino al 15 settembre 2019
 annual_compensation: € 72.000
-approved_by_court: 3 Novembre 2017
+approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti.
 ---
 I miei primi passi nel mondo dell'informatica risalgono ai tempi del Commodore 64, regalo dei miei genitori, inconsapevoli
 delle conseguenze di quel dono. Imparai il BASIC grazie ad un corso in edicola e la creazione di piccoli programmi divenne

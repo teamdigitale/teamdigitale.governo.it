@@ -11,9 +11,9 @@ linkedin_url:
 ref: mirko-calvaresi
 parent_ref: team
 start_date: 31 gennaio 2017
-period_provided: fino al 16 settembre 2018
+period_provided: fino al 15 settembre 2019
 annual_compensation: € 80.000
-approved_by_court: 3 maggio 2017
+approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti.
 ---
 Sono appassionato di WEB dal 1996, quando ho realizzato il mio primo sito web sulle comunità virtuali descritte da Howard Rheingold, ma penso che la definizione migliore delle tecnologie che amo l’abbia data Italo Calvino in “Lezioni Americane” parlando di letteratura:
 

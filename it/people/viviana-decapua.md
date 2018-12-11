@@ -11,7 +11,7 @@ linkedin_url:
 ref: viviana-decapua
 parent_ref: team
 start_date: 16 marzo 2017 
-period_provided: fino al 15 settembre 2018
+period_provided: fino al 15 settembre 2019
 pa_compensation_level: funzionario amministrativo Area III - fascia economica F1 
 approved_by_court: 
 ---
