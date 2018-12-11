@@ -1,11 +1,14 @@
 ---
 title: Lavora con noi
 lang: it
-layout: default
-permalink: /it/36-content.htm
 ref: join-us
+layout: default
+permalink: /it/lavora-con-noi
 menu_position: 5
 last_modified_by_layout: job
+redirect_from:
+  - /lavora-con-noi
+  - /it/36-content.htm
 ---
 # Lavora con noi
 

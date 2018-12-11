@@ -5,7 +5,10 @@ ref: mission
 menu_position: 4
 layout: default_with_toc
 toc: true
-permalink: /en/2-content.htm
+permalink: /en/mission
+redirect_from:
+  - /mission
+  - /en/2-content.htm
 ---
 # Digital innovation for citizens and for the development of the country
 

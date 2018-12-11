@@ -1,11 +1,14 @@
 ---
 title: Join Us
 lang: en
-layout: default
-permalink: /en/43-content.htm
 ref: join-us
+layout: default
+permalink: /en/join-us
 menu_position: 5
 last_modified_by_layout: job
+redirect_from:
+  - /join-us
+  - /en/43-content.htm
 ---
 
 # Join us

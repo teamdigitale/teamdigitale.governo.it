@@ -51,6 +51,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-toc
   - jekyll-last-modified-at
+  - jekyll-redirect-from
 exclude:
   - vendor
   - README.md
@@ -60,6 +61,6 @@ exclude:
   - circle.yml
   - gulpfile.js
   - package.json
-  
+
 sass:
     style: compressed
