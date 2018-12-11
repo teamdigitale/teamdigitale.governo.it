@@ -9,7 +9,7 @@ ref: luca-attias
 parent_ref: team
 start_date: 31 ottobre 2018
 period_provided: fino al 15 settembre 2019
-approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti.
+approved_by_court: 12 novembre 2018
 ---
 
 Sono romano, trasteverino per la precisione, e proprio nella capitale affondano il 50% delle mie radici, il resto è itinerante tra Valencia, Livorno e Tunisi. Da piccolo me la cavavo discretamente in diversi sport e sognavo di diventare come il mio idolo, Pietro Mennea. E in un certo senso ci sono riuscito, la velocità e il lavoro intenso mi hanno sempre accompagnato. Mi sono laureato in ingegneria elettronica troppi anni fa a La Sapienza e poi l’IT è diventata la mia professione a partire da una sfidante esperienza tecnologica internazionale nel settore privato. Si è trattato di una avventura straordinaria dal punto di vista professionale ed è lì che il mio sangue analogico si è trasformato in digitale. Proprio lì, dal confronto con altre realtà internazionali, ho anche maturato la convinzione che nel nostro Paese persino nel privato ci fosse un serio problema di managerialità e di meritocrazia.

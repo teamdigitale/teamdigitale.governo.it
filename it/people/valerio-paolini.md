@@ -11,9 +11,9 @@ linkedin_url: https://it.linkedin.com/in/valeriopaolini
 ref: valerio-paolini
 parent_ref: team
 start_date: 9 gennaio 2017
-period_provided: fino al 16 settembre 2018
+period_provided: fino al 15 settembre 2019
 annual_compensation: € 80.000
-approved_by_court: 3 maggio 2017
+approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti.
 ---
 Ho 46 anni, vivo a Bologna, sono sposato e padre di una nativa digitale. La mia passione per la tecnologia dell’informazione è cominciata da giovanissimo e, dopo l’immancabile stagione del Commodore 64, è diventata seria quando, a quindici anni, posto di fronte all’alternativa tra un computer Apple e il motorino, non esitai a preferire il primo. Pagai qualche prezzo, ma credo sia stata una delle scelte migliori di sempre.
 

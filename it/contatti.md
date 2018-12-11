@@ -44,17 +44,13 @@ TeamDigitale è su [Twitter](https://twitter.com/teamdigitaleIT), [Medium](https
 
 
 
-**Palazzo Chigi**
-
-*Piazza Colonna 370*
-
-*00187 Roma - Italia*
+**Palazzo Verospi**
+*Via della Impresa, 90*
+*00186 Roma - Italia*
 
 
 **Cassa Depositi e Prestiti (CDP)**
-
-*Via Castelfidardo, 1*
-
-*00185 Roma - Italia*
+*Via Versilia, 2*
+*00187 Roma - Italia*
 
 

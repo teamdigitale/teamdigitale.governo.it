@@ -10,9 +10,9 @@ linkedin_url: https://it.linkedin.com/in/rpolli
 ref: roberto-polli
 parent_ref: team
 start_date: 23 febbraio 2018
-period_provided: fino al 16 settembre 2018
+period_provided: fino al 15 settembre 2019
 annual_compensation: € 72.000
-approved_by_court: 26 marzo 2018
+approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti.
 ---
 Ero un bambino quando mio padre disse: “Roberto, ti piacerebbe un cervello elettronico?” Rimasi un po' intimorito, immaginando di dovermi trasformare in Kyashan - il ragazzo androide che spopolava in TV in quegli anni. Arrivò a casa invece un PC-10 Commodore con due floppy da 5 e ¼ e la bellezza di 256k di RAM.
 Iniziò tutto così: prima ricopiando i listati dei software presi da qualche rivista, i primi programmi sui frattali in GW-BASIC, poi il C ed i gruppi di smanettoni al Liceo - ragazzi brillanti ora quasi tutti all’estero.
