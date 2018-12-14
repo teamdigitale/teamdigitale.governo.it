@@ -87,6 +87,7 @@ gulp.task('optimize-js', function () {
 
 gulp.task('clean', function () {
     return gulp.src('_site', {
+        allowEmpty: true,
         read: false
     })
         .pipe(clean());
