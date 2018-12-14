@@ -114,16 +114,26 @@
 			border-bottom: none;
 			padding-bottom: 3px !important;
 			}
-			&[data-toggle='dropdown']:after {
-				content: '\f078';
-				display: inline;
-				color: #fff;
-				font-family: 'FontAwesome';
-				margin-left: 4px;
-				font-size: 16px;
+			&[data-toggle='dropdown'] {
+                &:after {
+                    content: ' ';
+                    display: inline-block;
+                    border-right: 3px solid #FFF;
+                    border-bottom: 3px solid #FFF;
+                    width: 10px;
+                    height: 10px;
+                    transform: rotate(45deg);
+                    margin-bottom: 5px;
+                    margin-left: 10px;
+                    margin-right: 10px;
+                }
+                &[aria-expanded='true'] {
+                    &:after {
+                      transform: rotate(-135deg);
+                      margin-bottom: 0;
+                    }
+                }
 			}
-
-
 		}
 	}
 
@@ -434,7 +444,7 @@
 			font-size: 17px;
 		}
 
-		
+
 		.panel-title {
 			font-size: 16px;
 			line-height: 1.2;
@@ -459,7 +469,7 @@
 			  	content: url(/images/accordion-arrow-expanded.png);
 			  }
 			}
-			
+
 		}
 		table {
 			td {
@@ -695,7 +705,7 @@ body.layout-project {
 
 }
 
-/* EXPLICIT OVERRIDES 
+/* EXPLICIT OVERRIDES
 --------------------- */
 .sidenav-menu-item.homepage {
 	/* issue 289 */
@@ -913,7 +923,7 @@ body.layout-project {
 			font-size: 2rem;
 			line-height: 2.2rem;
 			min-width: 240px;
-			
+
 		}
 		&__smalltext {
 			font-size: 1.2rem;
@@ -1003,11 +1013,14 @@ body.layout-project {
 }
 .team-list-grid {
 	margin-bottom:15px;
-	
+
 	@media screen and (max-width: 767px) {
 		margin-left: 10px;
 		margin-right: 10px;
 	}
+}
+.img-shadow {
+  box-shadow: 0 8px 16px rgba(0,0,0,.15);
 }
 .videoWrapper {
 	position: relative;
