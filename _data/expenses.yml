@@ -1,24 +1,24 @@
 ---
-SpeseUpdate: '26/10/2018'
+SpeseUpdate: '28/12/2018'
 SpeseDelTeam:
   - voce: Sviluppo software e design
-    impegno: 5067514    
-    pagamenti: 3320173   
+    impegno: 5075869   
+    pagamenti: 3985288   
   - voce: Hardware e accessori
     impegno: 66230  
     pagamenti: 66230  
   - voce: Canoni software as a service
-    impegno: 70317
-    pagamenti: 70317  
+    impegno: 86009
+    pagamenti: 86009  
   - voce: Comunicazione e relazioni pubbliche
-    impegno:  170276    
-    pagamenti: 125225   
+    impegno:  177553    
+    pagamenti: 138044   
   - voce: Funzionamento (missioni, eventi)
-    impegno:  112360  
-    pagamenti: 112360    
+    impegno:  116063  
+    pagamenti: 116063    
   - voce: Compensi Esperti*
-    impegno:  4673718 
-    pagamenti: 4533790   
+    impegno:  5293283 
+    pagamenti: 4875171   
 SpeseAnalitiche:
   - voce: Ministero dell'Interno
     titolobreve: Accordo con il Ministero dell'Interno per attività di sviluppo tecnologico di ANPR
@@ -41,7 +41,7 @@ SpeseAnalitiche:
     progetto: DAF
     ref: daf
     impegno:  235679 
-    pagamenti: 33548
+    pagamenti: 52381
     contraccordi: Contratti con R.T.I. Telecom Italia S.p.A.- adesioni a Contratto Quadro Consip SPC Cloud Lotto 1
     descrizione: "Nell’ambito del progetto Data & Analytics Framework i contratti, stipulati a valle delle adesioni all'Accordo quadro Consip, sono finalizzati all'acquisizione di Virtual Data Center a canone al fine di creare un cluster big data basato su Hadoop e suo ecosistema accoppiato ad una installazione di un DB operazionale (MongoDB) e ad un layer di esposizione dati tramite API"
   - voce: R.T.I. Almaviva S.p.A. (mandataria), Almawave s.r.l., INDRA ITALIA S.p.A.,PricewaterhouseCoopers Advisory S.p.A.
@@ -49,7 +49,7 @@ SpeseAnalitiche:
     progetto: Designers
     ref: designers
     impegno:  222011 
-    pagamenti: 0
+    pagamenti: 81417
     contraccordi: Contratti con R.T.I. ALMAVIVA - adesione a Contratto Quadro Consip SPC Cloud Lotto 4
     descrizione: "Nell'ambito del progetto Designers Italia, i contratti, stipulati a valle delle adesioni all'Accordo quadro Consip, sono finalizzati alla realizzazione di servizi innovativi abilitanti, forniti secondo un modello di community cloud, per l’attuazione dell’Agenda Digitale Italiana , al fine ultimo di realizzare servizi pubblici per i cittadini e le aziende accessibili nel modo più semplice possibile, innanzitutto tramite dispositivi mobili, con architetture sicure, scalabili e altamente affidabili."
   - voce: ISTC-CNR
@@ -89,6 +89,6 @@ SpeseAnalitiche:
     progetto: DAF
     ref: daf
     impegno:  97234  
-    pagamenti: 48678
+    pagamenti: 97234
     contraccordi: Contratti con Teradata Italia
     descrizione: Nell’ambito del progetto DAF, il contratto stipulato nel 2017 è finalizzato allo sviluppo di una piattaforma software per la gestione di data lake in HDFS (Kylo) come tool per coadiuvare il processo di ingestion, data wrangling e pipeline management del DAF. Il processo di ingestion è basato su strumenti nativi dell’ecosistema Hadoop. Con successivo contratto del 2018è stato affidato alla Società il servizio specificamente diretto alla verifica di sicurezza delle attività e delle componenti del software Kylo, già integrato nel DAF.
