@@ -1,5 +1,5 @@
 {
   "tabWidth": 2,
   "semi": false,
-  "quotes": true
+  "singleQuote": true
 }
