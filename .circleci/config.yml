@@ -32,13 +32,13 @@ jobs:
 
       - restore_cache:
           keys:
-          - v3-dependencies-ruby-{{ checksum "Gemfile.lock" }}
-          - v3-dependencies-ruby-
+          - v4-dependencies-ruby-{{ checksum "Gemfile.lock" }}
+          - v4-dependencies-ruby-
 
       - run: bundle check || bundle install
 
       - save_cache:
-          key: v3-dependencies-ruby-{{ checksum "Gemfile.lock" }}
+          key: v4-dependencies-ruby-{{ checksum "Gemfile.lock" }}
           paths:
             - vendor/bundle
 
@@ -47,13 +47,13 @@ jobs:
       #
       - restore_cache:
           keys:
-          - v3-dependencies-node-{{ checksum "yarn.lock" }}
-          - v3-dependencies-node-
+          - v4-dependencies-node-{{ checksum "yarn.lock" }}
+          - v4-dependencies-node-
 
       - run: yarn install --cache-folder ~/.cache/yarn
 
       - save_cache:
-          key: v3-dependencies-node-{{ checksum "yarn.lock" }}
+          key: v4-dependencies-node-{{ checksum "yarn.lock" }}
           paths:
             - node_modules
             - ~/.cache/yarn
@@ -77,7 +77,7 @@ jobs:
     steps:
       - attach_workspace:
           at: /home/circleci
-      
+
       # Do not deploy the site to the legacy server anymore
       # because we use GitHub Pages now
       # - run: mkdir -p ~/.ssh

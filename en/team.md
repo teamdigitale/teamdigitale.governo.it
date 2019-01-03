@@ -20,7 +20,7 @@ businesses, through innovative digital products.
 
 The Commissioner's Team has been established on September 16, 2016 with an
 initial two-year mandate, up to September 16, 2018.   
-The <a href="http://presidenza.governo.it/AmministrazioneTrasparente/DisposizioniGenerali/AttiGenerali/DpcmOrganismiCollegiali/DPCM_20160916_CommStraord_AgendaDigitale.pdf" title="Prime-Ministerial Decree of Digital agenda commissarial structure" target="_blank">
+The <a href="http://presidenza.governo.it/AmministrazioneTrasparente/DisposizioniGenerali/AttiGenerali/DpcmOrganismiCollegiali/DPCM_20160916_CommStraord_AgendaDigitale.pdf" title="Prime Minister Decree of Digital agenda commissarial structure" target="_blank">
 Digital Transformation Team</a> operated under a prorogatio regime until
 October 30, 2018.
 
