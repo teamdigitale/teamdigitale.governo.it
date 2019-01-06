@@ -64,7 +64,7 @@ gulp.task('optimize-images', function() {
 })
 
 gulp.task('optimize-html', function() {
-  return gulp.src('_site/**/*.html')
+  return gulp.src('_site/**/*.{htm,html}')
     .pipe(htmlmin({ collapseWhitespace: true }))
     .pipe(gulp.dest('_site/'))
 })
