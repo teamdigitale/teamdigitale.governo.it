@@ -1,5 +1,8 @@
-<html><body onload="resumatorResizeParentIframe()"><script> 
-		// Tell the parent iframe what height the iframe needs to be
+<html><!-- 
+This page is on the same domain as the parent, so can
+communicate with it to order the iframe window resizing
+to fit the content 
+--><body onload="resumatorResizeParentIframe()"><script>// Tell the parent iframe what height the iframe needs to be
 		function resumatorResizeParentIframe(){
 			var ph = resumatorGetParam('height');
 			var ju = resumatorGetParam('nojump');
@@ -17,5 +20,4 @@
 			}else{
 				return results[1];
 			}
-		}
-		</script></body></html>
+		}</script></body></html>
