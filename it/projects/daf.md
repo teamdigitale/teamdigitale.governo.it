@@ -6,7 +6,7 @@ layout: project
 ref: daf
 parent_ref: projects
 parent_menu: projects
-people: [raffaele-lillo, fabiana-lanotte, alessandro-ercolani, david-greco, giovanni-ruggiero, fabio-fumarola, maria-claudia-bodino]
+people: [raffaele-lillo, fabiana-lanotte, alessandro-ercolani, david-greco, giovanni-ruggiero, fabio-fumarola, maria-claudia-bodino, simone-piunno]
 toc: true
 medium_tag: big-data
 forum_category: 'daf'
@@ -27,8 +27,12 @@ timeline:
     title: Definizione e realizzazione del piano di sviluppo della fase di sperimentazione del Data & Analytics Framework
     desc: Individuazione del modello di governance del DAF e delle PA che faranno parte della fase di sperimentazione. Definizione dell’architettura della piattaforma e della sua roadmap di evoluzione. Definizione dei casi d’uso per lo sviluppo di servizi per Pubbliche amministrazioni, cittadini e imprese.
   - period: Dicembre 2018
+    title: Istituzionalizzazione del DAF
+    desc: Il DAF diventa una piattaforma istituzionale prima attraverso l'articolo 50-ter del CAD che definisce la Piattaforma Nazionale Digitale Dati e successivamente con il Decreto 14 dicembre 2018 n. 135 che conferisce il progetto ad una nuova società che sarà costituita presso la Presidenza del Consiglio.
+    status: done
+  - period: Dicembre 2019
     title: Messa in Produzione del DAF
-    desc: Il Team digitale e AgID predisporranno le procedure atte al subentro del futuro owner del DAF che gestirà l’operatività e l’evoluzione del progetto. L’owner del DAF curerà le interazioni con le PA per definire piani di inclusione delle relative basi di dati e casi d’uso. Le PA di volta in volta coinvolte definiranno le modalità di ingestione dei dati e utilizzo del DAF consone alle proprie attività.
+    desc: Il Team digitale predispone le procedure atte al subentro del futuro owner del DAF che gestirà l’operatività e l’evoluzione del progetto. L’owner del DAF curerà le interazioni con le PA per definire piani di inclusione delle relative basi di dati e casi d’uso. Le PA di volta in volta coinvolte definiranno le modalità di ingestione dei dati e utilizzo del DAF consone alle proprie attività.
     status: todo
 ---
 
