@@ -54,7 +54,7 @@ You will find our vision of the project and the role it will play in the operati
 
 CIE is a project of national relevance. To foster a discussion and an exchange of viewpoints,
 as well as to encourage the participation of all players involved in the project, we created a
-[forum](https://forum.italia.it/c/cie)
+[forum](https://forum.italia.it/c/cie).
 
 
 {% include forum.html %}
