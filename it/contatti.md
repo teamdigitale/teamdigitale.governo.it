@@ -37,10 +37,6 @@ TeamDigitale è su [Twitter](https://twitter.com/teamdigitaleIT), [Medium](https
 
 *Email - media.teamdigitale@governo.it*
 
-{% include ipress.html %}
-<div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="it" data-size="10"></div>
-<script type="text/javascript" src="/js/ipress.js"></script>
-
 ## Sedi
 
 
