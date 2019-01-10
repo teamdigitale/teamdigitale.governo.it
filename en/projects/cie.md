@@ -45,10 +45,6 @@ in particular using the CIE for the creation of an ecosystem of digital services
 
 You will find our vision of the project and the role it will play in the operating system of the country in our blog.
 
-{% include medium_project.html %}
-
-{% include twitter_timeline.html %}
-
 
 ### Forum
 
