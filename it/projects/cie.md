@@ -40,13 +40,8 @@ CIE è un servizio ideato e progettato dal Ministero dell'Interno con l'Istituto
 Nel blog troverete la nostra visione del progetto e il ruolo che ricoprirà nel Sistema Operativo del Paese.
 
 
-{% include medium_project.html %}
-
-{% include twitter_timeline.html %}
-
-
 ### Forum
-CIE è un progetto di rilevanza nazionale. Per favorire la discussione e il confronto, e per incoraggiare la partecipazione di tutti gli attori coinvolti nel progetto abbiamo creato un [forum](https://forum.italia.it/c/cie)
+CIE è un progetto di rilevanza nazionale. Per favorire la discussione e il confronto, e per incoraggiare la partecipazione di tutti gli attori coinvolti nel progetto abbiamo creato un [forum](https://forum.italia.it/c/cie).
 
 {% include forum.html %}
 
