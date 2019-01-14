@@ -10,6 +10,7 @@ linkedin_url: https://www.linkedin.com/in/filomena-floriana-ferrara-50588912
 ref: floriana-ferrara
 parent_ref: team
 start_date: September 04, 2017
+end_date: December 31, 2018
 period_provided: until September 15, 2019
 annual_compensation: € 80,000
 approved_by_court: The decree of appointment is pending before the Court of Auditors.
