@@ -10,7 +10,7 @@ linkedin_url: https://www.linkedin.com/in/filomena-floriana-ferrara-50588912
 ref: floriana-ferrara
 parent_ref: team
 start_date: 04 settembre 2017
-period_provided: fino al 15 settembre 2019
+period_provided: fino al 31 dicembre 2018
 annual_compensation: € 80.000
 approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti.
 ---
