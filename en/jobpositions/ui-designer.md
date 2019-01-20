@@ -7,8 +7,8 @@ ref: ui-designer
 is_new: true
 parent_ref: join-us
 
-# jazz_url: https://teamdigitale.applytojob.com/apply/...
-# iframeheight: 700
+jazz_url: https://teamdigitale.applytojob.com/apply/solcCu6fbF/UI-Designer.html
+iframeheight: 700
 ---
 
 ### Description & Responsibilities
