@@ -58,7 +58,7 @@ direzione con l'obiettivo di creare una roadmap di realizzazione chiara,
 modernizzare il metodo di lavoro e accelerarne il completamento. Nel nostro
 blog qui sotto raccontiamo la nostra visione del progetto, le azioni svolte
 finora e i prossimi passi che vogliamo compiere. Seguici su Twitter per tutte
-le novità
+le novità.
 
 
 {% include medium_project.html %}
@@ -73,14 +73,12 @@ nell'operazione!) abbiamo creato un [forum](https://forum.italia.it/c/anpr)
 
 {% include forum.html %}
 
+### Newsletter
 
+[Iscriviti alla newsletter sul sito di Developers Italia](https://developers.italia.it/it/anpr/) per restare aggiornato su tutte le novità del progetto ANPR.
 
 
 ### Media
 Per ogni richiesta di contatto da parte di media e giornalisti il punto di
-riferimento è l'ufficio stampa e comunicazione del Team per la Trasformazione
-digitale
-
-{% include ipress.html %}
-<div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="it" data-size="100" data-tag="6"></div>
-<script type="text/javascript" src="/js/ipress.js"></script>
+riferimento è l'[ufficio stampa e comunicazione del Team per la Trasformazione
+digitale](https://teamdigitale.governo.it/it/contatti).
