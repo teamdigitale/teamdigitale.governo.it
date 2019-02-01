@@ -38,12 +38,6 @@ Citizens have the opportunity to maintain only one set of credentials, which can
 SPID is a service conceived and designed by AgID. The Digital Team has taken on its coordination, with the aim of encouraging its evolution and strengthening it as a key infrastructure system for the country. The Team will be responsible for managing its opening up to private Service Providers, the integration of Attribute Authorities and the improvement of its usability, introducing work methodologies and performance measurement tools.
 In the blog, you will find our vision of the project and the role it will play in the country&#39;s Operating System.
 
-
-{% include medium_project.html %}
-
-{% include twitter_timeline.html %}
-
-
 ### Forum
 SPID is a project of national importance. To encourage discussion and an exchange of viewpoints, and to favour the participation of all the plays involved in the project, we created a [forum](https://forum.italia.it/c/spid).
 
@@ -51,7 +45,3 @@ SPID is a project of national importance. To encourage discussion and an exchang
 
 ### Media
 For any contact request received from the media and journalists, the Digital Transformation Team's press and communication office is the point of reference.
-
-{% include ipress.html %}
-<div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="en" data-size="100" data-tag="2"></div>
-<script type="text/javascript" src="/js/ipress.js"></script>

@@ -11,9 +11,8 @@ linkedin_url:
 ref: simone-surdi
 parent_ref: team
 start_date: 21 ottobre 2016
-period_provided: fino al 15 settembre 2019
+end_date: fino al 31 dicembre 2018
 annual_compensation: € 80.000
-approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti.
 ---
 Mi sono laureato in Fisica alla Scuola Normale Superiore di Pisa e ho proseguito gli studi iniziando un dottorato in Fisica Applicata al California Institute of Technology (Pasadena - USA). Tra i miei principali interessi c’era la realizzazione di computer quantistici attraverso metodi topologici.
 

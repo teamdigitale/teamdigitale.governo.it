@@ -6,7 +6,7 @@ layout: project
 ref: daf
 parent_ref: projects
 parent_menu: projects
-people: [raffaele-lillo, fabiana-lanotte, alessandro-ercolani, david-greco, giovanni-ruggiero, fabio-fumarola, maria-claudia-bodino]
+people: [raffaele-lillo, fabiana-lanotte, alessandro-ercolani, david-greco, giovanni-ruggiero, fabio-fumarola, maria-claudia-bodino, simone-piunno]
 toc: true
 medium_tag: big-data
 forum_category: 'daf'
@@ -27,8 +27,12 @@ timeline:
     title: Definition and creation of the development plan for the Data &amp; Analytics testing phase
     desc: Identification of the governance model of the DAF and the public administrations that will be part of the testing phase. Defining the platform architecture and its evolutionary roadmap. Definition of use cases for the development of services for Public Administrations, citizens and business.
   - period: December 2018
+    title: Institutionalization of the DAF
+    desc: The DAF becomes an institutional platform, at first through the article 50-ter of CAD, defining the National Digital Data Platform, then with the Decree 14 December 2018 n. 135, conferring the project to a new company to be established at the Presidency of the Council of Ministers.
+    status: done
+  - period: December 2019
     title: Production release of the DAF
-    desc: The Digital Team and AgID will draw up the procedures for the future owner of the DAF who will manage the operation and the evolution of the project. The owner of the DAF will take care of the interactions with the public administrations to define plans for incorporating their databases and usage cases. From time to time, they will define the data ingestion means and how the DAF is suited to its own activities.
+    desc: The Digital Team will draw up the procedures for the future owner of the DAF who will manage the operation and the evolution of the project. The owner of the DAF will take care of the interactions with the public administrations to define plans for incorporating their databases and usage cases. From time to time, they will define the data ingestion means and how the DAF is suited to its own activities.
     status: todo
 ---
 
@@ -69,10 +73,7 @@ The Data & Analytics Framework (DAF) has the goal of improving and simplifying t
 ### Media
 
 Any contact request from the media and journalists should be addressed to the
-Digital Transformation Team's press and communication office.
+[Digital Transformation Team's press and communication office](https://teamdigitale.governo.it/en/contacts).
 
-{% include ipress.html %}
-<div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="en" data-size="100" data-tag="10"></div>
-<script type="text/javascript" src="/js/ipress.js"></script>
 
 {% include project_timeline.html %}
