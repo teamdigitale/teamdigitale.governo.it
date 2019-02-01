@@ -11,7 +11,6 @@ ref: floriana-ferrara
 parent_ref: team
 start_date: 04 settembre 2017
 end_date: 31 dicembre 2018
-period_provided: fino al 15 settembre 2019
 annual_compensation: € 80.000
 ---
 Tarantina, perito informatico e laureata  in Scienze dell'Informazione all’Università di Bari. 
