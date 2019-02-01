@@ -1,15 +1,15 @@
 ---
-SpeseUpdate: '28/12/2018'
+SpeseUpdate: '25/01/2019'
 SpeseDelTeam:
   - voce: Sviluppo software e design
-    impegno: 5075869   
+    impegno: 8790038   
     pagamenti: 3985288   
   - voce: Hardware e accessori
-    impegno: 66230  
-    pagamenti: 66230  
+    impegno: 93070  
+    pagamenti: 93070  
   - voce: Canoni software as a service
-    impegno: 86009
-    pagamenti: 86009  
+    impegno: 241838
+    pagamenti: 87020  
   - voce: Comunicazione e relazioni pubbliche
     impegno:  177553    
     pagamenti: 138044   
@@ -24,15 +24,15 @@ SpeseAnalitiche:
     titolobreve: Accordo con il Ministero dell'Interno per attività di sviluppo tecnologico di ANPR
     progetto: ANPR
     ref: anpr
-    impegno:  1023406 
+    impegno:  1954286 
     pagamenti:  1023406 
-    contraccordi: Accordo con il Ministero dell’interno per l’implementazione del progetto relativo alla realizzazione dell’Anagrafe nazionale della popolazione residente
-    descrizione: "L’accordo del 28 giugno 2017, stipulato con il Ministero dell’interno, è volto ad accelerare il completamento delle attività di sviluppo tecnologico dell'Anagrafe nazionale della popolazione residente (ANPR), banca dati nazionale unica, nella quale far confluire i dati anagrafici di tutti i residenti in Italia e degli italiani residenti all'estero. Il progetto ANPR si articola in tre fasi: attività di preparazione alla migrazione dei comuni in ANPR; migrazione dei comuni; fase a regime. Il Commissario, supportato da un proprio team (Program Office), cura il coordinamento tecnico-operativo delle attività e dei processi necessari alla realizzazione del progetto. L’accordo definisce nuove impostazioni concernenti modalità e strumenti di lavoro nonché la creazione di un ambiente free test e prevede una serie di attività specifiche, anche di carattere tecnico operativo, tra cui: elaborazione del piano di migrazione dei comuni, realizzazioni e implementazioni funzioni software, attività di supporto al subentro dei comuni, creazione di una pagina web vetrina dedicata al progetto, messa a disposizione di un sistema informatico di gestione delle richieste di assistenza e segnalazioni di problemi, da utilizzare come strumento di risoluzione delle segnalazioni e delle proposte evolutive dei Comuni che migrano in ANPR. "
+    contraccordi: Accordi con il Ministero dell’interno per l’implementazione del progetto relativo alla realizzazione dell’Anagrafe nazionale della popolazione residente
+    descrizione: "L’accordo del 28 giugno 2017, stipulato con il Ministero dell’interno, è volto ad accelerare il completamento delle attività di sviluppo tecnologico dell'Anagrafe nazionale della popolazione residente (ANPR), banca dati nazionale unica, nella quale far confluire i dati anagrafici di tutti i residenti in Italia e degli italiani residenti all'estero. Il progetto ANPR si articola in tre fasi: attività di preparazione alla migrazione dei comuni in ANPR; migrazione dei comuni; fase a regime. Il Commissario, supportato da un proprio team (Program Office), cura il coordinamento tecnico-operativo delle attività e dei processi necessari alla realizzazione del progetto. L’accordo definisce nuove impostazioni concernenti modalità e strumenti di lavoro nonché la creazione di un ambiente free test e prevede una serie di attività specifiche, anche di carattere tecnico operativo, tra cui: elaborazione del piano di migrazione dei comuni, realizzazioni e implementazioni funzioni software, attività di supporto al subentro dei comuni, creazione di una pagina web vetrina dedicata al progetto, messa a disposizione di un sistema informatico di gestione delle richieste di assistenza e segnalazioni di problemi, da utilizzare come strumento di risoluzione delle segnalazioni e delle proposte evolutive dei Comuni che migrano in ANPR. L'Accordo è venuto a scadenza il 15 settembre 2018. In data 21 dicembre 2018 il Commissario e il Ministero hanno stipulato un nuovo accordo finalizzato al proseguimento della collaborazione per la realizzazione dell'Anagrafe."
   - voce: R.T.I. Almaviva S.p.A. (mandataria), Almawave s.r.l., INDRA ITALIA S.p.A.,PricewaterhouseCoopers Advisory S.p.A.
     titolobreve: Adesioni a Contratto Quadro Consip SPC Cloud Lotto 3 per attività di sviluppo tecnologico del DAF
     progetto: DAF
     ref: daf
-    impegno:  1748452 
+    impegno:  3390829 
     pagamenti: 1133466
     contraccordi: Contratti con R.T.I. ALMAVIVA - adesioni a Contratto Quadro Consip SPC Cloud Lotto 3
     descrizione: "Nell’ambito del progetto Data & Analytics Framework i contratti esecutivi, stipulati a valle delle adesioni all'Accordo quadro Consip, sono finalizzati allo sviluppo di funzionalità di base della piattaforma big data tra cui rientrano le componenti infrastrutturali in Cloud e on premises, l’installazione di software dell’ecosistema Hadoop, un sistema di applicazioni a microservizi per interagire e fare operazioni sui dati gestiti, un sistema di sicurezza per la gestione degli accessi e il logging delle attività svolte. L’attività riguarda, anche, l’integrazione delle basi di dati attualmente esistenti nella pubblica amministrazione in un data lake unificato, la predisposizione di un’architettura per esporre i dati verso 3rd parties applications, nonché la creazione di un ecosistema di data applications capace di utilizzare e sfruttare dati grezzi e aggregati per fornire funzionalità sia ad end-users che ad altre applicazioni."
@@ -40,7 +40,7 @@ SpeseAnalitiche:
     titolobreve: Adesioni a Contratto Quadro Consip SPC Cloud Lotto 1 per Cloud per il DAF
     progetto: DAF
     ref: daf
-    impegno:  235679 
+    impegno:  439962 
     pagamenti: 52381
     contraccordi: Contratti con R.T.I. Telecom Italia S.p.A.- adesioni a Contratto Quadro Consip SPC Cloud Lotto 1
     descrizione: "Nell’ambito del progetto Data & Analytics Framework i contratti, stipulati a valle delle adesioni all'Accordo quadro Consip, sono finalizzati all'acquisizione di Virtual Data Center a canone al fine di creare un cluster big data basato su Hadoop e suo ecosistema accoppiato ad una installazione di un DB operazionale (MongoDB) e ad un layer di esposizione dati tramite API"
