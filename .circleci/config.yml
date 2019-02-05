@@ -32,13 +32,13 @@ jobs:
 
       - restore_cache:
           keys:
-          - v4-dependencies-ruby-{{ checksum "Gemfile.lock" }}
-          - v4-dependencies-ruby-
+          - v5-dependencies-ruby-{{ checksum "Gemfile.lock" }}
+          - v5-dependencies-ruby-
 
       - run: bundle check || bundle install
 
       - save_cache:
-          key: v4-dependencies-ruby-{{ checksum "Gemfile.lock" }}
+          key: v5-dependencies-ruby-{{ checksum "Gemfile.lock" }}
           paths:
             - vendor/bundle
 
@@ -47,13 +47,13 @@ jobs:
       #
       - restore_cache:
           keys:
-          - v4-dependencies-node-{{ checksum "yarn.lock" }}
-          - v4-dependencies-node-
+          - v5-dependencies-node-{{ checksum "yarn.lock" }}
+          - v5-dependencies-node-
 
       - run: yarn install --cache-folder ~/.cache/yarn
 
       - save_cache:
-          key: v4-dependencies-node-{{ checksum "yarn.lock" }}
+          key: v5-dependencies-node-{{ checksum "yarn.lock" }}
           paths:
             - node_modules
             - ~/.cache/yarn
