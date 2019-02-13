@@ -25,7 +25,7 @@ Digital Transformation Team</a> operated under a prorogatio regime until
 October 30, 2018.
 
 On October 25, 2018 the new Government Commissioner for the Digital Agenda was
-appointed and the Team’s mandate was extended until September 15, 2019.
+appointed and the Team’s mandate was extended. The Team will operate until December 31, 2019.
 
 ## The Team
 
