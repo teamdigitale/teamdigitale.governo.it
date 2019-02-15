@@ -24,8 +24,8 @@ scadenza iniziale al 16 settembre 2018.
 La struttura ha operato in regime di prorogatio fino al 30 ottobre 2018.
 
 Il 25 ottobre 2018 è stato nominato dalla Presidenza del Consiglio dei Ministri
-il nuovo Commissario Straordinario per l’attuazione dell’Agenda Digitale, e la
-struttura è stata rinnovata fino al 15 settembre 2019.
+il nuovo Commissario Straordinario per l’attuazione dell’Agenda Digitale e la
+struttura è stata rinnovata. Il Team opererà fino al 31 dicembre 2019.
 
 ## Il Team
 
