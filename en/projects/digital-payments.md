@@ -1,5 +1,5 @@
 ---
-title: PagoPA digital payments
+title: pagoPA digital payments
 lang: en
 permalink: /en/projects/digital-payments.htm
 layout: project
@@ -20,7 +20,8 @@ timeline:
     title: Pre-production release of WISP 2.0 and a mobile SDK, to be tested by Public Administrations
   - period: June 2018
     title: Release of the new paper notification's guidelines
-    status: todo
+  - period: January 2019
+    title: Release WISP 2.0 for all Public Administration
 twitter_tag: pagopa
 tweetdeck_id: 913421951103897600
 dashboard_url: https://dashboard.teamdigitale.governo.it/public/dashboard/d88a8ece-75ed-4668-ab8c-3a6c8693b4af
@@ -41,17 +42,17 @@ Citizens must be able to choose modern payment methods with minimal friction, wh
 
 #### Advantages for citizens
 
-- national integrated multi-channel system with transparency of fees costs, i. e. the citizen has as many payment channels as possible
-- uniformity of the paper notice and possibility to notify citizens digitally on the channels they prefer (notifications on the app or on the chosen PSP site, SMS or e-mail)
-- certainty of the debt amount (i. e. the amount to be paid is always the amount valid and required by the PA. If the amount varies over time for interest on arrears or otherwise, PagoPA will always be updated)
+- National integrated multi-channel system with transparency of fees costs, i. e. the citizen has as many payment channels as possible
+- uniformity of the paper notice and possibility to notify citizens digitally on the channels they prefer (notifications on the app or on the chosen PSP site, SMS or e-mail).
+- Certainty of the debt amount (i. e. the amount to be paid is always the amount valid and required by the PA. If the amount varies over time for interest on arrears or otherwise, pagoPA will always be updated).
 - Simplicity and speed of the process: just enter the notice code (IUV Single Identification Payment) to pay and receive the release receipt or the certainty that the PA has collected the tax and there can be no subsequent checks or assessments.
 
 #### Advantages for Public Administrations
 
-- Automatic reconciliation of collections
-- reduction of transaction and process costs
-- settlement in D+1 (working day following payment) directly from treasury accounts
-- To supply more than one payment channel means to collect first
+- Automatic reconciliation of collections.
+- Reduction of transaction and process costs.
+- Settlement in D+1 (working day following payment) directly from treasury accounts.
+- To supply more than one payment channel means to collect first.
 
 ### The data
 
@@ -59,11 +60,12 @@ Citizens must be able to choose modern payment methods with minimal friction, wh
 
 ### The role of the Team
 
-To allow PagoPA to evolve in a market logic, whilst permitting access to PagoPA for Public Administration services.
+To allow pagoPA to evolve in a market logic, whilst permitting access to pagoPA for Public Administration services.
+
 Improve the user experience by replicating the processes and methods already in use in the payments market and used daily by citizens.
 Allow for the main players within the payment market to be able to offer their own tools to citizens, also for paying for Public Administration services.
 
-We have thus created, in collaboration with AgID, the new functional specifications of the payment component of PagoPA, creating a simple and secure User Experience and a modern and engaging notification system.
+We have thus created, in collaboration with AgID, the new functional specifications of the payment component of pagoPA, creating a simple and secure User Experience and a modern and engaging notification system.
 These changes will soon be visible, with the larger municipalities having already become involved.
 
 
@@ -73,7 +75,7 @@ These changes will soon be visible, with the larger municipalities having alread
 {% include twitter_timeline.html %}
 
 ### Forum
-PagoPA is a project of national importance. To encourage discussion and an exchange of viewpoints, and to favour the participation of all the plays involved in the project, we created a [forum](https://forum.italia.it/c/pagopa).
+pagoPA is a project of national importance. To encourage discussion and an exchange of viewpoints, and to favour the participation of all the plays involved in the project, we created a [forum](https://forum.italia.it/c/pagopa).
 
 {% include forum.html %}
 
