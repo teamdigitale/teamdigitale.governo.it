@@ -575,8 +575,8 @@ chalk@^2.4.1:
     supports-color "^5.3.0"
 
 chokidar@^2.0.0:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/chokidar/-/chokidar-2.1.1.tgz#adc39ad55a2adf26548bd2afa048f611091f9184"
+  version "2.1.2"
+  resolved "https://registry.yarnpkg.com/chokidar/-/chokidar-2.1.2.tgz#9c23ea40b01638439e0513864d362aeacc5ad058"
   dependencies:
     anymatch "^2.0.0"
     async-each "^1.0.1"
@@ -1429,8 +1429,8 @@ file-type@5.2.0, file-type@^5.2.0:
   resolved "https://registry.yarnpkg.com/file-type/-/file-type-5.2.0.tgz#2ddbea7c73ffe36368dfae49dc338c058c2b8ad6"
 
 file-type@^10.4.0, file-type@^10.7.0:
-  version "10.7.1"
-  resolved "https://registry.yarnpkg.com/file-type/-/file-type-10.7.1.tgz#bcfdd618fddfa7f7e5fc504e08b62cfec7bda8f2"
+  version "10.8.0"
+  resolved "https://registry.yarnpkg.com/file-type/-/file-type-10.8.0.tgz#676dfd43fdb75d8ccdba1cff53351b71190c25ff"
 
 file-type@^3.1.0, file-type@^3.8.0:
   version "3.9.0"
