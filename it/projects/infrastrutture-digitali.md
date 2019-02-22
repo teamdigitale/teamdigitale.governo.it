@@ -6,7 +6,7 @@ layout: project
 ref: cloud
 parent_ref: projects
 parent_menu: projects
-people: [paolo-derosa]
+people: [paolo-de-rosa]
 toc: true
 medium_tag: cloudpa
 forum_category: cloud
