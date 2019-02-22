@@ -34,7 +34,7 @@ Il [Piano Triennale per l’informatica nella pubblica amministrazione 2017–20
 - per la razionalizzazione di tutte le strutture fisiche (*data center*) esistenti;
 - per l’introduzione di infrastrutture digitali più sicure e affidabili mediante le tecnologie di *cloud computing*.    
 
-<img src="infrastrutture_digitali.png" alt="Cloud della PA" style="float: left; margin-right: 10px;" />
+![Infrastrutture digitali](/assets/img/infrastrutture_digitali.png)
 
 ### Il ruolo del Team
 
