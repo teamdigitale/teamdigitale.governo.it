@@ -61,15 +61,15 @@ Gli elementi principali che caratterizzano questo percorso sono tre:
 
 ### Vantaggi per i cittadini
 
-Maggiore affidabilità  dei servizi pubblici;
-maggiore sicurezza e rispetto della privacy;
-servizi pubblici progettati in maniera nativa digitale;
-incidenza minore sulla spesa pubblica dei servizi digitali.
+- Maggiore affidabilità  dei servizi pubblici;
+- maggiore sicurezza e rispetto della privacy;
+- servizi pubblici progettati in maniera nativa digitale;
+- incidenza minore sulla spesa pubblica dei servizi digitali.
 
 ### Vantaggi per le Pubbliche Amministrazioni
 
 - Risparmi significativi da reinvestire nello sviluppo di nuovi servizi;
 - una maggiore trasparenza sui costi e  sull'utilizzo dei servizi; 
-- maggiore agilità nella gestione delle infrastrutture sfruttando a un modello scalabile basato su servizi a consumo (come utenze domestiche);
+- maggiore agilità nella gestione delle infrastrutture sfruttando un modello scalabile basato su servizi a consumo (come utenze domestiche);
 - maggiore efficienza per stimolare la crescita economica.
 
