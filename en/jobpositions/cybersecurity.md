@@ -5,7 +5,7 @@ permalink: /en/jobpositions/cybersecurity.htm
 layout: job
 ref: cybersecurity
 parent_ref: join-us
-is_new: true
+archived: true
 jazz_url: https://teamdigitale.applytojob.com/apply/G5cej2OLhx/Cybersecurity
 iframeheight: 700
 ---
