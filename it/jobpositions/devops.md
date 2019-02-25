@@ -4,7 +4,7 @@ lang: it
 permalink: /it/jobpositions/devops.htm
 layout: job
 ref: devops
-is_new: true
+archived: true
 parent_ref: join-us
 jazz_url: https://teamdigitale.applytojob.com/apply/A2lJePQAte/Site-Reliability-Engineer-DevOps-Engineer
 iframeheight: 700
