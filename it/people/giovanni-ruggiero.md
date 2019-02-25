@@ -13,7 +13,7 @@ parent_ref: team
 start_date: 4 ottobre 2017
 period_provided: fino al 15 settembre 2019
 annual_compensation: € 72.000
-approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti.
+approved_by_court: 18 gennaio 2019.
 ---
 I miei primi passi nel mondo dell'informatica risalgono ai tempi del Commodore 64, regalo dei miei genitori, inconsapevoli
 delle conseguenze di quel dono. Imparai il BASIC grazie ad un corso in edicola e la creazione di piccoli programmi divenne
