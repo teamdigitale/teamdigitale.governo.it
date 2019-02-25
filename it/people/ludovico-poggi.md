@@ -13,7 +13,7 @@ parent_ref: team
 start_date: 1 febbraio 2017
 period_provided: fino al 15 settembre 2019
 annual_compensation: € 67.000
-approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti.
+approved_by_court: 18 gennaio 2019.
 ---
 Professionalmente sono nato e cresciuto in quel cantiere di idee che è lavoce.info, il think tank di politica economica fondato 15 anni fa da Tito Boeri. Lì ho compreso l’importanza di distinguere i fatti dai commenti e la capacità di giudicare il policy making a prescindere dall’appartenenza ideologica. Ho imparato a fare molte cose diverse nello stesso giorno e con pochi mezzi: ufficio stampa, editing, fundraising, social media, organizzazione di eventi. Lavoce mi ha insegnato un approccio learning by doing verso il web, conoscerne gli strumenti, dalle newsletter a Twitter, dal crowdfunding alle community.
 
