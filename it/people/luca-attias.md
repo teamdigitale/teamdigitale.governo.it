@@ -9,6 +9,7 @@ ref: luca-attias
 parent_ref: team
 start_date: 31 ottobre 2018
 period_provided: fino al 15 settembre 2019
+annual_compensation: € 240.000
 approved_by_court: 12 novembre 2018
 ---
 
