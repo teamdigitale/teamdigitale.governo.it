@@ -13,7 +13,7 @@ parent_ref: team
 start_date: 9 gennaio 2017
 period_provided: fino al 15 settembre 2019
 annual_compensation: € 90.000
-approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti.
+approved_by_court: 18 gennaio 2019.
 ---
 Era la fine di settembre quando lessi che stava nascendo un gruppo di lavoro per la trasformazione digitale del Paese e mi trovai a pensare: “*Ecco, questo è quello che mi piacerebbe davvero fare*”. E dopo pochi mesi, eccomi qui: all’interno del Team mi occuperò di *Content Design*, quindi di analisi e comprensione dei bisogni degli utenti, organizzazione dei contenuti e dei servizi, con un’attenzione particolare alla semplificazione.
 
