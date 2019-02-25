@@ -13,7 +13,7 @@ parent_ref: team
 start_date: 15 gennaio 2017
 period_provided: fino al 15 settembre 2019
 annual_compensation: € 90.000
-approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti.
+approved_by_court: 18 gennaio 2019.
 ---
 Sono un programmatore da circa 14 anni e purtroppo o per fortuna - ho ancora l’entusiasmo di un ragazzo - ho iniziato a programmare tardi, quando avevo già ventiquattro anni. Dopo alcune esperienze di lavoro ed essere stato anche un neet, - not engaged in education, employment or training (per tutti c'è speranza) per migliorare la mia condizione mi sono iscritto all’universitá. Sono laureato in scienze cognitive all’Università di Trento (2003 - 2006) e ho un Master in Computer Science dell’Università di Bolzano (2006 - 2009) e mi appassionano le neuroscienze computazionali.
 
