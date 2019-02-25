@@ -5,7 +5,7 @@ permalink: /en/jobpositions/mobile-developer.htm
 layout: job
 ref: sviluppatore-mobile-app
 parent_ref: join-us
-is_new: true
+archive: true
 jazz_url: https://teamdigitale.applytojob.com/apply/w9WEk9DfAg/MobileApp-Development
 iframeheight: 700
 ---
