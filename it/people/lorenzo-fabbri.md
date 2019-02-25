@@ -3,7 +3,7 @@ title: Lorenzo Fabbri
 lang: it
 permalink: /it/people/24-profile.htm
 layout: people
-role: Content Design
+role: Content Designer
 is_new: false
 twitter_user: lore77
 medium_user: lorenzofabbri

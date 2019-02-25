@@ -3,7 +3,7 @@ title: Ornella Di Maria
 lang: it
 permalink: /it/people/ornella-dimaria.htm 
 layout: people
-role: Assistente amministrativo di supporto alla struttura
+role: Administrative Assistant del Commissario straordinario
 is_new: false
 twitter_user: 
 medium_user: 

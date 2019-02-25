@@ -13,7 +13,7 @@ parent_ref: team
 start_date: January 15, 2017
 period_provided: until September 15, 2019
 annual_compensation: € 90,000
-approved_by_court: The decree of appointment is pending before the Court of Auditors.
+approved_by_court: 18th january 2019.
 ---
 I’ve been a programmer for the last 14 years. Unfortunately or by pure luck, I still have the healthy enthusiasm of a kid. I started late, I was already 24. After a few work experiences and after being a neet (not engaged in education, employment or training), there’s hope for everyone, I enrolled in college to improve my situation. In 2006 I got my degree in Cognitive Sciences and IT at Trento University and in 2009 I got my Master in Computer Sciences at Bolzano University: I have a passion for computational neuro sciences.
 
