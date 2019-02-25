@@ -9,7 +9,7 @@ parent_menu: projects
 people: [paolo-de-rosa]
 toc: true
 medium_tag: cloudpa
-forum_category: cloud
+forum_category: piano-triennale/data-center-e-cloud
 forum_limit: 3
 timeline:
 twitter_tag: cloudpa
