@@ -13,7 +13,7 @@ parent_ref: team
 start_date: 17 febbraio 2017
 period_provided: fino al 15 settembre 2019
 annual_compensation: € 95.000
-approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti.
+approved_by_court: 18 gennaio 2019.
 ---
 Al liceo ho iniziato a sperimentare con il mitico Amiga le possibilità espressive offerte dall'informatica, cercando, però, sempre il modo di "far funzionare" ciò che disegnavo, di renderlo interattivo.
 
