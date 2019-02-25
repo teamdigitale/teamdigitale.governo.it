@@ -9,7 +9,7 @@ parent_ref: team
 start_date: 4 ottobre 2017
 period_provided: fino al 15 settembre 2019
 annual_compensation: € 60.000
-approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti.
+approved_by_court: 18 gennaio 2019.
 twitter_user: alranel
 ---
 
