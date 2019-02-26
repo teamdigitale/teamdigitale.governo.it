@@ -13,7 +13,7 @@ parent_ref: team
 start_date: March 10, 2017
 period_provided: until September 15, 2019
 annual_compensation: € 90,000
-approved_by_court: The decree of appointment is pending before the Court of Auditors.
+approved_by_court: 18th january 2019.
 ---
 I have a degree in Lettere Classiche (Università degli Studi di Urbino) and a Ph.D. in Classics (Rutgers). By training, I am a classical philologist, one of those weird individuals studying papyri and manuscripts in ancient Greek and Latin.  My area of expertise is ancient rhetoric, political and ideological propaganda in antiquity, and cultural anthropology.
 
