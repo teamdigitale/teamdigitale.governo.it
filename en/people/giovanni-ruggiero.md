@@ -13,7 +13,7 @@ parent_ref: team
 start_date: October 4, 2017
 period_provided:  until September 15, 2019
 annual_compensation: € 72.000
-approved_by_court: The decree of appointment is pending before the Court of Auditors.
+approved_by_court: 18th january 2019.
 ---
 My first steps in the world of ICT go back to the years of the Commodore 64, my parents' present, not knowing what that gift would have caused.
 I learned BASIC from a booklets based course bought in a newsstand and I spent all days in the small city
