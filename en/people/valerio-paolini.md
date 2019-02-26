@@ -13,7 +13,7 @@ parent_ref: team
 start_date: January 9, 2017
 period_provided: until September 15, 2019
 annual_compensation: € 80,000
-approved_by_court: The decree of appointment is pending before the Court of Auditors.
+approved_by_court: 18th january 2019.
 ---
 I’m 46, I live in Bologna, I’m married and the father of a digital native.  My passion for IT started when I was very young. Immediately after the inevitable Commodore 64 season everything became very serious when, at 15, I had to choose between an Apple Computer and a scooter: I didn’t have a single doubt and I took the Apple. It wasn’t cheap, but I believe it was one of my best choices ever.
 
