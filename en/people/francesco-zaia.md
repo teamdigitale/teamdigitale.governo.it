@@ -12,7 +12,7 @@ parent_ref: team
 start_date: November 2, 2017
 period_provided: until September 15, 2019
 annual_compensation: € 75,000
-approved_by_court: The decree of appointment is pending before the Court of Auditors.
+approved_by_court: 18th january 2019.
 ---
 Grown under the sea level on a little island at the mouth of the river Po, where digital-divide had the form of a 56k modem during fiber times. Since I was a little kid I used to spend my days watching a screen. Not the classic TV CRT, but a much more attractive monitor set in a video arcade cabinet. In fact, I lived the dream of any 80s kids by having a real video game for my own exclusive use - together with and an unspecified number of totally disinterested friends. Full credits goes to my father, a worker in the gaming industry, to whom I can certainly count my passion for electronics, and then for programming.
 
