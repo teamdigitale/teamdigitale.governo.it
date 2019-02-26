@@ -13,7 +13,7 @@ parent_ref: team
 start_date: February 17, 2017
 period_provided: until September 15, 2019
 annual_compensation: € 95,000
-approved_by_court: The decree of appointment is pending before the Court of Auditors.
+approved_by_court: 18th january 2019.
 ---
 When I was in high school I began experimenting with the mythical Amiga, the IT expressive potential, trying at the same time to make what I was designing actually work, doing my best to have it interactive.
 
