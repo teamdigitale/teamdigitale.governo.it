@@ -27,6 +27,4 @@ October 30, 2018.
 On October 25, 2018 the new Government Commissioner for the Digital Agenda was
 appointed and the Team’s mandate was extended. The Team will operate until December 31, 2019.
 
-## The Team
-
 {% include team_list.html %}
