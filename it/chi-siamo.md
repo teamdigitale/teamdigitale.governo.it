@@ -27,6 +27,4 @@ Il 25 ottobre 2018 è stato nominato dalla Presidenza del Consiglio dei Ministri
 il nuovo Commissario Straordinario per l’attuazione dell’Agenda Digitale e la
 struttura è stata rinnovata. Il Team opererà fino al 31 dicembre 2019.
 
-## Il Team
-
 {% include team_list.html %}
