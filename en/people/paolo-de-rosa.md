@@ -12,7 +12,7 @@ medium_user: cripto
 start_date: October 23, 2017
 period_provided: until September 15, 2019
 annual_compensation: € 80.000
-approved_by_court: The decree of appointment is pending before the Court of Auditors.
+approved_by_court: 18th january 2019.
 ---
 
 As a kid, I had the chance to play with some electronic instruments of my
