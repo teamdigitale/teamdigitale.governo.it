@@ -5,7 +5,7 @@ permalink: /en/jobpositions/chief-data.htm
 jazz_url: https://teamdigitale.applytojob.com/apply/dCmymlcVb9/Chief-Data-Product-Manager
 iframeheight: 700
 layout: job
-is_new: true
+archived: true
 ref: chief-data
 parent_ref: join-us
 ---
