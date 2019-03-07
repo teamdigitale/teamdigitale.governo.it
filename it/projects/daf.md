@@ -66,9 +66,9 @@ Il Data & Analytics Framework (DAF) ha l'obiettivo di migliorare e semplificare 
 
 ### Forum
 
-{% include forum.html %}
+DAF è un progetto di rilevanza nazionale. Per favorire la discussione e il confronto, e per incoraggiare la partecipazione di tutti gli attori coinvolti nel progetto abbiamo creato [un forum](https://forum.italia.it/c/daf).
 
-{% include twitter_timeline.html %}
+{% include forum.html %}
 
 ### Media
 Per ogni richiesta di contatto da parte di media e giornalisti il punto di riferimento è l'[ufficio stampa e comunicazione del Team per la Trasformazione digitale](https://teamdigitale.governo.it/it/contatti).
