@@ -13,7 +13,7 @@ parent_ref: team
 start_date: 9 gennaio 2017
 period_provided: fino al 15 settembre 2019
 annual_compensation: € 100.000
-approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti.
+approved_by_court: 18 gennaio 2019.
 ---
 Ho messo le mani per la prima volta su un computer all'età di 6 anni. Era uno ZX80 su cui mio padre mi insegnò i primi rudimenti di programmazione. Da quel momento l'informatica è diventata la mia passione e in seguito la mia professione. Tra gli anni '80 e '90 ho iniziato a esplorare il mondo delle reti di comunicazione, tramite BBS, Fidonet e successivamente attraverso Internet.
 
