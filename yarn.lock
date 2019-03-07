@@ -1442,8 +1442,8 @@ file-type@5.2.0, file-type@^5.2.0:
   resolved "https://registry.yarnpkg.com/file-type/-/file-type-5.2.0.tgz#2ddbea7c73ffe36368dfae49dc338c058c2b8ad6"
 
 file-type@^10.4.0, file-type@^10.7.0:
-  version "10.8.0"
-  resolved "https://registry.yarnpkg.com/file-type/-/file-type-10.8.0.tgz#676dfd43fdb75d8ccdba1cff53351b71190c25ff"
+  version "10.9.0"
+  resolved "https://registry.yarnpkg.com/file-type/-/file-type-10.9.0.tgz#f6c12c7cb9e6b8aeefd6917555fd4f9eadf31891"
 
 file-type@^3.1.0, file-type@^3.8.0:
   version "3.9.0"
@@ -4616,8 +4616,8 @@ unzip-response@^1.0.2:
   resolved "https://registry.yarnpkg.com/unzip-response/-/unzip-response-1.0.2.tgz#b984f0877fc0a89c2c773cc1ef7b5b232b5b06fe"
 
 upath@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/upath/-/upath-1.1.0.tgz#35256597e46a581db4793d0ce47fa9aebfc9fabd"
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/upath/-/upath-1.1.1.tgz#497f7c1090b0818f310bbfb06783586a68d28014"
 
 upper-case@^1.1.1:
   version "1.1.3"
