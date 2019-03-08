@@ -62,7 +62,7 @@ Il cittadino deve poter scegliere metodi di pagamento moderni, a minima frizione
 - Migliorare la user experience dell’utente replicando i processi e le modalità già in uso nel mercato dei pagamenti e usate ogni giorno dai cittadini.
 - Consentire ai principali attori del mercato dei pagamenti, di potere offrire ai cittadini i propri strumenti anche per pagare i servizi della Pubblica Amministrazione.
 
-Abbiamo quindi realizzato, in collaborazione con Agid, le nuove specifiche funzionali della parte pagamenti di pagoPA, realizzando una User Experience semplice e sicura  e un sistema di notifica moderno e accattivante.
+Abbiamo quindi realizzato, in collaborazione con AgID, le nuove specifiche funzionali della parte pagamenti di pagoPA, realizzando una User Experience semplice e sicura  e un sistema di notifica moderno e accattivante.
 
 A breve queste novità saranno visibili e i comuni più grandi stanno già aderendo.
 
