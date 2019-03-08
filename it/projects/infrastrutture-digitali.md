@@ -38,12 +38,12 @@ Il [Piano Triennale per l’informatica nella pubblica amministrazione 2017–20
 
 ### Il ruolo del Team
 
-Per poter dismettere i data center obsoleti è necessario che i servizi erogati vengano migrati su altre infrastrutture. Con questo obiettivo il Team per la trasformazione digitale insieme ad Agid ha definito una strategia diversificata che prevede diverse tipologie di infrastrutture in funzione delle caratteristiche del servizio consumato o erogato dalle amministrazioni.
+Per poter dismettere i data center obsoleti è necessario che i servizi erogati vengano migrati su altre infrastrutture. Con questo obiettivo il Team per la trasformazione digitale insieme ad AgID ha definito una strategia diversificata che prevede diverse tipologie di infrastrutture in funzione delle caratteristiche del servizio consumato o erogato dalle amministrazioni.
 
 Le Pubbliche Amministrazioni, trattando tipologie di dati differenti e fornendo servizi disomogenei (per requisiti tecnici o livelli di affidabilità), presentano esigenze di sicurezza diverse. Per questa ragione, abbiamo previsto che:
 
 - per tutti i servizi delle PA che sono considerati asset strategici o servizi essenziali  secondo la direttiva NIS e quindi fondamentali per la sicurezza del Paese servono delle **infrastrutture dedicate dette Poli Strategici Nazionali**, che erogheranno servizi infrastrutturali di tipo cloud, housing e colocation, **sotto il controllo diretto dello Stato**;
-- tutti i restanti servizi delle PA dovranno utilizzare servizi di public cloud erogati da Cloud service provider, qualificati ai sensi delle circolari Agid ([N. 2 del 9 aprile 2018](http://cloud-pa.readthedocs.io/it/latest/circolari/CSP/circolare_qualificazione_CSP_v1.2.html) e [N. 3 del 9 aprile 2018](http://cloud-pa.readthedocs.io/it/latest/circolari/SaaS/circolare_qualificazione_SaaS_v_4.12.27.html)).
+- tutti i restanti servizi delle PA dovranno utilizzare servizi di public cloud erogati da Cloud service provider, qualificati ai sensi delle circolari AgID ([N. 2 del 9 aprile 2018](http://cloud-pa.readthedocs.io/it/latest/circolari/CSP/circolare_qualificazione_CSP_v1.2.html) e [N. 3 del 9 aprile 2018](http://cloud-pa.readthedocs.io/it/latest/circolari/SaaS/circolare_qualificazione_SaaS_v_4.12.27.html)).
 
 Per consentire la migrazione verso Infrastrutture cloud, è stato introdotto il “[cloud della PA](https://cloud.italia.it/)”, un modello all’interno del quale le Pubbliche Amministrazioni possono erogare i propri servizi online agli utenti (cittadini, imprese e altre PA) e gestire, nel rispetto di requisiti minimi di efficienza e sicurezza, le applicazioni di uso interno.
 
