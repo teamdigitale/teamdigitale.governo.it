@@ -22,5 +22,9 @@ Il piano triennale è un documento di indirizzo strategico previsto dalla legge 
 
 [Sito ufficiale](https://pianotriennale-ict.italia.it/)
 
+{% include medium_project.html %}
+
+Leggi [tutte le notizie sul piano triennale](https://medium.com/team-per-la-trasformazione-digitale/piano-triennale/home).
+
 ### Media 
 Per ogni richiesta di contatto da parte di media e giornalisti il punto di riferimento è l'[ufficio stampa e comunicazione del Team per la Trasformazione digitale](https://teamdigitale.governo.it/it/contatti).
