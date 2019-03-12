@@ -30,7 +30,6 @@ timeline:
   - period: Gennaio 2019
     title: Nuove funzionalità di navigazione e ricerca tra i documenti, ogni ente avrà una sezione dedicata per i documenti
     desc:
-    status: todo
 ---
 
 ### In breve
