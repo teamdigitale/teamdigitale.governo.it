@@ -30,7 +30,6 @@ timeline:
   - period: January 2019
     title: New navigation and search functionality among documents, each institution will have a dedicated section for documents
     desc:
-    status: todo
 ---
 
 ### In short
