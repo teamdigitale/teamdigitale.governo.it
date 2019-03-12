@@ -27,9 +27,10 @@ timeline:
   - period: October 2018
     title: New release of Docs Italia
     desc: New style for documents, allowing more flexible solutions to produce documents that are even easier and more pleasant to read
-  - period: January 2019
+  - period: June 2019
     title: New navigation and search functionality among documents, each institution will have a dedicated section for documents
     desc:
+    status: todo
 ---
 
 ### In short
