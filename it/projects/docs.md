@@ -27,9 +27,10 @@ timeline:
   - period: Ottobre 2018
     title: Nuova release di Docs Italia
     desc: Nuovo stile per i documenti, che consente soluzioni più flessibili per produrre documenti ancora più facili e piacevole da leggere
-  - period: Gennaio 2019
+  - period: Giugno 2019
     title: Nuove funzionalità di navigazione e ricerca tra i documenti, ogni ente avrà una sezione dedicata per i documenti
     desc:
+    status: todo
 ---
 
 ### In breve
