@@ -90,7 +90,7 @@ IO permetterà alle Pubbliche Amministrazioni di:
 
 ### Medium
 
-Letti [tutte le notizie sul progetto IO](https://medium.com/team-per-la-trasformazione-digitale/progetto-io-app-servizi-pubblici/home) sul canale Medium del Team Digitale. 
+Leggi [tutte le notizie sul progetto IO](https://medium.com/team-per-la-trasformazione-digitale/progetto-io-app-servizi-pubblici/home) sul canale Medium del Team Digitale. 
 
 {% include medium_project.html %}
 
