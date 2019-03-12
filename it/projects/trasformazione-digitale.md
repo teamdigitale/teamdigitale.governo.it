@@ -28,7 +28,7 @@ Leggi [tutte le notizie sul piano triennale](https://medium.com/team-per-la-tras
 
 ### Forum
 
-Per consentire una discussiona aperta su tutti i punti del piano triennale e incoraggiare la partecipazione di tutti gli attori coinvolti abbiamo creato [un forum](https://forum.italia.it/c/piano-triennale).
+Per consentire una discussione aperta su tutti i punti del piano triennale e incoraggiare la partecipazione di tutti gli attori coinvolti abbiamo creato [un forum](https://forum.italia.it/c/piano-triennale).
 
 {% include forum.html %}
 
