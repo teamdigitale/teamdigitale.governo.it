@@ -32,7 +32,7 @@ timeline:
 
 ### In short
 
-This project represents the execution of [Chapter 5 Interoperability Model](https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc-en/en/bozza/doc/05_modello-di-interoperabilita.html) of the [Three-year Plan](https://pianotriennale-ict.italia.it/en/index.html).
+This project represents the execution of [Chapter 5 Interoperability Model](https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc-en/en/bozza/doc/05_modello-di-interoperabilita.html) of the [Three-year Plan](https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc-en/en/stabile).
 
 Public Administration IT systems must be connected to each other and must speak the same language, rendering the information immediately available wherever it is needed. All applications will have to expose interfaces that are comprehensible to the machines (the so-called APIs - [Application Programming Interface](https://en.wikipedia.org/wiki/Application_programming_interface)) and work in an integrated, collaborative and secure manner, facilitating the reuse of existing applications to build new, more powerful and innovative solutions.
 
