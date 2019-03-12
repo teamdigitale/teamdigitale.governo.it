@@ -73,10 +73,6 @@ Gli elementi principali che caratterizzano questo percorso sono tre:
 - maggiore agilità nella gestione delle infrastrutture sfruttando un modello scalabile basato su servizi a consumo (come utenze domestiche);
 - maggiore efficienza per stimolare la crescita economica.
 
-{% include medium_project.html %}
-
-{% include twitter_timeline.html %}
-
 ### Forum
 Infrastrutture digitali e cloud è un progetto di rilevanza nazionale. Per favorire la discussione e il confronto, e per incoraggiare la partecipazione di tutti gli attori coinvolti nel progetto abbiamo creato un [forum](https://forum.italia.it/c/piano-triennale/data-center-e-cloud).
 
