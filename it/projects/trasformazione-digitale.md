@@ -26,5 +26,11 @@ Il piano triennale è un documento di indirizzo strategico previsto dalla legge 
 
 Leggi [tutte le notizie sul piano triennale](https://medium.com/team-per-la-trasformazione-digitale/piano-triennale/home).
 
+### Forum
+
+Per consentire una discussiona aperta su tutti i punti del piano triennale e incoraggiare la partecipazione di tutti gli attori coinvolti abbiamo creato [un forum](https://forum.italia.it/c/piano-triennale).
+
+{% include forum.html %}
+
 ### Media 
 Per ogni richiesta di contatto da parte di media e giornalisti il punto di riferimento è l'[ufficio stampa e comunicazione del Team per la Trasformazione digitale](https://teamdigitale.governo.it/it/contatti).
