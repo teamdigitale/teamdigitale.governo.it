@@ -40,27 +40,20 @@ dall’art. 18 del CAD (Codice dell’amministrazione digitale) per gestire i do
 
 ### Vantaggi per i cittadini
 
-* Documenti pubblici facili e piacevoli da leggere, anche sullo smartphone
-* Più facile cercare informazioni dentro i documenti e tra i documenti
-* Più facile condividere sul web porzioni di contenuto
+* Documenti pubblici facili e piacevoli da leggere, anche sullo smartphone.
+* Più facile cercare informazioni dentro i documenti e tra i documenti.
+* Più facile condividere sul web porzioni di contenuto.
 
 ### Vantaggi per la Pubblica Amministrazione
 
-* Tenere aggiornati i documenti nel tempo e rendere visibile l'evoluzione
-* Possibilità di generare una versione pdf (o .epub) quando necessario
-* Strumenti a supporto della creazione di documenti più semplici e leggibili
-* Maggiore efficacia nelle informazioni e nei servizi offerti e maggiore trasparenza
-* Possibilità di consultare rapidamente i cittadini su una iniziativa dell'amministrazione
+* Tenere aggiornati i documenti nel tempo e rendere visibile l'evoluzione.
+* Possibilità di generare una versione pdf (o .epub) quando necessario.
+* Strumenti a supporto della creazione di documenti più semplici e leggibili.
+* Maggiore efficacia nelle informazioni e nei servizi offerti e maggiore trasparenza.
+* Possibilità di consultare rapidamente i cittadini su una iniziativa dell'amministrazione.
 
 {% include medium_project.html %}
-
-### Forum
-
-Uno spazio di discussione sul design dei servizi pubblici.
-{% include forum.html %}
 
 ### Media
 
 Per ogni richiesta di contatto da parte di media e giornalisti il punto di riferimento è l'[ufficio stampa e comunicazione del Team per la Trasformazione digitale](https://teamdigitale.governo.it/it/contatti).
-
-{% include project_timeline.html %}
