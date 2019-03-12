@@ -29,7 +29,11 @@ timeline:
     desc: New style for documents, allowing more flexible solutions to produce documents that are even easier and more pleasant to read
   - period: June 2019
     title: New navigation and search functionality among documents, each institution will have a dedicated section for documents
-    desc:
+    desc: Better taxonomy and links between related documents, improving and debugging of research features
+    status: todo
+  - period: September 2019
+    title: Each organization may have a dedicated section for its documents
+    desc: It will be possible to have a customized version of the Docs Italia interface for each institution
     status: todo
 ---
 
