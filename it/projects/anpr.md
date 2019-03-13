@@ -63,6 +63,8 @@ le novità.
 
 {% include medium_project.html %}
 
+Leggi [tutte le notizie sul progetto ANPR](https://medium.com/team-per-la-trasformazione-digitale/anpr-anagrafe-nazionale/home).
+
 {% include twitter_timeline.html %}
 
 ### Forum

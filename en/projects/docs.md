@@ -44,20 +44,20 @@ by the article 18 of the CAD (Digital Administration Code) to manage documents r
 
 ### Benefits for citizens
 
-* Easy and pleasant public documents to read, even on your smartphone
-* Easier to search for information in documents and between documents
-* Easier to share portions of content on the web
+* Easy and pleasant public documents to read, even on your smartphone.
+* Easier to search for information in documents and between documents.
+* Easier to share portions of content on the web.
 
 ### Benefits for the Public Administration
 
-* Keep documents up-to-date and make the evolution visible
-* Ability to generate a pdf (or .epub) version when necessary
-* Tools to support the creation of simpler and easy to read documents
-* Greater effectiveness in information offered and greater transparency
-* Ability to quickly consult citizens on initiatives of the administration
+* Keep documents up-to-date and make the evolution visible.
+* Ability to generate a pdf (or .epub) version when necessary.
+* Tools to support the creation of simpler and easy to read documents.
+* Greater effectiveness in information offered and greater transparency.
+* Ability to quickly consult citizens on initiatives of the administration.
 
 ### Media
 
-For every contact request from media and journalists, the point of reference is the press and communication office of the Digital Transformation Team.
+For every contact request from media and journalists, the point of reference is the [press and communication office of the Digital Transformation Team](https://teamdigitale.governo.it/en/contacts).
 
 {% include project_timeline.html %}

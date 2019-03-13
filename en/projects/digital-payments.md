@@ -42,8 +42,8 @@ Citizens must be able to choose modern payment methods with minimal friction, wh
 
 #### Advantages for citizens
 
-- National integrated multi-channel system with transparency of fees costs, i. e. the citizen has as many payment channels as possible
-- uniformity of the paper notice and possibility to notify citizens digitally on the channels they prefer (notifications on the app or on the chosen PSP site, SMS or e-mail).
+- National integrated multi-channel system with transparency of fees costs, i. e. the citizen has as many payment channels as possible.
+- Uniformity of the paper notice and possibility to notify citizens digitally on the channels they prefer (notifications on the app or on the chosen PSP site, SMS or e-mail).
 - Certainty of the debt amount (i. e. the amount to be paid is always the amount valid and required by the PA. If the amount varies over time for interest on arrears or otherwise, pagoPA will always be updated).
 - Simplicity and speed of the process: just enter the notice code (IUV Single Identification Payment) to pay and receive the release receipt or the certainty that the PA has collected the tax and there can be no subsequent checks or assessments.
 
@@ -71,19 +71,12 @@ These changes will soon be visible, with the larger municipalities having alread
 
 {% include medium_project.html %}
 
-
-{% include twitter_timeline.html %}
-
 ### Forum
 pagoPA is a project of national importance. To encourage discussion and an exchange of viewpoints, and to favour the participation of all the plays involved in the project, we created a [forum](https://forum.italia.it/c/pagopa).
 
 {% include forum.html %}
 
 ### Media
-For any contact request received from the media and journalists, the Digital Transformation Team's press and communication office is the point of reference.
-
-{% include ipress.html %}
-<div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="en" data-size="100" data-tag="3"></div>
-<script type="text/javascript" src="/js/ipress.js"></script>
+For any contact request received from the media and journalists, the [Digital Transformation Team's press and communication office](https://teamdigitale.governo.it/en/contacts) is the point of reference.
 
 {% include project_timeline.html %}
