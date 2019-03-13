@@ -44,4 +44,4 @@ SPID is a project of national importance. To encourage discussion and an exchang
 {% include forum.html %}
 
 ### Media
-For any contact request received from the media and journalists, the Digital Transformation Team's press and communication office is the point of reference.
+For any contact request received from the media and journalists, the [Digital Transformation Team's press and communication office](https://teamdigitale.governo.it/en/contacts) is the point of reference.
