@@ -77,8 +77,6 @@ nell'operazione!) abbiamo creato un [forum](https://forum.italia.it/c/anpr)
 
 <a name="newsletter"></a>
 
-{::nomarkdown}
-
 <form class="Form Form--spaced u-padding-all-l u-background-grey-10 u-text-r-xs u-layout-prose u-margin-bottom-xl"
       action="https://a0x0b4.emailsp.com/frontend/subscribe.aspx">
 
@@ -112,9 +110,6 @@ nell'operazione!) abbiamo creato un [forum](https://forum.italia.it/c/anpr)
     <input type="hidden" name="group" value="16" >
 	<input type="hidden" name="list" value="3">
 </form>
-
-
-{:/}
 
 ### Media
 Per ogni richiesta di contatto da parte di media e giornalisti il punto di
