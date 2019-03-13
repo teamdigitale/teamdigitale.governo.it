@@ -3,7 +3,7 @@ title: Cloud and Digital Infrastructures
 lang: en
 permalink: /en/projects/digital-infrastructures.htm
 layout: project
-ref: cloudpa
+ref: cloud
 parent_ref: projects
 parent_menu: projects
 people: [paolo-de-rosa]
