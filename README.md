@@ -73,7 +73,7 @@ L'autore della bio può [seguire questa procedura](https://docs.google.com/docum
   - un file `images/team/mario-rossi.jpg` con l'immagine di profilo editata secondo la procedura descritta sul documento;
   - un file `it/people/mario-rossi.md` con la bio in italiano;
   - un file `en/people/mario-rossi.md` con la bio in inglese
-- Creazione di una [pull request](https://help.github.com/en/articles/creating-a-pull-request-from-a-fork) per riportare il codice aggiunto dal proprio repo a quello originale.
+3. Creazione di una [pull request](https://help.github.com/en/articles/creating-a-pull-request-from-a-fork) per riportare il codice aggiunto dal proprio repo a quello originale.
 
 ### Post Medium
 
