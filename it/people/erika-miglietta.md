@@ -1,7 +1,7 @@
 ---
 title: Erika Miglietta
 lang: it
-permalink: /it/people/erika-miglietta.htm
+permalink: /it/people/erika-miglietta
 layout: people
 role: Assistente Tecnico e Coordinatore delle attività
 is_new: true
