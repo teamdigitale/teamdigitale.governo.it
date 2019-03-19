@@ -5,7 +5,7 @@ permalink: /en/people/erika-miglietta
 layout: people
 role: Technical Assistant and coordinator of operations
 is_new: true
-twitter_user: miglietta_erika
+twitter_user:
 medium_user:
 linkedin_url: https://www.linkedin.com/in/erika-miglietta-a752707/
 ref: erika-miglietta
