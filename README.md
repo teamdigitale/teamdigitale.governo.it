@@ -66,9 +66,9 @@ Il workflow di creazione delle pagine profilo segue le seguenti fasi:
 5. traduzione e revisione del contenuto;
 6. PR del profilo in lingua inglese.
 
-L'autore della bio può [seguire questa procedura](https://docs.google.com/document/d/1k_y2s9sTUGLH5o4sXCiUvI4dj8ei_saK24_lAF2mmKk/edit), e creare un la Pull Requesta da un fork del repository per editare i file in modo più semplice e sicuro:
+L'autore della bio può [seguire questa procedura](https://docs.google.com/document/d/1BlWY0wdPdQ4SDHe8tFr80zLBi0_QT74Ra2ZlDYUhwBA/edit?usp=sharing), e creare un la Pull Requesta da un fork del repository per editare i file in modo più semplice e sicuro:
 
-1. Fork del repository per ottenere sul proprio account GitHub una copia del repository.
+1. Fork del repository (tastino in alto a destra) per ottenere sul proprio account GitHub una copia del repository.
 2. Modifica dei file in completa sicurezza sul repository https://github.com/mario-rossi/teamdigitale.governo.it. È necessario creare 3 file:
   - un file `images/team/mario-rossi.jpg` con l'immagine di profilo editata secondo la procedura descritta sul documento;
   - un file `it/people/mario-rossi.md` con la bio in italiano;
