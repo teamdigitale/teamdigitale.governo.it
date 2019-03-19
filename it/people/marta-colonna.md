@@ -7,7 +7,7 @@ role: Affari regolamentari nazionali ed europei e Responsabile della protezione 
 is_new: true
 twitter_user: 
 medium_user:
-linkedin_url: https://www.linkedin.com/in/martacolonna/?originalSubdomain=it
+linkedin_url: https://www.linkedin.com/in/martacolonna/
 ref: marta-colonna
 parent_ref: team
 start_date: 20 dicembre 2018
