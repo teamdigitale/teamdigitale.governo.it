@@ -7,7 +7,7 @@ role: Italian and EU Regulatory affairs & Data Protection Officer (DPO)
 is_new: true
 twitter_user: 
 medium_user:
-linkedin_url: https://www.linkedin.com/in/martacolonna/?originalSubdomain=it
+linkedin_url: https://www.linkedin.com/in/martacolonna/
 ref: marta-colonna
 parent_ref: team
 start_date: December 20, 2018
