@@ -30,11 +30,3 @@ L’eco dell’esistenza del Team Digitale e della sua mission mi è arrivata da
 
 Questo viaggio l'ho potuto iniziare grazie alla pazienza e al sostegno di mia moglie ma anche grazie alla disponibilità della società dove lavoro, la Bwin Italia, che non solo ha condiviso il mio entusiasmo per questo progetto ma mi ha anche concesso un periodo di aspettativa, mettendomi in condizione di partecipare nel migliore dei modi a questa entusiasmante avventura.
 
-Data inizio: 01 marzo 2019
- 
-Data fine: 15 settembre 2019
- 
-Compenso su base annua: € 75.000
- 
-Registrazione in Corte dei Conti: Il  decreto di nomina è in fase di registrazione presso la Corte dei Conti.
-
