@@ -20,7 +20,7 @@ I was born in Rome. I spent my childhood and adolescence setting my watch to the
  
 Cult sagas like Star Wars and Star Trek amazed me, showing that there is always a five-year mission (but there are also three-year plans!) to explore strange new worlds, to seek out new life and new civilizations (architectures and technologies), to boldly go where no man (and Italian) has gone before.
  
-The curiosity to understand how computers work led me to attend the Computer Engineering course at the University of ‘La Sapienza’ i  Rome, where I got my degree. My career in Computer Science began with my first job experience in the internet provider sector, where I met with a lot of passion and dedication. During this time, I became familiar with the world of open source and discovered its potential.
+The curiosity to understand how computers work led me to attend the Computer Engineering course at the University of ‘La Sapienza’ in Rome, where I got my degree. My career in Computer Science began with my first job experience in the internet provider sector, where I met with a lot of passion and dedication. During this time, I became familiar with the world of open source and discovered its potential.
  
 At a later stage, I started working at Telecom where I brought my contributions to different services (to name one... who does remember the Wap?), which now are outdated by new technologies.
  
