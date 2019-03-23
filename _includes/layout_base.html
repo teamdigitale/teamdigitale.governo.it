@@ -17,6 +17,11 @@
     </script><![endif]-->
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  {%- if page.index == 'no-index'-%}
+  <meta name="robots" content="noindex">
+  {%- endif -%}
+
   <title>{{ page.title }} - {{ site.title[page.lang] }}</title>
 
   {% for other_lang_page in site.pages %} {% if other_lang_page.ref == page.ref and other_lang_page.lang != page.lang %}
