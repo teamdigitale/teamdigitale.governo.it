@@ -1,5 +1,6 @@
-----
+---
 title: Paolo Micozzi
+permalink: /en/people/paolo-micozzi
 lang: en
 layout: people
 role: Technical Project Manager
@@ -9,7 +10,7 @@ medium_user: paolo.micozzi
 linkedin_url: https://www.linkedin.com/in/paolomicozzi
 ref: paolo-micozzi
 parent_ref: team
-----
+---
 
 I am an electrical engineer specialised in telecommunications, driven by curiosity and a passion for new challenges and professional experiences. I am a project manager who believes authoritativeness is more important than authority.
 My profile ranges between the fields of digital communications and information technology. 
