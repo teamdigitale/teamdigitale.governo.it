@@ -32,7 +32,7 @@ timeline:
 
 ### In breve
 
-Questo progetto rappresenta l'esecuzione del [Capitolo 5 Modello di Interoperabilità](https://docs.italia.it/italia/pianotriennale-ict/pianotriennale-ict-doc/it/bozza/doc/05_modello-di-interoperabilita.html) del [Piano Triennale](https://pianotriennale-ict.italia.it/)
+Questo progetto rappresenta l'esecuzione del [Capitolo 5 Modello di Interoperabilità](https://docs.italia.it/italia/pianotriennale-ict/pianotriennale-ict-doc/it/bozza/doc/05_modello-di-interoperabilita.html) del [Piano Triennale](https://pianotriennale-ict.italia.it/piano-2017-2019/)
 
 I sistemi informatici della Pubblica Amministrazione devono essere connessi tra loro e parlare la stessa lingua, rendendo disponibile l’informazione immediatamente dove serve. Tutte le applicazioni dovranno esporre interfacce comprensibili alle macchine (dette API - [Application Programming Interface](https://it.wikipedia.org/wiki/Application_programming_interface)) e lavorare in maniera integrata, collaborativa e sicura, facilitando il riuso delle applicazioni esistenti per costruire nuove soluzioni più potenti e innovative.
 

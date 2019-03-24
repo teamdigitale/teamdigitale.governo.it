@@ -58,7 +58,7 @@ The Data & Analytics Framework (DAF) has the goal of improving and simplifying t
 </div>
 
 #### Useful Links
-* [DAF in the Three-Year Plan 2017-2019](https://pianotriennale-ict.italia.it/en/daf/)
+* [DAF in the Three-Year Plan 2017-2019](https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc-en/en/stabile/doc/09_data-analytics-framework.html)
 * [Technical documentation](https://docs.italia.it/italia/daf/daf-docs/)
 * [Technical details on Developers Italia](https://developers.italia.it/it/daf/)
 
@@ -66,9 +66,9 @@ The Data & Analytics Framework (DAF) has the goal of improving and simplifying t
 
 ### Forum
 
-{% include forum.html %}
+DAF is a project of national relevance. To foster a discussion and an exchange of viewpoints, as well as to encourage the participation of all players involved in the project, we created [a forum](https://forum.italia.it/c/daf).
 
-{% include twitter_timeline.html %}
+{% include forum.html %}
 
 ### Media
 

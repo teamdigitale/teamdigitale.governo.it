@@ -1,5 +1,5 @@
 ---
-title: Digital Citizenship
+title: Project IO - Digital Citizenship
 lang: en
 permalink: /en/projects/digital-citizenship.htm
 layout: project
@@ -10,96 +10,85 @@ people: [federico-feroldi, matteo-de-santi, giuseppe-virgone]
 toc: true
 timeline:
   - period: November 2017
-    title: Release of the Communications and Preferences API (beta version)
+    title: Release API Communications and Preferences (beta version)
   - period: January 2018
-    title: Release of Communications and Preferences API (production)
+    title: Release API Communications and Preferences (production)
+  - period: January 2018
+    title: Research, mapping and analysis of citizen needs and the principal digital public services
+  - period: July 2018
+    title: Testing the IO app prototype
+  - period: November 2018
+    title: Stakeholders testing the app’s beta version and some demo services
+  - period: Spring 2019
+    title: Tests by invitation (closed-beta) with citizens and actual services provided by several entities throughout Italy
     status: todo
-  - period: June 2018
-    title: Release of the Digital Citizenship application (beta version)
+  - period: Autumn 2019
+    title: The app’s first public release in territories with the largest number of integrated services
     status: todo
 ---
 
-### In short
+### Overview
 
-The Digital Citizenship project aims to make interactions between citizens and the
-Public Administration easier and more familiar, by designing digital services
-around the citizen and his or her information.
+[Project IO](https://io.italia.it/en/) is a central component of the Italian government’s vision of **digital citizenship**. Its objective is to facilitate the most common transactions between citizens and **central and local** administrations such as:
+ 
+- receiving **communications** and updates;
+- obtaining and managing **documents** (notifications, certificates, etc.);
+- courtesy deadlines reminder notices;
+- making **digital payments**;
+- electing a **digital address**.
+ 
+IO embodies  the ultimate example of a user-centric approach to the delivery of digital public service. In fact, one of the project’s objectives is to propose a model in which **citizens are no longer held responsible** for figuring out which services they need nor must go through the laborious task of learning how the digital services work. Instead, the public sector has the responsibility of contacting citizens when needed. It’s also a way of making the public sector’s complexity more ‘transparent’ to citizens.
+ 
+Once the experimental phase will be over, the project will fully implement [Article 64-bis](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo5_sezione3_art64-bis.html), Digital Administration Code, which establishes **a single access point for all digital services**.
 
-Through an open platform of shared components for building
-digital services, we will create an experience that will follow the citizen
-in the interactions with local and national services, as if it were a single great digital home.
+### The Team's role
 
-The aim is to provide a simpler and more familiar mechanism for the Public Administration to communicate with citizens, to provide notification of acts, reminders of deadlines, and share information and documents through an interface built around the citizen.
+The Digital Team has designed and developed the **IO app** and other related services so that **citizens may directly access public services on their smartphones**. The name “IO” encompasses the two main goals of the project:
+ 
+- create a **single interface** for public services;
+- provide **personalized services**, tailored to fit each individual need.
+ 
+The app  is based on the **capabilities of several enabling platforms on which the Team is also working**: [SPID](https://teamdigitale.governo.it/en/projects/digital-identity.htm), [pagoPA](https://teamdigitale.governo.it/en/projects/digital-payments.htm), [ANPR](https://teamdigitale.governo.it/en/projects/anpr.htm), the new API-based interoperability model, and the tools and guidelines made available on the [Designers Italia](https://designers.italia.it/) and [Developers Italia](https://developers.italia.it/en) communities.
+ 
+Through their **SPID credentials**, citizens will be able to sign up and then, with a simple **PIN** or **biometric recognition tool** (i.e. fingerprint or face recognition), they will able to  unlock the app for their daily use or needs.
+ 
+Users won’t have to register with each single online service but will have just one contact point that, once they have registered, will interact directly with them on the basis of their tax code, and their individual preferences and needs. Users can disable at any time those services which  no longer interest them, preventing further contact through the app.
+ 
+**Thanks to the integration with pagoPA, citizens can also use IO to make digital payments to the Public Administration** and **save their preferred payment methods** (credit, debit, PayPal, etc.). Paper bills issued within the pagoPA circuit can also be paid using the app, simply by framing a QR code.
+ 
+Project details and information for journalists and public bodies are available on [io.italia.it](https://io.italia.it/en/).  
+ 
+IO is an open source project. All code, documents, discussions and development tools are public and available on the [Developers Italia](https://io.italia.it/en/developers/) forum.
 
-### The role of the Team
+### Benefits for Citizens
 
-The Digital Team immediately undertook a process of communication concerning
-the vision, coordination and alignment of all the initiatives already underway or in
-the design phase, with the aim of creating a single ecosystem of national and shared components.
+The IO app will allow citizens to:
+ 
+- **Receive all notices from the Public Administration** on their smartphone, personalize and manage them in an archive.
+- Manage contacts from a central access point that allows citizens to choose, at any time, which services may wish to use.
+- Stay **up-to-date on deadlines** and manage alerts in an “integrated” mode (i.e. marking deadlines in a personal calendar and managing payments directly on the app).
+- **Make secure payments** to the Public Administration through pagoPA with a variety of payment options to choose from (credit, debit, PayPal, etc.).
+- Keep at hand transaction histories and **receipts** at all times.
+- Receive and store **documents, receipts, and certificates** directly on their smartphone and share them with a public office in just a few clicks.
+- Choose their **digital address** directly on the app (for example, receiving legal documents at a Certified Electronic Mail Box, PEC).
+ 
+The app allows citizens to have **a better understanding of the available digital services**, with **a drastic reduction of bureaucracy**. Moreover, there are many cases in which the use of IO will result into savings for the Public Administration as well, savings that can translate into lower costs for citizens.
 
-Together with AgID, the Digital Transformation Team is developing a number
-of initiatives that are fundamental for the realisation of Digital Citizenship:
+### Benefits for Public Administrations
 
-#### The APIs for communication and preferences' management
+IO will allow Public Administrations to:
 
-The APIs for preferences' management will allow the citizen to centrally manage all the information associated with his/her digital citizen profile. This information makes it possible to create personalised digital
-services (communication channels, language preference, privacy settings, and so on).
-
-The APIs for communication provide a single channel that the Public
-Administration can use to send communications, notices, and reminders about
-deadlines. This communication system is in turn integrated with
-the APIs for preferences management to allow the services to communicate with
-the citizens based on his/her contact preferences.
-
-The APIs are developed as open source, with both the backlog of the activities
-and the code being freely accessible:
-
-*   [backlog of development activities](https://www.pivotaltracker.com/n/projects/2088623)
-*   [architectural code](https://github.com/teamdigitale/digital-citizenship)
-*   [API code](https://github.com/teamdigitale/digital-citizenship-functions)
-*   [documentation for using the APIs](https://teamdigitale.github.io/digital-citizenship/)
-
-To foster a discussion and an exchange of viewpoints, and to encourage the participation
-of all the players involved in the projects, we created a [forum](https://forum.italia.it/c/piano-triennale/piattaforme-abilitanti) (Italian).
-
-#### The Digital Citizenship application
-
-An application designed to meet the needs of the citizen, providing a
-digital place for accessing the experience of Digital Citizenship.
-
-The Digital Citizenship application aims to be a testing ground
-to try out integration with the enabling platforms, providing a reference implementation for all the Public Administrations wanting to develop digital services.
-
-The application and its components are developed as open source, with both the backlog of the activities and the code being freely accessible:
-
-*   backlog of development activities: [mobile app](https://www.pivotaltracker.com/n/projects/2048617)
-    and [proxy API](https://www.pivotaltracker.com/n/projects/2116794)
-*   code: [mobile app](https://github.com/teamdigitale/italia-app)
-    and [proxy API](https://github.com/teamdigitale/italia-backend)
-
-### Benefits
-
-#### For Citizens
-
-* access the archive of communications with the public administration
-* manage contact details from a central access point
-* manage notices in an "integrated" mode (such as when making payments or marking
-deadlines on one's own calendar)
-
-#### For Administrations
-
-* send electronic communications using only the tax code (without having to ask for the citizens' contact address)
-* not having to deal with the management and updating of contacts
-* give greater authority to communications from the administration
-* communicate deadlines and facilitate the payment of taxes
-* determine the status of sending and reading of the communication
+- Send electronic notices by **tax code** rather than given address.
+- Communicate **deadlines** and receive electronic **payments** more easily.
+- Avoid managing and **updating contacts**.
+- Send and request **documents** easily and efficiently.
+- Manage individual citizen **preferences** centrally.
+- Retrieve the **forwarding status** of every communication.
+- **Reduce management costs** (notifications, payments, etc.).
+- Facilitate payments and **reduce the cost** of recovering credit.
 
 {% include project_timeline.html %}
 
 ### Media
 
-Any contact request from the media and journalists should be addressed to the Digital Transformation Team's press and communications office.
-
-{% include ipress.html %}
-<div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="en" data-size="100" data-tag="5"></div>
-<script type="text/javascript" src="/js/ipress.js"></script>
+Any contact request from the media and journalists should be addressed to [the Digital Transformation Team's press and communications office](https://teamdigitale.governo.it/en/contacts).

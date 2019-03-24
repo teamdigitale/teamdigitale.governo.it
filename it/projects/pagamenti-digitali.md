@@ -69,9 +69,10 @@ A breve queste novità saranno visibili e i comuni più grandi stanno già adere
 
 {% include medium_project.html %}
 
+Leggi [tutte le notizie su pagoPA e il progetto pagamenti digitali](https://medium.com/team-per-la-trasformazione-digitale/pagopa-piattaforma-unica-pagamenti-pa/home). 
 
 ### Forum
-pagoPA è un progetto di rilevanza nazionale. Per favorire la discussione e il confronto, e per incoraggiare la partecipazione di tutti gli attori coinvolti nel progetto abbiamo creato un [forum](https://forum.italia.it/c/pagopa)
+pagoPA è un progetto di rilevanza nazionale. Per favorire la discussione e il confronto, e per incoraggiare la partecipazione di tutti gli attori coinvolti nel progetto, abbiamo creato un [forum](https://forum.italia.it/c/pagopa).
 
 {% include forum.html %}
 

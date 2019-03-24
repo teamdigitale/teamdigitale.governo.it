@@ -88,6 +88,12 @@ IO permetterà alle Pubbliche Amministrazioni di:
 - **ridurre i costi** di gestione (delle notifiche, dei pagamenti, ecc.);
 - facilitare i pagamenti e **ridurre i costi** di recupero dei crediti.
 
+### Medium
+
+Leggi [tutte le notizie sul progetto IO](https://medium.com/team-per-la-trasformazione-digitale/progetto-io-app-servizi-pubblici/home) sul canale Medium del Team Digitale. 
+
+{% include medium_project.html %}
+
 ### Media
 
 Per ogni richiesta di contatto da parte di media e giornalisti il punto di riferimento è [l'ufficio stampa e comunicazione del Team per la Trasformazione Digitale](https://teamdigitale.governo.it/it/contatti).

@@ -76,6 +76,7 @@ Nel 2018, in stretta collaborazione con AgID, abbiamo lavorato alla stesura dell
 
 {% include medium_project.html %}
 
+Leggi tutte le notizie sul progetto Developers Italia [sul blog del Team Digitale](https://medium.com/team-per-la-trasformazione-digitale/developers-italia/home) o [su Developers Italia](https://developers.italia.it/news).
 
 {% include twitter_timeline.html %}
 
