@@ -1,5 +1,6 @@
-----
+---
 title: Paolo Micozzi
+permalink: /it/people/paolo-micozzi
 lang: it
 layout: people
 role: Technical Project Manager
@@ -9,7 +10,7 @@ medium_user: paolo.micozzi
 linkedin_url: https://www.linkedin.com/in/paolomicozzi
 ref: paolo-micozzi
 parent_ref: team
-----
+---
 
 Sono un ingegnere elettronico specializzato in telecomunicazioni, guidato dalla curiosità e dalla passione per nuove sfide ed esperienze professionali. 
 Un project manager convinto che sia più importante l’autorevolezza che l’autorità.
