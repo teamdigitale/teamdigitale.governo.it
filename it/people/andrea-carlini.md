@@ -9,7 +9,7 @@ parent_ref: team
 is_new: true
 linkedin_url: https://www.linkedin.com/in/andrea-carlini-92676514/
 start_date: 1 Marzo 2019
-period_provided: fino al 15 Settembre 2019
+period_provided: 15 Settembre 2019
 annual_compensation: € 100.000
 approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti.
 email: axcarlin@teamdigitale.governo.it
