@@ -2,6 +2,10 @@
 title: Andrea Carlini
 lang: it
 role: Chief Data Product Manager
+layout: people
+permalink: /it/people/andrea-carlini.htm
+ref: andrea-carlini
+parent_ref: team
 is_new: true
 linkedin_url: https://www.linkedin.com/in/andrea-carlini-92676514/
 start_date: 1 Marzo 2019
