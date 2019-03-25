@@ -1,12 +1,14 @@
+---
 title: Andrea Carlini
 lang: it
 role: Chief Data Product Manager
+is_new: true
 linkedin_url: https://www.linkedin.com/in/andrea-carlini-92676514/
 start_date: 1 Marzo 2019
 period_provided: fino al 15 Settembre 2019
 annual_compensation: € 100.000
 email: axcarlin@teamdigitale.governo.it
-
+---
 All'età di 6 anni immaginavo già un mondo in cui la tecnologia sarebbe stata parte integrante della nostra vita. Non appena in tenera età ho avuto la possibilità di mettere le mani su un computer (un Olivetti M24), ho capito che la strada da seguire era veramente molto lunga, ma che volevo far parte di quel processo evolutivo perché ne ero innamorato. Da allora ho iniziato a sognare ad occhi aperti.
 
 Dopo appena un anno di università di Fisica, dove ho avuto il mio primo incontro con un sistema VAX/VMS ed il Fortran, ho dovuto per esigenze economiche entrare nel mondo del lavoro come tecnico di laboratorio nella più grande industria chimica del paese: non era quello che speravo, ma continuavo a sognare ad occhi aperti. 
@@ -21,6 +23,10 @@ Nonostante la passione per il mio lavoro abbia monopolizzato la mia vita da semp
 Seguivo da lontano il lavoro del Team Digitale con molto scetticismo, principalmente perchè ritenevo l'obbiettivo di implementare una piattaforma digitale nazionale dei dati della pubblica amministrazione una missione suicida. Un giorno, mentre mi aggiornavo sulla situazione, ho visto che il Team era alla ricerca di alcune posizioni lasciate vacanti e sono entrato nel dettaglio. Dopo poco la mia mente è partita per uno dei suoi viaggi e quando è tornata mi sono ritrovato fisicamente "dentro" al team.
  
 Data inizio: 01 marzo 2019
+
 Periodo previsto: fino al 15 settembre 2019
+
 Compenso su base annua: € 100.000
+
 Registrazione in Corte dei Conti: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti.
+
