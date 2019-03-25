@@ -9,6 +9,10 @@ twitter_user: paomico
 medium_user: paolo.micozzi
 linkedin_url: https://www.linkedin.com/in/paolomicozzi
 ref: paolo-micozzi
+start_date: 1 marzo 2019
+period_provided: fino al 15 settembre 2019
+annual_compensation: € 75.000
+approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti.
 parent_ref: team
 ---
 
