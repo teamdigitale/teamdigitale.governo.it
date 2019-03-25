@@ -9,6 +9,10 @@ twitter_user: paomico
 medium_user: paolo.micozzi
 linkedin_url: https://www.linkedin.com/in/paolomicozzi
 ref: paolo-micozzi
+start_date: March 1, 2019
+period_provided: until September 15, 2019
+annual_compensation: € 75.000
+approved_by_court: The act of appointment is being registered at the Court of Auditors.
 parent_ref: team
 ---
 
