@@ -71,7 +71,7 @@ Leggi [tutte le notizie sul progetto ANPR](https://medium.com/team-per-la-trasfo
 ANPR è un progetto di rilevanza nazionale. Per favorire la discussione e il
 confronto, e per incoraggiare la partecipazione di tutti gli attori coinvolti
 nel progetto (a partire dagli oltre 8.000 comuni italiani coinvolti
-nell'operazione!) abbiamo creato un [forum](https://forum.italia.it/c/anpr)
+nell'operazione!) abbiamo creato un [forum](https://forum.italia.it/c/anpr).
 
 {% include forum.html %}
 
@@ -101,7 +101,7 @@ nell'operazione!) abbiamo creato un [forum](https://forum.italia.it/c/anpr)
         	<label class="Form-label is-required" for="privacy">
         	<input type="checkbox" class="Form-input" id="privacy" name="privacy" aria-required="true" required>
         	<span class="Form-fieldIcon" role="presentation"></span>
-        	Accetto la <a target="_blank" href="https://developers.italia.it/it/privacy-policy">Privacy Policy</a>
+        	Accetto la <a target="_blank" href="/it/privacy-newsletter-anpr.htm">Privacy Policy</a>
         	</label>
         </fieldset>
     	<div class="Form-field Grid-cell">
