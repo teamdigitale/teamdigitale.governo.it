@@ -31,45 +31,79 @@ timeline:
     desc: Our objective is to integrate the development of 10 different community projects, involving the administrations responsible for them in the new open and collaborative development model.
   - period: Q1 2018
     title: Going beyond the &quot;Catalogue of the Reuse&quot; model
-    desc: We published the new [guidelines](https://docs.italia.it/AgID/linee-guida-riuso-software/lg-acquisizione-e-riuso-software-per-pa-docs/) that supersede the current AgID &quot;Reuse Catalogue&quot;, promoting the publishing of all code on collaborative platforms (such as GitHub or GitLab). We aim to go beyond (and simplify) the current system for sharing the code between different administrations, a system which doesn't have the need for contracts or other bureaucratic impediments.
+    desc: Public review started for our new [guidelines](https://docs.italia.it/AgID/linee-guida-riuso-software/lg-acquisizione-e-riuso-software-per-pa-docs/) that supersede the current AgID &quot;Reuse Catalogue&quot;, promoting the publishing of all code on collaborative platforms (such as GitHub or GitLab). We aim to go beyond (and simplify) the current system for sharing the code between different administrations, a system which doesn't have the need for contracts or other bureaucratic impediments.
   - period: Q2 2018
     title: API catalogue
     desc: Developers Italia now contains a new API catalogue with Swagger integration. Further work is planned on this catalogue.
-  - period: Q3 2018
+  - period: Q4 2018
+    title: First round of open source software development completed
+    desc: The small and medium software house companies acquired through public tenders completed the development of 16 new open source projects supporting the enabling platforms.
+  - period: Q1 2019
     title: Developers Italia 2.0
-    desc: In addition to the national enabling platforms, Developers Italia will host the new Reuse Catalogue for open source and reusable software, according to the new guidelines.
+    desc: The [guidelines about software reuse based on the open source model](https://docs.italia.it/AgID/linee-guida-riuso-software/lg-acquisizione-e-riuso-software-per-pa-docs/) become effective. In addition to the national enabling platforms, Developers Italia hosts the new Reuse Catalogue for open source and reusable software, according to the new guidelines.
+    status: todo
+  - period: Q2 2019
+    title: 50 open source projects in the catalogue
+    desc: Within the first three months after launcing the reuse catalogue we want to have at least 50 software packages released by public entities.
+    status: todo
+  - period: Q4 2019
+    title: Second hackathon/code sprint
+    desc: We plan to organize one more code sprint focused on the software published in the reuse catalogue.
     status: todo
 ---
 
 ### In short
 
-Developers Italia is the community dedicated to the development of Open Source Software to support Italian digital public services.
+Developers Italia is the community dedicated to the development of Open Source Software to support Italian digital public services. It collects a large amount of libraries and SDK, as well as test environments, code examples and clear documentation aimed at simplifying the integration of the national enabling platforms within digital services.
 
-It is a radical change in the way the Public Administration operates. Everything we are doing is using open standards and software, we are creating SDKs for the main programming languages and frameworks, we craft publicly documented APIs. Our documentation is written with proper technical language (instead of the usual lawmakers' dialect). Around these tools we are engaging a community of developers and innovators, that can participate in all aspects of the creation of the new digital infrastructure.
+The community includes technical people of the Public Administration as well as suppliers, but also citizens and students: they all collaborate on source code and communicate using the tools of Developers Italia ([Slack](https://slack.developers.italia.it/), [GitHub](https://github.com/italia), [the forum](https://forum.italia.it/)).
 
 {:.h4}
-[Find out about the technical aspects on Developers Italia](https://developers.italia.it)
+[Discover more on Developers Italia](https://developers.italia.it)
+
+#### Software reuse
+
+Developers Italia is also appointed by the new [_Guidelines for acquisition and reuse of software_](https://docs.italia.it/AgID/linee-guida-riuso-software/lg-acquisizione-e-riuso-software-per-pa-docs/) as the platform where software to be reused must be published according to the [article 69 of the Digital Administration Code](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo6_art69.html).
+
+The Italian law states that whenever an Administration acquires software it must perform a comparative assessment among the available solutions, giving priority to existing or open source software. Moreover, when it commissions development of new software, such software must be released as open source in a public repository. This law is very advanced at international level, but the Team intervention was needed for kickstarting its implementation.
+
+#### Advantages for Public Administrations
+
+This combination of regulations, tools and community represents a radical change for the Public Administration because it encourages collaboration, rationalization of public spending, consolidation of pubilc software and it lays the groundwork for innovation.
+
+By reusing common components and open source software released by other pubilc entities, Public Administration saves time and financial resources: there's no more need for duplicating work that was already done and efforts can be pooled for building mature and secure software. Resources can thus be used for building higher quality services and for improving the existing software.
+
+The catalogue of Developers Italia enables Public Administrations to search easily among the existing solutions and to perform the comparative assessment required by the [articole 68 of the Digital Administration Code](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo6_art68.html).
+
+#### Advantages for citizens
+
+Thanks to the collaborative model and software reuse citizens can benefit from more mature, more secure and more functional digital services, integrated with the national enabling platforms and more mutually consistent.
+
+The ability to access the source code offers more transparency and lets citizens collaborate on solving problems and improving public software.
 
 ### The role of the Team
 
-The Digital Team immediately became a promoter and took charge of the creation of the
-Developers Italia community. We decided to rely on common, public tools (GitHub for the code, ReadTheDocs for the documentation, Discourse for the forum, Slack for the chat), around which the main site was created (saving money and time) that showcases both the projects and the activities.
+The Digital Team immediately became a promoter and took charge of the creation of the Developers Italia community. By relying on well-known collaborative tools (GitHub for source code, ReadTheDocs for documentation, Discouse for the forum) we created the [developers.italia.it](https://developers.italia.it) website quickly with a little budget.
 
-We then began to immediately involve the people who were approaching the project, through periodic online calls, drafting
-open roadmaps and architectural documents. At the same time, we meet with the administrations that take responsability for the main &quot;enabling platforms&quot; (the pillars of the new digital infrastructure, on which digital services are built) and began a journey with them to bring the development of those projects within Developers Italia.
+We then began to immediately involve the public entities who own the enabling platforms, with whom we wrote public roadmaps and documentation for developers. We also started releasing open source code. A community was born in no time, and this happened also because a place for collaboration and discussion was needed by many people. Under our guidance, many members of the community contributed with more code and became maintainers.
 
-Following this approach we organized [Hack Developers](https://hack.developers.italia.it/), the largest hackathon about public services. Here's some footage from this event, which took place in 26 Italian cities in October 2017:
+In October 2017 we organized [Hack Developers](https://hack.developers.italia.it/), the largest hackathon about public services. Here's some footage from that event, which took place in 26 cities:
 
  <div class="videoWrapper">
  <iframe width="560" height="315" src="https://www.youtube.com/embed/8jIID_GmU5Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
  </div>
 
-In 2018, working closesly with AgID, we worked on the new [Guidelines for Acquisition and Reuse of Software](https://docs.italia.it/AgID/linee-guida-riuso-software/lg-acquisizione-e-riuso-software-per-pa-docs/) which apply a new model based on open source.
+In 2018, working closesly with AgID, we wrote the new [Guidelines for Acquisition and Reuse of Software](https://docs.italia.it/AgID/linee-guida-riuso-software/lg-acquisizione-e-riuso-software-per-pa-docs/) which apply a new model based on open source and lay the groundwork for high quality open software.
+
+In order to implement this reuse model we created the new version of the Developers Italia website, which contains the software catalogue which is populated automatically by a crawler we developer. We also defined a metadata standard for public software, named [publiccode.yml](https://docs.italia.it/italia/developers-italia/publiccodeyml/), which is being evaluated and adopted by other foreign countries.
 
 {% include medium_project.html %}
 
+Read more about this project on the [Digital Team blog](https://medium.com/team-per-la-trasformazione-digitale/developers-italia/home) and on the [Developers Italia website](https://developers.italia.it/news).
 
 {% include twitter_timeline.html %}
 
 ### Media
 For any contact request received from the media and journalists, the [Digital Transformation Team's press and communication office](https://teamdigitale.governo.it/en/contacts) is the point of reference.
+
+{% include project_timeline.html %}
