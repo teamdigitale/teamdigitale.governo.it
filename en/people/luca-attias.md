@@ -4,7 +4,7 @@ lang: en
 permalink: /en/people/luca-attias.htm
 layout: people
 role: Government Commissioner for the Digital Agenda
-is_new: true
+is_new: false
 ref: luca-attias
 parent_ref: team
 start_date: October 31, 2018
