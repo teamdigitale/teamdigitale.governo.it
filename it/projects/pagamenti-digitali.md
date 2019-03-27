@@ -80,7 +80,7 @@ pagoPA è un progetto di rilevanza nazionale. Per favorire la discussione e il c
 Per ogni richiesta di contatto da parte di media e giornalisti il punto di riferimento è l'[ufficio stampa e comunicazione del Team per la Trasformazione digitale](https://teamdigitale.governo.it/it/contatti).
 
 ### Newsletter
-{% include newsletter_form.html action = 'http://a0x0b4.emailsp.com/frontend/subscribe.aspx' list='5'%}
+{% include pagopa_newsletter_form.html %}
 
 
 {% include project_timeline.html %}

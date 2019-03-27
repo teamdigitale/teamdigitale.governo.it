@@ -101,7 +101,7 @@ nell'operazione!) abbiamo creato un [forum](https://forum.italia.it/c/anpr).
         	<label class="Form-label is-required" for="privacy">
         	<input type="checkbox" class="Form-input" id="privacy" name="privacy" aria-required="true" required>
         	<span class="Form-fieldIcon" role="presentation"></span>
-        	Accetto la <a target="_blank" href="/it/privacy-newsletter-anpr.htm">Privacy Policy</a>
+        	Accetto la <a href="/it/privacy-newsletter-anpr.htm">Privacy Policy</a>
         	</label>
         </fieldset>
     	<div class="Form-field Grid-cell">
