@@ -6,7 +6,7 @@ layout: project
 ref: pagopa
 parent_ref: projects
 parent_menu: projects
-people: [giuseppe-virgone]
+people: [giuseppe-virgone, paolo-micozzi]
 toc: true
 medium_tag: payments
 forum_category: pagopa
