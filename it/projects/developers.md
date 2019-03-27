@@ -71,7 +71,7 @@ Riutilizzando componenti comuni e software open source rilasciati da altri enti 
 
 Il catalogo di Developers Italia consente alle amministrazioni di cercare facilmente le soluzioni esistenti e di effettuare quindi la valutazione comparativa prevista dall'[articolo 68 del Codice dell'Amministrazione Digitale](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo6_art68.html).
 
-### Vantaggi per i cittadini
+### Vantaggi per i cittadini
 
 Grazie al modello collaborativo e al riuso del software i cittadini possono beneficiare di servizi digitali più maturi, più sicuri, più funzionali, più integrati con le piattaforme abilitanti e più coerenti tra di loro.
 
