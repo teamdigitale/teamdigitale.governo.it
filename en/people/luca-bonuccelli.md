@@ -12,7 +12,7 @@ ref: luca-bonuccelli
 parent_ref: team
 start_date: February 18, 2019
 period_provided: until September 15, 2019
-annual_compensation:€ 75,000
+annual_compensation: € 75,000
 approved_by_court: The decree of appointment is pending before the Court of Auditors.
 ---
 
