@@ -56,7 +56,7 @@ timeline:
 
 Developers Italia is the community dedicated to the development of Open Source Software to support Italian digital public services. It collects a large amount of libraries and SDK, as well as test environments, code examples and clear documentation aimed at simplifying the integration of the national enabling platforms within digital services.
 
-The community includes technical people of the Public Administration as well as suppliers, but also citizens and students: they all collaborate on source code and communicate using the tools of Developers Italia [Slack](https://slack.developers.italia.it/), [GitHub](https://github.com/italia), [the forum](https://forum.italia.it/).
+The community includes technical people of the Public Administration as well as suppliers, but also citizens and students: they all collaborate on source code and communicate using the tools of Developers Italia ([Slack](https://slack.developers.italia.it/), [GitHub](https://github.com/italia), [the forum](https://forum.italia.it/)).
 
 {:.h4}
 [Discover more on Developers Italia](https://developers.italia.it)
