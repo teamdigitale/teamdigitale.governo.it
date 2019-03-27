@@ -76,14 +76,9 @@ Nel 2018, in stretta collaborazione con AgID, abbiamo lavorato alla stesura dell
 
 {% include medium_project.html %}
 
+Leggi tutte le notizie sul progetto Developers Italia [sul blog del Team Digitale](https://medium.com/team-per-la-trasformazione-digitale/developers-italia/home) o [su Developers Italia](https://developers.italia.it/news).
 
 {% include twitter_timeline.html %}
 
 ### Media
-Per ogni richiesta di contatto da parte di media e giornalisti il punto di riferimento è l'ufficio stampa e comunicazione del Team per la Trasformazione digitale
-
-{% include ipress.html %}
-<div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="it" data-size="100" data-tag="8"></div>
-<script type="text/javascript" src="/js/ipress.js"></script>
-
-{% include project_timeline.html %}
+Per ogni richiesta di contatto da parte di media e giornalisti il punto di riferimento è l'[ufficio stampa e comunicazione del Team per la Trasformazione digitale](https://teamdigitale.governo.it/it/contatti).

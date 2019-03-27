@@ -62,16 +62,17 @@ Il cittadino deve poter scegliere metodi di pagamento moderni, a minima frizione
 - Migliorare la user experience dell’utente replicando i processi e le modalità già in uso nel mercato dei pagamenti e usate ogni giorno dai cittadini.
 - Consentire ai principali attori del mercato dei pagamenti, di potere offrire ai cittadini i propri strumenti anche per pagare i servizi della Pubblica Amministrazione.
 
-Abbiamo quindi realizzato, in collaborazione con Agid, le nuove specifiche funzionali della parte pagamenti di pagoPA, realizzando una User Experience semplice e sicura  e un sistema di notifica moderno e accattivante.
+Abbiamo quindi realizzato, in collaborazione con AgID, le nuove specifiche funzionali della parte pagamenti di pagoPA, realizzando una User Experience semplice e sicura  e un sistema di notifica moderno e accattivante.
 
 A breve queste novità saranno visibili e i comuni più grandi stanno già aderendo.
 
 
 {% include medium_project.html %}
 
+Leggi [tutte le notizie su pagoPA e il progetto pagamenti digitali](https://medium.com/team-per-la-trasformazione-digitale/pagopa-piattaforma-unica-pagamenti-pa/home). 
 
 ### Forum
-pagoPA è un progetto di rilevanza nazionale. Per favorire la discussione e il confronto, e per incoraggiare la partecipazione di tutti gli attori coinvolti nel progetto abbiamo creato un [forum](https://forum.italia.it/c/pagopa)
+pagoPA è un progetto di rilevanza nazionale. Per favorire la discussione e il confronto, e per incoraggiare la partecipazione di tutti gli attori coinvolti nel progetto, abbiamo creato un [forum](https://forum.italia.it/c/pagopa).
 
 {% include forum.html %}
 

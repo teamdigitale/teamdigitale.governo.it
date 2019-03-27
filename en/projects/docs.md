@@ -27,9 +27,13 @@ timeline:
   - period: October 2018
     title: New release of Docs Italia
     desc: New style for documents, allowing more flexible solutions to produce documents that are even easier and more pleasant to read
-  - period: January 2019
+  - period: June 2019
     title: New navigation and search functionality among documents, each institution will have a dedicated section for documents
-    desc:
+    desc: Better taxonomy and links between related documents, improving and debugging of research features
+    status: todo
+  - period: September 2019
+    title: Each organization may have a dedicated section for its documents
+    desc: It will be possible to have a customized version of the Docs Italia interface for each institution
     status: todo
 ---
 
@@ -40,20 +44,20 @@ by the article 18 of the CAD (Digital Administration Code) to manage documents r
 
 ### Benefits for citizens
 
-* Easy and pleasant public documents to read, even on your smartphone
-* Easier to search for information in documents and between documents
-* Easier to share portions of content on the web
+* Easy and pleasant public documents to read, even on your smartphone.
+* Easier to search for information in documents and between documents.
+* Easier to share portions of content on the web.
 
 ### Benefits for the Public Administration
 
-* Keep documents up-to-date and make the evolution visible
-* Ability to generate a pdf (or .epub) version when necessary
-* Tools to support the creation of simpler and easy to read documents
-* Greater effectiveness in information offered and greater transparency
-* Ability to quickly consult citizens on initiatives of the administration
+* Keep documents up-to-date and make the evolution visible.
+* Ability to generate a pdf (or .epub) version when necessary.
+* Tools to support the creation of simpler and easy to read documents.
+* Greater effectiveness in information offered and greater transparency.
+* Ability to quickly consult citizens on initiatives of the administration.
 
 ### Media
 
-For every contact request from media and journalists, the point of reference is the press and communication office of the Digital Transformation Team.
+For every contact request from media and journalists, the point of reference is the [press and communication office of the Digital Transformation Team](https://teamdigitale.governo.it/en/contacts).
 
 {% include project_timeline.html %}

@@ -11,7 +11,7 @@ parent_ref: team
 start_date: 8 gennaio 2018
 period_provided: fino al 15 settembre 2019
 annual_compensation: € 63.000
-approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti.
+approved_by_court: 18 gennaio 2019.
 ---
 Sono cresciuta in un paesino della provincia di Cuneo, a Venasca, in Valle Varaita alla frontiera con la Francia, dominato dall’imponente Monviso (3.841m.) che alla mia gente ricorda che, con il passo del montanaro lento ma costante, si può arrivare ovunque, persino dove la banda larga stenta ancora a farsi strada.
  

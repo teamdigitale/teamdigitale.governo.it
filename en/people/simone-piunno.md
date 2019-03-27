@@ -13,7 +13,7 @@ parent_ref: team
 start_date: November 14, 2016
 period_provided: until September 15, 2019
 annual_compensation: € 150,000
-approved_by_court: The decree of appointment is pending before the Court of Auditors.
+approved_by_court: 18th january 2019.
 ---
 My passion for computers began when I was a kid and I wrote my program on a Commodore VIC20 when I was a toddler.   In the late 80s, before commercial Internet, I had already discovered the power of the network thanks to Fidonet BBSs that I used to exchange electronic messages with faraway friends, upsetting my parents with the sync noise of by 1200bps modem and more importantly with the high cost of telephone bills.
 

@@ -3,6 +3,8 @@ layout: null
 sitemap: false
 ---
 User-agent: *
+Disallow: /it/privacy-newsletter-anpr.htm
+Noindex: /it/privacy-newsletter-anpr.htm
 Disallow: /it/signatures.html
 Disallow: /en/signatures.html
 Disallow: /en/signatures/*.html
