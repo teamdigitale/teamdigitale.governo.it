@@ -4,7 +4,7 @@ lang: en
 permalink: /en/people/fabio-cristofari
 layout: people
 role: Executive Assistant of the Government Commissioner
-is_new: true
+is_new: false
 twitter_user:
 medium_user:
 linkedin_url: https://www.linkedin.com/in/fcristofari

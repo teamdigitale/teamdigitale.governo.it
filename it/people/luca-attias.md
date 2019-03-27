@@ -4,7 +4,7 @@ lang: it
 permalink: /it/people/luca-attias.htm
 layout: people
 role: Commissario Straordinario per l'attuazione dell'Agenda Digitale
-is_new: true
+is_new: false
 ref: luca-attias
 parent_ref: team
 start_date: 31 ottobre 2018
