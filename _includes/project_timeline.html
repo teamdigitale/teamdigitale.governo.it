@@ -26,7 +26,7 @@ timeline:
         <div class="frst-timeline-content">
             <div class="frst-timeline-content-inner"> <span class="frst-date">{{item.period}}</span>
                 <span class="h2">{{item.title}}</span>
-                <p>{{item.desc}}</p>
+                <p>{{item.desc | markdownify}}</p>
             </div>
             <!-- frst-timeline-content-inner -->
         </div>
