@@ -13,7 +13,10 @@ index: no-index
 
 La presente informativa viene resa ai sensi dell'art. 13 del Regolamento 2016/679 (GDPR) ed è relativa ai dati personali trattati nell’ambito dell’invio di newsletter relative al progetto pagoPA.
 
-La newsletter di pagoPA è distribuita via e-mail - in automatico e gratuitamente - a quanti fanno richiesta di riceverla, compilando il form presente alla pagina [teamdigitale.governo.it/it/projects/pagamenti-digitali.htm](https://teamdigitale.governo.it/it/projects/pagamenti-digitali.htm) e alla pagina [developers.italia.it/it/pagopa](https://developers.italia.it/it/pagopa), o [iscrivendosi all'interno del Portale delle Adesioni pagoPA](https://portal.pagopa.gov.it/pda-portal/admin/login).
+La newsletter di pagoPA è facoltativa e distribuita via e-mail - in automatico e gratuitamente:
+
+- a quanti fanno richiesta di riceverla, compilando il form presente alla pagina [teamdigitale.governo.it/it/projects/pagamenti-digitali.htm](https://teamdigitale.governo.it/it/projects/pagamenti-digitali.htm);
+- a quanti avevano un'account [nel Portale delle Adesioni di pagoPA](https://portal.pagopa.gov.it/pda-portal/admin/login) e già ricevevano tali tipi di comunicazioni alla data del 1 aprile 2019.
 
 I dati gestiti per la fornitura del servizio sono:
 
