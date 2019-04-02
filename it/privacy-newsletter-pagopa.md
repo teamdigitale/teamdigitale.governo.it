@@ -44,4 +44,4 @@ Gli interessati che ritengono che il trattamento dei dati personali a loro rifer
 Cancellazione dal servizio
 --------------------------
 
-Ciascun utente può gestire o cancellare autonomamente l’iscrizione dalla newsletter di pagoPA premendo gli appositi bottoni “gestisci iscrizione” e “cancella iscrizione”, in fondo al testo di ogni mail ricevuta. 
+Ciascun utente può cancellare autonomamente l’iscrizione dalla newsletter di pagoPA premendo il bottone “cancella iscrizione”, in fondo al testo di ogni mail ricevuta. 
