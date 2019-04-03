@@ -11,7 +11,7 @@ index: no-index
 
 <h2>Informativa privacy comunicazioni tecniche facoltative pagoPA</h2>
 
-La presente informativa viene resa ai sensi dell'art. 13 del Regolamento 2016/679 (GDPR) ed è relativa ai dati personali trattati nell’ambito dell’invio di comunicazioni tecniche a coloro che risultano nel sistema pagoPA come soggetti che vogliono ricevere tali comunicazioni.
+La presente informativa viene resa ai sensi dell'art. 13 del Regolamento 2016/679 (GDPR) ed è relativa ai dati personali trattati nell’ambito dell’invio di comunicazioni tecniche a coloro che risultano nel sistema pagoPA come soggetti che hanno chiesto di ricevere tali comunicazioni.
 
 Tali comunicazioni sono facoltative e  distribuite via e-mail - in automatico e gratuitamente.
 
