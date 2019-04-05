@@ -90,7 +90,7 @@ We then began to immediately involve the public entities who own the enabling pl
 In October 2017 we organized [Hack Developers](https://hack.developers.italia.it/), the largest hackathon about public services. Here's some footage from that event, which took place in 26 cities:
 
  <div class="videoWrapper">
- <iframe width="560" height="315" src="https://www.youtube.com/embed/8jIID_GmU5Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+ <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8jIID_GmU5Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
  </div>
 
 In 2018, working closesly with AgID, we wrote the new [Guidelines for Acquisition and Reuse of Software](https://docs.italia.it/AgID/linee-guida-riuso-software/lg-acquisizione-e-riuso-software-per-pa-docs/) which apply a new model based on open source and lay the groundwork for high quality open software.

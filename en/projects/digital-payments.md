@@ -34,7 +34,7 @@ A different and more natural way for citizens to pay the Public Administration, 
 Citizens must be able to choose modern payment methods with minimal friction, whilst the market must be able to integrate and easily add new innovative payment instruments. We want to make the system more open and flexible.
 
 <div class="videoWrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RHOAu5GwKnE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RHOAu5GwKnE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 {:.h4}
