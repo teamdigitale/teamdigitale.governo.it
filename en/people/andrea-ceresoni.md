@@ -23,7 +23,7 @@ In 2010 I decided to leave for Ireland looking for a new challenge in a multicul
 
 I left my beloved Rome at the age of 32 at a time in Dublin, where I was confronted with a new culture but, above all, where I’ve  learned to work on large-scale technological solutions never seen before and with professionals located globally: a very formative experience.
 
-After a few years at Amazon, I was offered the opportunity to work for a star-up  with the task of creating the infrastructure on AWS and following mission-critical aspects.  The start-up experience ended 4 years later, 2 of which were spent in Berlin.
+After a few years at Amazon, I was offered the opportunity to work for a star-up, Fieldaware, with the task of creating the infrastructure on AWS and following mission-critical aspects.  The start-up experience ended 4 years later, 2 of which were spent in Berlin.
 
 In the last two years I worked in Berlin as Senior Security Engineer for OLX and in Milan as Senior Security Architect & Coordinator for the Fastweb Enterprise Security Operation Center, where I followed projects for many public administrations.
 
@@ -31,3 +31,5 @@ I learned about Piacentini's project when I was in Berlin: something revolutiona
 When I saw that a position as a cybersecurity expert had been opened, I decided, without blinking an eye, to apply to be an active part of the change. The nice phone call telling me that I had passed the selection tests, the people I’d work with and the enthusiasm to be part of this project made me immediately decide to accept the role.
 
 My mission within the Team is to evaluate and increase the security of all projects and platforms developed by the team and spread the culture of cybersecurity to make our platforms safe for all Italian citizens.
+
+In my free time I love traveling, experimenting with photography, cooking pasta carbonara for friends, tasting good wine and, when I'm alone, riding my bicycle which is still in Berlin for now.

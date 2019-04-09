@@ -23,7 +23,7 @@ Nel 2010 ho deciso di partire per l’Irlanda alla ricerca di una nuova sfida in
 
 Ho lasciato la mia amata Roma all'età di 32 anni alla volta di Dublino, dove mi sono confrontato con una nuova cultura ma, soprattutto, dove ho imparato a lavorare su soluzioni tecnologiche di larga scala mai viste prima e con professionisti dislocati a livello globale: un’esperienza molto formativa.
 
-Dopo qualche anno in Amazon, mi è stata offerta la possibilità di lavorare per una start-up  FieldAware con il compito di creare su AWS l’infrastruttura e di seguire end to end gli aspetti "mission critical". L’esperienza nella start-up si è conclusa 4 anni dopo, 2 dei quali trascorsi a Berlino. 
+Dopo qualche anno in Amazon, mi è stata offerta la possibilità di lavorare per una start-up, FieldAware, con il compito di creare su AWS l’infrastruttura e di seguire end to end gli aspetti "mission critical". L’esperienza nella start-up si è conclusa 4 anni dopo, 2 dei quali trascorsi a Berlino. 
 
 Negli ultimi due anni ho lavorato a Berlino come Senior Security Engineer per OLX e a Milano come Senior Security Architect & Coordinator per il Security Operation Center enterprise di Fastweb, dove ho seguito progetti per molte pubbliche amministrazioni.  
 
@@ -33,3 +33,8 @@ Quando ho visto che era stata aperta una posizione come esperto di cybersecurity
 La mia missione all'interno del Team è quella di valutare e aumentare la sicurezza di tutti i progetti e piattaforme sviluppate e diffondere la cultura della cybersecurity, per rendere le nostre piattaforme sicure per tutti i cittadini italiani. 
 
 Nel tempo libero amo viaggiare, sperimentare fotografia, cucinare pasta alla carbonara per gli amici, degustare buon vino e, quando sono da solo, pedalare con la mia bicicletta che per ora si trova ancora a Berlino.
+
+Data inizio: 1 marzo 2019
+Periodo previsto: fino al 15 settembre 2019
+Compenso su base annua: € 85.000
+Registrazione in Corte dei Conti: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti.
