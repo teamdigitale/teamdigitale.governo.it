@@ -6,7 +6,7 @@ layout: project
 ref: anpr
 parent_ref: projects
 parent_menu: projects
-people: [carlo-contavalli, mirko-calvaresi, luca-bigliardi, giuseppe-pasceri, elisabetta-pique]
+people: [mirko-calvaresi, marco-cipri, carlo-contavalli, luca-bigliardi, giuseppe-pasceri, elisabetta-pique]
 toc: true
 medium_tag: anpr
 forum_category: anpr
@@ -101,7 +101,7 @@ nell'operazione!) abbiamo creato un [forum](https://forum.italia.it/c/anpr).
         	<label class="Form-label is-required" for="privacy">
         	<input type="checkbox" class="Form-input" id="privacy" name="privacy" aria-required="true" required>
         	<span class="Form-fieldIcon" role="presentation"></span>
-        	Accetto la <a target="_blank" href="/it/privacy-newsletter-anpr.htm">Privacy Policy</a>
+        	Accetto la <a href="/it/privacy-newsletter-anpr.htm">Privacy Policy</a>
         	</label>
         </fieldset>
     	<div class="Form-field Grid-cell">

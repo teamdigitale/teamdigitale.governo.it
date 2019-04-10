@@ -10,6 +10,8 @@
 <div class="row team-list-grid">
   {% for person in people_pages_sorted_active %}
   {% include person.html content = person %}
+  {% assign remainder = forloop.index | modulo: 2 %}
+  {% if remainder == 0 %}<div class="clearfix"></div>{% endif %}
   {% endfor %}
 </div>
 
@@ -18,5 +20,7 @@
 <div class="row team-list-grid">
   {% for person in people_pages_sorted_unactive %}
   {% include person.html content = person %}
+  {% assign remainder = forloop.index | modulo: 2 %}
+  {% if remainder == 0 %}<div class="clearfix"></div>{% endif %}
   {% endfor %}
 </div>

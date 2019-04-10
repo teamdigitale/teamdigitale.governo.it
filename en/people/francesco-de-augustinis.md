@@ -4,7 +4,7 @@ lang: en
 permalink: /en/people/francesco-de-augustinis
 layout: people
 role: Communication and public relations team
-is_new: true
+is_new: false
 twitter_user: 
 medium_user: francescomda
 linkedin_url: https://www.linkedin.com/in/francesco-de-augustinis-9bb14167/

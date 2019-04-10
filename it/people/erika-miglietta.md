@@ -4,7 +4,7 @@ lang: it
 permalink: /it/people/erika-miglietta
 layout: people
 role: Assistente Tecnico e Coordinatore delle attività
-is_new: true
+is_new: false
 twitter_user:
 medium_user:
 linkedin_url: https://www.linkedin.com/in/erika-miglietta-a752707/

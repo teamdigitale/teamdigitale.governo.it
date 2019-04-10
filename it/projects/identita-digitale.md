@@ -6,7 +6,7 @@ layout: project
 ref: spid
 parent_ref: projects
 parent_menu: projects
-people: [valerio-paolini]
+people: [valerio-paolini, luca-bonuccelli]
 toc: true
 medium_tag: spid
 forum_category: spid
