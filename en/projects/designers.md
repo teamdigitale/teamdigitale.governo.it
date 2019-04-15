@@ -84,20 +84,40 @@ timeline:
     status: todo
 ---
 
-### In short
-We intend to create guidelines, examples and development kits that can help all administrations in offering digital services that are easy for citizens to use. We want to introduce a development logic and continuous improvement, given that digital products and interfaces must be a living entity that evolves together with the users&#39; needs and digital innovations. The first step was the creation of [Designers Italia](https://designers.italia.it).
+### Overview 
 
-### The role of the Team
-The objective of [Designers Italia](https://designers.italia.it) is to disseminate a culture of design in digital services that makes the citizen the focal point, in order to save time and money for the public administration and to raise the quality of the services.
-The digital transformation team has strengthened the existing project relative to the guidelines of the public websites by creating a platform - Designers Italia - that constitutes a meeting point between the world of design and the public administration. All documentation relating to the design guidelines should come from its alpha version and embrace all aspects of human-centred design: service design, user interface design, content design and user research.
-Designers Italia not only produces guides and kits for all public administrations, but directly follows some of the public &quot;infrastructural&quot; digital services such as PagoPA and SPID, whilst activating the creation of models for the different types of public websites, starting from a project dedicated to school websites.
+[Designers Italia](https://designers.italia.it/) is both a platform and a design team that serves as a reference point for Italian public service design and a meeting point for technicians, designers and public officials. Designers Italia provides: 
 
+- service design guidelines for service design ([visit the guidelines](https://designers.italia.it/guide/));
+- kits and worktools to support research, design and service development ([see the design kits](https://designers.italia.it/kit/)); 
+- tools for developers ([visit Developers Italia](https://developers.italia.it/it/design/)); 
+- an environment in which to discuss and receive technical support ([visit the forum](https://forum.italia.it/c/design)); 
+- a blog that collects and presents case histories detailing how guidelines and design kits have previously been used ([visit the blog](https://designers.italia.it/blog/)); 
+
+### Benefits for citizens and for the Public Administration 
+
+The first goal of Designers Italia is to support the creation of new digital public services that are more effective, inclusive and easier to use, starting with the [IO Project](https://io.italia.it/en/). To do this, Designers Italia provides methods and worktools that can be accessed by the entire community of developers and designers working on public services. 
+
+Thanks to Designers Italia’s design system, administrations are no longer forced to “reinvent the wheel” every time they want to create a new service. The design system also increases the effectiveness of the services they design. 
+
+### The Team’s Role 
+
+The Digital Transformation Team has updated the design guidelines for the Public Administration’s digital services so that they now cover the entire design cycle of digital services, from the research phase to the design phase, from the development phase to the evaluation of results. 
+
+The Team’s main efforts involved combining a regulatory approach with an equally indispensable **set of practical tools** (service design kits) as well as **a community to support the use of these tools**. 
+
+Not only does Designers Italia produce guidelines and kits for all public administrations, but it follows **public “infrastructural” digital services** like [pagoPA](https://teamdigitale.governo.it/en/projects/digital-payments.htm), [SPID](https://teamdigitale.governo.it/en/projects/digital-identity.htm) and the [IO project](https://io.italia.it/en/) directly and creates models for different types of websites, starting with sites for schools and municipalities. 
+
+### From the Blog 
 
 {% include medium_project.html %}
+
+Read the more recent stories by [the blog on Designers Italia](https://designers.italia.it/blog/).
 
 ### Forum
 
 A space for discussions about the design of public services.
+
 {% include forum.html %}
 
 {% include twitter_timeline.html %}
