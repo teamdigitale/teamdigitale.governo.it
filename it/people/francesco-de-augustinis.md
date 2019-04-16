@@ -3,7 +3,7 @@ title: Francesco De Augustinis
 lang: it
 permalink: /it/people/francesco-de-augustinis
 layout: people
-role: Comunicazione e content management
+role: Comunicazione e relazioni pubbliche istituzionali
 is_new: false
 twitter_user: 
 medium_user: francescomda
