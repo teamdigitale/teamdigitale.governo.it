@@ -51,7 +51,7 @@ Il Data & Analytics Framework (DAF) ha l'obiettivo di migliorare e semplificare 
 * Favorire l'analisi e la gestione dei dati da parte di team di data scientist in seno alle PA, al fine di migliorare la conoscenza dei fenomeni descritti dai dati e sviluppare applicazioni "intelligenti", nonché condurre iniziative utili a promuovere attività di ricerca scientifica su tematiche applicative di interesse per la PA.
 
 <div class="videoWrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X2Sg-KauY6I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/X2Sg-KauY6I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 

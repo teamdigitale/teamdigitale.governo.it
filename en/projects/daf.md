@@ -54,7 +54,7 @@ The Data & Analytics Framework (DAF) has the goal of improving and simplifying t
 * Facilitate data analysis and data management by data scientist teams within the PA, in order to improve knowledge of the phenomena described by the data and develop “intelligent” applications, as well as take initiatives to promote scientific research activities on application themes of interest to the PA.
 
 <div class="videoWrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X2Sg-KauY6I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/X2Sg-KauY6I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 #### Useful Links

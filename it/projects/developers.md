@@ -86,7 +86,7 @@ Abbiamo iniziato poi a coinvolgere gli enti gestori delle piattaforme abilitanti
 Ad ottobre 2017 abbiamo orgnizzato [Hack Developers](https://hack.developers.italia.it/), il più grande Hackathon dedicato ai servizi pubblici. Qui il video dell'evento che si è tenuto in decine di città italiane (e non solo!):
 
  <div class="videoWrapper">
- <iframe width="560" height="315" src="https://www.youtube.com/embed/8jIID_GmU5Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+ <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8jIID_GmU5Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
  </div>
 
 Nel 2018, in stretta collaborazione con AgID, abbiamo lavorato alla stesura delle nuove [Linee Guida per l'Acquisizione e il Riuso di Software per la Pubblica Amministrazione](https://docs.italia.it/AgID/linee-guida-riuso-software/lg-acquisizione-e-riuso-software-per-pa-docs/) che applicano un modello basato sull'open source e mettono le basi per un'efficace costruzione di un patrimonio di software pubblico aperto e di qualità.
