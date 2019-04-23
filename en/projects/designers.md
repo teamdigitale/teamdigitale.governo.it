@@ -106,9 +106,7 @@ The Digital Transformation Team has updated the design guidelines for the Public
 
 The Team’s main efforts involved combining a regulatory approach with an equally indispensable **set of practical tools** (service design kits) as well as **a community to support the use of these tools**. 
 
-Not only does Designers Italia produce guidelines and kits for all public administrations, but it follows **public “infrastructural” digital services** like [pagoPA](https://teamdigitale.governo.it/en/projects/digital-payments.htm), [SPID](https://teamdigitale.governo.it/en/projects/digital-identity.htm) and the [IO project](https://io.italia.it/en/) directly and creates models for different types of websites, starting with sites for schools and municipalities. 
-
-### From the Blog 
+Not only does Designers Italia produce guidelines and kits for all public administrations, but it follows **public “infrastructural” digital services** like [pagoPA](https://teamdigitale.governo.it/en/projects/digital-payments.htm), [SPID](https://teamdigitale.governo.it/en/projects/digital-identity.htm) and the [IO project](https://io.italia.it/en/) directly and creates models for different types of websites, starting with sites for schools and municipalities.  
 
 {% include medium_project.html %}
 
