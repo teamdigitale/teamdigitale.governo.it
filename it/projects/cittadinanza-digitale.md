@@ -58,7 +58,7 @@ I dettagli del progetto e le informazioni per enti pubblici e giornalisti sono d
 
 IO è un progetto *open source*. Tutto il codice delle componenti, la documentazione, le discussioni e gli strumenti di sviluppo del progetto sono pubblici e disponibili [all’interno della community Developers Italia](https://io.italia.it/sviluppatori/).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zrKOS2LiWTU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zrKOS2LiWTU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Vantaggi per i cittadini
 
