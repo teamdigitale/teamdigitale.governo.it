@@ -3,7 +3,7 @@ title: Marta Colonna
 lang: en
 permalink: /en/people/marta-colonna
 layout: people
-role: Italian and EU Regulatory affairs & Data Protection Officer (DPO)
+role: Data Protection Officer (DPO)
 is_new: false
 twitter_user: 
 medium_user:
