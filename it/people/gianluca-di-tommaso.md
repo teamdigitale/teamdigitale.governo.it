@@ -10,7 +10,7 @@ medium_user:
 linkedin_url: https://www.linkedin.com/in/gianlucaditommaso
 ref: gianluca-di-tommaso
 parent_ref: team
-start_date: 19 novembre 2019
+start_date: 19 novembre 2018
 period_provided: fino al 15 settembre 2019
 annual_compensation: € 63.000
 approved_by_court: 18 gennaio 2019.
