@@ -4616,7 +4616,7 @@ var _self = "undefined" != typeof window ? window : "undefined" != typeof Worker
                 policyButton: !1,
                 policyText: "Privacy Policy",
                 policyFunction: !1,
-                policyURL: "/privacy-policy/",
+                policyURL: "/it/privacy-policy.htm",
                 autoEnable: !0,
                 acceptOnContinue: !1,
                 expireDays: 365,
@@ -4723,7 +4723,7 @@ var _self = "undefined" != typeof window ? window : "undefined" != typeof Worker
                 acceptText: "Ok",
                 policyButton: !0,
                 policyText: "Privacy Policy",
-                policyURL: "http://www.governo.it/privacy-policy",
+                policyURL: "/it/privacy-policy.htm",
                 acceptOnContinue: !0,
                 acceptOnScroll: 200,
                 acceptFunction: location.reload
