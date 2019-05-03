@@ -14,7 +14,6 @@ tutte le pagine del sito che:
       {% assign sub_pages_query = same_lang_pages | where: "parent_menu", menu_page.ref %}
       {% assign sub_pages = sub_pages_query | sort: "title" %}
       {% assign pagebytwo = sub_pages.size | divided_by:2 %}
-
         {% if menu_page.ref == page.ref or menu_page.ref == page.parent_ref %}
           {% assign isActive = true %}
         {% else %}
@@ -53,7 +52,6 @@ tutte le pagine del sito che:
         &nbsp;
     {% endif %}
   {% endfor %}
-
   </div>
   {% if extra_menu[page.lang] %}
   {% assign extra_menu_lang = extra_menu[page.lang] %}

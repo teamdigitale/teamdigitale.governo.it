@@ -4765,14 +4765,6 @@ var _self = "undefined" != typeof window ? window : "undefined" != typeof Worker
 
 
 $(document).ready(function () {
-    $("div.bhoechie-tab-menu>div.list-group>a").click(function (e) {
-        e.preventDefault();
-        $(this).siblings('a.active').removeClass("active");
-        $(this).addClass("active");
-        var index = $(this).index();
-        $("div.bhoechie-tab>div.bhoechie-tab-content").removeClass("active");
-        $("div.bhoechie-tab>div.bhoechie-tab-content").eq(index).addClass("active");
-    });
     // jobs accordion
     $('#jobaccordion_list a[data-target]').click(function(event){
         event.preventDefault();
