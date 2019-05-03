@@ -3,7 +3,7 @@ title: Lorenzo Fabbri
 lang: it
 permalink: /it/people/24-profile.htm
 layout: people
-role: Content Design
+role: Content Designer
 is_new: false
 twitter_user: lore77
 medium_user: lorenzofabbri
@@ -11,9 +11,9 @@ linkedin_url: https://it.linkedin.com/in/lorenzofabbri
 ref: lorenzo-fabbri
 parent_ref: team
 start_date: 9 gennaio 2017
-period_provided: fino al 16 settembre 2018
+period_provided: fino al 15 settembre 2019
 annual_compensation: € 90.000
-approved_by_court: 3 maggio 2017
+approved_by_court: 18 gennaio 2019.
 ---
 Era la fine di settembre quando lessi che stava nascendo un gruppo di lavoro per la trasformazione digitale del Paese e mi trovai a pensare: “*Ecco, questo è quello che mi piacerebbe davvero fare*”. E dopo pochi mesi, eccomi qui: all’interno del Team mi occuperò di *Content Design*, quindi di analisi e comprensione dei bisogni degli utenti, organizzazione dei contenuti e dei servizi, con un’attenzione particolare alla semplificazione.
 

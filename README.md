@@ -66,7 +66,14 @@ Il workflow di creazione delle pagine profilo segue le seguenti fasi:
 5. traduzione e revisione del contenuto;
 6. PR del profilo in lingua inglese.
 
-L'autore della bio può [seguire questa procedura](https://docs.google.com/document/d/1k_y2s9sTUGLH5o4sXCiUvI4dj8ei_saK24_lAF2mmKk/edit)
+L'autore della bio può [seguire questa procedura](https://docs.google.com/document/d/1BlWY0wdPdQ4SDHe8tFr80zLBi0_QT74Ra2ZlDYUhwBA/edit?usp=sharing), e creare un la Pull Requesta da un fork del repository per editare i file in modo più semplice e sicuro:
+
+1. Fork del repository (tastino in alto a destra) per ottenere sul proprio account GitHub una copia del repository.
+2. Modifica dei file in completa sicurezza sul repository https://github.com/mario-rossi/teamdigitale.governo.it. È necessario creare 3 file:
+  - un file `images/team/mario-rossi.jpg` con l'immagine di profilo editata secondo la procedura descritta sul documento;
+  - un file `it/people/mario-rossi.md` con la bio in italiano;
+  - un file `en/people/mario-rossi.md` con la bio in inglese
+3. Creazione di una [pull request](https://help.github.com/en/articles/creating-a-pull-request-from-a-fork) per riportare il codice aggiunto dal proprio repo a quello originale.
 
 ### Post Medium
 
@@ -111,9 +118,9 @@ hide_last_mod_date: true
 
 Se vuoi apportare modifiche ai contenuti del sito, devi avere un account Github. L'account Github è gratuito e [facilissimo da creare](https://www.youtube.com/watch?v=ezxRcdJ8glM)!
 
-Il prossimo passo consiste nel richiedere l'accesso come collaboratore al nostro sito. Puoi chiedere a Giovanni o Federico di darti l'accesso, mandandogli il tuo username Github. Una volta che verrai aggiunto come collaboratore, riceverai una e-mail automatica di invito a collaborare sul repository del sito del team. Dopo aver accettato l'invito nella mail, sarai pronto a proporre modifiche al sito!
+Il prossimo passo consiste nel richiedere l'accesso come collaboratore al nostro sito. Puoi chiedere ad Alessandro R. o Federico di darti l'accesso, mandandogli il tuo username Github. Una volta che verrai aggiunto come collaboratore, riceverai una e-mail automatica di invito a collaborare sul repository del sito del team. Dopo aver accettato l'invito nella mail, sarai pronto a proporre modifiche al sito!
 
-Giuhub è molto facile da usare e dispone di un'interfaccia web che ti permette di apportare e proporre modifiche, come un vero hacker! Puoi prendere familiarità con l'interfaccia web guardando [questo video di 10 minuti](https://www.youtube.com/watch?v=6lGItUBUK5s) che spiega come apportare modifiche in modo semplice e visuale.
+Github è molto facile da usare e dispone di un'interfaccia web che ti permette di apportare e proporre modifiche, come un vero hacker! Puoi prendere familiarità con l'interfaccia web guardando [questo video di 10 minuti](https://www.youtube.com/watch?v=6lGItUBUK5s) che spiega come apportare modifiche in modo semplice e visuale.
 
 Complimenti! Ora sei pronto per contribuire al nostro sito web seguendo questi passi:
 
@@ -122,7 +129,7 @@ Complimenti! Ora sei pronto per contribuire al nostro sito web seguendo questi p
 3. Apporta le modifiche al documento tramite l'editor web. Per utilizzare stili diversi nel testi (titoli, grassetti, ecc...) devi usare una [convenzione di scrittura che si chiama Markdown](https://guides.github.com/features/mastering-markdown/).
 4. Una volta soddisfatto delle tue modifiche, prosegui con la proposta in fondo alla pagina, nella sezione __Commit changes__. Metti una breve descrizione della modifica da te proposta, seleziona l'opzione __Create a new branch__ e poi clicca su __Commit changes__. Non ti preoccupare, non puoi fare danni! Questo processo produce solo una proposta di modifica che poi dovrà essere approvata!
 5. Nella pagina successiva clicca su __Create pull request__ per confermare la tua richiesta di integrazione delle modifiche nella versione principale del sito.
-6. Congratulazioni! La tua proposta è ora in fase di approvazione! Se vuoi accelerare il processo di approvazione, copia il link della pagina in cui ti trovi nella chat del sito e chiedi a Giovanni o Federico di controllare e pubblicare le modifiche.
+6. Congratulazioni! La tua proposta è ora in fase di approvazione! Se vuoi accelerare il processo di approvazione, copia il link della pagina in cui ti trovi nella chat del sito e chiedi a Alessandro R., Francesco o Federico di controllare e pubblicare le modifiche.
 
 ### Creazione di una nuova pagina generica
 
@@ -130,7 +137,7 @@ Creare la pagina sotto forma di file con estensione `.md` in ogni directory dell
 
 La pagina deve avere l'intestazione con i metadati necessari alla pubblicazione, è utile prendere un'altra pagina statica come base.
 
-Se è la prima volta che crei una pagina, chiedi a Giovanni o Federico di aiutarti.
+Se è la prima volta che crei una pagina, chiedi a Francesco o Federico di aiutarti.
 
 ### Creazione o modifica di una pagina profilo
 

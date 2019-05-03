@@ -6,7 +6,7 @@ layout: project
 ref: daf
 parent_ref: projects
 parent_menu: projects
-people: [raffaele-lillo, fabiana-lanotte, alessandro-ercolani, david-greco, giovanni-ruggiero, fabio-fumarola, maria-claudia-bodino]
+people: [andrea-carlini, raffaele-lillo, fabiana-lanotte, alessandro-ercolani, david-greco, giovanni-ruggiero, fabio-fumarola, maria-claudia-bodino, simone-piunno]
 toc: true
 medium_tag: big-data
 forum_category: 'daf'
@@ -27,8 +27,12 @@ timeline:
     title: Definizione e realizzazione del piano di sviluppo della fase di sperimentazione del Data & Analytics Framework
     desc: Individuazione del modello di governance del DAF e delle PA che faranno parte della fase di sperimentazione. Definizione dell’architettura della piattaforma e della sua roadmap di evoluzione. Definizione dei casi d’uso per lo sviluppo di servizi per Pubbliche amministrazioni, cittadini e imprese.
   - period: Dicembre 2018
+    title: Istituzionalizzazione del DAF
+    desc: Il DAF diventa una piattaforma istituzionale prima attraverso l'articolo 50-ter del CAD che definisce la Piattaforma Nazionale Digitale Dati e successivamente con il Decreto 14 dicembre 2018 n. 135 che conferisce il progetto ad una nuova società che sarà costituita presso la Presidenza del Consiglio.
+    status: done
+  - period: Dicembre 2019
     title: Messa in Produzione del DAF
-    desc: Il Team digitale e AgID predisporranno le procedure atte al subentro del futuro owner del DAF che gestirà l’operatività e l’evoluzione del progetto. L’owner del DAF curerà le interazioni con le PA per definire piani di inclusione delle relative basi di dati e casi d’uso. Le PA di volta in volta coinvolte definiranno le modalità di ingestione dei dati e utilizzo del DAF consone alle proprie attività.
+    desc: Il Team digitale predispone le procedure atte al subentro del futuro owner del DAF che gestirà l’operatività e l’evoluzione del progetto. L’owner del DAF curerà le interazioni con le PA per definire piani di inclusione delle relative basi di dati e casi d’uso. Le PA di volta in volta coinvolte definiranno le modalità di ingestione dei dati e utilizzo del DAF consone alle proprie attività.
     status: todo
 ---
 
@@ -47,12 +51,12 @@ Il Data & Analytics Framework (DAF) ha l'obiettivo di migliorare e semplificare 
 * Favorire l'analisi e la gestione dei dati da parte di team di data scientist in seno alle PA, al fine di migliorare la conoscenza dei fenomeni descritti dai dati e sviluppare applicazioni "intelligenti", nonché condurre iniziative utili a promuovere attività di ricerca scientifica su tematiche applicative di interesse per la PA.
 
 <div class="videoWrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X2Sg-KauY6I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/X2Sg-KauY6I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 
 #### Link utili
-* [Il DAF nel Piano Triennale 2017-2019](https://pianotriennale-ict.italia.it/daf/)
+* [Il DAF nel Piano Triennale 2017-2019](https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2017-2019/doc/09_data-analytics-framework.html)
 * [Scopri gli aspetti tecnici su Developers Italia](https://developers.italia.it/it/daf/)
 * [Piano di sviluppo del DAF](https://docs.italia.it/italia/daf/daf-piano-di-sviluppo/) (in fase di revisione)
 * [Basi di dati chiave](https://docs.italia.it/italia/daf/pianotri-elencobasidatichiave/)
@@ -62,15 +66,11 @@ Il Data & Analytics Framework (DAF) ha l'obiettivo di migliorare e semplificare 
 
 ### Forum
 
+DAF è un progetto di rilevanza nazionale. Per favorire la discussione e il confronto, e per incoraggiare la partecipazione di tutti gli attori coinvolti nel progetto abbiamo creato [un forum](https://forum.italia.it/c/daf).
+
 {% include forum.html %}
 
-{% include twitter_timeline.html %}
-
 ### Media
-Per ogni richiesta di contatto da parte di media e giornalisti il punto di riferimento è l'ufficio stampa e comunicazione del Team per la Trasformazione digitale
-
-{% include ipress.html %}
-<div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="it" data-size="100" data-tag="10"></div>
-<script type="text/javascript" src="/js/ipress.js"></script>
+Per ogni richiesta di contatto da parte di media e giornalisti il punto di riferimento è l'[ufficio stampa e comunicazione del Team per la Trasformazione digitale](https://teamdigitale.governo.it/it/contatti).
 
 {% include project_timeline.html %}

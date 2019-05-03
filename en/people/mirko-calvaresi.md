@@ -11,9 +11,9 @@ linkedin_url:
 ref: mirko-calvaresi
 parent_ref: team
 start_date: January 31, 2017
-period_provided: until September 16, 2018
+period_provided: until September 15, 2019
 annual_compensation: € 80,000
-approved_by_court: May 3, 2017
+approved_by_court: 18th january 2019.
 ---
 I am passionate about the web up from 1996 when I made my first web site on virtual communities described by Howard Rheingold, but I think the best definition of the technologies that I love has given Italo Calvino in "American Lessons":
 

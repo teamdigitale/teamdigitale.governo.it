@@ -6,7 +6,7 @@ layout: project
 ref: cie
 parent_ref: projects
 parent_menu: projects
-people: [valerio-paolini]
+people: [valerio-paolini, luca-bonuccelli]
 toc: true
 medium_tag: cie
 forum_category: cie
@@ -45,24 +45,18 @@ in particular using the CIE for the creation of an ecosystem of digital services
 
 You will find our vision of the project and the role it will play in the operating system of the country in our blog.
 
-{% include medium_project.html %}
-
-{% include twitter_timeline.html %}
-
 
 ### Forum
 
 CIE is a project of national relevance. To foster a discussion and an exchange of viewpoints,
 as well as to encourage the participation of all players involved in the project, we created a
-[forum](https://forum.italia.it/c/cie)
+[forum](https://forum.italia.it/c/cie).
 
 
 {% include forum.html %}
 
 ### Media
 Any contact request from the media and journalists should be addressed to the
-Digital Transformation Team's press and communication office.
+[Digital Transformation Team's press and communication office](https://teamdigitale.governo.it/en/contacts).
 
-{% include ipress.html %}
-<div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="it" data-size="100" data-tag="2"></div>
-<script type="text/javascript" src="/js/ipress.js"></script>
+

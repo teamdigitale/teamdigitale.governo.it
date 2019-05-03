@@ -11,9 +11,9 @@ linkedin_url:
 ref: daniela-battisti
 parent_ref: team
 start_date: 10 marzo 2017
-period_provided: fino al 16 settembre 2018
+period_provided: fino al 15 settembre 2019
 annual_compensation: € 90.000
-approved_by_court: 10 aprile 2017
+approved_by_court: 18 gennaio 2019.
 ---
 Ho una Laurea in Lettere Classiche (Università degli Studi di Urbino) e un Ph.D. in Classics (Rutgers). Sono nata professionalmente come filologa classica, uno di quegli strani individui che studiano papiri e manoscritti in Greco e Latino, con una specializzazione sui temi della retorica antica e della propaganda politica e ideologica nell’antichità e  nell’antropologia culturale.
 

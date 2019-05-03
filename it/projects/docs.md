@@ -27,40 +27,39 @@ timeline:
   - period: Ottobre 2018
     title: Nuova release di Docs Italia
     desc: Nuovo stile per i documenti, che consente soluzioni più flessibili per produrre documenti ancora più facili e piacevole da leggere
-  - period: Gennaio 2019
-    title: Nuove funzionalità di navigazione e ricerca tra i documenti, ogni ente avrà una sezione dedicata per i documenti
-    desc:
+  - period: Giugno 2019
+    title: Nuove funzionalità di navigazione e ricerca tra i documenti
+    desc: Migliori tassonomie e collegamenti tra documenti correlati, potenziamento e debug della ricerca
+    status: todo
+  - period: Settembre 2019
+    title: Ogni Ente potrà avere una sezione dedicata per i propri documenti
+    desc: Sarà possibile avere una versione personalizzata dell'interfaccia di Docs Italia per ogni ente
     status: todo
 ---
 
 ### In breve
 
-Docs Italia è la piattaforma per i documenti pubblici a disposizione di tutte le amministrazioni che vogliono gestire i documenti in modo trasparente e utile per i cittadini. Inoltre, Docs Italia è, insieme a Forum Italia, la piattaforma nazionale per la governance della trasformazione digitale prevista
+[Docs Italia](https://docs.italia.it/) è la piattaforma per i documenti pubblici a disposizione di tutte le amministrazioni che vogliono gestire i documenti in modo trasparente e utile per i cittadini. Inoltre, Docs Italia è, insieme a Forum Italia, la piattaforma nazionale per la governance della trasformazione digitale prevista
 dall’art. 18 del CAD (Codice dell’amministrazione digitale) per gestire i documenti relativi all'agenda digitale e i processi di consultazione.
 
 ### Vantaggi per i cittadini
 
-* Documenti pubblici facili e piacevoli da leggere, anche sullo smartphone
-* Più facile cercare informazioni dentro i documenti e tra i documenti
-* Più facile condividere sul web porzioni di contenuto
+* Documenti pubblici facili e piacevoli da leggere, anche sullo smartphone.
+* Più facile cercare informazioni dentro i documenti e tra i documenti.
+* Più facile condividere sul web porzioni di contenuto.
 
 ### Vantaggi per la Pubblica Amministrazione
 
-* Tenere aggiornati i documenti nel tempo e rendere visibile l'evoluzione
-* Possibilità di generare una versione pdf (o .epub) quando necessario
-* Strumenti a supporto della creazione di documenti più semplici e leggibili
-* Maggiore efficacia nelle informazioni e nei servizi offerti e maggiore trasparenza
-* Possibilità di consultare rapidamente i cittadini su una iniziativa dell'amministrazione
+* Tenere aggiornati i documenti nel tempo e rendere visibile l'evoluzione.
+* Possibilità di generare una versione pdf (o .epub) quando necessario.
+* Strumenti a supporto della creazione di documenti più semplici e leggibili.
+* Maggiore efficacia nelle informazioni e nei servizi offerti e maggiore trasparenza.
+* Possibilità di consultare rapidamente i cittadini su una iniziativa dell'amministrazione.
 
 {% include medium_project.html %}
 
-### Forum
-
-Uno spazio di discussione sul design dei servizi pubblici.
-{% include forum.html %}
-
 ### Media
 
-Per ogni richiesta di contatto da parte di media e giornalisti il punto di riferimento è l'ufficio stampa e comunicazione del Team per la Trasformazione digitale.
+Per ogni richiesta di contatto da parte di media e giornalisti il punto di riferimento è l'[ufficio stampa e comunicazione del Team per la Trasformazione digitale](https://teamdigitale.governo.it/it/contatti).
 
 {% include project_timeline.html %}

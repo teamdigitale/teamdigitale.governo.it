@@ -1,23 +1,22 @@
 {
   "private": true,
   "devDependencies": {
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.0",
     "gulp-clean": "^0.4.0",
-    "gulp-clean-css": "^3.0.3",
+    "gulp-clean-css": "^4.0.0",
     "gulp-concat": "^2.6.1",
     "gulp-exec": "^3.0.2",
-    "gulp-imagemin": "^4.1.0",
-    "gulp-minify-html": "^1.0.6",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-imagemin": "^5.0.3",
     "gulp-rename": "^1.2.2",
     "gulp-rsync": "0.0.8",
     "gulp-shell": "^0.6.5",
     "gulp-uglify": "^3.0.1",
     "gulp-util": "^3.0.8",
     "imagemin": "^6.0.0",
-    "imagemin-gifsicle": "^5.1.0",
-    "imagemin-jpegtran": "^5.0.2",
-    "imagemin-pngquant": "^6.0.0",
-    "run-sequence": "^2.2.1"
+    "imagemin-gifsicle": "^6.0.1",
+    "imagemin-jpegtran": "^6.0.0",
+    "imagemin-pngquant": "^6.0.0"
   },
   "dependencies": {
     "minimatch": "^3.0.4",

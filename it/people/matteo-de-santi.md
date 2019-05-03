@@ -3,7 +3,7 @@ title: Matteo de Santi
 lang: it
 permalink: /it/people/34-profile.htm
 layout: people
-role: UX/UI & Product Designer
+role: Chief Product & Design Officer
 is_new: false
 twitter_user: matteo_desanti
 medium_user:
@@ -11,9 +11,9 @@ linkedin_url: https://www.linkedin.com/in/matteodesanti
 ref: matteo-de-santi
 parent_ref: team
 start_date: 17 febbraio 2017
-period_provided: fino al 16 settembre 2018
+period_provided: fino al 15 settembre 2019
 annual_compensation: € 95.000
-approved_by_court: 10 aprile 2017
+approved_by_court: 18 gennaio 2019.
 ---
 Al liceo ho iniziato a sperimentare con il mitico Amiga le possibilità espressive offerte dall'informatica, cercando, però, sempre il modo di "far funzionare" ciò che disegnavo, di renderlo interattivo.
 
@@ -39,7 +39,4 @@ Credo da sempre che il digitale sia, come ogni strumento dell'uomo, una meravigl
 
 Per sopravvivere a questo mondo di codici e vettori mi affido, quando posso, al terzo grande amore, la fotografia. La fotografia che si fa per strada, quella che racconta le storie di tutti i giorni. Sono stato fotoreporter di cronaca e reportages per alcune testate locali e nazionali, e per parecchi anni fotografavo di giorno e facevo lo sviluppatore di notte. Ora il tempo è poco, ma la camera è quasi sempre con me.
 
-L'altra grande "fuga dalla realtà" me l'ha concessa il teatro. Ho fondato insieme ad altri amici fraterni una compagnia amatoriale che da oltre vent'anni mi permette di girare i teatri italiani vestendo i panni di qualcun altro. E imparare a fingere sul palco mi ha insegnato  che fingere nella vita è, nel migliore dei casi, uno stupido spreco di tempo e che prendersi troppo sul serio rende tutto disperatamente noioso.
-
-In tutti gli altri (sempre troppo pochi) momenti ho accanto la mia lungimirante compagna e la mia irrefrenabile figlioletta di due anni: campionesse, ahimè, nel prendermi poco sul serio e nell'impedirmi qualunque forma di noia. Grazie ad entrambe per essere, ogni giorno, il mio personalissimo spettacolo di fuochi d'artificio.
-
+L'altra grande "fuga dalla realtà" me l'ha concessa il teatro. Ho fondato insieme ad altri amici fraterni una compagnia amatoriale che da oltre vent'anni mi permette di girare i teatri italiani vestendo i panni di qualcun altro. E imparare a fingere sul palco mi ha insegnato che fingere nella vita è, nel migliore dei casi, uno stupido spreco di tempo e che prendersi troppo sul serio rende tutto disperatamente noioso.

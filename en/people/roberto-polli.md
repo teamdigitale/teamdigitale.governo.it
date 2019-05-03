@@ -10,9 +10,9 @@ linkedin_url: https://it.linkedin.com/in/rpolli
 ref: roberto-polli
 parent_ref: team
 start_date: February 23, 2018
-period_provided: until September 16, 2018
+period_provided: until September 15, 2019
 annual_compensation: € 72,000
-approved_by_court: March 26, 2018
+approved_by_court: 18th january 2019.
 ---
 When my dad said: “Roberto, do you want an ‘electronic brain’ [an ‘80s Italian synonym for computer]?”, I was a bit scary while figuring myself as the anime hero “Neo-Human Casshan”. Instead, a brand new PC-10 Commodore landed on my desk, with two 5¼ floppies and 256k of RAM.
 That’s how it started: at first copying sources from software magazines, then plotting fractals in GW-BASIC, finally the C and nerd groups at the Lycee - brilliant students now working abroad.

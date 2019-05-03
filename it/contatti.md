@@ -1,11 +1,14 @@
 ---
 title: Contatti
 lang: it
-layout: default_with_toc
-permalink: /it/contatti.htm
 ref: contacts
+layout: default_with_toc
 toc: true
 menu_position: 6
+permalink: /it/contatti
+redirect_from:
+  - /contatti
+  - /it/contatti.htm
 ---
 # Contatti
 Il Team per la Trasformazione Digitale della Presidenza del Consiglio è un [team piccolo e agile](https://teamdigitale.governo.it/it/47-content.htm) che lavora alla trasformazione digitale dei servizi pubblici italiani. Se vuoi proporre il tuo contributo e il tuo punto di vista sui progetti, qui trovi il nostro [forum](https://forum.italia.it/).
@@ -32,11 +35,7 @@ TeamDigitale è su [Twitter](https://twitter.com/teamdigitaleIT), [Medium](https
 ## Ufficio stampa
 [Ludovico Poggi](/it/people/ludovico-poggi.html)
 
-*Email - media.teamdigitale@governo.it*
-
-{% include ipress.html %}
-<div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="it" data-size="10"></div>
-<script type="text/javascript" src="/js/ipress.js"></script>
+*[media.teamdigitale@governo.it](mailto:media.teamdigitale@governo.it)*
 
 ## Sedi
 
@@ -44,17 +43,13 @@ TeamDigitale è su [Twitter](https://twitter.com/teamdigitaleIT), [Medium](https
 
 
 
-**Palazzo Chigi**
-
-*Piazza Colonna 370*
-
-*00187 Roma - Italia*
+**Palazzo Verospi**
+*Via della Impresa, 90*
+*00186 Roma - Italia*
 
 
 **Cassa Depositi e Prestiti (CDP)**
-
-*Via Castelfidardo, 1*
-
-*00185 Roma - Italia*
+*Via Versilia, 2*
+*00187 Roma - Italia*
 
 

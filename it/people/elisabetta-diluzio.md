@@ -11,7 +11,7 @@ linkedin_url:
 ref: elisabetta-diluzio
 parent_ref: team
 start_date: 6 novembre 2017
-period_provided: fino al 15 settembre 2018
+period_provided: fino al 15 settembre 2019
 pa_compensation_level: assistente amministrativo Area II - fascia economica F3 
 approved_by_court: 
 ---
@@ -27,6 +27,6 @@ A seguito dell’incorporazione con l’Agenzia delle Entrate, mi sono occupata,
 
 Ormai sono trent’anni che lavoro per la Pubblica Amministrazione e ho avuto quella che ora posso definire la fortuna di essere assegnata, fin dal principio, a settori in cui la tecnologia è da sempre considerata una risorsa e non un nemico. Le macchine che da piccola non mi avevano affascinato sono diventate ben presto strumenti di cui non potevo fare a meno: ho seguito numerosi corsi di informatica e sono diventata un utente che se la cava bene. 
 
-Nel 2017, pertanto, ho presentato il mio curriculum al Team Digitale, perchè sono stata incuriosita dal progetto del Commissario straordinario di contribuire alla trasformazione digitale dei processi pubblici e dei servizi per cittadini e imprese. 
+Nel 2017, pertanto, ho presentato il mio curriculum al Team Digitale, perchè sono stata incuriosita dal progetto del Commissario Straordinario di contribuire alla trasformazione digitale dei processi pubblici e dei servizi per cittadini e imprese. 
 
 Nel Team sono una delle otto unità che compongono la struttura amministrativa a supporto dell’attività del Commissario, cercando di operare nel modo più efficace possibile, al fine di realizzare un valido raccordo tra gli esperti del Team e gli uffici della Presidenza del Consiglio.  

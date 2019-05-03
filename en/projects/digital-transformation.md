@@ -21,19 +21,12 @@ The three-year plan is a document with a strategic direction laid out by the Sta
 
 [Official website](https://pianotriennale-ict.italia.it/en)
 
-
-{% include medium_project.html %}
-
-{% include twitter_timeline.html %}
-
 ### Forum
+
+[In this forum](https://forum.italia.it/c/piano-triennale) you can find all the discussions related to the three-year plan.
 
 {% include forum.html %}
 
-
 ### Media
-For any contact request received from the media and journalists, the Digital Transformation Team's press and communication office is the point of reference.
+For any contact request received from the media and journalists, the [Digital Transformation Team's press and communication office](https://teamdigitale.governo.it/en/contacts) is the point of reference.
 
-{% include ipress.html %}
-<div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="en" data-size="100" data-tag="39"></div>
-<script type="text/javascript" src="/js/ipress.js"></script>

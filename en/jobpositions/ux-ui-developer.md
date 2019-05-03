@@ -2,8 +2,6 @@
 title: UX / UI Developer
 lang: en
 permalink: /en/jobpositions/ux-ui-developer.htm
-jazz_url: https://teamdigitale.applytojob.com/apply/dp8C7SAecR/UX-UI-Developer
-iframeheight: 700
 layout: job
 ref: sviluppatore-ux
 archived: true

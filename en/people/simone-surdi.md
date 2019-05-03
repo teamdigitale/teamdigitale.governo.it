@@ -11,9 +11,8 @@ linkedin_url:
 ref: simone-surdi
 parent_ref: team
 start_date: October 21, 2016
-period_provided: until September 16, 2018
+end_date: December 31, 2018
 annual_compensation: € 80,000
-approved_by_court: November 29, 2016
 ---
 I graduated in Physics at the Scuola Normale Superiore of Pisa and continued my studies by starting a PhD in Applied Physics at the California Institute of Technology (Pasadena - USA). My main interests have included the development of quantum computers through topological methods.
 

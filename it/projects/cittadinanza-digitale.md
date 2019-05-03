@@ -1,5 +1,5 @@
 ---
-title: Cittadinanza digitale
+title: Progetto IO - Cittadinanza digitale
 lang: it
 permalink: /it/projects/cittadinanza-digitale.htm
 layout: project
@@ -13,104 +13,89 @@ timeline:
     title: Rilascio API Comunicazioni e Preferenze (versione beta)
   - period: Gennaio 2018
     title: Rilascio API Comunicazioni e Preferenze (produzione)
-  - period: Giugno 2018
-    title: Rilascio applicazione di Cittadinanza Digitale (versione beta)
+  - period: Luglio 2018
+    title: Test del prototipo della app IO
+  - period: Novembre 2018
+    title: Test con stakeholder su versione beta dell’app e alcuni servizi demo
+  - period: Primavera 2019
+    title: Test su invito (closed-beta) con cittadini e servizi reali forniti da alcuni enti distribuiti sul territorio nazionale     
+    status: todo
+  - period: Autunno 2019
+    title: Pubblicazione prima release pubblica nei territori con il maggior numero di servizi integrati
     status: todo
 ---
 
 ### In breve
 
-La Cittadinanza Digitale ha l'obiettivo di rendere più semplice e familiare
-l'interazione tra i cittadini e la Pubblica Amministrazione, disegnando i
-servizi digitali attorno al cittadino ed alle sue informazioni.
+Il [progetto IO](https://io.italia.it/) è un importante pilastro della visione di **cittadinanza digitale** del Governo italiano. Lo scopo è rendere più semplice e familiare l’interazione tra i cittadini e i servizi della Pubblica Amministrazione **centrale e locale** (Comuni, Regioni, agenzie centrali) per attività quotidiane come:
 
-Attraverso una piattaforma aperta di componenti condivise su cui costruire i
-servizi digitali, creeremo un'esperienza che seguirà il cittadino
-nell'interazione con i servizi locali e nazionali, come se fosse un'unica
-grande casa digitale.
+- ricevere **comunicazioni** e aggiornamenti
+- ottenere e gestire **documenti** (atti, notifiche, certificati);
+- ricordare e gestire le **scadenze**;
+- effettuare **pagamenti digitali**;
+- eleggere il proprio **domicilio digitale**;
 
-L'obiettivo è quello di fornire un modo più semplice e familiare da parte della
-Pubblica Amministrazione di comunicare con i cittadini, notificare atti,
-ricordare scadenze, condividere informazioni e documenti attraverso
-un'interfaccia costruita sul cittadino.
+IO esprime una visione dei servizi pubblici completamente centrata sui bisogni dell’utente: uno degli obiettivi del progetto è proporre infatti un modello in cui **non sia più responsabilità del cittadino** scoprire ed imparare ad usare i servizi di cui ha bisogno, ma saranno i servizi stessi a contattarlo nel momento in cui gli sia richiesta una azione di qualche tipo. Un modo per rendere ai cittadini “trasparente” la complessità dello Stato.
+
+Il progetto, una volta terminata la fase di sperimentazione, vuole rappresentare l’attuazione dell’[articolo 64 bis del Codice dell’Amministrazione Digitale](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo5_sezione3_art64-bis.html), che istituisce un **punto di accesso** per tutti i servizi digitali, erogato dalla Presidenza del Consiglio dei Ministri.
 
 ### Il ruolo del Team
 
-Il Team Digitale ha subito intrapreso un percorso di comunicazione della
-visione e di coordinamento e allineamento di tutte le iniziative già nate o in
-fase di progettazione, con l'obiettivo di creare un unico ecosistema di
-componenti nazionali e condivisi.
+Il Team Digitale ha ideato e sviluppato la **app IO** e i servizi ad essa correlati, **per portare i servizi pubblici direttamente nello *smartphone* dei cittadini**. Il nome “IO” racchiude le due anime del progetto:
+ 
+- creare un’**interfaccia unica** verso i servizi pubblici; 
+- mettere a disposizione **servizi personalizzati**, confezionati su misura per ogni singola persona che li riceve. 
 
-Il Team per la Trasformazione Digitale, insieme ad AgID sta sviluppando alcune
-delle iniziative fondamentali per la realizzazione della Cittadinanza Digitale:
+Il funzionamento della app si basa sulle **potenzialità di alcune piattaforme abilitanti** legate al lavoro del Team, come [SPID](https://teamdigitale.governo.it/it/projects/identita-digitale.htm), [pagoPA](https://teamdigitale.governo.it/it/projects/pagamenti-digitali.htm), [ANPR](https://teamdigitale.governo.it/it/projects/anpr.htm), il nuovo modello di interoperabilità tramite API, gli strumenti e le linee guide delle community di [Designers Italia](https://designers.italia.it/) e [Developers Italia](https://developers.italia.it/). 
 
-#### Le API di comunicazione e gestione preferenze
+Il cittadino potrà accedere alla app con le proprie **credenziali SPID**: nell’uso quotidiano potrà poi sbloccare l’app con un semplice **codice PIN** o il **riconoscimento biometrico** (impronta digitale o riconoscimento del volto).
 
-L'API di gestione delle preferenze che permetterà al cittadino di gestire in
-modo centralizzato tutte le informazioni associate al suo profilo di cittadino
-digitale. Queste informazioni rendono possibile creare servizi digitali
-personalizzati (canali di comunicazione, preferenza di lingua, impostazioni di
-privacy, ecc…).
+L’utente non dovrà registrarsi attivamente ai singoli servizi: potrà essere raggiunto direttamente dai servizi che lo riguardano e che conoscono il suo **codice fiscale**. Il cittadino potrà in ogni momento disattivare i servizi che non sono di suo interesse, che da quel momento non potranno più raggiungerlo attraverso l’app.
 
-Le API di comunicazione forniscono un unico canale che la Pubblica
-Amministrazione può usare per inviare comunicazioni, avvisi e scadenze al
-cittadino. Questo sistema di comunicazione è a sua volta integrato con l'API
-di gestione delle preferenze, per permettere ai servizi di comunicare con i
-cittadini sulla base delle informazioni di preferenza.
+All’interno di IO è possibile **effettuare pagamenti digitali grazie all'integrazione con pagoPA**, salvando i **metodi di pagamento preferiti** (carte di credito e presto bancomat, PayPal, etc.) da usare per i pagamenti verso la Pubblica Amministrazione. Inquadrando semplicemente un QR code, con l’app IO è possibile pagare anche qualsiasi avviso cartaceo emesso nel circuito pagoPA.
 
-Le API sono sviluppate come open source, sia il backlog delle attività che il
-codice sono accessibili liberamente:
+I dettagli del progetto e le informazioni per enti pubblici e giornalisti sono disponibili su [io.italia.it](https://io.italia.it/).
 
-*   [backlog delle attività di sviluppo](https://www.pivotaltracker.com/n/projects/2088623)
-*   [codice architetturale](https://github.com/teamdigitale/digital-citizenship)
-*   [codice delle API](https://github.com/teamdigitale/digital-citizenship-functions)
-*   [documentazione per l'utilizzo delle API](https://teamdigitale.github.io/digital-citizenship/)
+IO è un progetto *open source*. Tutto il codice delle componenti, la documentazione, le discussioni e gli strumenti di sviluppo del progetto sono pubblici e disponibili [all’interno della community Developers Italia](https://io.italia.it/sviluppatori/).
 
-Per favorire la discussione e il confronto, e per incoraggiare la partecipazione
-di tutti gli attori coinvolti nei progetti abbiamo creato un [forum](https://forum.italia.it/c/piano-triennale/piattaforme-abilitanti).
-
-#### L'applicazione per di Cittadinanza Digitale
-
-Un'applicazione progettata per soddisfare i bisogni del cittadino, fornendo un
-luogo digitale di accesso all'esperienza di Cittadinanza Digitale.
-
-Inoltre l'applicazione di Cittadinanza Digitale vuole essere un banco di prova
-per sperimentare l'integrazione cone le piattaforme abilitanti, fornendo un'
-implementazione di riferimento a tutte le Pubbliche Amministrazioni che vogliono
-sviluppare servizi digitali.
-
-L'applicazione e le sue componenti sviluppate come open source, sia il backlog
-delle attività che il codice sono accessibili liberamente:
-
-*   backlog delle attività di sviluppo: [app mobile](https://www.pivotaltracker.com/n/projects/2048617)
-    e [API proxy](https://www.pivotaltracker.com/n/projects/2116794)
-*   codice: [app mobile](https://github.com/teamdigitale/italia-app)
-    e [API proxy](https://github.com/teamdigitale/italia-backend)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zrKOS2LiWTU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Vantaggi per i cittadini
 
-*   accedere all’archivio delle comunicazioni con la PA
-*   gestire i contatti di recapito da un punto di accesso centrale
-*   gestire avvisi in modalità «integrata» (es. effettuare pagamenti o segnare
-    delle scadenze nel proprio calendario)
+La app IO permetterà ai cittadini di:
+
+- **ricevere tutti i messaggi della Pubblica Amministrazione** sul proprio smartphone, personalizzati, con la possibilità di gestirli in un archivio;
+- gestire i propri contatti di recapito da un punto di accesso centrale, con la facoltà di scegliere in ogni momento da quali servizi farsi contattare;
+- essere sempre **aggiornati sulle scadenze** e gestire gli avvisi in modalità “integrata” (segnare delle scadenze nel proprio calendario e gestire i pagamenti direttamente dalla app);
+- **effettuare pagamenti** verso la Pubblica Amministrazione attraverso pagoPA, in perfetta sicurezza e con diversi metodi di pagamento supportati (carte di credito, bancomat, PayPal, ecc);
+- portare sempre con sé lo storico delle operazioni e le relative **ricevute di pagamento**;
+- ricevere e conservare **documenti, ricevute, certificati** direttamente nel proprio smartphone e condividerli con un ufficio pubblico in pochi clic;
+- eleggere direttamente dalla app il proprio **domicilio digitale** (ad esempio per ricevere le raccomandate a valore legale presso un indirizzo Pec).
+
+La app permette ai cittadini una **maggiore conoscenza dei servizi**, con una **riduzione drastica della burocrazia**. Inoltre in molti casi IO permette un risparmio alla Pubblica Amministrazione, che può tradursi in un costo minore per i cittadini per la fruizione dei servizi.
+
 
 ### Vantaggi per le Pubbliche Amministrazioni
 
-*   inviare comunicazioni elettroniche utilizzando solo il codice fiscale (senza
-    dover chiedere l’indirizzo di contatto ai cittadini)
-*   non doversi occupare della gestione e dell’aggiornamento dei contatti
-*   dare maggiore autorevolezza alle proprie comunicazioni
-*   comunicare scadenze e facilitare i pagamenti di tributi
-*   recuperare lo stato di inoltro e di lettura della comunicazione
+IO permetterà alle Pubbliche Amministrazioni di:
 
-{% include project_timeline.html %}
+- inviare comunicazioni elettroniche semplicemente conoscendo il codice fiscale (senza dover chiedere un indirizzo di contatto ai cittadini);
+- comunicare le **scadenze** e ricevere **pagamenti** elettronici con maggiore facilità;
+- non doversi occupare della gestione e dell’**aggiornamento dei contatti**;
+- inviare e consentire richiedere **documenti** in modo semplice e efficiente;
+- gestire le **preferenze** di ogni cittadino in modo centralizzato;
+- recuperare lo **stato di inoltro** di ogni comunicazione;
+- **ridurre i costi** di gestione (delle notifiche, dei pagamenti, ecc.);
+- facilitare i pagamenti e **ridurre i costi** di recupero dei crediti.
+
+### Medium
+
+Leggi [tutte le notizie sul progetto IO](https://medium.com/team-per-la-trasformazione-digitale/progetto-io-app-servizi-pubblici/home) sul canale Medium del Team Digitale. 
+
+{% include medium_project.html %}
 
 ### Media
 
-Per ogni richiesta di contatto da parte di media e giornalisti il punto di
-riferimento è l'ufficio stampa e comunicazione del Team per la Trasformazione
-Digitale.
+Per ogni richiesta di contatto da parte di media e giornalisti il punto di riferimento è [l'ufficio stampa e comunicazione del Team per la Trasformazione Digitale](https://teamdigitale.governo.it/it/contatti).
 
-{% include ipress.html %}
-<div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="it" data-size="100" data-tag="5"></div>
-<script type="text/javascript" src="/js/ipress.js"></script>
+{% include project_timeline.html %}

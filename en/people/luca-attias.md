@@ -4,12 +4,13 @@ lang: en
 permalink: /en/people/luca-attias.htm
 layout: people
 role: Government Commissioner for the Digital Agenda
-is_new: true
+is_new: false
 ref: luca-attias
 parent_ref: team
 start_date: October 31, 2018
 period_provided: until September 15, 2019
-approved_by_court: The decree of appointment is pending before the Court of Auditors.
+annual_compensation: € 240,000
+approved_by_court: November 12, 2018
 ---
 
 I am a Roman;  being born and having lived in Trastevere make me a true Trasteverino. A good 50% of my roots is here in the Capital; the other half is spread between Valencia, Livorno and Tunis. 

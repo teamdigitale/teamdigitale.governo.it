@@ -11,8 +11,8 @@ linkedin_url:
 ref: ludmila-cittarelli
 parent_ref: team
 start_date: 20 novembre 2017
-period_provided: fino al 15 settembre 2018
-pa_compensation_level: funzionario amministrativo Area III - fascia economica F2 
+period_provided: fino al 15 settembre 2019
+pa_compensation_level: funzionario amministrativo Area III - fascia economica F3 
 approved_by_court: 
 ---
 Sin dalla più giovane età sono stata affascinata dal diritto e dai tribunali, complice mio nonno con cui guardavo in tv balletti di danza classica e la serie televisiva “Perry Mason”. Dopo aver conseguito la maturità classica, mi sono, quindi, trasferita a Roma per frequentare la facoltà di giurisprudenza presso l’Università La Sapienza.

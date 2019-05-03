@@ -11,8 +11,8 @@ linkedin_url:
 ref: vincenzo-pulcrano
 parent_ref: team
 start_date: 15 settembre 2017
-period_provided: fino al 15 settembre 2018
-annual_compensationrole: funzionario amministrativo Area III - fascia economica F1 
+period_provided: fino al 15 settembre 2019
+pa_compensation_level: funzionario amministrativo Area III - fascia economica F2 
 approved_by_court: 
 ---
 Il mio percorso formativo è definito, in genere, come tipicamente “tradizionale”: liceo classico a Pomigliano d’Arco - paese dove sono cresciuto - laurea in giurisprudenza conseguita all’Università degli studi di Napoli Federico II, Scuola di specializzazione in professioni legali, due anni di pratica forense, l’abilitazione all’esercizio della professione di avvocato e, intanto, lo studio matto e disperato per i mille concorsi che mi avrebbero consentito di accedere al mondo della pubblica amministrazione, realizzando le mie aspirazioni personali e professionali, in coerenza con le mie inclinazioni e il mio percorso di studi.

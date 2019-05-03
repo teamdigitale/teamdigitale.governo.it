@@ -6,37 +6,37 @@
 {% endif %}
 
 <div class="row">
-  <div class="col-sm-6">
-    <img class="img-responsive" src="/images/team/{{ page.ref }}.jpg" alt="{{ page.title }}">
+  <div class="col-sm-6 col-md-4">
+    <img class="img-responsive img-circle img-shadow" src="/images/team/{{ page.ref }}.jpg" alt="{{ page.title }}">
+  </div>
+  <div class="col-sm-6 col-md-8">
+    {% if page.linkedin_url != nil %}
+    <div style="padding:5px;">
+      <a href="{{ page.linkedin_url }}" target="_blank" class="block-link" style="text-decoration:none; position:relative;">
+        <span class="fa fa-linkedin" style="position:absolute; top:8px;"></span>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{ page.linkedin_url | split: "/" | last }}
+      </a>
+    </div>
+    {% endif %}
+
+    {% if page.medium_user != nil %}
+    <div style="padding:5px;">
+      <a href="https://medium.com/@{{ page.medium_user }}" target="_blank" class="block-link" style="text-decoration:none">
+        <span class="fa fa-medium"></span>
+        &nbsp;@{{ page.medium_user }}
+      </a>
+    </div>
+    {% endif %}
+
+    {% if page.twitter_user != nil %}
+    <div style="padding:5px;">
+      <a href="https://www.twitter.com/{{ page.twitter_user }}" target="_blank" class="block-link" style="text-decoration:none">
+        <span class="fa fa-twitter"></span>
+        &nbsp;@{{ page.twitter_user }}</a>
+    </div>
+    {% endif %}
   </div>
 </div>
-
-{% if page.linkedin_url != nil %}
-<div style="padding:5px;">
-  <a href="{{ page.linkedin_url }}" target="_blank" class="block-link" style="text-decoration:none; position:relative;">
-    <span class="fa fa-linkedin" style="position:absolute; top:8px;"></span>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{ page.linkedin_url | split: "/" | last }}
-  </a>
-</div>
-{% endif %}
-
-{% if page.medium_user != nil %}
-<div style="padding:5px;">
-    <a href="https://medium.com/@{{ page.medium_user }}" target="_blank" class="block-link" style="text-decoration:none">
-      <span class="fa fa-medium"></span>
-      &nbsp;@{{ page.medium_user }}
-    </a>
-</div>
-{% endif %}
-
-{% if page.twitter_user != nil %}
-<div style="padding:5px;">
-    <a href="https://www.twitter.com/{{ page.twitter_user }}" target="_blank" class="block-link" style="text-decoration:none">
-      <span class="fa fa-twitter"></span>
-      &nbsp;@{{ page.twitter_user }}</a>
-</div>
-{% endif %}
-
 
 {{ content }}
 

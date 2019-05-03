@@ -1,0 +1,29 @@
+{% assign person = content %}
+
+<div class="col-sm-6">
+  <div class="row">
+    <div class="col-xs-2" style="padding: 0; margin-bottom: 15px;">
+      <a href="{{ person.url }}">
+        <img alt="{{ person.title }}"
+             class="img-responsive img-circle img-shadow"
+             src="/images/team/{{ person.ref }}.jpg">
+      </a>
+    </div>
+    <div class="col-xs-10" style="margin-bottom:15px;">
+      <h3 class="team-item-title">
+        <a href="{{ person.url }}">{{ person.title }}</a>
+        &nbsp;
+        {% if person.is_new %}
+        <span style="font-size:10px;">New</span>
+        {% endif %}
+      </h3>
+      <p class="team-item-subtitle"><b>{{ person.role }}</b><br>
+        {% if person.start_date %}
+        <small>{{ person.start_date }} - {{ person.end_date | default:
+          t.Current[page.lang] }}
+        </small>
+        {% endif %}
+      </p>
+    </div>
+  </div>
+</div>

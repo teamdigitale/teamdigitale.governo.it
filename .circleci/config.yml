@@ -26,19 +26,26 @@ jobs:
       - add_ssh_keys: *add_ssh_keys
       - checkout
 
+      - run:
+          name: Configure Bundler
+          command: |
+            echo 'export BUNDLER_VERSION=$(cat Gemfile.lock | tail -1 | tr -d " ")' >> $BASH_ENV
+            source $BASH_ENV
+            gem install bundler
+
       #
       # Download and cache Ruby dependencies
       #
 
       - restore_cache:
           keys:
-          - v2-dependencies-ruby-{{ checksum "Gemfile.lock" }}
-          - v2-dependencies-ruby-
+          - v5-dependencies-ruby-{{ checksum "Gemfile.lock" }}
+          - v5-dependencies-ruby-
 
       - run: bundle check || bundle install
 
       - save_cache:
-          key: v2-dependencies-ruby-{{ checksum "Gemfile.lock" }}
+          key: v5-dependencies-ruby-{{ checksum "Gemfile.lock" }}
           paths:
             - vendor/bundle
 
@@ -47,13 +54,13 @@ jobs:
       #
       - restore_cache:
           keys:
-          - v2-dependencies-node-{{ checksum "yarn.lock" }}
-          - v2-dependencies-node-
+          - v5-dependencies-node-{{ checksum "yarn.lock" }}
+          - v5-dependencies-node-
 
       - run: yarn install --cache-folder ~/.cache/yarn
 
       - save_cache:
-          key: v2-dependencies-node-{{ checksum "yarn.lock" }}
+          key: v5-dependencies-node-{{ checksum "yarn.lock" }}
           paths:
             - node_modules
             - ~/.cache/yarn
@@ -77,7 +84,7 @@ jobs:
     steps:
       - attach_workspace:
           at: /home/circleci
-      
+
       # Do not deploy the site to the legacy server anymore
       # because we use GitHub Pages now
       # - run: mkdir -p ~/.ssh
@@ -101,6 +108,7 @@ jobs:
             git rm -rf .
 
             cp -a /home/circleci/teamdigitale.governo.it/_site/. .
+            echo "teamdigitale.governo.it" > CNAME
             # copy .circleci as well so that the branch filter is honored
             mkdir -p .circleci && cp -a /home/circleci/teamdigitale.governo.it/.circleci/. .circleci/.
 
@@ -129,7 +137,7 @@ jobs:
 
 workflows:
   version: 2
-  build-test-and-approval-deploy:
+  build-and-deploy:
     jobs:
       - build:
           filters:
@@ -144,17 +152,9 @@ workflows:
             branches:
               only:
                 - development
-      - hold:
-          type: approval
-          requires:
-            - build
-          filters:
-            branches:
-              only:
-                - master
       - deploy-production:
           requires:
-            - hold
+            - build
           filters:
             branches:
               only:

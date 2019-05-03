@@ -6,7 +6,7 @@ layout: project
 ref: cie
 parent_ref: projects
 parent_menu: projects
-people: [valerio-paolini]
+people: [valerio-paolini, luca-bonuccelli]
 toc: true
 medium_tag: cie
 forum_category: cie
@@ -40,19 +40,12 @@ CIE è un servizio ideato e progettato dal Ministero dell'Interno con l'Istituto
 Nel blog troverete la nostra visione del progetto e il ruolo che ricoprirà nel Sistema Operativo del Paese.
 
 
-{% include medium_project.html %}
-
-{% include twitter_timeline.html %}
-
-
 ### Forum
-CIE è un progetto di rilevanza nazionale. Per favorire la discussione e il confronto, e per incoraggiare la partecipazione di tutti gli attori coinvolti nel progetto abbiamo creato un [forum](https://forum.italia.it/c/cie)
+CIE è un progetto di rilevanza nazionale. Per favorire la discussione e il confronto, e per incoraggiare la partecipazione di tutti gli attori coinvolti nel progetto abbiamo creato un [forum](https://forum.italia.it/c/cie).
 
 {% include forum.html %}
 
 ### Media
-Per ogni richiesta di contatto da parte di media e giornalisti il punto di riferimento è l'ufficio stampa e comunicazione del Team per la Trasformazione digitale
+Per ogni richiesta di contatto da parte di media e giornalisti il punto di riferimento è l'[ufficio stampa e comunicazione del Team per la Trasformazione digitale](https://teamdigitale.governo.it/it/contatti).
 
-{% include ipress.html %}
-<div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="it" data-size="100" data-tag="2"></div>
-<script type="text/javascript" src="/js/ipress.js"></script>
+

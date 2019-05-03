@@ -11,9 +11,9 @@ linkedin_url: http://linkedin.com/in/feroldi
 ref: federico-feroldi
 parent_ref: team
 start_date: January 9, 2017
-period_provided: until September 16, 2018
+period_provided: until September 15, 2019
 annual_compensation: € 100,000
-approved_by_court: May 3, 2017
+approved_by_court: 18th january 2019.
 ---
 I was 6 when my hands landed on a computer for the first time. It was a ZX80 that my father used to teach me the basics of programming. Coding software became first my passion, then my profession. In the ‘80s and ‘90s I began to experiment with communication networks with BBSs first, then Fidonet and finally the Internet.
 

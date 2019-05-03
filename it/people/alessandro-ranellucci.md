@@ -3,13 +3,13 @@ title: Alessandro Ranellucci
 lang: it
 permalink: /it/people/alessandro-ranellucci.html
 layout: people
-role: Open Source Project Leader
+role: Relazioni con gli Sviluppatori
 ref: alessandro-ranellucci
 parent_ref: team
 start_date: 4 ottobre 2017
-period_provided: fino al 16 settembre 2018
+period_provided: fino al 15 settembre 2019
 annual_compensation: € 60.000
-approved_by_court: 3 novembre 2017
+approved_by_court: 18 gennaio 2019.
 twitter_user: alranel
 ---
 

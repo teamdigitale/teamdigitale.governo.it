@@ -3,7 +3,7 @@ title: Lorenzo Fabbri
 lang: en
 permalink: /en/people/23-profile.htm
 layout: people
-role: Content Design
+role: Content Designer
 is_new: false
 twitter_user: lore77
 medium_user: lorenzofabbri
@@ -11,9 +11,9 @@ linkedin_url: https://it.linkedin.com/in/lorenzofabbri
 ref: lorenzo-fabbri
 parent_ref: team
 start_date: January 9, 2017
-period_provided: until September 16, 2018
+period_provided: until September 15, 2019
 annual_compensation: € 90,000
-approved_by_court: May 3, 2017
+approved_by_court: 18th january 2019.
 ---
 It was late September when I read that a working group dedicated to the Digital Transformation within the Italian Government was forming and I thought to myself: “This is exactly what I would like to do”. A few months later, here I am. I will be responsible for Content Design, which involves understanding user needs, organization of content and services, with special attention to simplification.
 

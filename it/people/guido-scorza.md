@@ -11,9 +11,9 @@ linkedin_url:
 ref: guido-scorza
 parent_ref: team
 start_date: 31 ottobre 2016
-period_provided: fino al 16 settembre 2018
+period_provided: fino al 15 settembre 2019
 annual_compensation: € 75.000
-approved_by_court: 29 novembre 2016
+approved_by_court: 18 gennaio 2019.
 ---
 Mi sono laureato in Giurisprudenza nel 1996, alla LUISS con una tesi sulla tutela giuridica del software e ho poi conseguito un dottorato di ricerca in informatica giuridica e diritto dell’informatica presso l’Università degli Studi di Bologna.
 

@@ -11,6 +11,7 @@ linkedin_url: https://www.linkedin.com/in/raffaelelillo
 ref: raffaele-lillo
 parent_ref: team
 start_date: 24 ottobre 2016
+end_date: 30 ottobre 2018
 period_provided: fino al 16 settembre 2018
 annual_compensation: € 120.000
 approved_by_court: 29 novembre 2016

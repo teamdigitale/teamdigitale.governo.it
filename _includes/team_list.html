@@ -1,41 +1,26 @@
 {% assign t = site.data.t %}
 {% assign same_lang_pages = site.pages | where: "lang", page.lang %}
-{% assign people_pages = same_lang_pages | where: "layout", "people" %}
-{% assign sorted_people_pages = people_pages | sort_by_surname: "title" %}
-<div>
 
-<div class="row team-list-grid" >
-{% for one_page in sorted_people_pages %}
+{% assign people_pages_sorted = same_lang_pages | where: "layout", "people" | sort_by_surname: "title" %}
+{% assign people_pages_sorted_active = people_pages_sorted | where_exp: "person", "person.end_date == nil"  %}
+{% assign people_pages_sorted_unactive = people_pages_sorted | where_exp: "person", "person.end_date != nil"  %}
 
-        <div class="col-sm-6">
-            <div class="row-fluid">
-            <div class="col-xs-2" style="padding: 0; margin-bottom: 15px;">
-                <a href="{{ one_page.url }}">
-                    <img class="img-circle img-responsive" src="/images/team/{{ one_page.ref }}.jpg" alt="{{ one_page.title }}">
-                </a>
-            </div>
-            <div class="col-xs-10" style="margin-bottom:15px;">
-                <h3 class="team-item-title">
-                    <a href="{{ one_page.url }}">{{ one_page.title }}</a>
-                    &nbsp;
-                    {% if one_page.is_new %}
-                      <span style="font-size:10px;">New</span>
-                    {% endif %}
-                </h3>
-                <p class="team-item-subtitle"><b>{{ one_page.role }}</b><br>
-                {% if one_page.start_date %}
-                <small>{{ one_page.start_date }} - {{ one_page.end_date | default: t.Current[page.lang] }}</small>
-                {% endif %}
-                </p>
-            </div>
-            </div><!--/row-->
-        </div><!--/col-sm-6-->
+<h2>{{ t.Team[page.lang] }}</h2>
 
-        {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
-        {% if thecycle == 'even' %}
-            <div class="clearfix" ></div>
-        {% endif %}
-
-{% endfor %}
+<div class="row team-list-grid">
+  {% for person in people_pages_sorted_active %}
+  {% include person.html content = person %}
+  {% assign remainder = forloop.index | modulo: 2 %}
+  {% if remainder == 0 %}<div class="clearfix"></div>{% endif %}
+  {% endfor %}
 </div>
+
+<h2>{{ t.PastMembers[page.lang] }}</h2>
+
+<div class="row team-list-grid">
+  {% for person in people_pages_sorted_unactive %}
+  {% include person.html content = person %}
+  {% assign remainder = forloop.index | modulo: 2 %}
+  {% if remainder == 0 %}<div class="clearfix"></div>{% endif %}
+  {% endfor %}
 </div>
