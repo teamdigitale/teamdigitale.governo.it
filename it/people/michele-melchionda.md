@@ -5,7 +5,7 @@ permalink: /it/people/michele-melchionda
 layout: people
 role: Chief Information Officer
 is_new: false
-twitter_user: @m_melchionda
+twitter_user: m_melchionda
 medium_user:
 linkedin_url: www.linkedin.com/in/michele-melchionda-42a99a8
 ref: michele-melchionda
