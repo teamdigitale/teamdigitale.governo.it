@@ -7,7 +7,7 @@ role: Chief Information Officer
 is_new: false
 twitter_user: m_melchionda
 medium_user:
-linkedin_url: www.linkedin.com/in/michele-melchionda-42a99a8
+linkedin_url: https://www.linkedin.com/in/michele-melchionda-42a99a8
 ref: michele-melchionda
 parent_ref: team
 start_date: 22 febbraio 2019
