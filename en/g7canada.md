@@ -11,7 +11,7 @@ layout: default
 </div>
 <div class="col-md-9">
 	<h2>G7 Canada</h2>
-	<h3><a href="https://www.flickr.com/photos/gac-amc/39249066410/in/album-72157667118790768/" target="_blank">The Digital Transformation Team partecipates</a> to the <a href="https://g7.gc.ca/en/g7-presidency/themes/preparing-jobs-future/g7-ministerial-meeting/" target="_blank">“G7 Employment and Innovation Ministers Meeting March 28, 2018 - Montreal”</a></h3>
+	<h3>The Digital Transformation Team partecipates to the <a href="https://g7.gc.ca/en/g7-presidency/themes/preparing-jobs-future/g7-ministerial-meeting/" target="_blank">“G7 Employment and Innovation Ministers Meeting March 28, 2018 - Montreal”</a></h3>
 </div>
 </div>
 
