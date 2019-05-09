@@ -12,7 +12,7 @@ ref: paolo-micozzi
 start_date: March 1, 2019
 period_provided: until September 15, 2019
 annual_compensation: € 75.000
-approved_by_court: The act of appointment is being registered at the Court of Auditors.
+approved_by_court: 8th april 2019
 parent_ref: team
 ---
 
