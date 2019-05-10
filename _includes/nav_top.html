@@ -7,77 +7,77 @@ tutte le pagine del sito che:
 {% assign same_lang_pages = (site.html_pages | where: "lang", page.lang %}
 {% assign sorted_pages = (same_lang_pages | sort: "menu_position") %}
 {% assign extra_menu = site.data.extra_menu %}
-<div class="container text-center navbar-top-link positionRelative" style=" margin-top:10px; padding-top:5px;">
-  <div class="col-md-8 hidden-xs hidden-sm">
-  {% for menu_page in sorted_pages %}
-    {% if menu_page.parent_ref == nil and menu_page.menu_position != nil %}
-      {% assign sub_pages_query = same_lang_pages | where: "parent_menu", menu_page.ref %}
-      {% assign sub_pages = sub_pages_query | sort: "title" %}
-      {% assign pagebytwo = sub_pages.size | divided_by:2 %}
-        {% if menu_page.ref == page.ref or menu_page.ref == page.parent_ref %}
-          {% assign isActive = true %}
-        {% else %}
-          {% assign isActive = false %}
-        {% endif %}
-        <div class="navbar-top-link__item positionRelative {{ menu_page.ref }}">
-          <a href="{{ menu_page.url }}"
-          {% if isActive %}class="active"{% endif %}
-          {% if sub_pages.size > 0 %}
-           data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
-          {% endif %} >{{ menu_page.title }}</a>
-          {% if sub_pages.size > 0 %}
-            <div class="navbar-projectslist row dropdown-menu {% if sub_pages.size < 4 %}navbar-projectslist--half{% endif %}"
-            aria-labelledby="dropdownMenu">
-              {% if sub_pages.size > 4 %}
-              <div class="col-md-6 navbar-projectslist__column">
-                {% for subpage in  sub_pages limit:pagebytwo %}
-                      <div class="navbar-projectslist__item"><a href="{{subpage.url}}">{{subpage.title}}</a></div>
-                {% endfor %}
-              </div>
-              <div class="col-md-6 navbar-projectslist__column">
-                {% for subpage in  sub_pages offset:pagebytwo %}
-                    <div class="navbar-projectslist__item"><a href="{{subpage.url}}">{{subpage.title}}</a></div>
-                {% endfor %}
-              </div>
-              {% else %}
-                <div class="navbar-projectslist__column">
-                {% for subpage in sub_pages %}
-                      <div class="navbar-projectslist__item"><a href="{{subpage.url}}">{{subpage.title}}</a></div>
-                {% endfor %}
-                </div>
-              {% endif %}
-            </div>
+<div class="container navbar-top-link positionRelative">
+  <div class="row">
+    <div class="col-md-8 text-left hidden-xs hidden-sm">
+    {%- for menu_page in sorted_pages -%}
+      {%- if menu_page.parent_ref == nil and menu_page.menu_position != nil -%}
+        {% assign sub_pages_query = same_lang_pages | where: "parent_menu", menu_page.ref %}
+        {% assign sub_pages = sub_pages_query | sort: "title" %}
+        {% assign pagebytwo = sub_pages.size | divided_by:2 %}
+          {% if menu_page.ref == page.ref or menu_page.ref == page.parent_ref %}
+            {% assign isActive = true %}
+          {% else %}
+            {% assign isActive = false %}
           {% endif %}
-        </div>
-        &nbsp;
+          <div class="navbar-top-link__item positionRelative {{ menu_page.ref }}">
+            <a href="{{ menu_page.url }}"
+            {% if isActive %}class="active"{% endif %}
+            {% if sub_pages.size > 0 %}
+             data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
+            {% endif %} >{{ menu_page.title }}</a>
+            {% if sub_pages.size > 0 %}
+              <div class="navbar-projectslist row dropdown-menu {% if sub_pages.size < 4 %}navbar-projectslist--half{% endif %}"
+              aria-labelledby="dropdownMenu">
+                {% if sub_pages.size > 4 %}
+                <div class="col-md-6 navbar-projectslist__column">
+                  {% for subpage in  sub_pages limit:pagebytwo %}
+                        <div class="navbar-projectslist__item"><a href="{{subpage.url}}">{{subpage.title}}</a></div>
+                  {% endfor %}
+                </div>
+                <div class="col-md-6 navbar-projectslist__column">
+                  {% for subpage in  sub_pages offset:pagebytwo %}
+                      <div class="navbar-projectslist__item"><a href="{{subpage.url}}">{{subpage.title}}</a></div>
+                  {% endfor %}
+                </div>
+                {% else %}
+                  <div class="navbar-projectslist__column">
+                  {% for subpage in sub_pages %}
+                        <div class="navbar-projectslist__item"><a href="{{subpage.url}}">{{subpage.title}}</a></div>
+                  {% endfor %}
+                  </div>
+                {% endif %}
+              </div>
+            {% endif %}
+          </div>
+      {%- endif -%}
+    {%- endfor -%}
+    </div>
+    {% if extra_menu[page.lang] %}
+    {% assign extra_menu_lang = extra_menu[page.lang] %}
+    <div class="col-md-4 text-right navigation-highlights navbar-top-link__item">
+      {% for item in extra_menu_lang %}
+      <div class="navtop-extra">
+      {% if item.subitems %}
+      <a href="{{item.url}}" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      {{item.title}}</a>
+      <div class="navbar-projectslist row dropdown-menu navbar-projectslist--half" aria-labelledby="dropdownMenu">
+        <div class="navbar-projectslist__column">
+          {% for subitem in item.subitems %}
+          <div class="navbar-projectslist__item">
+            <a href="{{subitem.url}}">{{subitem.title}}</a>
+          </div>
+          {% endfor %}
+          </div><!--navbar-projectslist__column-->
+      </div><!--navbar-projectslist-->
+      {% else %}
+        <a href="{{item.url}}">{{item.title}}</a>
+      {% endif %}
+
+      </div><!--nav-top-extra-->
+      {% endfor %}
+
+    </div>
     {% endif %}
-  {% endfor %}
   </div>
-  {% if extra_menu[page.lang] %}
-  {% assign extra_menu_lang = extra_menu[page.lang] %}
-  <div class="col-md-4 navigation-highlights navbar-top-link__item" style="text-align: right">
-    {% for item in extra_menu_lang %}
-    <div class="navtop-extra">
-    {% if item.subitems %}
-    <a href="{{item.url}}" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-    {{item.title}}</a>
-    <div class="navbar-projectslist row dropdown-menu navbar-projectslist--half" aria-labelledby="dropdownMenu">
-      <div class="navbar-projectslist__column">
-        {% for subitem in item.subitems %}
-        <div class="navbar-projectslist__item">
-          <a href="{{subitem.url}}">{{subitem.title}}</a>
-        </div>
-        {% endfor %}
-        </div><!--navbar-projectslist__column-->
-    </div><!--navbar-projectslist-->
-    {% else %}
-      <a href="{{item.url}}">{{item.title}}</a>
-    {% endif %}
-
-    </div><!--nav-top-extra-->
-    {% endfor %}
-
-  </div>
-  {% endif %}
-
 </div>

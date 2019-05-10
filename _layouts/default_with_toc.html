@@ -1,20 +1,13 @@
 {% capture page_content %}
 <div class="row">
-<div class="col-md-9">
-	{{ content }}
-	
-
-</div>
-<div class="hidden-xs hidden-sm col-md-3">
-	
-	<div class="section-nav__wrapper">
-		{{ content | toc_only }}
+	<div class="col-md-9">
+		{{ content }}
 	</div>
-
+	<div class="hidden-xs hidden-sm col-md-3">
+		<div class="section-nav__wrapper">
+			{{ content | toc_only }}
+		</div>
+	</div>
 </div>
-
-
-</div>
-
 {% endcapture %}
 {% include layout_base.html content=page_content %}
