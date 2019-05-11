@@ -84,4 +84,28 @@ $(function() {
 	    }
 	  });
 
+	// Aderenti al menifesto: reset
+	$('.touchevents .client-wrap').on('click', function(event) {
+		$(event.target).hasClass('client-close') ?
+			$('.client-wrap div.client').addClass('reset') :
+			$('.client-wrap div.client').removeClass('reset')
+	})
+
+	// Manifesto
+	var $accordion = $(".js-accordion");
+	var $allPanels = $(" .js-accordion-panel");
+	var $allItems = $(".js-accordion-item");
+
+	$accordion.on("click", ".js-accordion-toggle", function() {
+		$allPanels.slideUp();
+		$allItems.removeClass("is-open");
+		if ($(this).next().is(":visible")) {
+			$(".js-accordion-panel").slideUp();
+		} else {
+			$(this).next().slideDown().closest(".js-accordion-item").addClass("is-open");
+		}
+		return false;
+	});
+
+
 });
