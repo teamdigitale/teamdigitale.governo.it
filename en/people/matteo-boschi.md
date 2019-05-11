@@ -1,7 +1,7 @@
 ---
 title: Matteo Boschi
-lang: it
-permalink: /it/people/matteo-boschi.html
+lang: en
+permalink: /en/people/matteo-boschi.html
 layout: people
 role: Mobile Developer
 is_new: true
@@ -10,10 +10,10 @@ medium_user:
 linkedin_url: https://www.linkedin.com/in/matteo-boschi
 ref: matteo-boschi
 parent_ref: team
-start_date: 1 aprile 2019
-period_provided: fino al 15 settembre 2019
-annual_compensation: € 70.000
-approved_by_court: 19 aprile 2019.
+start_date: April 1, 2019
+period_provided: until September 15, 2019
+annual_compensation: € 70,000
+approved_by_court: 19th April 2019.
 ---
 
 The passion for computer technology grew for me at the time of the high school. My father often said "computers will be the future" hence I always had a pc at home. Although it wasn’t enough to draw my attention until the 1997 when Internet came in our home. I started to play a video game, Starcraft, for 2 years continuously. I couldn’t believe it was possible to play with anyone in the world. My competitive skills brought me around several cities for tournaments until I placed 2nd in the first official italian LAN party in Milan.
