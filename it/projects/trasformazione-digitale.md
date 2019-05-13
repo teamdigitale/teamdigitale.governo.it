@@ -8,7 +8,7 @@ parent_ref: projects
 parent_menu: projects
 people: [simone-piunno]
 toc: true
-medium_post_id: a54e27d55be9
+medium_post_id: piano triennale
 forum_category: piano-triennale
 forum_limit: 3
 twitter_tag: pianotriennale
@@ -31,6 +31,10 @@ Leggi [tutte le notizie sul piano triennale](https://medium.com/team-per-la-tras
 Per consentire una discussione aperta su tutti i punti del piano triennale e incoraggiare la partecipazione di tutti gli attori coinvolti abbiamo creato [un forum](https://forum.italia.it/c/piano-triennale).
 
 {% include forum.html %}
+
+### Twitter
+
+Leggi gli ultimi tweet sul progetto: [#pianotriennale](https://twitter.com/search?f=tweets&q=%23pianotriennale%20from%3Ateamdigitaleit&src=typd).
 
 ### Media 
 Per ogni richiesta di contatto da parte di media e giornalisti il punto di riferimento è l'[ufficio stampa e comunicazione del Team per la Trasformazione digitale](https://teamdigitale.governo.it/it/contatti).
