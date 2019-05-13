@@ -8,7 +8,7 @@ parent_ref: projects
 parent_menu: projects
 people: [simone-piunno]
 toc: true
-medium_post_id: a54e27d55be9
+medium_tag: piano triennale
 forum_category: piano-triennale
 forum_limit: 3
 twitter_tag: pianotriennale
@@ -26,6 +26,10 @@ The three-year plan is a document with a strategic direction laid out by the Sta
 [In this forum](https://forum.italia.it/c/piano-triennale) you can find all the discussions related to the three-year plan.
 
 {% include forum.html %}
+
+### Twitter
+
+Read the latest tweets about the project [#threeyearplan](https://twitter.com/search?f=tweets&q=%23threeyearplan%20from%3Aitdigitalteam&src=typd).
 
 ### Media
 For any contact request received from the media and journalists, the [Digital Transformation Team's press and communication office](https://teamdigitale.governo.it/en/contacts) is the point of reference.

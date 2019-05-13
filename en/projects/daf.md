@@ -70,6 +70,10 @@ DAF is a project of national relevance. To foster a discussion and an exchange o
 
 {% include forum.html %}
 
+### Twitter
+
+Read the latest tweets about the project [#DAF](https://twitter.com/search?f=tweets&q=%23daf%20from%3Aitdigitalteam&src=typd).
+
 ### Media
 
 Any contact request from the media and journalists should be addressed to the
