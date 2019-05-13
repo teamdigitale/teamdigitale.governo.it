@@ -8,7 +8,7 @@ parent_ref: projects
 parent_menu: projects
 people: [giovanni-bajo, lorenzo-fabbri, francesco-zaia]
 toc: true
-medium_tag: piano-triennale
+medium_tag: documentation
 forum_category: design/content
 forum_limit: 3
 timeline:
@@ -55,6 +55,10 @@ by the article 18 of the CAD (Digital Administration Code) to manage documents r
 * Tools to support the creation of simpler and easy to read documents.
 * Greater effectiveness in information offered and greater transparency.
 * Ability to quickly consult citizens on initiatives of the administration.
+
+### Twitter
+
+Read the latest tweets about the project [#DocsItalia](https://twitter.com/search?f=tweets&q=%23docsitalia%20from%3Aitdigitalteam&src=typd).
 
 ### Media
 
