@@ -76,6 +76,10 @@ pagoPA is a project of national importance. To encourage discussion and an excha
 
 {% include forum.html %}
 
+### Twitter
+
+Read the latest tweets about the project: [#pagopa](https://twitter.com/search?f=tweets&q=%23pagopa%20from%3Aitdigitalteam&src=typd).
+
 ### Media
 For any contact request received from the media and journalists, the [Digital Transformation Team's press and communication office](https://teamdigitale.governo.it/en/contacts) is the point of reference.
 
