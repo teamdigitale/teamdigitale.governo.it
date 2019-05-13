@@ -47,7 +47,7 @@ CIE è un progetto di rilevanza nazionale. Per favorire la discussione e il conf
 
 ### Twitter
 
-Leggi tutti i tweet sul progetto [#CIE](https://twitter.com/search?f=tweets&q=%23cie%20from%3Ateamdigitaleit&src=typd).
+Leggi gli ultimi tweet sul progetto [#CIE](https://twitter.com/search?f=tweets&q=%23cie%20from%3Ateamdigitaleit&src=typd).
 
 ### Media
 Per ogni richiesta di contatto da parte di media e giornalisti il punto di riferimento è l'[ufficio stampa e comunicazione del Team per la Trasformazione digitale](https://teamdigitale.governo.it/it/contatti).
