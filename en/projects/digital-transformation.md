@@ -27,6 +27,10 @@ The three-year plan is a document with a strategic direction laid out by the Sta
 
 {% include forum.html %}
 
+### Twitter
+
+Read the latest tweets about the project [#threeyearplan](https://twitter.com/search?f=tweets&q=%23threeyearplan%20from%3Aitdigitalteam&src=typd).
+
 ### Media
 For any contact request received from the media and journalists, the [Digital Transformation Team's press and communication office](https://teamdigitale.governo.it/en/contacts) is the point of reference.
 
