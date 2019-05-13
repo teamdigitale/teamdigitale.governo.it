@@ -12,7 +12,6 @@ medium_tag: big-data
 forum_category: 'daf'
 forum_limit: 3
 twitter_tag: daf
-tweetdeck_id: 913428915095576576
 timeline:
   - period: January 2017
     title: Start phase of the project

@@ -8,11 +8,10 @@ parent_ref: projects
 parent_menu: projects
 people: [simone-piunno]
 toc: true
-medium_tag: piano triennale
+medium_tag: piano-triennale
+twitter_tag: piano-triennale
 forum_category: piano-triennale
 forum_limit: 3
-twitter_tag: pianotriennale
-tweetdeck_id: 918772720397160448
 
 ---
 
