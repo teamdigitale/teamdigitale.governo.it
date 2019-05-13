@@ -6,7 +6,7 @@ layout: project
 ref: developers
 parent_ref: projects
 parent_menu: projects
-people: [giovanni-bajo, riccardo-iaconelli, alessandro-ranellucci]
+people: [alessandro-ranellucci, leonardo-favario, alessandro-sebastiani, giovanni-bajo, riccardo-iaconelli]
 toc: true
 twitter_user: developersITA
 medium_tag: developer
@@ -101,7 +101,9 @@ In order to implement this reuse model we created the new version of the Develop
 
 Read more about this project on the [Digital Team blog](https://medium.com/team-per-la-trasformazione-digitale/developers-italia/home) and on the [Developers Italia website](https://developers.italia.it/news).
 
-{% include twitter_timeline.html %}
+### Twitter
+
+Read the latest tweets about the project [@developersita](https://twitter.com/search?f=tweets&vertical=default&q=from%3Adevelopersita&l=en&src=typd).
 
 ### Media
 For any contact request received from the media and journalists, the [Digital Transformation Team's press and communication office](https://teamdigitale.governo.it/en/contacts) is the point of reference.

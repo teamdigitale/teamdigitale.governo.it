@@ -6,7 +6,7 @@ layout: project
 ref: designers
 parent_ref: projects
 parent_menu: projects
-people: [matteo-de-santi, lorenzo-fabbri, francesco-zaia, laura-bordin]
+people: [matteo-de-santi, lorenzo-fabbri, francesco-zaia, roberta-tassi, laura-bordin]
 toc: true
 twitter_user: DesignersITA
 medium_tag: design
@@ -117,11 +117,14 @@ Sul [forum di Designers Italia](https://forum.italia.it/c/design) puoi trovare u
 
 {% include forum.html %}
 
-{% include twitter_timeline.html %}
-
 ### Roadmap
 
 Su Designers Italia trovi [la roadmap aggiornata](https://designers.italia.it/roadmap/).
+
+
+### Twitter
+
+Leggi gli ultimi tweet sul progetto [@DesignersITA](https://twitter.com/DesignersITA).
 
 ### Media
 Per ogni richiesta di contatto da parte di media e giornalisti il punto di riferimento è l'[ufficio stampa e comunicazione del Team per la Trasformazione digitale](https://teamdigitale.governo.it/it/contatti).
