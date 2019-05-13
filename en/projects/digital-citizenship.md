@@ -8,6 +8,7 @@ parent_ref: projects
 parent_menu: projects
 people: [federico-feroldi, matteo-de-santi, giuseppe-virgone]
 toc: true
+medium_tag: apps
 timeline:
   - period: November 2017
     title: Release API Communications and Preferences (beta version)
@@ -88,6 +89,10 @@ IO will allow Public Administrations to:
 - Facilitate payments and **reduce the cost** of recovering credit.
 
 {% include project_timeline.html %}
+
+### Twitter
+
+Read the latest tweets about the project: [#projectIO](https://twitter.com/search?f=tweets&q=%23projectio%20from%3Aitdigitalteam&src=typd).
 
 ### Media
 
