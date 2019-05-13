@@ -43,6 +43,10 @@ SPID è un progetto di rilevanza nazionale. Per favorire la discussione e il con
 
 {% include forum.html %}
 
+### Twitter
+
+Leggi gli ultimi tweet sul progetto [#SPID](https://twitter.com/search?f=tweets&q=%23spid%20from%3Ateamdigitaleit&src=typd).
+
 ### Media
 Per ogni richiesta di contatto da parte di media e giornalisti il punto di riferimento è l'ufficio stampa e comunicazione del Team per la Trasformazione digitale
 
