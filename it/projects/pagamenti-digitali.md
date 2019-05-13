@@ -76,6 +76,10 @@ pagoPA è un progetto di rilevanza nazionale. Per favorire la discussione e il c
 
 {% include forum.html %}
 
+### Twitter
+
+Leggi gli ultimi tweet sul progetto [#pagoPA](https://twitter.com/search?f=tweets&q=%23pagopa%20from%3Ateamdigitaleit&src=typd).
+
 ### Media
 Per ogni richiesta di contatto da parte di media e giornalisti il punto di riferimento è l'[ufficio stampa e comunicazione del Team per la Trasformazione digitale](https://teamdigitale.governo.it/it/contatti).
 
