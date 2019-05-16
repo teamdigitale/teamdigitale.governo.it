@@ -248,6 +248,10 @@
 <script src="/js/jquery.sticky-sidebar.min.js"></script>
 <script src="/js/teamdigitale.js?{{ site.time | date: '%Y%m%d%H%M' }}"></script>
 
+{% if page.ref == 'repubblica-digitale' %}
+<script src="/js/modernizr-custom-touchevents.min.js"></script>
+{% endif %}
+
 {% if page.layout == 'project' %}
 <script src="/js/frst-scale-effect.min.js"></script>
 <script src="/js/frst-timeline.min.js"></script>
