@@ -61,7 +61,7 @@ Ogni amministrazione, impresa, associazione e ogni singolo cittadino, insieme e 
 
 ## Il Manifesto {#manifesto-per-la-repubblica-digitale}
 
-La prima delle azioni nell’ambito dell’iniziativa Repubblica digitale è la pubblicazione e promozione di un Manifesto aperto all’adesione di enti e organizzazioni pubbliche e private con lo scopo di identificare un insieme di necessità e principi condividi e impegnarsi congiuntamente, nel rispetto delle specificità e peculiarità di ciascuno, in un percorso comune di trasformazione culturale del Paese nel segno del digitale.
+La prima delle azioni nell’ambito dell’iniziativa Repubblica digitale è la pubblicazione e promozione di un Manifesto aperto all’adesione di enti e organizzazioni pubbliche e private con lo scopo di identificare un insieme di necessità e principi condivisi e impegnarsi congiuntamente, nel rispetto delle specificità e peculiarità di ciascuno, in un percorso comune di trasformazione culturale del Paese nel segno del digitale.
 
 {% include manifesto.html %}
 
