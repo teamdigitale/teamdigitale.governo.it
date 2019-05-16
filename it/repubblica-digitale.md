@@ -25,16 +25,16 @@ redirect_from:
     <div class="row">
         <div class="col-md-9">
             <p>I servizi pubblici digitali dovrebbero essere accessibili davvero a tutti, nessuno escluso. Il rischio, in caso contrario, è che la trasformazione digitale del Paese finisca con l’avvantaggiare taluni cittadini – quelli digitalmente più educati e consapevoli – e con lo svantaggiare gli altri che, in Italia, sono ancora milioni.</p>
-            <p>Repubblica digitale è un’iniziativa promossa dal Team per la Trasformazione Digitale della Presidenza del Consiglio dei Ministri con l’obiettivo di accompagnare il processo di trasformazione digitale con una serie di azioni di inclusione digitale finalizzate a abbattere ogni forma di divario digitale di carattere culturale.</p>
+            <p>Repubblica Digitale è un’iniziativa promossa dal Team per la Trasformazione Digitale della Presidenza del Consiglio dei Ministri con l’obiettivo di accompagnare il processo di trasformazione digitale con una serie di azioni di inclusione digitale finalizzate a abbattere ogni forma di divario digitale di carattere culturale.</p>
             <p>L’iniziativa si articola in una serie di attività svolte in collaborazione con altri soggetti pubblici e privati.</p>
         </div>
         <div class="col-md-3">
             <ul class="section-nav">
-                <li class="toc-entry toc-h3"><a href="#perche-repubblica-digitale">Perché Repubblica digitale</a></li>
+                <li class="toc-entry toc-h3"><a href="#perche-repubblica-digitale">Perché Repubblica Digitale</a></li>
                 <li class="toc-entry toc-h3"><a href="#con-chi">Con chi</a></li>
-                <li class="toc-entry toc-h3"><a href="#manifesto-per-la-repubblica-digitale">Il Manifesto per la Repubblica digitale</a></li>
-                <li class="toc-entry toc-h3"><a href="#come-aderire">Come si aderisce al Manifesto per la Repubblica digitale</a></li>
-                <li class="toc-entry toc-h3"><a href="#come-partecipare">Partecipare a Repubblica digitale da cittadini</a></li>
+                <li class="toc-entry toc-h3"><a href="#manifesto-per-la-repubblica-digitale">Il Manifesto per la Repubblica Digitale</a></li>
+                <li class="toc-entry toc-h3"><a href="#come-aderire">Come si aderisce al Manifesto per la Repubblica Digitale</a></li>
+                <li class="toc-entry toc-h3"><a href="#come-partecipare">Partecipare a Repubblica Digitale da cittadini</a></li>
                 <li class="toc-entry toc-h3"><a href="#aderenti-al-manifesto-per-la-repubblica-digitale">Aderenti al Manifesto per la Repubblica Digitale</a></li>	
             </ul>
         </div>
@@ -42,7 +42,7 @@ redirect_from:
  </div>
 
 
-## Perché Repubblica digitale {#perche-repubblica-digitale}
+## Perché Repubblica Digitale {#perche-repubblica-digitale}
 
 Il Team per la Trasformazione Digitale è nato per avviare la costruzione del“sistema operativo” del Paese, una serie di componenti fondamentali sui quali costruire servizi più semplici ed efficaci per i cittadini, la Pubblica Amministrazione e le imprese, attraverso prodotti digitali innovativi.  
 Sin dalla sua nascita il Team, coerentemente alla sua _mission_, ha lavorato per rendere i servizi pubblici per i cittadini e aziende accessibili nel modo più semplice possibile, innanzitutto tramite dispositivi mobili (approccio “mobile first”), utilizzando architetture sicure, scalabili, altamente affidabili e basate su interfacce applicative (API) chiaramente definite, nonché per supportare le Pubbliche Amministrazioni centrali e locali nel prendere decisioni migliori e il più possibile basate sui dati, grazie all’adozione delle più moderne metodologie di analisi e sintesi dei dati su larga scala, quali Big Data e Machine Learning.  
@@ -51,21 +51,21 @@ Il successo di tali progetti è presupposto irrinunciabile, necessario ma non su
 Perché questo processo di trasformazione digitale del Paese possa produrre i risultati auspicati è indispensabile che nessuno resti indietro e che tutti i cittadini possano effettivamente accedere e utilizzare, in maniera consapevole,
 i nuovi servizi e strumenti di cittadinanza digitale fugando il rischio che barriere e divari culturali e educativi impediscano a taluno di beneficiare delle nuove opportunità e benefici.  
 È tuttavia noto che il nostro Paese, più di altri, soffre di un divario digitale di matrice culturale determinato da un diffuso e preoccupante fenomeno di analfabetismo digitale e, più in generale, da una scarsa educazione civica digitale.  
-L’iniziativa Repubblica digitale nasce per provare a fornire una prima - e certamente non sufficiente - risposta a questo problema che, se non affrontato e risolto, minaccia di limitare il successo e l’efficacia di ogni azione di trasformazione digitale o, peggio, di privare taluni cittadini di ogni concreta possibilità di esercizio dei propri diritti in un contesto nel quale il digitale è destinato a diventare il modo ordinario di dialogo con l’amministrazione a ogni livello.
+L’iniziativa _Repubblica Digitale_ nasce per provare a fornire una prima - e certamente non sufficiente - risposta a questo problema che, se non affrontato e risolto, minaccia di limitare il successo e l’efficacia di ogni azione di trasformazione digitale o, peggio, di privare taluni cittadini di ogni concreta possibilità di esercizio dei propri diritti in un contesto nel quale il digitale è destinato a diventare il modo ordinario di dialogo con l’amministrazione a ogni livello.
 
 ## Con chi {#con-chi}
 
-L’iniziativa _Repubblica digitale_ nasce con l’idea che accompagnare la trasformazione digitale del Paese con azioni di carattere educativo, divulgativo e culturale costituisca un dovere civico comune dello Stato, le imprese e i singoli cittadini e che tutte le componenti della società, a partire dai media, dalla scuola e dalla famiglia, possano contribuire in maniera determinante al superamento dei divari che, attualmente, dividono il Paese.  
+L’iniziativa _Repubblica Digitale_ nasce con l’idea che accompagnare la trasformazione digitale del Paese con azioni di carattere educativo, divulgativo e culturale costituisca un dovere civico comune dello Stato, le imprese e i singoli cittadini e che tutte le componenti della società, a partire dai media, dalla scuola e dalla famiglia, possano contribuire in maniera determinante al superamento dei divari che, attualmente, dividono il Paese.  
 L’idea alla base dell’iniziativa è quella di dar vita a un’alleanza quanto più ampia possibile tra enti e organizzazioni pubblici e privati e cittadini basata esclusivamente sul comune riconoscimento di taluni principi e esigenze e sulla comune volontà di affrontare con determinazione e spirito etico un problema che è comune.  
 Ogni amministrazione, impresa, associazione e ogni singolo cittadino, insieme e autonomamente, possono fare la differenza con azioni e gesti semplici, concreti, efficaci e capaci di accompagnare nell’ecosistema digitale chi, per ragioni diverse, non vi è ancora arrivato.
 
 ## Il Manifesto {#manifesto-per-la-repubblica-digitale}
 
-La prima delle azioni nell’ambito dell’iniziativa Repubblica digitale è la pubblicazione e promozione di un Manifesto aperto all’adesione di enti e organizzazioni pubbliche e private con lo scopo di identificare un insieme di necessità e principi condivisi e impegnarsi congiuntamente, nel rispetto delle specificità e peculiarità di ciascuno, in un percorso comune di trasformazione culturale del Paese nel segno del digitale.
+La prima delle azioni nell’ambito dell’iniziativa _Repubblica Digitale_ è la pubblicazione e promozione di un Manifesto aperto all’adesione di enti e organizzazioni pubbliche e private con lo scopo di identificare un insieme di necessità e principi condivisi e impegnarsi congiuntamente, nel rispetto delle specificità e peculiarità di ciascuno, in un percorso comune di trasformazione culturale del Paese nel segno del digitale.
 
 {% include manifesto.html %}
 
-## Come si aderisce al Manifesto per la Repubblica digitale {#come-aderire}
+## Come si aderisce al Manifesto per la Repubblica Digitale {#come-aderire}
 
 Ogni amministrazione, impresa o organizzazione può richiedere alla Segreteria organizzativa del Manifesto scrivendo all'indirizzo [repubblicadigitale@teamdigitale.governo.it](mailto:repubblicadigitale@teamdigitale.governo.it) di aderirvi impegnandosi a realizzare entro i successivi dodici mesi almeno un’iniziativa di inclusione digitale coerente con i principi del Manifesto e a promuovere l’adesione al Manifesto da parte di altri enti e cittadini.  
 La richiesta deve contenere gli estremi identificativi e di contatto del soggetto richiedente, la descrizione dell’iniziativa o delle iniziative che si intendono intraprendere, nonché del processo di misurazione dell’efficacia dell’iniziativa medesima. 
@@ -77,7 +77,7 @@ La Segreteria organizzativa si riserva il diritto di revocare tale accettazione 
 A seguito dell’accettazione della richiesta di adesione, la Segreteria organizzativa pubblica sulla pagina istituzionale del progetto la notizia dell’adesione del richiedente e la descrizione dell’iniziativa o delle iniziative che questi si è impegnato a porre in essere. L’aderente aggiorna periodicamente la Segreteria organizzativa dell’evoluzione del progetto e alla sua conclusione comunica alla Segreteria i risultati del processo di verifica e misurazione relativo agli obiettivi.  
 La Segreteria organizzativa, chiesti e acquisiti eventualmente ulteriori dati, elementi e informazioni, pubblica sulla pagina istituzionale del progetto la notizia relativa agli obiettivi conseguiti.
 
-## Partecipare a Repubblica digitale da cittadini {#come-partecipare}
+## Partecipare a Repubblica Digitale da cittadini {#come-partecipare}
 
 Ma anche i cittadini possono partecipare all’iniziativa con una “buona azione” di inclusione e solidarietà finalizzata a accompagnare una o più persone al corretto utilizzo degli strumenti di cittadinanza digitale e, in generale, a vivere in maniera consapevole, sicura e sostenibile l’ecosistema digitale.  
 Sarà un po’ come aiutare un anziano a attraversare la strada. In questo caso si potrà raccontare a qualcuno in fila in un ufficio pubblico che gli stessi adempimenti possono esser fatti attraverso lo smartphone, aiutare qualcuno a richiedere un’identità digitale o precompilare online la dichiarazione dei redditi o, ancora, a fare un pagamento attraverso PagoPA.  
