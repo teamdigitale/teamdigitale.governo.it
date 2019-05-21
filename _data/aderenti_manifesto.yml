@@ -85,3 +85,8 @@ aderenti_manifesto:
     links:
       - link_label: "makerfairerome.eu"
         link_url: "https://2019.makerfairerome.eu/it/"
+  - name: Olivetti
+    logo: "/images/companies/olivetti-logo.png"
+    links:
+      - link_label: "olivetti.com"
+        link_url: "https://www.olivetti.com/"
