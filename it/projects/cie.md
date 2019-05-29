@@ -9,10 +9,9 @@ parent_menu: projects
 people: [valerio-paolini, luca-bonuccelli]
 toc: true
 medium_tag: cie
+twitter_tag: cie
 forum_category: cie
 forum_limit: 3
-twitter_tag: cie
-tweetdeck_id: 913425127978696706
 dashboard_url: https://dashboard.teamdigitale.governo.it/public/dashboard/e155f9b3-7624-4e62-8b29-25e9f7d6dad5
 ---
 

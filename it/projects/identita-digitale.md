@@ -10,9 +10,8 @@ people: [valerio-paolini, luca-bonuccelli]
 toc: true
 medium_tag: spid
 forum_category: spid
-forum_limit: 3
 twitter_tag: spid
-tweetdeck_id: 913425127978696706
+forum_limit: 3
 dashboard_url: https://dashboard.teamdigitale.governo.it/public/dashboard/91369902-9c46-42e9-94c6-1a8b1c92d6c4
 ---
 

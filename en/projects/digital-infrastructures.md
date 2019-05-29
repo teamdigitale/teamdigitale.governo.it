@@ -10,10 +10,9 @@ people: [paolo-de-rosa]
 toc: true
 medium_tag: cloudpa
 forum_category: cloudpa
+twitter_tag: cloudpa
 forum_limit: 3
 timeline:
-twitter_tag: cloudpa
-tweetdeck_id: 913421951103897600
 dashboard_url: 
 ---
 
