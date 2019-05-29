@@ -3,7 +3,7 @@ title: Lucio Pileggi
 lang: it
 permalink: /it/people/lucio-pileggi.html
 layout: people
-role: Technical Program Manager
+role: Technical Project Manager
 is_new: true
 twitter_user: luciopileggi
 linkedin_url: https://www.linkedin.com/in/pileggi
