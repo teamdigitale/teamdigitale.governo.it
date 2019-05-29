@@ -4,10 +4,8 @@ lang: it
 permalink: /it/jobpositions/service-designer.htm
 layout: job
 ref: service-designer
-is_new: true
 parent_ref: join-us
-jazz_url: https://teamdigitale.applytojob.com/apply/jPdbp18jtd/Service-Designer
-iframeheight: 700
+archived: true
 ---
 
 ### Descrizione e responsabilità
