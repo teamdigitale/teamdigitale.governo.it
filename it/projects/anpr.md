@@ -9,10 +9,9 @@ parent_menu: projects
 people: [mirko-calvaresi, marco-cipri, carlo-contavalli, luca-bigliardi, giuseppe-pasceri, elisabetta-pique]
 toc: true
 medium_tag: anpr
+twitter_tag: anpr
 forum_category: anpr
 forum_limit: 3
-twitter_tag: anpr
-tweetdeck_id: 913424743981895680
 dashboard_daily: true
 dashboard_url: https://stato-migrazione.anpr.it
 ---
@@ -64,8 +63,6 @@ le novità.
 {% include medium_project.html %}
 
 Leggi [tutte le notizie sul progetto ANPR](https://medium.com/team-per-la-trasformazione-digitale/anpr-anagrafe-nazionale/home).
-
-{% include twitter_timeline.html %}
 
 ### Forum
 ANPR è un progetto di rilevanza nazionale. Per favorire la discussione e il

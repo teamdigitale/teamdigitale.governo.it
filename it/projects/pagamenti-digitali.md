@@ -8,7 +8,8 @@ parent_ref: projects
 parent_menu: projects
 people: [giuseppe-virgone, paolo-micozzi]
 toc: true
-medium_tag: payments
+medium_tag: pagopa
+twitter_tag: pagopa
 forum_category: pagopa
 forum_limit: 3
 timeline:
@@ -22,8 +23,6 @@ timeline:
     title: Rilascio linee guida nuovo avviso cartaceo
   - period: Gennaio 2019
     title: Rilascio WISP 2.0 per tutte le Pubbliche Amministrazioni
-twitter_tag: pagopa
-tweetdeck_id: 913421951103897600
 dashboard_url: https://dashboard.teamdigitale.governo.it/public/dashboard/2c8ee2ee-fa84-4dbf-8b6a-e7fb5f9ca950
 ---
 

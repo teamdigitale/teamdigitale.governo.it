@@ -8,11 +8,10 @@ parent_ref: projects
 parent_menu: projects
 people: [andrea-carlini, raffaele-lillo, fabiana-lanotte, alessandro-ercolani, david-greco, giovanni-ruggiero, fabio-fumarola, maria-claudia-bodino, simone-piunno]
 toc: true
-medium_tag: big-data
-forum_category: 'daf'
-forum_limit: 3
+medium_tag: daf
 twitter_tag: daf
-tweetdeck_id: 913428915095576576
+forum_category: daf
+forum_limit: 3
 timeline:
   - period: Gennaio 2017
     title: Fase di inizio del progetto
