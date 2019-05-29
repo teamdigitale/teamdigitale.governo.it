@@ -10,9 +10,8 @@ people: [valerio-paolini, luca-bonuccelli]
 toc: true
 medium_tag: spid
 forum_category: spid
-forum_limit: 3
 twitter_tag: spid
-tweetdeck_id: 913425127978696706
+forum_limit: 3
 dashboard_url: https://dashboard.teamdigitale.governo.it/public/dashboard/91369902-9c46-42e9-94c6-1a8b1c92d6c4
 ---
 
@@ -42,6 +41,10 @@ Nel blog troverete la nostra visione del progetto e il ruolo che ricoprirà nel 
 SPID è un progetto di rilevanza nazionale. Per favorire la discussione e il confronto, e per incoraggiare la partecipazione di tutti gli attori coinvolti nel progetto abbiamo creato un [forum](https://forum.italia.it/c/spid).
 
 {% include forum.html %}
+
+### Twitter
+
+Leggi gli ultimi tweet sul progetto [#SPID](https://twitter.com/search?f=tweets&q=%23spid%20from%3Ateamdigitaleit&src=typd).
 
 ### Media
 Per ogni richiesta di contatto da parte di media e giornalisti il punto di riferimento è l'ufficio stampa e comunicazione del Team per la Trasformazione digitale

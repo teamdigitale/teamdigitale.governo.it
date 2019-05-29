@@ -12,7 +12,6 @@ medium_tag: big-data
 forum_category: 'daf'
 forum_limit: 3
 twitter_tag: daf
-tweetdeck_id: 913428915095576576
 timeline:
   - period: January 2017
     title: Start phase of the project
@@ -69,6 +68,10 @@ The Data & Analytics Framework (DAF) has the goal of improving and simplifying t
 DAF is a project of national relevance. To foster a discussion and an exchange of viewpoints, as well as to encourage the participation of all players involved in the project, we created [a forum](https://forum.italia.it/c/daf).
 
 {% include forum.html %}
+
+### Twitter
+
+Read the latest tweets about the project [#DAF](https://twitter.com/search?f=tweets&q=%23daf%20from%3Aitdigitalteam&src=typd).
 
 ### Media
 

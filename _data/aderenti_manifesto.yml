@@ -1,0 +1,92 @@
+---
+aderenti_manifesto:
+  - name: Altroconsumo
+    logo: "/images/companies/altroconsumo-logo.png"
+    links:
+      - link_label: "www.altroconsumo.it"
+        link_url: "https://www.altroconsumo.it/"
+  - name: ACI
+    logo: "/images/companies/aci-logo.png"
+    links:
+      - link_label: "www.aci.it"
+        link_url: "http://www.aci.it/"
+  - name: Anitec-Assinform
+    logo: "/images/companies/anitec-assinform-logo.png"
+    links:
+      - link_label: "www.anitec-assinform.it"
+        link_url: "http://www.anitec-assinform.it/"
+  - name: Facebook Italia
+    logo: "/images/companies/facebook-logo.png"
+    links:
+      - link_label: "facebook.com"
+        link_url: "https://www.facebook.com/"
+  - name: IBM Italia
+    logo: "/images/companies/ibm-logo.png"
+    links:
+      - link_label: "www.ibm.com/it-it"
+        link_url: "https://www.ibm.com/it-it"
+  - name: Google Italia
+    logo: "/images/companies/google-logo.png"
+    links:
+      - link_label: "google.it"
+        link_url: "https://www.google.it/"
+  - name: Microsoft Italia
+    logo: "/images/companies/microsoft-logo.png"
+    links:
+      - link_label: "microsoft.com/it-it"
+        link_url: "https://www.microsoft.com/it-it"
+  - name: PayPal Italia
+    logo: "/images/companies/paypal-logo.png"
+    links:
+      - link_label: "www.paypal.com/it/"
+        link_url: "https://www.paypal.com/it/webapps/mpp/home"
+  - name: Telefono Azzurro
+    logo: "/images/companies/telefono-azzurro-logo.png"
+    links:
+      - link_label: "www.azzurro.it"
+        link_url: "https://www.azzurro.it/"
+  - name: Unione Nazionale Consumatori
+    logo: "/images/companies/unc-logo.png"
+    links:
+      - link_label: "www.consumatori.it"
+        link_url: "https://www.consumatori.it/"
+  - name: Time4Child
+    logo: "/images/companies/time-4-child-logo.png"
+    links:
+      - link_label: "www.time4child.com"
+        link_url: "http://www.time4child.com/"
+  - name: Fondazione Scholas occurrentes
+    logo: "/images/companies/scholas-logo.png"
+    links:
+      - link_label: "www.scholasoccurrentes.org"
+        link_url: "https://www.scholasoccurrentes.org/"
+  - name: Accademia Italiana Videogiochi
+    logo: "/images/companies/aiv-logo.png"
+    links:
+      - link_label: "www.aiv01.it"
+        link_url: "https://www.aiv01.it/"
+  - name: Forum PA
+    logo: "/images/companies/forum-pa-logo.png"
+    links:
+      - link_label: "www.forumpa.it"
+        link_url: "https://www.forumpa.it/"
+  - name: Grey Panthers
+    logo: "/images/companies/grey-panthers-logo.jpg"
+    links:
+      - link_label: "www.grey-panthers.it"
+        link_url: "https://www.grey-panthers.it/"
+  - name: Camera di Commercio di Roma
+    logo: "/images/companies/camera-commercio-roma-logo.png"
+    links:
+      - link_label: "www.rm.camcom.it"
+        link_url: "https://www.rm.camcom.it/"
+  - name: Maker Faire Rome The European edition
+    logo: "/images/companies/maker-fair-logo.png"
+    links:
+      - link_label: "makerfairerome.eu"
+        link_url: "https://2019.makerfairerome.eu/it/"
+  - name: Olivetti
+    logo: "/images/companies/olivetti-logo.png"
+    links:
+      - link_label: "olivetti.com"
+        link_url: "https://www.olivetti.com/"

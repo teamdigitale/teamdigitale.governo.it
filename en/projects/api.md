@@ -49,9 +49,4 @@ Together with AgID, we are working on the definition of the technical rules, gui
 
 Any contact request from the media and journalists should be addressed to the Digital Transformation Team's press and communication office.
 
-
-{% include ipress.html %}
-<div id="content-ipress" data-key="01e87bed-f52e-4d6d-af32-c4ea59fd300a" data-lang="en" data-size="100" data-tag="7"></div>
-<script type="text/javascript" src="/js/ipress.js"></script>
-
 {% include project_timeline.html %}
