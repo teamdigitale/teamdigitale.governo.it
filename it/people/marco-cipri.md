@@ -13,7 +13,7 @@ parent_ref: team
 start_date: 01 marzo 2019
 period_provided: fino al 15 settembre 2019
 annual_compensation: € 75.000
-approved_by_court: Il  decreto di nomina è in fase di registrazione presso la Corte dei Conti..
+approved_by_court: 8 aprile 2019
 ---
 Sono nato a Roma. Ho speso infanzia e adolescenza rimettendo l'orologio al suono del cannone del Gianicolo e consumando le suole delle scarpe sui sanpietrini di Trastevere.
 Come parte della mia generazione, sono stato corrotto in tenera età da quelle scatolette misteriose che erano i primi home computer, che avevano portato la magia nelle nostre camerette, trasformandole in cimiteri di joystick e musicassette a nastro…. le memorie di massa di allora.

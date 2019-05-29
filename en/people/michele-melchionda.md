@@ -13,7 +13,7 @@ parent_ref: team
 start_date: February 22, 2019
 period_provided: until September 15, 2019
 annual_compensation: The expert does not receive any compensation for the carrying out of his task in the Team.
-approved_by_court: 16th april 2019.
+approved_by_court: 8th april 2019.
 ---
  
 I was born in the city of Avellino and into a family which strongly believed in hard work and perseverance. Words that shaped my upbringing, together with the enormous quantities of food my mother had to cook in order to feed the whole pack of children, friends and guests.

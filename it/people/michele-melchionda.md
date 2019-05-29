@@ -13,7 +13,7 @@ parent_ref: team
 start_date: 22 febbraio 2019
 period_provided: fino al 15 settembre 2019
 annual_compensation: Per lo svolgimento del suo incarico nel Team, l’esperto non percepisce alcun compenso
-approved_by_court: 16 aprile 2019.
+approved_by_court: 8 aprile 2019
 ---
 Sono nato ad Avellino in una famiglia che mi ha cresciuto a “tenacia e duro lavoro”, insieme alle enormi porzioni di cibo che mia madre doveva mettere in tavola per una tribù di figli, amici e ospiti.
 
