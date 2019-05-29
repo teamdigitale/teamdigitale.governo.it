@@ -8,7 +8,8 @@ parent_ref: projects
 parent_menu: projects
 people: [giuseppe-virgone, paolo-micozzi]
 toc: true
-medium_tag: payments
+medium_tag: pagopa
+twitter_tag: pagopa
 forum_category: pagopa
 forum_limit: 3
 timeline:
@@ -22,8 +23,6 @@ timeline:
     title: Release of the new paper notification's guidelines
   - period: January 2019
     title: Release WISP 2.0 for all Public Administration
-twitter_tag: pagopa
-tweetdeck_id: 913421951103897600
 dashboard_url: https://dashboard.teamdigitale.governo.it/public/dashboard/d88a8ece-75ed-4668-ab8c-3a6c8693b4af
 ---
 
@@ -75,6 +74,10 @@ These changes will soon be visible, with the larger municipalities having alread
 pagoPA is a project of national importance. To encourage discussion and an exchange of viewpoints, and to favour the participation of all the plays involved in the project, we created a [forum](https://forum.italia.it/c/pagopa).
 
 {% include forum.html %}
+
+### Twitter
+
+Read the latest tweets about the project: [#pagopa](https://twitter.com/search?f=tweets&q=%23pagopa%20from%3Aitdigitalteam&src=typd).
 
 ### Media
 For any contact request received from the media and journalists, the [Digital Transformation Team's press and communication office](https://teamdigitale.governo.it/en/contacts) is the point of reference.

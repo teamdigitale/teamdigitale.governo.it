@@ -9,10 +9,9 @@ parent_menu: projects
 people: [valerio-paolini, luca-bonuccelli]
 toc: true
 medium_tag: cie
+twitter_tag: cie
 forum_category: cie
 forum_limit: 3
-twitter_tag: cie
-tweetdeck_id: 913425127978696706
 dashboard_url: https://dashboard.teamdigitale.governo.it/public/dashboard/e155f9b3-7624-4e62-8b29-25e9f7d6dad5
 ---
 
@@ -44,6 +43,10 @@ Nel blog troverete la nostra visione del progetto e il ruolo che ricoprirà nel 
 CIE è un progetto di rilevanza nazionale. Per favorire la discussione e il confronto, e per incoraggiare la partecipazione di tutti gli attori coinvolti nel progetto abbiamo creato un [forum](https://forum.italia.it/c/cie).
 
 {% include forum.html %}
+
+### Twitter
+
+Leggi gli ultimi tweet sul progetto [#CIE](https://twitter.com/search?f=tweets&q=%23cie%20from%3Ateamdigitaleit&src=typd).
 
 ### Media
 Per ogni richiesta di contatto da parte di media e giornalisti il punto di riferimento è l'[ufficio stampa e comunicazione del Team per la Trasformazione digitale](https://teamdigitale.governo.it/it/contatti).

@@ -6,7 +6,7 @@ layout: project
 ref: designers
 parent_ref: projects
 parent_menu: projects
-people: [matteo-de-santi, lorenzo-fabbri, francesco-zaia, laura-bordin]
+people: [matteo-de-santi, lorenzo-fabbri, francesco-zaia, roberta-tassi, laura-bordin]
 toc: true
 twitter_user: DesignersITA
 medium_tag: design
@@ -118,7 +118,9 @@ A space for discussions about the design of public services.
 
 {% include forum.html %}
 
-{% include twitter_timeline.html %}
+### Twitter
+
+Read the latest tweets about the project [@designersita](https://twitter.com/search?f=tweets&vertical=default&q=from%3Adesignersita&l=en&src=typd).
 
 ### Media
 For any contact request received from the media and journalists, the [Digital Transformation Team's press and communication office](https://teamdigitale.governo.it/en/contacts) is the point of reference.

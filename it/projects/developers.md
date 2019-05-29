@@ -6,7 +6,7 @@ layout: project
 ref: developers
 parent_ref: projects
 parent_menu: projects
-people: [giovanni-bajo, riccardo-iaconelli, alessandro-ranellucci]
+people: [alessandro-ranellucci, leonardo-favario, alessandro-sebastiani, giovanni-bajo, riccardo-iaconelli]
 toc: true
 twitter_user: developersITA
 medium_tag: developer
@@ -97,7 +97,10 @@ Per attuare questo modello di riuso abbiamo creato la nuova versione del sito De
 
 Leggi tutte le notizie sul progetto Developers Italia [sul blog del Team Digitale](https://medium.com/team-per-la-trasformazione-digitale/developers-italia/home) o [su Developers Italia](https://developers.italia.it/news).
 
-{% include twitter_timeline.html %}
+
+### Twitter
+
+Leggi gli ultimi tweet sul progetto [@developersITA](https://twitter.com/developersITA).
 
 ### Media
 Per ogni richiesta di contatto da parte di media e giornalisti il punto di riferimento è l'[ufficio stampa e comunicazione del Team per la Trasformazione digitale](https://teamdigitale.governo.it/it/contatti).

@@ -1,0 +1,129 @@
+.repubblica-digitale-header {
+  margin: 32px 0;
+  img {
+    margin: 32px auto 0;
+  }
+  h4 {
+    margin: 0;
+  }
+}
+
+.manifesto {
+  font-family: Lora, Georgia, serif;
+  margin: 16px 0px;
+  box-shadow: 0 2px 20px 0 rgba(0,0,0,.1);
+  background: #fff;
+  border-right: none;
+  padding: 16px;
+  @media screen and (min-width: 992px) {
+    margin: 32px 16px;
+  }
+  h1 {
+    font-size: 32px;
+    margin: 16px 0;
+    color: #00264d;
+    font-family: Lora, Georgia, serif;
+    @media screen and (min-width: 992px) {
+      font-size: 48px;
+      margin: 16px 32px;
+      padding: 32px;
+    }
+  }
+  p {
+    font-size: 16px;
+    @media screen and (min-width: 992px) {
+      font-size: 20px;
+    }
+    &.descrizioni {
+      margin: 0 8px 32px;
+      @media screen and (min-width: 992px) {
+        margin: 0 32px 32px;
+      }
+    }
+    &.azioni {
+      margin-bottom: 0;
+      margin-top: 32px;
+    }
+  }
+  img {
+    margin: 32px auto;
+  }
+  ul {
+    padding: 0;
+    li {
+      list-style-type: none;
+    }
+  }
+}
+
+.articolo {
+  margin: 16px 32px 32px;
+  > h3 {
+    &::first-letter {
+      font-size: 48px;
+      font-style: italic;
+      color: #00264d;
+      padding-right: 8px;
+      margin-left: -16px;
+    }
+  }
+}
+
+.articolo__toggle {
+  cursor: pointer;
+  color: #06C;
+  font-size: 15px;
+  font-style: italic;
+  font-weight: 600;
+  text-align: right;
+  width: 100%;
+  > .articolo__toggle-label {
+    display: inline-block;
+  }
+  > i {
+    color: #06C;
+    vertical-align: baseline;
+    padding: 0 8px;
+    &.fa-close {
+      display: none;
+    }
+    &.fa-chevron-right {
+      display: inline-block;
+    }
+  }
+
+}
+.is-open {
+  > .articolo__toggle {
+    > .articolo__toggle-label {
+      display: none;
+    }
+    > i {
+      &.fa-close {
+        display: inline-block;
+      }
+      &.fa-chevron-right {
+        display: none;
+      }
+    }
+  }
+}
+
+.articolo__approfondimento {
+  margin: 8px 12px;
+  border-right: 4px solid #06C;
+  display: none;
+  > *:last-child {
+    margin-bottom: 0;
+  }
+  > p {
+    font-family: Lora, Georgia, serif;
+    padding: 8px 8px 8px 0;
+    font-size: 14px;
+    @media screen and (min-width: 992px) {
+      padding: 8px 16px 8px 0;
+      font-size: 16px;
+    }
+  }
+}
+
