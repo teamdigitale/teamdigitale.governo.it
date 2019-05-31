@@ -67,15 +67,16 @@ La prima delle azioni nell’ambito dell’iniziativa _Repubblica Digitale_ è l
 
 ## Come si aderisce al Manifesto per la Repubblica Digitale {#come-aderire}
 
-Ogni amministrazione, impresa o organizzazione può richiedere alla Segreteria organizzativa del Manifesto scrivendo all'indirizzo [repubblicadigitale@teamdigitale.governo.it](mailto:repubblicadigitale@teamdigitale.governo.it) di aderirvi impegnandosi a realizzare entro i successivi dodici mesi almeno un’iniziativa di inclusione digitale coerente con i principi del Manifesto e a promuovere l’adesione al Manifesto da parte di altri enti e cittadini.  
-La richiesta deve contenere gli estremi identificativi e di contatto del soggetto richiedente, la descrizione dell’iniziativa o delle iniziative che si intendono intraprendere, nonché del processo di misurazione dell’efficacia dell’iniziativa medesima. 
+Ogni amministrazione, impresa o organizzazione può inviare la domanda di adesione al Manifesto, impegnandosi a realizzare entro i successivi dodici mesi almeno un’iniziativa di inclusione digitale coerente con i principi del Manifesto e a promuovere l’adesione al Manifesto da parte di altri enti e cittadini.
 
 La Segreteria organizzativa, ricevuta la richiesta, verifica la coerenza con il manifesto e il possesso da parte dei soggetti rappresentanti del richiedente dei requisiti morali necessari all’adesione (non essere stato interdetto o inabilitato, non essere stato condannato, salvo che non sia intervenuta la riabilitazione, per i seguenti delitti: delitti contro la Pubblica Amministrazione, l’amministrazione della giustizia, la fede pubblica, l’economia pubblica, l’industria ed il commercio, ovvero per il delitto di omicidio volontario, furto, rapina, estorsione, truffa, appropriazione indebita, ricettazione e per ogni altro delitto non colposo per il quale la legge commini la pena della reclusione non inferiore, nel minimo, a due anni e, nel massimo, a cinque anni; non essere sottoposto a provvedimenti antimafia) e comunica al richiedente l’accettazione della sua richiesta di adesione, autorizzandolo altresì all’utilizzo del logo del manifesto.  
 La Segreteria organizzativa si riserva il diritto di revocare tale accettazione qualora il richiedente e/o i suoi rappresentanti perdano tali requisiti e/o pongano in essere comportamenti incompatibili con lo spirito e le finalità del manifesto o, comunque, tali da pregiudicare l’immagine o la reputazione del progetto o comprometterne il successo.
-{: .font-size-reduced}
 
 A seguito dell’accettazione della richiesta di adesione, la Segreteria organizzativa pubblica sulla pagina istituzionale del progetto la notizia dell’adesione del richiedente e la descrizione dell’iniziativa o delle iniziative che questi si è impegnato a porre in essere. L’aderente aggiorna periodicamente la Segreteria organizzativa dell’evoluzione del progetto e alla sua conclusione comunica alla Segreteria i risultati del processo di verifica e misurazione relativo agli obiettivi.  
 La Segreteria organizzativa, chiesti e acquisiti eventualmente ulteriori dati, elementi e informazioni, pubblica sulla pagina istituzionale del progetto la notizia relativa agli obiettivi conseguiti.
+
+<a class="btn btn-primary btn-lg" role="button" href="https://forms.gle/A1eHYr2keWXY64et6">Aderisci al Manifesto</a>
+{: .text-center.aderisci}
 
 ## Partecipare a Repubblica Digitale da cittadini {#come-partecipare}
 
