@@ -75,7 +75,7 @@ La Segreteria organizzativa si riserva il diritto di revocare tale accettazione 
 A seguito dell’accettazione della richiesta di adesione, la Segreteria organizzativa pubblica sulla pagina istituzionale del progetto la notizia dell’adesione del richiedente e la descrizione dell’iniziativa o delle iniziative che questi si è impegnato a porre in essere. L’aderente aggiorna periodicamente la Segreteria organizzativa dell’evoluzione del progetto e alla sua conclusione comunica alla Segreteria i risultati del processo di verifica e misurazione relativo agli obiettivi.  
 La Segreteria organizzativa, chiesti e acquisiti eventualmente ulteriori dati, elementi e informazioni, pubblica sulla pagina istituzionale del progetto la notizia relativa agli obiettivi conseguiti.
 
-<a class="btn btn-primary btn-lg" role="button" href="https://forms.gle/A1eHYr2keWXY64et6">Aderisci al Manifesto</a>
+<a class="btn btn-primary btn-lg" role="button" href="https://docs.google.com/forms/d/e/1FAIpQLSerfb-oJkGwn1lB2GO8aqVODxxqEdlqZyjYg7udv9pgvGiVcQ/viewform">Aderisci al Manifesto</a>
 {: .text-center.aderisci}
 
 ## Partecipare a Repubblica Digitale da cittadini {#come-partecipare}
