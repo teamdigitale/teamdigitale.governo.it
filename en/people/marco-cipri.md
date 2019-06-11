@@ -13,7 +13,7 @@ parent_ref: team
 start_date: 15 march 2019
 period_provided: until September 15, 2019
 annual_compensation: € 75.000
-approved_by_court: The act of appointment is being registered at the Court of Auditors.
+approved_by_court: 8th april 2019
 
 ---
 I was born in Rome. I spent my childhood and adolescence setting my watch to the bang of the Gianicolo cannon and consuming the soles of my shoes walking on the cobblestones of Trastevere. Like many young people, in those years I was fascinated by those mysterious boxes: "home computers". PCs brought magic into our bedrooms, turning them into joysticks cemeteries and tape cassette warehouses ... the media data storage of those days.

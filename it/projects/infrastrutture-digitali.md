@@ -9,11 +9,10 @@ parent_menu: projects
 people: [paolo-de-rosa]
 toc: true
 medium_tag: cloudpa
+twitter_tag: cloudpa
 forum_category: piano-triennale/data-center-e-cloud
 forum_limit: 3
 timeline:
-twitter_tag: cloudpa
-tweetdeck_id: 913421951103897600
 ---
 
 ### In breve
@@ -81,6 +80,10 @@ Leggi [tutte le notizie sul progetto infrastrutture digitali e cloud](https://me
 Infrastrutture digitali e cloud è un progetto di rilevanza nazionale. Per favorire la discussione e il confronto, e per incoraggiare la partecipazione di tutti gli attori coinvolti nel progetto abbiamo creato un [forum](https://forum.italia.it/c/piano-triennale/data-center-e-cloud).
 
 {% include forum.html %}
+
+### Twitter 
+
+Leggi gli ultimi tweet sul progetto: [#cloud](https://twitter.com/search?f=tweets&q=%23cloud%20from%3Ateamdigitaleit&src=typd).
 
 ### Media
 Per ogni richiesta di contatto da parte di media e giornalisti il punto di riferimento è l'[ufficio stampa e comunicazione del Team per la Trasformazione digitale](https://teamdigitale.governo.it/it/contatti).

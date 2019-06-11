@@ -8,7 +8,7 @@ parent_ref: projects
 parent_menu: projects
 people: [giovanni-bajo, lorenzo-fabbri, francesco-zaia]
 toc: true
-medium_tag: piano-triennale
+medium_tag: documentation
 forum_category: design/content
 forum_limit: 3
 timeline:
@@ -57,6 +57,10 @@ dall’art. 18 del CAD (Codice dell’amministrazione digitale) per gestire i do
 * Possibilità di consultare rapidamente i cittadini su una iniziativa dell'amministrazione.
 
 {% include medium_project.html %}
+
+### Twitter
+
+Leggi gli ultimi tweet sul progetto [#DocsItalia](https://twitter.com/search?f=tweets&q=%23docsitalia%20from%3Ateamdigitaleit&src=typd).
 
 ### Media
 

@@ -565,33 +565,8 @@
   }
 }
 
-/* IPRESS */
-.iPress, .iPress > a, .iPress > ol > li, .iPress > p, .iPress > ul > li, .iPress p > a, .i-lineHeight-xl, .i-text-p {
-  line-height: 1.55 !important;
-}
-
-.iPress-blockquote, .Skiplinks > li > a, .i-padding-left-l {
-  padding-left: 2.4rem !important;
-}
-
-.iPress-blockquote, .iPress > ol, .iPress > p, .iPress > pre .iPress > figure, .iPress > ul, .i-margin-bottom-xl {
-  margin-bottom: 3.2rem !important;
-}
-
-.i-background-grey-10 {
-  background-color: #f5f5f0 !important;
-}
-
-.iPress-blockquote, .i-border-left-m {
-  border-left: 1rem solid currentColor !important;
-}
-
 blockquote {
   margin: 0;
-}
-
-.iPress img {
-  max-width: 100%;
 }
 
 .i-margin-r-right {
@@ -1184,4 +1159,8 @@ body.layout-project {
     width: 100%;
     height: 100%;
   }
+}
+
+.font-size-reduced {
+  font-size: .8em;
 }

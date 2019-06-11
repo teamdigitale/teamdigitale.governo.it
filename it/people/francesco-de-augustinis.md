@@ -13,7 +13,7 @@ parent_ref: team
 start_date: 14 gennaio 2019
 period_provided: fino al 15 settembre 2019
 annual_compensation: € 60.000
-approved_by_court: Il  decreto di nomina è in fase di registrazione presso la Corte dei Conti.
+approved_by_court: 8 aprile 2019
 ---
 Il mio percorso unisce la passione per il giornalismo e una vocazione naturale ai contenuti digitali. Questo sin dai tempi dell’Università: mentre studiavo giornalismo, lavoravo con un piccolo team di amici a una startup -un social network dedicato al mondo dell’arte- che avrebbe vinto il premio Ego Ericsson per l’innovazione, finendo in un programma di incubazione Topix. 
 

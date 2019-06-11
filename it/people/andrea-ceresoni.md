@@ -11,7 +11,7 @@ parent_ref: team
 start_date: 1 marzo 2019
 period_provided: fino al 15 settembre 2019
 annual_compensation: € 85.000
-approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti.
+approved_by_court: 8 aprile 2019
 ---
 Ho 41 anni e sono fieramente di Roma. La mia passione per l’informatica è iniziata molto presto quando un sabato pomeriggio mio padre si è presentato a casa con un Olivetti Prodest usato, senza disco rigido e con processore 8086. Da quel momento ho iniziato a trascorrere più tempo a casa che in giardino a giocare con gli amici.
 

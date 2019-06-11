@@ -8,6 +8,7 @@ parent_ref: projects
 parent_menu: projects
 people: [federico-feroldi, matteo-de-santi, giuseppe-virgone]
 toc: true
+medium_tag: apps
 timeline:
   - period: Novembre 2017
     title: Rilascio API Comunicazioni e Preferenze (versione beta)
@@ -93,6 +94,10 @@ IO permetterà alle Pubbliche Amministrazioni di:
 Leggi [tutte le notizie sul progetto IO](https://medium.com/team-per-la-trasformazione-digitale/progetto-io-app-servizi-pubblici/home) sul canale Medium del Team Digitale. 
 
 {% include medium_project.html %}
+
+### Twitter
+
+Leggi gli ultimi tweet sul [#progettoIO](https://twitter.com/search?f=tweets&q=%23progettoio%20from%3Ateamdigitaleit&src=typd).
 
 ### Media
 

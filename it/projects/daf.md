@@ -8,11 +8,10 @@ parent_ref: projects
 parent_menu: projects
 people: [andrea-carlini, raffaele-lillo, fabiana-lanotte, alessandro-ercolani, david-greco, giovanni-ruggiero, fabio-fumarola, maria-claudia-bodino, simone-piunno]
 toc: true
-medium_tag: big-data
-forum_category: 'daf'
-forum_limit: 3
+medium_tag: daf
 twitter_tag: daf
-tweetdeck_id: 913428915095576576
+forum_category: daf
+forum_limit: 3
 timeline:
   - period: Gennaio 2017
     title: Fase di inizio del progetto
@@ -69,6 +68,10 @@ Il Data & Analytics Framework (DAF) ha l'obiettivo di migliorare e semplificare 
 DAF è un progetto di rilevanza nazionale. Per favorire la discussione e il confronto, e per incoraggiare la partecipazione di tutti gli attori coinvolti nel progetto abbiamo creato [un forum](https://forum.italia.it/c/daf).
 
 {% include forum.html %}
+
+### Twitter
+
+Leggi gli ultimi tweet sul progetto [#DAF](https://twitter.com/search?f=tweets&q=%23daf%20from%3Ateamdigitaleit&src=typd).
 
 ### Media
 Per ogni richiesta di contatto da parte di media e giornalisti il punto di riferimento è l'[ufficio stampa e comunicazione del Team per la Trasformazione digitale](https://teamdigitale.governo.it/it/contatti).

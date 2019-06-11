@@ -12,7 +12,7 @@ parent_ref: team
 start_date: 18 febbraio 2019
 period_provided: fino al 15 settembre 2019
 annual_compensation: € 75.000
-approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti.
+approved_by_court: 8 aprile 2019
 ---
 
 

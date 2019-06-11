@@ -11,7 +11,7 @@ linkedin_url: https://www.linkedin.com/in/andrea-carlini-92676514/
 start_date: 1 Marzo 2019
 period_provided: 15 Settembre 2019
 annual_compensation: € 100.000
-approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti.
+approved_by_court: 8 aprile 2019
 ---
 All'età di 6 anni immaginavo già un mondo in cui la tecnologia sarebbe stata parte integrante della nostra vita. Non appena in tenera età ho avuto la possibilità di mettere le mani su un computer (un Olivetti M24), ho capito che la strada da seguire era veramente molto lunga, ma che volevo far parte di quel processo evolutivo perché ne ero innamorato. Da allora ho iniziato a sognare ad occhi aperti.
 

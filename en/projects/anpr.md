@@ -11,9 +11,8 @@ toc: true
 medium_tag: anpr
 forum_category: anpr
 forum_limit: 3
-twitter_tag: anpr
-tweetdeck_id: 913424743981895680
 dashboard_daily: true
+twitter_tag: anpr
 dashboard_url: https://stato-migrazione.anpr.it?lang=en
 ---
 
@@ -53,13 +52,14 @@ aim of creating a clear roadmap for implementation, modernising the operative me
 
 {% include medium_project.html %}
 
-{% include twitter_timeline.html %}
-
 ### Forum
 ANPR is a project of national relevance. To foster a discussion and an exchange of viewpoints, as well as to encourage the participation of all players involved in the project (starting from the 8,000+ Italian municipalities involved in the operation!), we created a [forum](https://forum.italia.it/c/anpr)
 
 {% include forum.html %}
 
+### Twitter
+
+Read the latest tweets about the project [#ANPR](https://twitter.com/search?f=tweets&q=%23ANPR%20from%3Aitdigitalteam&src=typd).
 
 ### Media
 Any contact request from the media and journalists should be addressed to the
