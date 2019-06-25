@@ -10,10 +10,10 @@ medium_user:
 linkedin_url: https://www.linkedin.com/in/alicecasiraghi/
 ref: alice-casiraghi
 parent_ref: team
-start_date: May 9, 2019
+start_date: April 30, 2019
 period_provided: until September 15, 2019
-annual_compensation: € 75,000
-approved_by_court: The act of appointment is being registered at the Court of Auditors.
+annual_compensation: € 80,000
+approved_by_court: June 3, 2019
 ---
 Growing up in a small town in the green Brianza area north of Milan, during the last intense five years the Far East is where I felt at home, in the human anthill cities of the ‘great dragon’, China. Being constantly in search of new challenges to wrap my mind around, in the latest years I have worked as a designer with the most diverse agencies and clients, geography and scope wise.
 
