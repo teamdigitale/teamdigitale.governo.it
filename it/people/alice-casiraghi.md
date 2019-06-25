@@ -10,10 +10,10 @@ medium_user:
 linkedin_url: https://www.linkedin.com/in/alicecasiraghi
 ref: alice-casiraghi
 parent_ref: team
-start_date: 9 maggio 2019
-period_provided: fino al 15 settembre 2019
-annual_compensation: € 75.000
-approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti.
+start_date: 30 Aprile 2019
+period_provided: fino al 15 Settembre 2019
+annual_compensation: € 80.000
+approved_by_court: 3 Giugno 2019.
 ---
 Cresciuta in un piccolo paesino nella verde Brianza a nord di Milano, negli ultimi cinque intensissimi anni mi sono sentita di casa in estremo Oriente, nelle città-formicaio del ‘grande dragone’, la Cina. Da carattere in costante ricerca quale sono, in questi anni ho collaborato come designer con le agenzie e i clienti più disparati per geografia e ambito lavorativo.
  
