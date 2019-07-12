@@ -1,21 +1,21 @@
 ---
-SpeseUpdate: '19/04/2019'
+SpeseUpdate: '12/07/2019'
 SpeseDelTeam:
   - voce: Sviluppo software e design
-    impegno: 8906185  
-    pagamenti: 4555419 
+    impegno: 9713893 
+    pagamenti: 4654588
   - voce: Hardware e accessori
     impegno: 110381  
     pagamenti: 110381  
   - voce: Canoni software as a service
-    impegno: 252998
-    pagamenti: 98180  
+    impegno: 265647
+    pagamenti: 110829  
   - voce: Comunicazione e relazioni pubbliche
-    impegno:  218338    
-    pagamenti: 140580  
+    impegno:  320397    
+    pagamenti: 150030  
   - voce: Funzionamento (missioni, eventi)
-    impegno:  132866
-    pagamenti: 132866
+    impegno:  195122
+    pagamenti: 146846
   - voce: Compensi Esperti*
     impegno:  5293283 
     pagamenti: 5046168  
