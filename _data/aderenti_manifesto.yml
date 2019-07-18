@@ -95,3 +95,8 @@ aderenti_manifesto:
     links:
       - link_label: "www.clubtimilano.net"
         link_url: "http://www.clubtimilano.net/"
+  - name: TIM
+    logo: "/images/companies/tim-logo.png"
+    links:
+      - link_label: "tim.it"
+        link_url: "https://www.tim.it/"
