@@ -1,4 +1,6 @@
 {
+  "name": "teamdigitale.governo.it",
+  "version": "1.0.0",
   "private": true,
   "devDependencies": {
     "gulp": "^4.0.0",
