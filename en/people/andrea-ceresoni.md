@@ -9,7 +9,7 @@ linkedin_url: https://www.linkedin.com/in/ceresoni/
 ref: andrea-ceresoni
 parent_ref: team
 start_date: 1 marzo 2019
-period_provided: fino al 15 settembre 2019
+period_provided: until September 15, 2019
 annual_compensation: € 85.000
 approved_by_court: 8th april 2019
 ---
