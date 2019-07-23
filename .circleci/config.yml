@@ -29,9 +29,7 @@ jobs:
       - run:
           name: Configure Bundler
           command: |
-            echo 'export BUNDLER_VERSION=$(cat Gemfile.lock | tail -1 | tr -d " ")' >> $BASH_ENV
-            source $BASH_ENV
-            gem install bundler
+            gem install bundler -v "$(grep -A 1 "BUNDLED WITH" Gemfile.lock | tail -n 1)"
 
       #
       # Download and cache Ruby dependencies
@@ -45,7 +43,7 @@ jobs:
       - run: bundle check || bundle install
 
       - save_cache:
-          key: v5-dependencies-ruby-{{ checksum "Gemfile.lock" }}
+          key: v6-dependencies-ruby-{{ checksum "Gemfile.lock" }}
           paths:
             - vendor/bundle
 
