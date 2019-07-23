@@ -6,11 +6,12 @@
 defaults: &defaults
   working_directory: /home/circleci/teamdigitale.governo.it
   docker:
-    - image: circleci/ruby:2.5.1-node-browsers
+    - image: circleci/ruby:2.6.3-node-browsers
       environment:
         BUNDLE_JOBS: 3
         BUNDLE_RETRY: 3
         BUNDLE_PATH: vendor/bundle
+        BUNDLER_VERSION: 2.0.1
 
 # we use a rw SSH key instead of the default one injected by CircleCI because we
 # use it for deploy as well
@@ -25,11 +26,6 @@ jobs:
     steps:
       - add_ssh_keys: *add_ssh_keys
       - checkout
-
-      - run:
-          name: Configure Bundler
-          command: |
-            gem install bundler -v "$(grep -A 1 "BUNDLED WITH" Gemfile.lock | tail -n 1)"
 
       #
       # Download and cache Ruby dependencies
