@@ -125,3 +125,13 @@ aderenti_manifesto:
     links:
       - link_label: "grin-informatica.it"
         link_url: "http://www.grin-informatica.it"
+  - name: Smart Nation
+    logo: "/images/companies/smartnation-logo.png"
+    links:
+      - link_label: "smartnation.it"
+        link_url: "https://smartnation.it/"
+  - name: Associazione InnovaFiducia
+    logo: "/images/companies/innovafiducia-logo.png"
+    links:
+      - link_label: "innovafiducia.org"
+        link_url: "https://innovafiducia.org/"
