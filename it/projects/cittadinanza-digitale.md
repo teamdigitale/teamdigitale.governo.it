@@ -6,7 +6,7 @@ layout: project
 ref: cittadinanza-digitale
 parent_ref: projects
 parent_menu: projects
-people: [federico-feroldi, matteo-de-santi, giuseppe-virgone]
+people: [federico-feroldi, matteo-de-santi, giuseppe-virgone, matteo-boschi]
 toc: true
 medium_tag: apps
 timeline:

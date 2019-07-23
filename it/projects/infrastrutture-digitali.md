@@ -6,7 +6,7 @@ layout: project
 ref: cloud
 parent_ref: projects
 parent_menu: projects
-people: [paolo-de-rosa]
+people: [paolo-de-rosa, lucio-pileggi]
 toc: true
 medium_tag: cloudpa
 twitter_tag: cloudpa
