@@ -100,3 +100,28 @@ aderenti_manifesto:
     links:
       - link_label: "tim.it"
         link_url: "https://www.tim.it/"
+  - name: ACCA Software
+    logo: "/images/companies/acca-logo.png"
+    links:
+      - link_label: "acca.it"
+        link_url: "https://www.acca.it/"
+  - name: Consorzio Interuniversitario Nazionale per l’Informatica
+    logo: "/images/companies/cini-logo.png"
+    links:
+      - link_label: "consorzio-cini.it"
+        link_url: "http://www.consorzio-cini.it"
+  - name: Fondazione Mondo Digitale
+    logo: "/images/companies/fondazione-mondo-digitale-logo.png"
+    links:
+      - link_label: "mondodigitale.org"
+        link_url: "https://mondodigitale.org/it"
+  - name: Gruppo di Ingegneria Informatica
+    logo: "/images/companies/gii-logo.png"
+    links:
+      - link_label: "gii.it"
+        link_url: "http://www.gii.it"
+  - name: Gruppo di Informatica
+    logo: "/images/companies/grin-logo.png"
+    links:
+      - link_label: "grin-informatica.it"
+        link_url: "http://www.grin-informatica.it"
