@@ -6,11 +6,12 @@
 defaults: &defaults
   working_directory: /home/circleci/teamdigitale.governo.it
   docker:
-    - image: circleci/ruby:2.5.1-node-browsers
+    - image: circleci/ruby:2.6.3-node-browsers
       environment:
         BUNDLE_JOBS: 3
         BUNDLE_RETRY: 3
         BUNDLE_PATH: vendor/bundle
+        BUNDLER_VERSION: 2.0.1
 
 # we use a rw SSH key instead of the default one injected by CircleCI because we
 # use it for deploy as well
@@ -39,13 +40,13 @@ jobs:
 
       - restore_cache:
           keys:
-          - v5-dependencies-ruby-{{ checksum "Gemfile.lock" }}
-          - v5-dependencies-ruby-
+          - v6-dependencies-ruby-{{ checksum "Gemfile.lock" }}
+          - v6-dependencies-ruby-
 
       - run: bundle check || bundle install
 
       - save_cache:
-          key: v5-dependencies-ruby-{{ checksum "Gemfile.lock" }}
+          key: v6-dependencies-ruby-{{ checksum "Gemfile.lock" }}
           paths:
             - vendor/bundle
 
@@ -54,13 +55,13 @@ jobs:
       #
       - restore_cache:
           keys:
-          - v5-dependencies-node-{{ checksum "yarn.lock" }}
-          - v5-dependencies-node-
+          - v6-dependencies-node-{{ checksum "yarn.lock" }}
+          - v6-dependencies-node-
 
       - run: yarn install --cache-folder ~/.cache/yarn
 
       - save_cache:
-          key: v5-dependencies-node-{{ checksum "yarn.lock" }}
+          key: v6-dependencies-node-{{ checksum "yarn.lock" }}
           paths:
             - node_modules
             - ~/.cache/yarn

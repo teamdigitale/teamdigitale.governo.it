@@ -1,14 +1,12 @@
-const gulp = require('gulp'),
-  gutil = require('gulp-util'),
+var gulp = require('gulp'),
+  del = require('del'),
+  log = require('fancy-log'),
+  colors = require('ansi-colors'),
   fs = require('fs'),
   os = require('os'),
   path = require('path'),
-  clean = require('gulp-clean'),
   shell = require('gulp-shell'),
   imagemin = require('gulp-imagemin'),
-  pngquant = require('imagemin-pngquant'),
-  jpegtran = require('imagemin-jpegtran'),
-  gifsicle = require('imagemin-gifsicle'),
   htmlmin = require('gulp-htmlmin'),
   cleanCSS = require('gulp-clean-css'),
   concat = require('gulp-concat'),
@@ -22,10 +20,10 @@ const gulp = require('gulp'),
 
 var config = {}
 if (fs.existsSync(configFile)) {
-  gutil.log('Reading local config from [' + configFile + ']')
+  log('Reading local config from [' + configFile + ']')
   config = require(configFile)
 } else {
-  gutil.log('No local config found at [' + configFile + ']')
+  log('No local config found at [' + configFile + ']')
 }
 
 gulp.task('jekyll', function() {
@@ -41,9 +39,9 @@ gulp.task('html-proofer', function(done) {
   var cmd = 'bundle exec htmlproofer ' + htmlproof_sitefolder + ' ' + htmlproof_params
   return gulp.src(htmlproof_sitefolder)
     .pipe(exec(cmd, function(error, stdout, stderr) {
-      gutil.log(gutil.colors.cyan(cmd))
-      gutil.log(gutil.colors.cyan(stdout))
-      gutil.log(gutil.colors.red(stderr))
+      log(colors.yellow(cmd))
+      log(colors.cyan(stdout))
+      log(colors.red(stderr))
       done(error)
     }))
 })
@@ -53,13 +51,16 @@ gulp.task('optimize-images', function() {
   return gulp.src(['_site/**/*.jpg', '_site/**/*.jpeg', '_site/**/*.gif',
     '_site/**/*.png'
   ])
-    .pipe(imagemin({
-      progressive: false,
-      svgoPlugins: [{
-        removeViewBox: false
-      }],
-      use: [pngquant(), jpegtran(), gifsicle()]
-    }))
+    .pipe(imagemin([
+      imagemin.jpegtran({progressive: true}),
+      imagemin.gifsicle({interlaced: true}),
+      imagemin.optipng({optimizationLevel: 5}),
+      imagemin.svgo({
+        plugins: [
+          {removeViewBox: false}
+        ]
+      })
+    ]))
     .pipe(gulp.dest('_site/'))
 })
 
@@ -86,11 +87,7 @@ gulp.task('optimize-js', function() {
 })
 
 gulp.task('clean', function() {
-  return gulp.src('_site', {
-    allowEmpty: true,
-    read: false
-  })
-    .pipe(clean())
+  return del(['_site/**/*'])
 })
 
 gulp.task('optimize', gulp.parallel(
@@ -126,7 +123,6 @@ if (config.staging || process.env.TEAMDIGITALE_SITE_STAGING_SERVER) {
         delete: true,
         recursive: true,
         compress: true,
-        delete: true,
         chmod: 'g+rwx',
         chown: 'www-data:www-data',
         perms: true,
