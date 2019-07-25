@@ -5,9 +5,10 @@ permalink: /it/jobpositions/open-source-project-leader.htm
 jazz_url: https://teamdigitale.applytojob.com/apply/ifK3ZuAQtc/2-Open-Source-Project-Leader
 iframeheight: 700
 layout: job
+archived: true
 ref: open-source-project-leader
 parent_ref: join-us
-is_new: true
+is_new: false
 ---
 
 ### Descrizione e responsabilità
