@@ -135,3 +135,8 @@ aderenti_manifesto:
     links:
       - link_label: "innovafiducia.org"
         link_url: "https://innovafiducia.org/"
+  - name: Trentino School of Management
+    logo: "/images/companies/tsm-logo.png"
+    links:
+      - link_label: "www.tsm.tn.it"
+        link_url: "https://www.tsm.tn.it/"
