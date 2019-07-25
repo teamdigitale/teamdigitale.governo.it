@@ -8,10 +8,10 @@ is_new: true
 linkedin_url: https://www.linkedin.com/in/ceresoni/
 ref: andrea-ceresoni
 parent_ref: team
-start_date: 1 marzo 2019
-period_provided: fino al 15 settembre 2019
+start_date: March 1, 2019
+period_provided: until September 15, 2019
 annual_compensation: € 85.000
-approved_by_court: 8th april 2019
+approved_by_court: 8th April 2019
 ---
 I am 41 years old and proudly from Rome. My passion for computer science started very early when one Saturday afternoon my father showed up at home with a used Olivetti Prodest, without a hard disk and with an 8086 processor. From that moment I started spending more time at home than in the garden playing with friends.
 
