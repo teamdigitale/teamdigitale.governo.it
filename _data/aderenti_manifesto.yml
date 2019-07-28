@@ -140,3 +140,8 @@ aderenti_manifesto:
     links:
       - link_label: "www.tsm.tn.it"
         link_url: "https://www.tsm.tn.it/"
+  - name: Associazione Open Genova
+    logo: "/images/companies/open-genova-logo.png"
+    links:
+      - link_label: "opengenova.org"
+        link_url: "https://associazione.opengenova.org/"
