@@ -4,7 +4,6 @@ lang: it
 permalink: /it/people/13-profile.htm
 layout: people
 role: Relazioni Sviluppatori
-is_new: false
 twitter_user: giovannibajo
 medium_user: giovannibajo
 linkedin_url: https://www.linkedin.com/in/giovannibajo

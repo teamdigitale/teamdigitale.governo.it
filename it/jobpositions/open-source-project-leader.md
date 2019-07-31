@@ -8,7 +8,6 @@ layout: job
 archived: true
 ref: open-source-project-leader
 parent_ref: join-us
-is_new: false
 ---
 
 ### Descrizione e responsabilità

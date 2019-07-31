@@ -7,7 +7,6 @@ iframeheight: 700
 layout: job
 archived: true
 ref: open-source-project-leader
-is_new: false
 parent_ref: join-us
 ---
 

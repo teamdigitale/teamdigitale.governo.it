@@ -4,7 +4,6 @@ lang: it
 permalink: /it/people/29-profile.htm
 layout: people
 role: Big Data Engineer
-is_new: false
 twitter_user: giuxale
 medium_user:
 linkedin_url: https://it.linkedin.com/in/alessandroercolani

@@ -4,7 +4,6 @@ lang: it
 permalink: /it/people/4-profile.htm
 layout: people
 role: Comunicazione e PR
-is_new: false
 twitter_user: marisandralizzi
 medium_user: marisandralizzi
 email: marisandra@teamdigitale.governo.it

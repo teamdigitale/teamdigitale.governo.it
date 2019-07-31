@@ -4,7 +4,6 @@ lang: en
 permalink: /en/people/roberta-tassi
 layout: people
 role: Service Designer
-is_new: false
 twitter_user: s_designtools
 medium_user:
 linkedin_url: https://www.linkedin.com/in/robertatassi/

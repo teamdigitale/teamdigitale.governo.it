@@ -4,7 +4,6 @@ lang: it
 permalink: /it/people/3-profile.htm
 layout: people
 role: Affari Regolamentari nazionali ed europei
-is_new: false
 twitter_user: guidoscorza
 medium_user: guidoscorza
 linkedin_url:

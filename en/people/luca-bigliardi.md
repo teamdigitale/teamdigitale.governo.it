@@ -4,7 +4,6 @@ lang: en
 permalink: /en/people/luca-bigliardi.html
 layout: people
 role: Software Developer
-is_new: false
 ref: luca-bigliardi
 parent_ref: team
 start_date: July 19, 2017

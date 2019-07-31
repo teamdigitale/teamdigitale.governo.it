@@ -4,7 +4,6 @@ lang: it
 permalink: /it/people/ludovico-poggi.html
 layout: people
 role: Comunicazione e relazioni istituzionali
-is_new: false
 twitter_user: ludo_poggi
 medium_user:
 linkedin_url: https://www.linkedin.com/in/ludovico-poggi-212a738/

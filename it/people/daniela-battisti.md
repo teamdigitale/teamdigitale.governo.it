@@ -4,7 +4,6 @@ lang: it
 permalink: /it/people/36-profile.htm
 layout: people
 role: Relazioni Internazionali
-is_new: false
 twitter_user:
 medium_user:
 linkedin_url:

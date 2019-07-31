@@ -4,7 +4,6 @@ lang: en
 permalink: /en/people/12-profile.htm
 layout: people
 role: Chief Technology Officer - Technology & Architecture
-is_new: false
 twitter_user: spiunno
 medium_user: simonepiunno
 linkedin_url: https://it.linkedin.com/in/simone-piunno-a94ba91

@@ -4,7 +4,6 @@ lang: en
 permalink: /en/people/20-profile.htm
 layout: people
 role: Cybersecurity
-is_new: false
 twitter_user: gvarisco
 medium_user:
 linkedin_url: https://www.linkedin.com/in/gvarisco

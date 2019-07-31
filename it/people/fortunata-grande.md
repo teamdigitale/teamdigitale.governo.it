@@ -4,7 +4,6 @@ lang: it
 permalink: /it/people/fortunata-grande.htm 
 layout: people
 role: Assistente amministrativo di supporto a pagamenti ed acquisti
-is_new: false
 twitter_user: 
 medium_user: 
 linkedin_url:

@@ -4,7 +4,6 @@ lang: it
 permalink: /it/people/6-profile.htm
 layout: people
 role: Assistente Tecnico e Coordinatore delle attività
-is_new: false
 twitter_user: simosurdi
 medium_user:
 linkedin_url:

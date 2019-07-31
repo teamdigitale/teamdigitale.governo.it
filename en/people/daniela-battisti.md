@@ -4,7 +4,6 @@ lang: en
 permalink: /en/people/35-profile.htm
 layout: people
 role: International Relations
-is_new: false
 twitter_user:
 medium_user:
 linkedin_url:

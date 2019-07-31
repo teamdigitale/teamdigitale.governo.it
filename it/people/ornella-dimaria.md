@@ -4,7 +4,6 @@ lang: it
 permalink: /it/people/ornella-dimaria.htm 
 layout: people
 role: Administrative Assistant del Commissario straordinario
-is_new: false
 twitter_user: 
 medium_user: 
 linkedin_url:

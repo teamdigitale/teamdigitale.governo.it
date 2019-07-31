@@ -4,7 +4,6 @@ lang: it
 permalink: /it/people/andrea-ceresoni
 layout: people
 role: Cybersecurity 
-is_new: true
 linkedin_url: https://www.linkedin.com/in/ceresoni/
 ref: andrea-ceresoni
 parent_ref: team

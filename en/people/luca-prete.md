@@ -4,7 +4,6 @@ lang: en
 permalink: /en/people/luca-prete.htm
 layout: people
 role: Site Reliability Engineer / DevOps Engineer
-is_new: true
 twitter_user: preteluca
 medium_user:
 linkedin_url: https://www.linkedin.com/in/lucaprete

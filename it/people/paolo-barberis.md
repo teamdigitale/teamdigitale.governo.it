@@ -4,7 +4,6 @@ lang: it
 permalink: /it/people/2-profile.htm
 layout: people
 role: Consigliere per l'Innovazione del Presidente del Consiglio dei Ministri
-is_new: false
 medium_user: paolo
 linkedin_url: https://it.linkedin.com/in/pbarberis
 ref: paolo-barberis

@@ -4,7 +4,6 @@ lang: it
 permalink: /it/people/ludmila-cittarelli.htm 
 layout: people
 role: Funzionario amministrativo di supporto agli acquisti
-is_new: false
 twitter_user: 
 medium_user: 
 linkedin_url:

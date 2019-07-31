@@ -4,7 +4,6 @@ lang: en
 permalink: /en/people/32-profile.htm
 layout: people
 role: Software Architect
-is_new: false
 twitter_user: cloudify
 medium_user:
 linkedin_url: http://linkedin.com/in/feroldi
