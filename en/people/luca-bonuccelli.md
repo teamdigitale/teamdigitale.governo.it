@@ -4,7 +4,6 @@ lang: en
 permalink: /en/people/luca.bonuccelli.html
 layout: people
 role: Technical Project Manager
-is_new: true
 twitter_user: lucabonuc
 linkedin_url: https://www.linkedin.com/in/luca-bonuccelli-0a900062/
 ref: luca-bonuccelli

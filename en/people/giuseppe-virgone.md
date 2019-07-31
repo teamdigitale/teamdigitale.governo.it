@@ -4,7 +4,6 @@ lang: en
 permalink: /en/people/18-profile.htm
 layout: people
 role: Digital Payments
-is_new: false
 twitter_user: giuvir1999
 medium_user: giuvir1999
 linkedin_url: https://it.linkedin.com/in/giuseppe-virgone-0420a144

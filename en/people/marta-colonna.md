@@ -4,7 +4,6 @@ lang: en
 permalink: /en/people/marta-colonna
 layout: people
 role: Data Protection Officer (DPO)
-is_new: false
 twitter_user: 
 medium_user:
 linkedin_url: https://www.linkedin.com/in/martacolonna/

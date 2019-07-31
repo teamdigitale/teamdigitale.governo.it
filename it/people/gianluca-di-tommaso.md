@@ -4,7 +4,6 @@ lang: it
 permalink: /it/people/gianluca-di-tommaso.htm
 layout: people
 role: Comunicazione e social media
-is_new: true
 twitter_user: gditom
 medium_user:
 linkedin_url: https://www.linkedin.com/in/gianlucaditommaso

@@ -4,7 +4,6 @@ lang: en
 permalink: /en/people/9-profile.htm
 layout: people
 role: Italian and EU Regulatory affairs
-is_new: false
 twitter_user: guidoscorza
 medium_user: guidoscorza
 linkedin_url:

@@ -4,7 +4,6 @@ lang: it
 permalink: /it/people/marta-colonna
 layout: people
 role: Affari regolamentari nazionali ed europei e Responsabile della protezione dei dati (Rpd)
-is_new: false
 twitter_user: 
 medium_user:
 linkedin_url: https://www.linkedin.com/in/martacolonna/

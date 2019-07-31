@@ -4,7 +4,6 @@ lang: en
 permalink: /en/people/15-profile.htm
 layout: people
 role: Technical Assistant and coordinator of operations
-is_new: false
 twitter_user: simosurdi
 medium_user:
 linkedin_url:

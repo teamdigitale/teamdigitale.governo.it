@@ -4,7 +4,6 @@ lang: en
 permalink: /en/people/16-profile.htm
 layout: people
 role: Communication and PR
-is_new: false
 twitter_user: marisandralizzi
 medium_user: marisandralizzi
 linkedin_url: https://it.linkedin.com/in/marisandra-lizzi-972337

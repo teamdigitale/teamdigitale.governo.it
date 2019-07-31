@@ -4,7 +4,6 @@ lang: it
 permalink: /it/people/fabio-cristofari
 layout: people
 role: Executive Assistant del Commissario straordinario
-is_new: false
 twitter_user:
 medium_user:
 linkedin_url: https://www.linkedin.com/in/fcristofari

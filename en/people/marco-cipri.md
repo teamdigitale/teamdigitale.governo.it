@@ -4,7 +4,6 @@ lang: en
 permalink: 
 layout: people
 role: Technical Project Manager
-is_new: true
 twitter_user:
 medium_user: marcocipri
 linkedin_url: https://www.linkedin.com/in/marcocipri/

@@ -4,7 +4,6 @@ permalink: /it/people/paolo-micozzi
 lang: it
 layout: people
 role: Technical Project Manager
-is_new: true
 twitter_user: paomico
 medium_user: paolo.micozzi
 linkedin_url: https://www.linkedin.com/in/paolomicozzi

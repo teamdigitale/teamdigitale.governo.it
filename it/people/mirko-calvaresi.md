@@ -4,7 +4,6 @@ lang: it
 permalink: /it/people/26-profile.htm
 layout: people
 role: Technical Project Manager
-is_new: false
 twitter_user: mccalv
 medium_user:
 linkedin_url:

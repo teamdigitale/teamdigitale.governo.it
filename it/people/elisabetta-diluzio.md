@@ -4,7 +4,6 @@ lang: it
 permalink: /it/people/elisabetta-diluzio.htm 
 layout: people
 role: Assistente amministrativo di supporto alla struttura
-is_new: false
 twitter_user: 
 medium_user: 
 linkedin_url:

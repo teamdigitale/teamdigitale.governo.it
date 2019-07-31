@@ -4,7 +4,6 @@ lang: en
 permalink: /en/people/14-profile.htm
 layout: people
 role: Developer Relations
-is_new: false
 twitter_user: giovannibajo
 medium_user: giovannibajo
 linkedin_url: https://www.linkedin.com/in/giovannibajo

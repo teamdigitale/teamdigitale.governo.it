@@ -4,7 +4,6 @@ lang: it
 permalink: /it/people/28-profile.htm
 layout: people
 role: Technical Project Manager
-is_new: false
 twitter_user: valeriopaolini
 medium_user:
 linkedin_url: https://it.linkedin.com/in/valeriopaolini

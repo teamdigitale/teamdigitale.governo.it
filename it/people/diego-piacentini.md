@@ -4,7 +4,6 @@ lang: it
 permalink: /it/people/1-profile.htm
 layout: people
 role: Commissario Straordinario per l'attuazione dell'Agenda Digitale
-is_new: false
 twitter_user: diegopia
 medium_user: diegopia
 linkedin_url: https://www.linkedin.com/in/diego-piacentini-612597

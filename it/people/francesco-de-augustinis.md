@@ -4,7 +4,6 @@ lang: it
 permalink: /it/people/francesco-de-augustinis
 layout: people
 role: Comunicazione e gestione dei contenuti
-is_new: false
 twitter_user: 
 medium_user: francescomda
 linkedin_url: https://www.linkedin.com/in/francesco-de-augustinis-9bb14167/

@@ -4,7 +4,6 @@ lang: en
 permalink: /en/people/giovanni-ruggiero.htm
 layout: people
 role: Big Data Engineer
-is_new: false
 twitter_user: gruggie
 medium_user:
 linkedin_url: http://linkedin.com/in/giovanniruggiero

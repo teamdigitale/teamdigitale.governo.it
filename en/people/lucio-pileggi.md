@@ -4,7 +4,6 @@ lang: en
 permalink: /en/people/lucio-pileggi.html
 layout: people
 role: Technical Project Manager
-is_new: true
 twitter_user: luciopileggi
 linkedin_url: https://www.linkedin.com/in/pileggi
 ref: lucio-pileggi

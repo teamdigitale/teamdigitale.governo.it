@@ -4,7 +4,6 @@ lang: en
 permalink: /en/people/33-profile.htm
 layout: people
 role: Chief Product & Design Officer
-is_new: false
 twitter_user: matteo_desanti
 medium_user:
 linkedin_url: https://www.linkedin.com/in/matteodesanti

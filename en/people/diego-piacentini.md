@@ -4,7 +4,6 @@ lang: en
 permalink: /en/people/7-profile.htm
 layout: people
 role: Government Commissioner for the Digital Agenda
-is_new: false
 twitter_user: diegopia
 medium_user: diegopia
 linkedin_url: https://www.linkedin.com/in/diego-piacentini-612597

@@ -4,7 +4,6 @@ lang: en
 permalink: /en/people/8-profile.htm
 layout: people
 role: Innovation Adviser to the Italian Prime Minister
-is_new: false
 medium_user: paolo
 linkedin_url: https://it.linkedin.com/in/pbarberis
 ref: paolo-barberis
