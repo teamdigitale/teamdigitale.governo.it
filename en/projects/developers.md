@@ -31,7 +31,7 @@ timeline:
     desc: Our goal is to integrate the development of 10 different platforms in our community, involving the administrations responsible for them in the new open and collaborative development model.
   - period: Q1 2018
     title: Going beyond the &quot;Catalogue of the Reuse&quot; model
-    desc: Public review started for our new [guidelines](https://developers.italia.it/en/reuse) that supersede the current AgID &quot;Reuse Catalogue&quot;, promoting the publishing of all code on collaborative platforms (such as GitHub or GitLab). We aim to go beyond (and simplify) the current system for sharing the code between different administrations, a system which doesn't have the need for contracts or other bureaucratic impediments.
+    desc: Public review started for our new [guidelines](https://developers.italia.it/en/reuse) that supersede the current AgID &quot;Reuse Catalogue&quot;, promoting the publishing of all code on collaborative platforms, such as GitHub or GitLab. We aim to go beyond (and simplify) the current system for sharing the code between different administrations, with a system not requiring any contracts or other bureaucratic impediments.
   - period: Q2 2018
     title: API catalogue
     desc: Developers Italia now contains a new API catalogue with Swagger integration. Further work is planned on this catalogue.
@@ -44,7 +44,7 @@ timeline:
     status: todo
   - period: Q3 2019
     title: 50 open source projects in the catalogue
-    desc: Within the first four months after launcing the reuse catalogue we want to have at least 50 software packages released by public entities, thanks to our activity of outreach, training and assistance.
+    desc: Within the first four months after launcing the reuse catalogue we aim to have at least 50 software packages released by public entities, thanks to our activity of outreach, training and assistance.
     status: todo
   - period: Q3 2019
     title: Completion of Google Summer of Code 2019
