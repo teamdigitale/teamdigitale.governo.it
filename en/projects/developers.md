@@ -27,29 +27,41 @@ timeline:
     title: National Hackathon
     desc: We created the biggest Italian &quot;code sprint&quot;, gathering more than 800 developers working on the open-source code of the Public Administration, resulting in dozens of projects that were immediately available to speed up the digitisation of public services.
   - period: Q4 2017
-    title: 10 projects in Developers Italia
-    desc: Our objective is to integrate the development of 10 different community projects, involving the administrations responsible for them in the new open and collaborative development model.
+    title: 10 platforms in Developers Italia
+    desc: Our goal is to integrate the development of 10 different platforms in our community, involving the administrations responsible for them in the new open and collaborative development model.
   - period: Q1 2018
     title: Going beyond the &quot;Catalogue of the Reuse&quot; model
-    desc: Public review started for our new [guidelines](https://docs.italia.it/AgID/linee-guida-riuso-software/lg-acquisizione-e-riuso-software-per-pa-docs/) that supersede the current AgID &quot;Reuse Catalogue&quot;, promoting the publishing of all code on collaborative platforms (such as GitHub or GitLab). We aim to go beyond (and simplify) the current system for sharing the code between different administrations, a system which doesn't have the need for contracts or other bureaucratic impediments.
+    desc: Public review started for our new [guidelines](https://developers.italia.it/en/reuse) that supersede the current AgID &quot;Reuse Catalogue&quot;, promoting the publishing of all code on collaborative platforms, such as GitHub or GitLab. We aim to go beyond (and simplify) the current system for sharing the code between different administrations, with a system not requiring any contracts or other bureaucratic impediments.
   - period: Q2 2018
     title: API catalogue
     desc: Developers Italia now contains a new API catalogue with Swagger integration. Further work is planned on this catalogue.
   - period: Q4 2018
     title: First round of open source software development completed
     desc: The small and medium software house companies acquired through public tenders completed the development of 16 new open source projects supporting the enabling platforms.
-  - period: Q1 2019
-    title: Developers Italia 2.0
-    desc: The [guidelines about software reuse based on the open source model](https://docs.italia.it/AgID/linee-guida-riuso-software/lg-acquisizione-e-riuso-software-per-pa-docs/) become effective. In addition to the national enabling platforms, Developers Italia hosts the new Reuse Catalogue for open source and reusable software, according to the new guidelines.
-    status: todo
   - period: Q2 2019
+    title: Developers Italia 2.0
+    desc: The [guidelines about software reuse based on the open source model](https://developers.italia.it/en/reuse) become effective. In addition to the national enabling platforms, Developers Italia hosts the new Reuse Catalogue for open source and reusable software, according to the new guidelines.
+    status: todo
+  - period: Q3 2019
     title: 50 open source projects in the catalogue
-    desc: Within the first three months after launcing the reuse catalogue we want to have at least 50 software packages released by public entities.
+    desc: Within the first four months after launcing the reuse catalogue we aim to have at least 50 software packages released by public entities, thanks to our activity of outreach, training and assistance.
+    status: todo
+  - period: Q3 2019
+    title: Completion of Google Summer of Code 2019
+    desc: For the second year, Developers Italia is one of the 200 mentoring organizations in the Google Summer of Code program, which allowed three students to work on our open source projects.
+  - period: Q3 2019
+    title: Community call kick-off
+    desc: A regular bi-weekly call will be launched in September, to give to our community a new place to discuss about the project roadmap.
     status: todo
   - period: Q4 2019
-    title: Second hackathon/code sprint
-    desc: We plan to organize one more code sprint focused on the software published in the reuse catalogue.
+    title: New platforms in community
+    desc: We want to bring more national and local platforms into the Developers Italia community, by involving the entities who are responsible for them.
     status: todo
+  - period: Q4 2019
+    title: More tools for Public Administration
+    desc: We intend to publish more tools and documentation for supporting Public Administrations in managing their open source projects according to the best practice.
+    status: todo
+
 ---
 
 ### In short
@@ -63,7 +75,7 @@ The community includes technical people of the Public Administration as well as 
 
 #### Software reuse
 
-Developers Italia is also appointed by the new [_Guidelines for acquisition and reuse of software_](https://docs.italia.it/AgID/linee-guida-riuso-software/lg-acquisizione-e-riuso-software-per-pa-docs/) as the platform where software to be reused must be published according to the [article 69 of the Digital Administration Code](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo6_art69.html).
+Developers Italia is also appointed by the new [_Guidelines for acquisition and reuse of software_](https://developers.italia.it/en/reuse) as the platform where software to be reused must be published according to the [article 69 of the Digital Administration Code](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo6_art69.html).
 
 The Italian law states that whenever an Administration acquires software it must perform a comparative assessment among the available solutions, giving priority to existing or open source software. Moreover, when it commissions development of new software, such software must be released as open source in a public repository. This law is very advanced at international level, but the Team intervention was needed for kickstarting its implementation.
 

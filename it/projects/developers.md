@@ -27,28 +27,37 @@ timeline:
     title: Hackathon nazionale
     desc: Abbiamo realizzato il più grosso "code sprint" italiano&#58; più di 800 sviluppatori a lavoro sul codice open source della Pubblica Amministrazione, creando decine di progetti che sono fin da subito utilizzabili per velocizzare la digitalizzazione dei servizi pubblici.
   - period: Q4 2017
-    title: 10 progetti in Developers Italia
-    desc: Abbiamo un obiettivo di attivare lo sviluppo su 10 diversi progetti in community, coinvolgendo le amministrazioni di competenza nel nuovo modello di sviluppo aperto e collaborativo.
+    title: 10 piattaforme in Developers Italia
+    desc: Abbiamo un obiettivo di attivare lo sviluppo su 10 diverse piattaforme in community, coinvolgendo le amministrazioni di competenza nel nuovo modello di sviluppo aperto e collaborativo.
   - period: Q1 2018
     title: Superamento del modello del "Catalogo del Riuso"
-    desc: Abbiamo pubblicato in consultazione pubblica le nuove [linee guida](https://docs.italia.it/AgID/linee-guida-riuso-software/lg-acquisizione-e-riuso-software-per-pa-docs/) che superano l'attuale "Catalogo del Riuso" di AgID, promuovendo invece la pubblicazione di codice con licenza open source, come sistema superiore per convidere il codice tra diverse amministrazioni, senza necessità di contratti.
+    desc: Abbiamo pubblicato in consultazione pubblica le nuove [linee guida](https://developers.italia.it/it/riuso) che superano l'attuale "Catalogo del Riuso" di AgID, promuovendo invece la pubblicazione di codice con licenza open source, come sistema superiore per convidere il codice tra diverse amministrazioni, senza necessità di contratti.
   - period: Q2 2018
-    title: Catalogo delle API
-    desc: Developers Italia contiene il nuovo catalogo delle API, integrato con Swagger.
+    title: Selezione di API REST
+    desc: Developers Italia contiene una nuova sezione contenenti una selezione di API REST, integrata con Swagger.
   - period: Q4 2018
     title: Completamento primo round di sviluppo
     desc: Insieme alle piccole e medie software house aggiudicatarie del primo round di gare abbiamo completato lo sviluppo di 16 nuovi progetti open source a supporto delle piattaforme abilitanti.
-  - period: Q1 2019
-    title: Developers Italia 2.0
-    desc: Le [linee guida](https://docs.italia.it/AgID/linee-guida-riuso-software/lg-acquisizione-e-riuso-software-per-pa-docs/) escono in Gazzetta Ufficiale e la nuova versione di Developers Italia, contenente il catalogo del software open source, va online.
-    status: todo
   - period: Q2 2019
+    title: Developers Italia 2.0
+    desc: Le [linee guida](https://developers.italia.it/it/riuso) escono in Gazzetta Ufficiale e la nuova versione di Developers Italia, contenente il catalogo del software open source, va online.
+  - period: Q3 2019
     title: 50 progetti nel catalogo del software
-    desc: Nel primo trimestre di vita del modello open source puntiamo al rilascio in open source di almeno 50 soluzioni software della Pubblica Amministrazione.
+    desc: Nei primi quattro mesi di vita del modello di riuso basato sull'open source puntiamo al rilascio di almeno 50 soluzioni software della Pubblica Amministrazione, attraverso la nostra attività di contatto, formazione ed accompagnamento.
+  - period: Q3 2019
+    title: Completamento dei progetti Google Summer of Code
+    desc: Per il secondo anno consecutivo Developers Italia è stata una mentoring org nel programma Google Summer of Code, che ha visto tre studenti lavorare ai progetti open source della community.
+  - period: Q3 2019
+    title: Avvio della community call
+    desc: A settembre partirà una call bisettimanale per coinvolgere la community in uno spazio di confronto regolare e per condividere la roadmap.
     status: todo
   - period: Q4 2019
-    title: Secondo hackathon/code sprint
-    desc: Vorremmo organizzare un secondo code sprint focalizzato sul parco software pubblicato nel catalogo di Developers Italia.
+    title: Nuove piattaforme in community
+    desc: Vogliamo portare nella community di Developers Italia altre piattaforme nazionali e locali, con il coinvolgimento degli enti gestori.
+    status: todo
+  - period: Q4 2019
+    title: Pubblicazione di ulteriori strumenti per le Pubbliche Amministrazioni
+    desc: Entro il 2019 vogliamo completare tutti gli strumenti tecnici e la documentazione a supporto delle Pubbliche Amministrazioni per la corretta gestione dei propri progetti secondo il modello open source.
     status: todo
 ---
 
@@ -58,7 +67,7 @@ Developers Italia è la community dedicata allo sviluppo di software open source
 
 La community è composta da tecnici della Pubblica Amministrazione o dei fornitori, ma anche da cittadini e studenti, che collaborano sugli specifici progetti e comunicano attraverso gli strumenti messi a disposizione ([Slack](https://slack.developers.italia.it/), [GitHub](https://github.com/italia), [forum](https://forum.italia.it/)).
 
-Developers Italia è inoltre individuata dalle nuove [_Linee guida sull'acquisizione e il riuso di software_](https://docs.italia.it/AgID/linee-guida-riuso-software/lg-acquisizione-e-riuso-software-per-pa-docs/) quale piattaforma ove pubblicare il software a riuso ai sensi dell'[art. 69 del Codice dell'Amministrazione Digitale](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo6_art69.html).
+Developers Italia è inoltre individuata dalle nuove [_Linee guida sull'acquisizione e il riuso di software_](https://developers.italia.it/it/riuso) quale piattaforma ove pubblicare il software a riuso ai sensi degli obblighi dell'[art. 69 del Codice dell'Amministrazione Digitale](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo6_art69.html).
 
 {:.h4}
 [Scopri gli aspetti tecnici su Developers Italia](https://developers.italia.it)
@@ -89,7 +98,7 @@ Ad ottobre 2017 abbiamo orgnizzato [Hack Developers](https://hack.developers.ita
  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8jIID_GmU5Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
  </div>
 
-Nel 2018, in stretta collaborazione con AgID, abbiamo lavorato alla stesura delle nuove [Linee Guida per l'Acquisizione e il Riuso di Software per la Pubblica Amministrazione](https://docs.italia.it/AgID/linee-guida-riuso-software/lg-acquisizione-e-riuso-software-per-pa-docs/) che applicano un modello basato sull'open source e mettono le basi per un'efficace costruzione di un patrimonio di software pubblico aperto e di qualità.
+Nel 2018, in stretta collaborazione con AgID, abbiamo lavorato alla stesura delle nuove [Linee Guida per l'Acquisizione e il Riuso di Software per la Pubblica Amministrazione](https://developers.italia.it/it/riuso) che applicano un modello basato sull'open source e mettono le basi per un'efficace costruzione di un patrimonio di software pubblico aperto e di qualità.
 
 Per attuare questo modello di riuso abbiamo creato la nuova versione del sito Developers Italia, contenente il catalogo del software popolato automaticamente da un crawler da noi sviluppato. A tale scopo abbiamo definito uno standard per la metadatazione del software pubblico, chiamato [publiccode.yml](https://docs.italia.it/italia/developers-italia/publiccodeyml/), che è in corso di adozione da parte di altri stati esteri.
 
