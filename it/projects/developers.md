@@ -6,7 +6,7 @@ layout: project
 ref: developers
 parent_ref: projects
 parent_menu: projects
-people: [alessandro-ranellucci, leonardo-favario, alessandro-sebastiani, giovanni-bajo, riccardo-iaconelli]
+people: [alessandro-ranellucci, leonardo-favario, alessandro-sebastiani, andrea-biancini, giovanni-bajo, riccardo-iaconelli]
 toc: true
 twitter_user: developersITA
 medium_tag: developer
