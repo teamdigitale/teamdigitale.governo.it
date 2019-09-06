@@ -145,3 +145,18 @@ aderenti_manifesto:
     links:
       - link_label: "opengenova.org"
         link_url: "https://associazione.opengenova.org/"
+  - name: Fondazione PICO
+    logo: "/images/companies/pico-logo.png"
+    links:
+      - link_label: "pico.coop"
+        link_url: "https://www.pico.coop/"
+  - name: Harpaceas
+    logo: "/images/companies/harpaceas-logo.png"
+    links:
+      - link_label: "harpaceas.it"
+        link_url: "https://harpaceas.it/"
+  - name: WeSchool
+    logo: "/images/companies/weschool-logo.png"
+    links:
+      - link_label: "weschool.com"
+        link_url: "https://www.weschool.com/"
