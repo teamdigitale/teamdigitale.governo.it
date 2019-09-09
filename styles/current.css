@@ -903,7 +903,7 @@ a.swich-language, a.swich-language:hover {
   padding: 0;
 }
 #jobaccordion_list li {
-  
+
   font-size: 16px;
   line-height: 18px;
 }
@@ -965,7 +965,7 @@ a.swich-language, a.swich-language:hover {
   background: #fff; /* Old browsers */
   background: -moz-linear-gradient(top, rgba(0,0,0,0) 0%, #ffffff 100%); /* FF3.6-15 */
   background: -webkit-linear-gradient(top, rgba(0,0,0,0) 0%,#ffffff 100%); /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(to bottom, rgba(0,0,0,0) 0%,#ffffff 100%); 
+  background: linear-gradient(to bottom, rgba(0,0,0,0) 0%,#ffffff 100%);
 }
 #keepinmind.collapse.in:after {
   display: none;
@@ -1043,7 +1043,8 @@ article p {
 /* OVERRIDE SPECIFICO IN CASO DI LAYOUT PROJECT */
 @media screen and (min-width: 992px) {
     body.layout-project #main {
-    max-width: none !important;
+        max-width: none !important;
+    }
 }
 
 .twitter-timeline-error {
