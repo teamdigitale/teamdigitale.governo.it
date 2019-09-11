@@ -8,6 +8,7 @@ layout: default
 permalink: /it/repubblica-digitale
 redirect_from:
   - /repubblica-digitale
+hide_last_mod_date: true
 ---
 
 <div class="container repubblica-digitale-header">
