@@ -165,3 +165,23 @@ aderenti_manifesto:
     links:
       - link_label: "consorzioit.net"
         link_url: "https://www.consorzioit.net/"
+  - name: Comune di Milano
+    logo: "/images/companies/milano-logo.png"
+    links:
+      - link_label: "comune.milano.it"
+        link_url: "https://www.comune.milano.it/"
+  - name: Comune di Venezia
+    logo: "/images/companies/venezia-logo.png"
+    links:
+      - link_label: "comune.venezia.it"
+        link_url: "https://www.comune.venezia.it/"
+  - name: VENIS S.p.A.
+    logo: "/images/companies/venis-logo.png"
+    links:
+      - link_label: "venis.it"
+        link_url: "https://www.venis.it/"
+  - name: Webidoo
+    logo: "/images/companies/webidoo-logo.jpg"
+    links:
+      - link_label: "www.webidoo.it"
+        link_url: "https://www.webidoo.it/"
