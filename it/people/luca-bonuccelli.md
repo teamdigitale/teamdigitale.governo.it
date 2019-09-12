@@ -9,11 +9,10 @@ linkedin_url: https://www.linkedin.com/in/luca-bonuccelli-0a900062/
 ref: luca-bonuccelli
 parent_ref: team
 start_date: 18 febbraio 2019
-period_provided: fino al 15 settembre 2019
+period_provided: fino al 31 dicembre 2019
 annual_compensation: € 75.000
-approved_by_court: 8 aprile 2019
+approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti
 ---
-
 
 Sono nato a Cascina, piccola realtà vicino a Pisa, dove oggi vivo. Ho mosso i primi passi nella programmazione al liceo all’inizio degli anni ‘90. Come molti ragazzi dell’epoca sono rimasto affascinato dalla programmazione e dalla tecnologia che sono diventate la mia professione. 
 

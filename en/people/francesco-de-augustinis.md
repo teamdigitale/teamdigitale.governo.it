@@ -10,9 +10,9 @@ linkedin_url: https://www.linkedin.com/in/francesco-de-augustinis-9bb14167/
 ref: francesco-de-augustinis
 parent_ref: team
 start_date: January 14, 2019
-period_provided: until September 15, 2019
+period_provided: until December 31, 2019
 annual_compensation: € 60.000
-approved_by_court: 8th april 2019
+approved_by_court: The act of appointment is being registered at the Court of Auditors
 ---
 My professional history was driven by my passion for journalism and aptitude for digital contents. While I was studying communication and journalism at the University (in Perugia and Rome), I was working within a small group of friends to the creation of a start up - a social network for visual arts - awarded by the Ericsson’s program EGO for innovation, and supported by the business accelerator program Topix. 
 

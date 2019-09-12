@@ -10,9 +10,9 @@ linkedin_url: https://www.linkedin.com/in/gianlucaditommaso
 ref: gianluca-di-tommaso
 parent_ref: team
 start_date: November 19, 2018
-period_provided: until September 15, 2019
+period_provided: until December 31, 2019
 annual_compensation: € 63.000
-approved_by_court: 18th January 2019.
+approved_by_court: The act of appointment is being registered at the Court of Auditors
 ---
 I was a little over ten years old when I started probing every button I found, driven by a strong curiosity that is still part of me today. I wanted to experience all the functions available in a software with a blank sheet and a flashing cursor. And I still distinctly remember that strange buzz and those beeps of the 56kbit/s analog modem that allowed me to connect to something called "Internet" for the first time. It didn't take me long to get excited about that thing and to understand that it could be a diversion, but also a further, inexhaustible source for my curiosity. It was the second half of the 90s and a teenager ran much fewer risks than today to play around undisturbed online.
 

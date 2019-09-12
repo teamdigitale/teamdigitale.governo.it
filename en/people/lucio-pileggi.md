@@ -9,7 +9,7 @@ linkedin_url: https://www.linkedin.com/in/pileggi
 ref: lucio-pileggi
 parent_ref: team
 start_date: March 18, 2019
-period_provided: until September 15, 2019
+period_provided: until December 31, 2019
 pa_compensation_level: D category IT Area - economic level D3 / A F3
 ---
 I discovered the fascinating world of computer science, when I was a little child.. In the early 80s the first home / personal computers arrived to our homes and I started to play with their hardware and software and then to interact with the technical community. Up until a few years earlier this kind of experiences were available only to professionals or academics.

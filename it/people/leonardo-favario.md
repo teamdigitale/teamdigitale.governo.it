@@ -4,17 +4,18 @@ lang: it
 permalink: /it/people/leonardo-favario.html
 layout: people
 role: Open Source Project Leader
-is_new: true
+is_new:
 twitter_user:
 medium_user:
 linkedin_url: https://www.linkedin.com/in/favario
 ref: leonardo-favario 
 parent_ref: team
 start_date: 2 aprile 2019
-period_provided: fino al 15 settembre 2019
+period_provided: fino al 31 dicembre 2019
 annual_compensation: € 75.000
-approved_by_court: 14 maggio 2019.
+approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti
 ---
+
 Avevo una manciata di anni quando mio padre entrò in casa con un fiammante 386,
 ignaro di aver così innescato la mia innata curiosità: di lì a poco ho scoperto
 per puro caso che in un anonimo floppy si celava l’eseguibile del mitico

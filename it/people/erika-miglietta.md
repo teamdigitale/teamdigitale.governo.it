@@ -10,9 +10,9 @@ linkedin_url: https://www.linkedin.com/in/erika-miglietta-a752707/
 ref: erika-miglietta
 parent_ref: team
 start_date: 21 gennaio 2019
-period_provided: fino al 15 settembre 2019
+period_provided: fino al 31 dicembre 2019
 annual_compensation: € 80.000
-approved_by_court: 8 aprile 2019
+approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti
 ---
 Sono nata a Napoli dove mi sono diplomata al liceo scientifico e poi laureata con lode in Ingegneria Gestionale presso l’università Federico II. 
 

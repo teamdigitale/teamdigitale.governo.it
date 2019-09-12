@@ -9,10 +9,11 @@ linkedin_url: https://www.linkedin.com/in/mariaclaudiabodino/
 ref: maria-claudia-bodino
 parent_ref: team
 start_date: 8 gennaio 2018
-period_provided: fino al 15 settembre 2019
+period_provided: fino al 31 dicembre 2019
 annual_compensation: € 63.000
-approved_by_court: 18 gennaio 2019.
+approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti
 ---
+
 Sono cresciuta in un paesino della provincia di Cuneo, a Venasca, in Valle Varaita alla frontiera con la Francia, dominato dall’imponente Monviso (3.841m.) che alla mia gente ricorda che, con il passo del montanaro lento ma costante, si può arrivare ovunque, persino dove la banda larga stenta ancora a farsi strada.
  
 Convinta che questa fosse la strada del futuro, mi sono orientata verso il mondo digitale fin dall’iscrizione al Liceo Scientifico G.B. Bodoni a Saluzzo, con la sperimentazione "Piano Nazionale dell'Informatica": erano ancora i tempi in cui si andava a lezione con il floppy disk 3.5 e durante i laboratorio di Pascal ci si divertiva simulando una primitiva forma di messaggistica tramite il comando "net send" di MS-DOS. Dopo il liceo ho frequentato il Politecnico di Torino dove mi sono laureata in Computer and Communication Networks Engineering. Nel mio corso di ragazze ce n'erano pochissime, toccando con mano quanto fosse – e resti - ampio il gender gap nel campo scientifico e tecnologico. 

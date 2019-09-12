@@ -10,10 +10,11 @@ linkedin_url: https://www.linkedin.com/in/gianlucaditommaso
 ref: gianluca-di-tommaso
 parent_ref: team
 start_date: 19 novembre 2018
-period_provided: fino al 15 settembre 2019
+period_provided: fino al 31 dicembre 2019
 annual_compensation: € 63.000
-approved_by_court: 18 gennaio 2019.
+approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti
 ---
+
 Avevo poco più di una decina d'anni quando, spinto da una forte curiosità che ancora oggi mi caratterizza, iniziai a scandagliare ogni pulsante che trovavo, sperimentando tutte le funzioni che un software con un foglio bianco e un cursore lampeggiante aveva a disposizione. E ricordo ancora distintamente quello strano ronzio e quei bip del modem analogico a 56kbit/s che mi permetteva per le prime volte di collegarmi ad una cosa che si chiamava "Internet". Non ci misi molto ad appassionarmi e a capire che quella cosa poteva essere sì uno svago, ma anche una ulteriore, inesauribile fonte per la mia curiosità. Era la seconda metà degli anni '90 e un adolescente correva molti meno rischi di oggi a smanettare indisturbato online.
 
 Era un’abitudine di famiglia averli in casa ogni giorno, e sono quindi diventato un gran lettore di quotidiani. Grazie ai preziosi insegnamenti di una professoressa di storia e filosofia del liceo, che custodisco ancora oggi, ho imparato a maneggiare le fonti di informazione e a comprendere i più diversi punti di vista di una singola storia.

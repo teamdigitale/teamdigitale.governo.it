@@ -9,9 +9,9 @@ linkedin_url: https://www.linkedin.com/in/mariaclaudiabodino/
 ref: maria-claudia-bodino
 parent_ref: team
 start_date: January 8, 2018
-period_provided: until September 15, 2019
+period_provided: until December 31, 2019
 annual_compensation: € 63.000
-approved_by_court: 18th january 2019.
+approved_by_court: The act of appointment is being registered at the Court of Auditors
 ---
 
 I grew up in Venasca, a small village in the Province of Cuneo, close to the French border, and in a valley which is dominated by the majestic Monviso (3841 m); the mountain is a constant reminder to the local people that by walking slowly, as the true mountaineers do, all destinations can be reached, even those where the broadband is still being deployed.

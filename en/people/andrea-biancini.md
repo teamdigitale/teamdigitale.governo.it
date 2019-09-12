@@ -13,7 +13,7 @@ parent_ref: team
 start_date: July 18, 2019
 period_provided: until December 31, 2019
 annual_compensation: € 70.000
-approved_by_court: The act of appointment is being registered at the Court of Auditors.
+approved_by_court: August 22, 2019
 ---
 When my father bought, for very high price, the first family personal computer to let me and my sister play with it, I was still in elementary school.
 I imagine my mother, an elementary school teacher, being very skeptical about the opportunity for that investment: wasn't it better, say, a nice family holiday?

@@ -10,6 +10,7 @@ linkedin_url: https://www.linkedin.com/in/marcocipri/
 ref: marco-cipri
 parent_ref: team
 start_date: 01 marzo 2019
+end_date: 15 settembre 2019
 period_provided: fino al 15 settembre 2019
 annual_compensation: € 75.000
 approved_by_court: 8 aprile 2019

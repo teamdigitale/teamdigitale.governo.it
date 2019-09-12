@@ -10,6 +10,7 @@ linkedin_url: https://www.linkedin.com/in/michele-melchionda-42a99a8
 ref: michele-melchionda
 parent_ref: team
 start_date: 22 febbraio 2019
+end_date: 15 settembre 2019
 period_provided: fino al 15 settembre 2019
 annual_compensation: Per lo svolgimento del suo incarico nel Team, l’esperto non percepisce alcun compenso
 approved_by_court: 8 aprile 2019

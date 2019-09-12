@@ -10,10 +10,11 @@ linkedin_url: https://www.linkedin.com/in/francesco-de-augustinis-9bb14167/
 ref: francesco-de-augustinis
 parent_ref: team
 start_date: 14 gennaio 2019
-period_provided: fino al 15 settembre 2019
+period_provided: fino al 31 dicembre 2019
 annual_compensation: € 60.000
-approved_by_court: 8 aprile 2019
+approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti
 ---
+
 Il mio percorso unisce la passione per il giornalismo e una vocazione naturale ai contenuti digitali. Questo sin dai tempi dell’Università: mentre studiavo giornalismo, lavoravo con un piccolo team di amici a una startup -un social network dedicato al mondo dell’arte- che avrebbe vinto il premio Ego Ericsson per l’innovazione, finendo in un programma di incubazione Topix. 
 
 Ho continuato a vivere con convinzione questo doppio binario anche successivamente: durante i due anni di internship all’Associated Press e all’ufficio di Roma della Reuters ho collaborato con TheBlogTV (oggi User Farm), startup specializzata nella produzione di contenuti video user generated. Un’esperienza che mi ha permesso di affinare le conoscenze sul mondo del digital content, sulla prima epoca dei contenuti virali, sulla gestione delle dinamiche di community e di piattaforme basate sul crowdsourcing.  

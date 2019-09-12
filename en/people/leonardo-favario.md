@@ -3,17 +3,16 @@ title: Leonardo Favario
 lang: en
 permalink: /en/people/leonardo-favario.html
 layout: people
-role: Open Source Project Leader 
-is_new: true
+role: Open Source Project Leader
 twitter_user:
 medium_user:
 linkedin_url: https://www.linkedin.com/in/favario
 ref: leonardo-favario 
 parent_ref: team
 start_date: April 2, 2019
-period_provided: until September 15, 2019
+period_provided: until December 31, 2019
 annual_compensation: € 75,000
-approved_by_court: 14th May 2019.
+approved_by_court: The act of appointment is being registered at the Court of Auditors
 ---
 
 I was a handful of years old when my dad got inside the house with a shiny new

@@ -10,7 +10,7 @@ linkedin_url: https://www.linkedin.com/in/fcristofari
 ref: fabio-cristofari
 parent_ref: team
 start_date: November 22, 2018
-period_provided: until September 15, 2019
+period_provided: until December 31, 2019
 pa_compensation_level: IT Collaborator Area III - economic level F1
 approved_by_court: 
 ---

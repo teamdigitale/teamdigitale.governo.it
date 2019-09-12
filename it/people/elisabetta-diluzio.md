@@ -10,7 +10,7 @@ linkedin_url:
 ref: elisabetta-diluzio
 parent_ref: team
 start_date: 6 novembre 2017
-period_provided: fino al 15 settembre 2019
+period_provided: fino al 31 dicembre 2019
 pa_compensation_level: assistente amministrativo Area II - fascia economica F3 
 approved_by_court: 
 ---
