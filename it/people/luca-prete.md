@@ -12,7 +12,7 @@ parent_ref: team
 start_date: 18 marzo 2019
 period_provided: fino al 31 dicembre 2019
 annual_compensation: € 85.000
-approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti.
+approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti
 ---
 
 Sono nato e cresciuto a Milano, che tuttora adoro e mi riporta con la mente sempre indietro ai ricordi più belli.
