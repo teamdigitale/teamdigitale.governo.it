@@ -8,7 +8,7 @@
             <div class="client-close"></div>
             <ul class="project-list">
                 <hr class="bar">
-                <h4 class="client-title">{{ aderente.name }}</h4>
+                <h6 class="client-title">{{ aderente.name }}</h6>
                 {%- for link in aderente.links -%}
                 <li><a href="{{ link.link_url }}" target="_blank">{{ link.link_label }}</a></li>
                 {%- endfor -%}
