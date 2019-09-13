@@ -23,7 +23,7 @@ timeline:
     title: Rilascio linee guida nuovo avviso cartaceo
   - period: Gennaio 2019
     title: Rilascio WISP 2.0 per tutte le Pubbliche Amministrazioni
-dashboard_url: https://dashboard.teamdigitale.governo.it/public/dashboard/2c8ee2ee-fa84-4dbf-8b6a-e7fb5f9ca950
+dashboard_url: http://dashboard.pdnd.italia.it/public/dashboard/2c8ee2ee-fa84-4dbf-8b6a-e7fb5f9ca950
 ---
 
 ### In breve

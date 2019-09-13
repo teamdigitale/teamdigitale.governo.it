@@ -23,7 +23,7 @@ timeline:
     title: Release of the new paper notification's guidelines
   - period: January 2019
     title: Release WISP 2.0 for all Public Administration
-dashboard_url: https://dashboard.teamdigitale.governo.it/public/dashboard/d88a8ece-75ed-4668-ab8c-3a6c8693b4af
+dashboard_url: http://dashboard.pdnd.italia.it/public/dashboard/d88a8ece-75ed-4668-ab8c-3a6c8693b4af
 ---
 
 ### In short
