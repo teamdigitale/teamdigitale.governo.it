@@ -12,7 +12,7 @@ medium_tag: spid
 forum_category: spid
 forum_limit: 3
 twitter_tag: spid
-dashboard_url: http://dashboard.pdnd.italia.it/public/dashboard/91369902-9c46-42e9-94c6-1a8b1c92d6c4
+dashboard_url: https://dashboard.pdnd.italia.it/public/dashboard/5b0da6d7-3bc9-42fd-be12-24b3be247550
 ---
 
 ### In short
