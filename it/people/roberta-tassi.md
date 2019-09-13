@@ -12,7 +12,7 @@ parent_ref: team
 start_date: 6 marzo 2019
 period_provided: fino al 31 dicembre 2019
 annual_compensation: €75.000
-approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti
+approved_by_court: 17 aprile 2019
 ---
 
 Ho sentito parlare per la prima volta di service design verso la fine del mio percorso di studi presso la facoltà di Disegno Industriale del Politecnico di Milano. Non ne capivo esattamente i confini, ma mi attraeva la complessità insita nel concetto di servizio e l’idea di poter utilizzare le capacità progettuali, visionarie e comunicative di un designer per aiutare a fare chiarezza, dare forma a elementi intangibili, lavorare all’intersezione tra innovazione, comportamenti umani e tecnologia. Ho iniziato in quel periodo una lunga ricerca sui metodi che possono aiutare un progettista a occuparsi di servizi e nel 2009 ho pubblicato servicedesigntools.org, una delle prime raccolte di strumenti per il service design, divenuta famosa in tutto il mondo. 
