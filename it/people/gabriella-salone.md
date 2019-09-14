@@ -10,9 +10,9 @@ linkedin_url:
 ref: gabriella-salone
 parent_ref: team
 start_date: 24 maggio 2017
-period_provided: fino al 31 dicembre 2019
+period_provided: fino al 15 settembre 2019
 pa_compensation_level: dirigente con incarico di I fascia 
-approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti
+approved_by_court: 4 dicembre 2018
 ---
 
 Mi sono laureata all’Università Luiss all’età di 23 anni in Scienze Politiche e, nella stessa giornata in cui ho discusso la tesi, mi sono iscritta ad un corso di preparazione per la carriera diplomatica, vista la mia passione per le lingue e la cultura straniera che, già durante il corso di laurea, mi aveva spinto a partecipare al programma Erasmus in Belgio.
