@@ -10,10 +10,11 @@ linkedin_url: https://www.linkedin.com/in/robertatassi/
 ref: roberta-tassi
 parent_ref: team
 start_date: 6 marzo 2019
-period_provided: fino al 15 settembre 2019
+period_provided: fino al 31 dicembre 2019
 annual_compensation: €75.000
-approved_by_court: 17 aprile 2019.
+approved_by_court: 17 aprile 2019
 ---
+
 Ho sentito parlare per la prima volta di service design verso la fine del mio percorso di studi presso la facoltà di Disegno Industriale del Politecnico di Milano. Non ne capivo esattamente i confini, ma mi attraeva la complessità insita nel concetto di servizio e l’idea di poter utilizzare le capacità progettuali, visionarie e comunicative di un designer per aiutare a fare chiarezza, dare forma a elementi intangibili, lavorare all’intersezione tra innovazione, comportamenti umani e tecnologia. Ho iniziato in quel periodo una lunga ricerca sui metodi che possono aiutare un progettista a occuparsi di servizi e nel 2009 ho pubblicato servicedesigntools.org, una delle prime raccolte di strumenti per il service design, divenuta famosa in tutto il mondo. 
 
 Nei dieci anni anni successivi mi sono occupata di progetti di ricerca e service design in diversi settori e contesti, prima con frog (2010-2016) e poi con oblo (dal 2016), lo studio di cui sono fondatrice e direttrice. I miei amici e colleghi mi conoscono per essere sempre in movimento: progetti e viaggi mi hanno portato un po’ ovunque. Ho avuto la possibilità di lavorare a stretto contatto con realtà spesso estremamente lontane tra loro diversificando le mie esperienze: dalla progettazione di un sistema connesso di gestione della malattia per pazienti diabetici al ripensamento dei servizi di prevenzione e risposta agli incendi nei quartieri informali di grandi metropoli. È stato proprio a Nairobi, nel 2015, che ho maturato l’idea di voler tornare in modo stabile in Italia e utilizzare le conoscenze sviluppate nel tempo per restituire qualcosa al luogo in cui desideravo vivere. 

@@ -10,9 +10,9 @@ linkedin_url: https://www.linkedin.com/in/erika-miglietta-a752707/
 ref: erika-miglietta
 parent_ref: team
 start_date: January 21, 2019
-period_provided: until September 15, 2019
+period_provided: until December 31, 2019
 annual_compensation: € 80.000
-approved_by_court: 8th april 2019
+approved_by_court: The act of appointment is being registered at the Court of Auditors
 ---
 I was born in Naples where  I studied and graduated with honours in Management Engineering at the University Federico II. 
 

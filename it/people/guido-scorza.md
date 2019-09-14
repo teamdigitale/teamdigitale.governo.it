@@ -10,10 +10,11 @@ linkedin_url:
 ref: guido-scorza
 parent_ref: team
 start_date: 31 ottobre 2016
-period_provided: fino al 15 settembre 2019
+period_provided: fino al 31 dicembre 2019
 annual_compensation: € 75.000
-approved_by_court: 18 gennaio 2019.
+approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti
 ---
+
 Mi sono laureato in Giurisprudenza nel 1996, alla LUISS con una tesi sulla tutela giuridica del software e ho poi conseguito un dottorato di ricerca in informatica giuridica e diritto dell’informatica presso l’Università degli Studi di Bologna.
 
 Mi occupo di diritto delle nuove tecnologie da vent'anni e lo faccio da avvocato, da docente universitario e da giornalista, studiando, applicando e raccontando le regole e le politiche dell’innovazione in ambito nazionale ed europeo.

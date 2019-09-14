@@ -10,9 +10,9 @@ linkedin_url: https://www.linkedin.com/in/robertatassi/
 ref: roberta-tassi
 parent_ref: team
 start_date: March 6, 2019
-period_provided: until September 15, 2019
+period_provided: until December 31, 2019
 annual_compensation: € 75.000
-approved_by_court: 17th april 2019
+approved_by_court: April 17, 2019
 ---
 The first time I heard about service design I was at the end of my master degree in Industrial Design at Politecnico of Milan. I didn’t immediately realize the full meaning and potential of the subject, but I was fascinated by the intrinsic complexity of the notion of “service” and the idea that designers could apply their competences to such an intangible matter, working at the intersection between innovation, human behaviours and technology. That’s how I started to search for the tools and methodologies that could help designers deal with service ideation and implementation. In 2009, the results of my research were published online in a website called servicedesigntools.org, one of the first collections of tools for service design that became famous worldwide.
 

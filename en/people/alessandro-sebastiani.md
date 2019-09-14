@@ -4,16 +4,15 @@ lang: en
 permalink: /en/people/alessandro-sebastiani.html
 layout: people
 role: Software Developer
-is_new: true
 twitter_user: sebbalex
 medium_user:
 linkedin_url: https://www.linkedin.com/in/alessandrosebastiani
 ref: alessandro-sebastiani
 parent_ref: team
 start_date: April 18, 2019
-period_provided: until September 15, 2019
+period_provided: until December 31, 2019
 annual_compensation: € 70,000
-approved_by_court: 3rd June 2019.
+approved_by_court: The act of appointment is being registered at the Court of Auditors
 ---
 
 I have always had a passion for technology. As a little child, I drove my parents crazy trying to understand the inner workings of electronic devices, as, naturally, to see what was going on inside I had to break them. The idea of ​​programming, of creating something that worked following my logic immediately intrigued me. That curiosity turned into nights and whole days spent studying, discovering, supported by dozens of caffè.  During those nights I spent a lot of time on Internet Relay Chat (IRC) and met a lot of people online that shared my interests.

@@ -10,7 +10,7 @@ linkedin_url:
 ref: ornella-dimaria
 parent_ref: team
 start_date: 8 gennaio 2018
-period_provided: fino al 15 settembre 2019
+period_provided: fino al 31 dicembre 2019
 pa_compensation_level: assistente amministrativo Area II - fascia economica F3 
 approved_by_court: 
 ---

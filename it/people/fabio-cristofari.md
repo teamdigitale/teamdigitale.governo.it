@@ -10,7 +10,7 @@ linkedin_url: https://www.linkedin.com/in/fcristofari
 ref: fabio-cristofari
 parent_ref: team
 start_date: 22 novembre 2018
-period_provided: fino al 15 settembre 2019
+period_provided: fino al 31 dicembre 2019
 pa_compensation_level: Collaboratore Informatico Area III - fascia economica F1
 approved_by_court: 
 ---

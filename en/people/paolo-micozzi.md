@@ -8,11 +8,11 @@ twitter_user: paomico
 medium_user: paolo.micozzi
 linkedin_url: https://www.linkedin.com/in/paolomicozzi
 ref: paolo-micozzi
-start_date: March 1, 2019
-period_provided: until September 15, 2019
-annual_compensation: € 75.000
-approved_by_court: 8th april 2019
 parent_ref: team
+start_date: March 1, 2019
+period_provided: until December 31, 2019
+annual_compensation: € 75.000
+approved_by_court: The act of appointment is being registered at the Court of Auditors
 ---
 
 I am an electrical engineer specialised in telecommunications, driven by curiosity and a passion for new challenges and professional experiences. I am a project manager who believes authoritativeness is more important than authority.

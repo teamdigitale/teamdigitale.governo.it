@@ -7,10 +7,10 @@ permalink: /en/people/andrea-carlini.htm
 ref: andrea-carlini
 parent_ref: team
 linkedin_url: https://www.linkedin.com/in/andrea-carlini-92676514/
-start_date: 1 Marzo 2019
-period_provided: 15 Settembre 2019
+start_date: March 1, 2019
+period_provided: until December 31, 2019
 annual_compensation: € 100.000
-approved_by_court: 8th april 2019
+approved_by_court: The act of appointment is being registered at the Court of Auditors
 ---
 At the early age of six, I started to imagine a world where technology would have played a significant role in our lives. Shortly afterwards, I had the chance to work with an Olivetti M24 computer. That was the moment I understood I wanted to be part of that technological journey, and I fell in love with it.
 

@@ -3,14 +3,14 @@ title: Alessandro Ranellucci
 lang: en
 permalink: /en/people/alessandro-ranellucci.html
 layout: people
+twitter_user: alranel
 role: Developer Relations
 ref: alessandro-ranellucci
 parent_ref: team
 start_date: October 4, 2017
-period_provided: until September 15, 2019
+period_provided: until December 31, 2019
 annual_compensation: € 60,000
-approved_by_court: 18th january 2019.
-twitter_user: alranel
+approved_by_court: The act of appointment is being registered at the Court of Auditors
 ---
 
 It was 1990 when I first used a computer. It was a Mac IIsi, and I was 5 year old. I learned programming with the glorious HyperCard, by creating an application for teaching math interactively to other kids and then a rudimentary speech synthesis experiment. Shortly after I got my first Internet access in 1995 I released my applications as freeware, and a few magazines included them in their CD-ROMs. Since then, my passion for coding never decreased: as of today I have developed complex platforms for tens of private Italian and foreign companies and startups (including a couple of mine), always focusing on challenging and innovative projects. I worked on digital publishing, CAD/CAM, robotics, big data, digital signature, security and other topics. Meanwhile, following another great passion, I decided to study architecture.

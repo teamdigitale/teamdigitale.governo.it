@@ -10,10 +10,11 @@ linkedin_url: https://it.linkedin.com/in/simone-piunno-a94ba91
 ref: simone-piunno
 parent_ref: team
 start_date: 14 novembre 2016
-period_provided: fino al 15 settembre 2019
-annual_compensation: € 150.000
-approved_by_court: 18 gennaio 2019.
+period_provided: fino al 31 dicembre 2019
+annual_compensation: Per lo svolgimento del suo incarico nel Team, l’esperto non percepisce alcun compenso
+approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti
 ---
+
 Fin da piccolo ho sempre avuto la passione per l'Informatica e il mio primo programma l'ho scritto su un Commodore VIC20 quando ero ancora alle medie.  A fine anni 80, prima che arrivasse Internet, avevo già conosciuto la potenza della rete con le BBS Fidonet, che usavo per scambiare messaggi elettronici con amici in tutta Italia, facendo arrabbiare i miei genitori con i fischi del modem a 1200 bps e soprattutto per le salate bollette della SIP.  
 
 Insieme ad alcuni amici di Ferrara nel 1996 ho fondato un Linux User Group e sono stato attivo per anni nella scena *open source* nazionale, organizzando eventi divulgativi e contribuendo alla sviluppo della comunità del software libero.

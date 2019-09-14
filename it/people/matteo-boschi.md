@@ -4,16 +4,16 @@ lang: it
 permalink: /it/people/matteo-boschi.html
 layout: people
 role: Mobile Developer
-is_new: true
+is_new:
 twitter_user:
 medium_user:
 linkedin_url: https://www.linkedin.com/in/matteo-boschi
 ref: matteo-boschi
 parent_ref: team
 start_date: 1 aprile 2019
-period_provided: fino al 15 settembre 2019
+period_provided: fino al 31 dicembre 2019
 annual_compensation: € 70.000
-approved_by_court: 19 aprile 2019.
+approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti
 ---
 
 È stato ai tempi del liceo che la passione per l'informatica si è accesa in me. Mio padre ha sempre creduto che i computer fossero il futuro, per questo ne avevo costantemente uno a portata di mano. Nonostante ciò il mio approccio è stato cauto fino a quando, intorno al 1997, internet ha cominciato a entrare nelle case e sono nati i primi videogame online. Il videogioco Starcraft mi ha rapito per due anni. Non credo si possa descrivere come un innamoramento: piuttosto è stato come un urto che mi ha stordito, non riuscivo a credere di poter giocare quando volevo e con chi volevo. La mia vena competitiva mi ha spinto ad allenamenti estenuanti e mi ha portato a conoscere persone di tutto il mondo e a piazzarmi al secondo posto al primo Italian Lan Party nel 2002 a Milano.

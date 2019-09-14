@@ -4,17 +4,18 @@ lang: it
 permalink: /it/people/alice-casiraghi.html
 layout: people
 role: UX designer
-is_new: true
+is_new:
 twitter_user: 
 medium_user:
 linkedin_url: https://www.linkedin.com/in/alicecasiraghi
 ref: alice-casiraghi
 parent_ref: team
 start_date: 30 Aprile 2019
-period_provided: fino al 15 Settembre 2019
+period_provided: fino al 31 dicembre 2019
 annual_compensation: € 80.000
-approved_by_court: 3 Giugno 2019.
+approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti
 ---
+
 Cresciuta in un piccolo paesino nella verde Brianza a nord di Milano, negli ultimi cinque intensissimi anni mi sono sentita di casa in estremo Oriente, nelle città-formicaio del ‘grande dragone’, la Cina. Da carattere in costante ricerca quale sono, in questi anni ho collaborato come designer con le agenzie e i clienti più disparati per geografia e ambito lavorativo.
  
 Ho una doppia laurea magistrale in Product Service System Design ottenuta al Politecnico di Milano e alla Tongji University di Shanghai. Mi sono laureata negli stessi anni all’Alta Scuola Politecnica del Politecnico di Milano e Torino. Prima ho studiato Design del Prodotto a Milano e Londra. La mia insegnante preferita rimane comunque la maestra Laura, la prima a incoraggiare la mia attività di disegnatrice prolifica.

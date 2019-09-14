@@ -2,15 +2,15 @@
 title: Alessandro Ranellucci
 lang: it
 permalink: /it/people/alessandro-ranellucci.html
+twitter_user: alranel
 layout: people
 role: Relazioni con gli Sviluppatori
 ref: alessandro-ranellucci
 parent_ref: team
 start_date: 4 ottobre 2017
-period_provided: fino al 15 settembre 2019
+period_provided: fino al 31 dicembre 2019
 annual_compensation: € 60.000
-approved_by_court: 18 gennaio 2019.
-twitter_user: alranel
+approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti
 ---
 
 Era il 1990 quando misi le mani sul mio primo computer. Era un Mac IIsi, io avevo 5 anni. Imparai la programmazione con il mitico HyperCard, realizzando un programma che insegnava l’aritmetica in modo interattivo agli altri bambini e poi lanciandomi in rudimentali esperimenti di sintesi vocale. Entrai in Internet nel 1995 e rilasciai i miei software come freeware; di lì a poco furono inclusi nei CD-ROM di alcune riviste di informatica. Da allora la mia passione per il codice non si è mai spenta: ad oggi ho sviluppato piattaforme complesse per conto di decine di aziende private italiane e straniere, startup e anche per mie iniziative imprenditoriali, scegliendo di lavorare sempre su progetti digitali innovativi ed evitando accuratamente proposte prive di stimoli. Mi sono occupato di editoria digitale, CAD/CAM, robotica, streaming, big data, firma digitale, sicurezza ed altre tematiche. Nel frattempo, spinto da un’altra grande passione, decisi di studiare architettura.

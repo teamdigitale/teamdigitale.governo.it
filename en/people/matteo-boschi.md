@@ -4,16 +4,15 @@ lang: en
 permalink: /en/people/matteo-boschi.html
 layout: people
 role: Mobile Developer
-is_new: true
 twitter_user:
 medium_user:
 linkedin_url: https://www.linkedin.com/in/matteo-boschi
 ref: matteo-boschi
 parent_ref: team
 start_date: April 1, 2019
-period_provided: until September 15, 2019
+period_provided: until December 31, 2019
 annual_compensation: € 70,000
-approved_by_court: 19th April 2019.
+approved_by_court: The act of appointment is being registered at the Court of Auditors
 ---
 
 My passion for computer technology started when I was a high school student. At that time, my father often said "computers will be the future" hence I always had a pc at home; yet this wasn’t enough to capture my attention. The turning point was in 1997 when the Internet came to our homes. I started to play a video game, Starcraft, for two years intensively. I couldn’t believe it was possible to play with so many people around the world. My dedication and my competitive skills brought me around several cities for tournaments, until I placed 2nd in the first official Italian LAN party in Milan.
