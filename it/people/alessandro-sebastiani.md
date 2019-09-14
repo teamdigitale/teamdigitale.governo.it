@@ -4,16 +4,16 @@ lang: it
 permalink: /it/people/alessandro-sebastiani.html
 layout: people
 role: Software Developer
-is_new: true
+is_new:
 twitter_user: sebbalex
 medium_user:
 linkedin_url: https://www.linkedin.com/in/alessandrosebastiani
 ref: alessandro-sebastiani
 parent_ref: team
 start_date: 18 aprile 2019
-period_provided: fino al 15 settembre 2019
+period_provided: fino al 31 dicembre 2019
 annual_compensation: € 70.000
-approved_by_court: 3 giugno 2019.
+approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti
 ---
 
 Sin da bambino ho avuto la passione per la tecnologia in ogni sua forma. La prima cosa che mi ha affascinato è stata l’elettronica: ho letteralmente fatto impazzire i miei smontando ogni oggetto che avesse a che fare con l’elettricità. L’idea di programmare, di creare qualcosa che funzionasse secondo la mia logica, mi ha intrigato da subito e quella curiosità si è trasformata, in nottate e giornate intere passate a studiare, scoprire, approfondire, sostenuto da decine di caffè.  Nottate trascorse su IRC, durante le quali  ho potuto conoscere virtualmente molte persone con cui condividere tanti  interessi.

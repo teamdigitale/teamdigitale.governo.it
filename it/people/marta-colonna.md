@@ -10,10 +10,11 @@ linkedin_url: https://www.linkedin.com/in/martacolonna/
 ref: marta-colonna
 parent_ref: team
 start_date: 20 dicembre 2018
-period_provided: fino al 15 settembre 2019
+period_provided: fino al 31 dicembre 2019
 annual_compensation: € 75.000
-approved_by_court: 18 gennaio 2019.
+approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti
 ---
+
 Ho deciso di studiare legge dopo aver passato la mia infanzia tra tribunali e procure, a giocare con finti fascicoli. Mi sono laureata in Giurisprudenza all’università di Firenze e alla Sorbonne di Parigi, specializzandomi in Diritto della proprietà intellettuale. Cominciando a lavorare in questo settore, ho iniziato ad occuparmi di questioni inerenti il Diritto dell’internet e delle nuove tecnologie, per poi fare un master di specializzazione al Queen Mary University di Londra in Information Technology law. 
 
 Dal 2011 mi occupo come avvocato di tutte le questioni legali legate al digitale e alle nuove tecnologie, collaborando con lo studio legale Hogan Lovells e assistendo i più grandi player del mercato online. La corsa, il pilates e lo yoga sono le mie armi di difesa contro i ritmi incalzanti della trasformazione digitale. 

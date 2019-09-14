@@ -12,7 +12,7 @@ parent_ref: team
 start_date: December 5, 2016
 period_provided: until September 15, 2019
 annual_compensation: € 100,000
-approved_by_court: 18th january 2019.
+approved_by_court: 18th January 2019
 ---
 I started working at 20 years old in the ICT banking sector. I grew up professionally covering many roles:  automation framework on mainframe, Logical Security and Identity Management. I worked for Sicilcassa, Banco di Sicilia, Capitalia Informatica and finally UGIS of Unicredit. The banking experience was very formative allowing me to know and investigate issues hard to know outside. Start working so young in such important companies and in amazing and challenging roles, he has led me to focus only on the job and give up the degree in Electronic Engineering (with great disappointment of my parents who strongly desired the title of their son as all Italian families).
 

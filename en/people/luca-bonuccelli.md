@@ -9,9 +9,9 @@ linkedin_url: https://www.linkedin.com/in/luca-bonuccelli-0a900062/
 ref: luca-bonuccelli
 parent_ref: team
 start_date: February 18, 2019
-period_provided: until September 15, 2019
+period_provided: until December 31, 2019
 annual_compensation: € 75,000
-approved_by_court: 8th april 2019
+approved_by_court: The act of appointment is being registered at the Court of Auditors
 ---
 
 I was born in Cascina, a quiet village closed to Pisa, where I live today. I took my first steps in programming at the beginning of the 1990s . Like many teenagers of the time I was fascinated by the programming and technology that have become my profession.

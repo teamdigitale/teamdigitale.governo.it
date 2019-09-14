@@ -10,10 +10,11 @@ linkedin_url: https://it.linkedin.com/in/lorenzofabbri
 ref: lorenzo-fabbri
 parent_ref: team
 start_date: 9 gennaio 2017
-period_provided: fino al 15 settembre 2019
+period_provided: fino al 31 dicembre 2019
 annual_compensation: € 90.000
-approved_by_court: 18 gennaio 2019.
+approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti
 ---
+
 Era la fine di settembre quando lessi che stava nascendo un gruppo di lavoro per la trasformazione digitale del Paese e mi trovai a pensare: “*Ecco, questo è quello che mi piacerebbe davvero fare*”. E dopo pochi mesi, eccomi qui: all’interno del Team mi occuperò di *Content Design*, quindi di analisi e comprensione dei bisogni degli utenti, organizzazione dei contenuti e dei servizi, con un’attenzione particolare alla semplificazione.
 
 Laureato cum laude nel 2001 a Bologna nelle Scienze della Comunicazione di Umberto Eco, ho conseguito nel 2003 un Master in Marketing Communication alla Cattolica di Milano e attualmente frequento un Executive MBA alla Luiss di Roma. Professore a contratto a La Sapienza di Roma dal 2006 al 2010, tengo lezioni e seminari all’Università di Firenze, al Master di Editoria di Roma (La Sapienza), a Pisa (Laboratorio culture digitali) e a Milano (IULM). Sono collaboratore della rivista Problemi dell’informazione (Il Mulino), speaker e supporter dell’Internet Festival di Pisa.

@@ -105,7 +105,7 @@ aderenti_manifesto:
     links:
       - link_label: "acca.it"
         link_url: "https://www.acca.it/"
-  - name: Consorzio Interuniversitario Nazionale per l’Informatica
+  - name: CINI<br/><small>Consorzio Interuniversitario Nazionale per l’Informatica</small>
     logo: "/images/companies/cini-logo.png"
     links:
       - link_label: "consorzio-cini.it"
@@ -185,3 +185,13 @@ aderenti_manifesto:
     links:
       - link_label: "www.webidoo.it"
         link_url: "https://www.webidoo.it/"
+  - name: FUSS<br/><small>Sostenibilità digitale nella scuola</small><br/><small>Provincia Autonoma di Bolzano</small>
+    logo: "/images/companies/fuss-logo.png"
+    links:
+      - link_label: "fuss.bz.it"
+        link_url: "https://fuss.bz.it"
+  - name: Fuzzy Brains
+    logo: "/images/companies/fuzzy-brains-logo.png"
+    links:
+      - link_label: "fuzzybrains.org"
+        link_url: "https://www.fuzzybrains.org"

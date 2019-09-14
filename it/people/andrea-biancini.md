@@ -13,8 +13,9 @@ parent_ref: team
 start_date: 18 luglio 2019
 period_provided: fino al 31 dicembre 2019
 annual_compensation: € 70.000
-approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti.
+approved_by_court: 22 agosto 2019
 ---
+
 Quando mio padre acquistò, ai tempi per svariati milioni di lire, il primo personal computer di famiglia per far giocare me e mia sorella, io ero ancora alle elementari.
 Immagino mia madre, maestra elementare, sia rimasta molto scettica rispetto all’opportunità di quell’investimento: non era mica meglio, chessò, una bella vacanza di famiglia?
 Quel PC, però, a me ha un po' aperto un mondo. Mi ha fatto scoprire i meccanismi più interni della tecnologia e mi ha permesso, ben presto, di aprirmi all'era della comunicazione con l’accesso a Internet (inizialmente limitato a un'oretta la sera -il telefono costa!- ma pur sempre entusiasmante).

@@ -10,10 +10,11 @@ linkedin_url: https://it.linkedin.com/in/valeriopaolini
 ref: valerio-paolini
 parent_ref: team
 start_date: 9 gennaio 2017
-period_provided: fino al 15 settembre 2019
+period_provided: fino al 31 dicembre 2019
 annual_compensation: € 80.000
-approved_by_court: 18 gennaio 2019.
+approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti
 ---
+
 Ho 46 anni, vivo a Bologna, sono sposato e padre di una nativa digitale. La mia passione per la tecnologia dell’informazione è cominciata da giovanissimo e, dopo l’immancabile stagione del Commodore 64, è diventata seria quando, a quindici anni, posto di fronte all’alternativa tra un computer Apple e il motorino, non esitai a preferire il primo. Pagai qualche prezzo, ma credo sia stata una delle scelte migliori di sempre.
 
 Ho speso buona parte della mia vita professionale a trovare e organizzare connessioni nel mondo della musica, realizzando piattaforme che hanno intrattenuto, ma anche informato, un pubblico vastissimo.  Prima in Dada, poi in Musixmatch, di cui sono stato uno dei fondatori, ho condotto la mia squadra nella costruzione di sistemi scalabili per la gestione di informazioni, curandone ogni aspetto, dalla progettazione alla manutenzione.  In particolare ho curato prima la realizzazione di un sistema di digital asset management per la musica, in grado di gestire i cataloghi delle etichette discografiche, e poi l'equivalente per le edizioni musicali, dove ho gestito le informazioni di copyright su scala mondiale.

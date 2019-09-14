@@ -10,7 +10,7 @@ linkedin_url:
 ref: vincenzo-pulcrano
 parent_ref: team
 start_date: 15 settembre 2017
-period_provided: fino al 15 settembre 2019
+period_provided: fino al 31 dicembre 2019
 pa_compensation_level: funzionario amministrativo Area III - fascia economica F2 
 approved_by_court: 
 ---

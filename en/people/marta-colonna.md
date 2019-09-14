@@ -10,10 +10,11 @@ linkedin_url: https://www.linkedin.com/in/martacolonna/
 ref: marta-colonna
 parent_ref: team
 start_date: December 20, 2018
-period_provided: until September 15, 2019
+period_provided: until December 31, 2019
 annual_compensation: € 75,000
-approved_by_court: 18th january 2019.
+approved_by_court: The act of appointment is being registered at the Court of Auditors
 ---
+
 I decided to study law after spending my childhood between courts and public prosecutors' offices, playing around with mock files. I graduated in Law from the University of Florence and from the Sorbonne in Paris, specializing in Intellectual Property Law.  While  working in this field, I started dealing with Internet related legal matters, thus, I decided to do a Master's degree in Information Technology law at Queen Mary University in London. 
 
 Since 2011, I have been working as a lawyer on internet law and regulation at Hogan Lovells law firm where I had the opportunity of assisting the largest players of the online market. Running, pilates and yoga are my weapons of defence against the fast speed of the digital economy.

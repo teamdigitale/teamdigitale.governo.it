@@ -10,10 +10,11 @@ linkedin_url: https://www.linkedin.com/in/francescozaia
 ref: francesco-zaia
 parent_ref: team
 start_date: 2 novembre 2017
-period_provided: 15 settembre 2019
+period_provided: fino al 31 dicembre 2019
 annual_compensation: € 75.000
-approved_by_court: 18 gennaio 2019.
+approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti
 ---
+
 Cresciuto sotto il livello del mare su un’isola alle foci del Po, dove il digital-divide aveva la concretezza di una navigazione a 56k ai tempi della fibra ottica, ho avuto fin da piccolo uno schermo con cui spendere i miei pomeriggi. Non il classico tubo catodico televisivo, ma il ben più attraente monitor incastonato in un cabinato arcade. Nel sottoscala della mia casa vivevo infatti il sogno di una sala giochi anni ’80 ad uso esclusivo mio e di un numero imprecisato di amici assolutamente disinteressati. Merito di mio padre, operaio nel ramo videoludico, a cui certamente posso imputare la mia passione per l’elettronica e, in seguito, la programmazione.
 
 Di lì alla laurea in Ingegneria Informatica, conseguita nel 2004, il passo è stato tutto sommato breve. L’anno successivo ho conseguito un Master in Multimedia Content Design, dopo il quale ho iniziato la mia carriera lavorativa sperimentando luoghi e realtà diverse. Dopo un breve tirocinio presso Motorola Technology Center di Torino, dove mi sono occupato di programmazione Java per la localizzazione attraverso le reti mobili dei primissimi cellulari con funzioni smart, sono stato un paio d’anni a Milano, dove, lavorando per una delle principali digital agency europee, ho avuto l’opportunità di effettuare consulenze tecniche in ambito web per varie multinazionali tra cui Microsoft, Pirelli e Telecom Italia. A fine 2007 mi sono trasferito e sono stato per cinque anni nell’amata Bologna, dove ho avuto l’opportunità e la fortuna di vivere e contribuire al boom di Yoox (oggi Yoox Net-A-Porter Group) nel suo pieno fervore espansivo.

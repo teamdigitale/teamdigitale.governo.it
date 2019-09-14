@@ -9,7 +9,7 @@ linkedin_url: https://www.linkedin.com/in/pileggi
 ref: lucio-pileggi
 parent_ref: team
 start_date: 18 marzo 2019
-period_provided: fino al 15 settembre 2019
+period_provided: fino al 31 dicembre 2019
 pa_compensation_level: Categoria D Area Elaborazione Dati - posizione economica D3 / A F3
 ---
 I sistemi informatici hanno catturato la mia attenzione curiosa di bambino nella Calabria dei primi anni 80. Con l'arrivo dell’home/personal computer ho potuto confrontarmi con hardware e software e interagire con una comunità tecnica: esperienze che pochi anni prima erano possibili solo per adulti inseriti in contesti professionali o accademici altamente specializzati.

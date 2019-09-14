@@ -10,10 +10,11 @@ linkedin_url: https://www.linkedin.com/in/lucaprete
 ref: luca-prete
 parent_ref: team
 start_date: 18 marzo 2019
-period_provided: fino al 15 settembre 2019
+period_provided: fino al 31 dicembre 2019
 annual_compensation: € 85.000
-approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti.
+approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti
 ---
+
 Sono nato e cresciuto a Milano, che tuttora adoro e mi riporta con la mente sempre indietro ai ricordi più belli.
 
 I miei primi passi al computer risalgono a quando avevo circa sette anni. Ne è passato di tempo da quei giorni. I problemi da affrontare sono diventati mano a mano più interessanti e intellettualmente appetibili. Da piccole sfide personali decisi di aiutare prima famigliari, poi amici, poi -più professionalmente- aziende.

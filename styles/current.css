@@ -1050,3 +1050,16 @@ article p {
 .twitter-timeline-error {
   display: none;
 }
+
+/* Person Avatar */
+.person--avatar {
+    margin: 0 auto;
+}
+.person--social {
+    margin-top: 16px;
+}
+.person--social a {
+    position:relative;
+    text-decoration:none !important;
+    font-size: 2rem;
+}
