@@ -18,7 +18,7 @@ La validità dell’informativa contenuta nella presente pagina è limitata al s
 Titolare del trattamento
 ------------------------
 
-Il Titolare del trattamento è il Commissario Straordinario per l’attuazione dell’Agenda Digitale, con sede in Palazzo Verospi Via della Impresa, 90 00186 Roma - Italia, email [teamdigitale@governo.it](mailto:teamdigitale@governo.it), che agisce tramite la sua struttura di supporto (di seguito congiuntamente il “[Team per la trasformazione digitale](https://teamdigitale.governo.it/)” o anche solo il “Team digitale”).
+Il Titolare del trattamento è il Commissario Straordinario per l’attuazione dell’Agenda Digitale, con sede in Via della Mercede, 9 00187 Roma - Italia, email [teamdigitale@governo.it](mailto:teamdigitale@governo.it), che agisce tramite la sua struttura di supporto (di seguito congiuntamente il “[Team per la trasformazione digitale](https://teamdigitale.governo.it/)” o anche solo il “Team digitale”).
 
 Il Team digitale ha nominato un proprio Responsabile della Protezione dei dati, ai sensi dell’art. 37 del Regolamento UE 2016/679, che può essere contattato al seguente indirizzo: [dpo@teamdigitale.governo.it](mailto:dpo@teamdigitale.governo.it).
 

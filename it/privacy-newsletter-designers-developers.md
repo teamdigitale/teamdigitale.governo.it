@@ -22,7 +22,7 @@ I dati gestiti per la fornitura del servizio sono:
 
 I dati raccolti vengono utilizzati con strumenti informatici e telematici automatizzati, messi a disposizione da un fornitore esterno, al solo fine di erogare il servizio richiesto. Per tale ragione saranno conservati esclusivamente per il periodo in cui il servizio sarà attivo. 
 
-Titolare del trattamento dei dati è il Commissario Straordinario per l'attuazione dell'Agenda Digitale, con sede in Palazzo Verospi Via della Impresa, 90 00186 Roma - Italia, email [teamdigitale@governo.it](mailto:teamdigitale@governo.it), che agisce tramite la sua struttura di supporto (di seguito congiuntamente il “[Team per la trasformazione digitale](https://teamdigitale.governo.it/)” o anche solo il “Team digitale”).
+Titolare del trattamento dei dati è il Commissario Straordinario per l'attuazione dell'Agenda Digitale, con sede in Via della Mercede, 9 00187 Roma - Italia, email [teamdigitale@governo.it](mailto:teamdigitale@governo.it), che agisce tramite la sua struttura di supporto (di seguito congiuntamente il “[Team per la trasformazione digitale](https://teamdigitale.governo.it/)” o anche solo il “Team digitale”).
 
 Il Team digitale ha nominato un proprio Responsabile della Protezione dei dati, ai sensi dell’art. 37 del Regolamento UE 2016/679, che può essere contattato al seguente indirizzo: [dpo@teamdigitale.governo.it](mailto:dpo@teamdigitale.governo.it).
 
@@ -36,7 +36,7 @@ Gli iscritti alla newsletter hanno il diritto di ottenere, nei casi previsti, l�
 
 Responsabile della protezione dei dati
 Team per  la trasformazione digitale
-Palazzo Verospi Via della Impresa, 90 00186 Roma - Italia
+Via della Mercede, 9 00187 Roma - Italia
 [dpo@teamdigitale.governo.it](mailto:dpo@teamdigitale.governo.it)
 
 Gli interessati che ritengono che il trattamento dei dati personali a loro riferiti effettuato attraverso questo servizio avvenga in violazione di quanto previsto dal Regolamento 2016/679 (GDPR) hanno il diritto di proporre reclamo al Garante per la protezione dei dati personali, come previsto dall'art. 77 del Regolamento stesso, o di adire le opportune sedi giudiziarie (art. 79 del Regolamento).

@@ -9,6 +9,7 @@ medium_user: giuvir1999
 linkedin_url: https://it.linkedin.com/in/giuseppe-virgone-0420a144
 ref: giuseppe-virgone
 parent_ref: team
+end_date: September 15, 2019
 start_date: December 5, 2016
 period_provided: until September 15, 2019
 annual_compensation: € 100,000

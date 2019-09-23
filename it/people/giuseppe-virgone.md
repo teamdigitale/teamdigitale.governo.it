@@ -10,6 +10,7 @@ linkedin_url: https://it.linkedin.com/in/giuseppe-virgone-0420a144
 ref: giuseppe-virgone
 parent_ref: team
 start_date: 5 dicembre 2016
+end_date: 15 settembre 2019
 period_provided: fino al 15 settembre 2019
 annual_compensation: € 100.000
 approved_by_court: 18 gennaio 2019

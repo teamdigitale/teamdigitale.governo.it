@@ -10,7 +10,8 @@ linkedin_url:
 ref: gabriella-salone
 parent_ref: team
 start_date: 24 maggio 2017
-period_provided: fino al 15 settembre 2019
+end_date: 21 agosto 2019
+period_provided: fino al 21 agosto 2019
 pa_compensation_level: dirigente con incarico di I fascia 
 approved_by_court: 4 dicembre 2018
 ---

@@ -40,12 +40,8 @@ TeamDigitale è su [Twitter](https://twitter.com/teamdigitaleIT), [Medium](https
 ## Sedi
 
 
-
-
-
-**Palazzo Verospi**
-*Via della Impresa, 90*
-*00186 Roma - Italia*
+*Via della Mercede, 9*
+*00187 Roma - Italia*
 
 
 **Cassa Depositi e Prestiti (CDP)**
