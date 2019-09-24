@@ -195,3 +195,8 @@ aderenti_manifesto:
     links:
       - link_label: "fuzzybrains.org"
         link_url: "https://www.fuzzybrains.org"
+  - name: ANORC<br/><small>Il portale della governance digitale</small>
+    logo: "/images/companies/anorc-logo.png"
+    links:
+      - link_label: "anorc.eu"
+        link_url: "https://www.anorc.eu/"

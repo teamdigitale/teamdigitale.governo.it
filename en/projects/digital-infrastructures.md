@@ -36,7 +36,7 @@ The present situation calls for the rationalization of existing data centers and
 - the rationalization of all existing physical structures (data centers); 
 - the introduction of safer, more reliable digital infrastructures through cloud computing technologies. 
 
-![Infrastrutture digitali](/assets/img/infrastrutture_digitali.png)
+![Infrastrutture digitali](/images/infrastrutture_digitali.png)
 
 ### The Team’s Role
 

@@ -11,7 +11,7 @@ ref: ornella-dimaria
 parent_ref: team
 start_date: 8 gennaio 2018
 period_provided: fino al 31 dicembre 2019
-pa_compensation_level: assistente amministrativo Area II - fascia economica F3 
+pa_compensation_level: assistente amministrativo Area II - fascia economica F4 
 approved_by_court: 
 ---
 Sono cresciuta in un paese in periferia di Roma e, dopo la maturità scientifica, ho studiato Discipline dello spettacolo alla Sapienza, scelta dettata dalla mia passione per il Cinema: il mio sogno era fare la sceneggiatrice o la regista.
