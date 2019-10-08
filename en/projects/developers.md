@@ -41,7 +41,6 @@ timeline:
   - period: Q2 2019
     title: Developers Italia 2.0
     desc: The [guidelines about software reuse based on the open source model](https://developers.italia.it/en/reuse) become effective. In addition to the national enabling platforms, Developers Italia hosts the new Reuse Catalogue for open source and reusable software, according to the new guidelines.
-    status: todo
   - period: Q3 2019
     title: 50 open source projects in the catalogue
     desc: Within the first four months after launcing the reuse catalogue we aim to have at least 50 software packages released by public entities, thanks to our activity of outreach, training and assistance.
@@ -52,7 +51,6 @@ timeline:
   - period: Q3 2019
     title: Community call kick-off
     desc: A regular bi-weekly call will be launched in September, to give to our community a new place to discuss about the project roadmap.
-    status: todo
   - period: Q4 2019
     title: New platforms in community
     desc: We want to bring more national and local platforms into the Developers Italia community, by involving the entities who are responsible for them.
