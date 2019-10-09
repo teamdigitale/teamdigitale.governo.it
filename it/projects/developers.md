@@ -50,7 +50,6 @@ timeline:
   - period: Q3 2019
     title: Avvio della community call
     desc: A settembre partirà una call bisettimanale per coinvolgere la community in uno spazio di confronto regolare e per condividere la roadmap.
-    status: todo
   - period: Q4 2019
     title: Nuove piattaforme in community
     desc: Vogliamo portare nella community di Developers Italia altre piattaforme nazionali e locali, con il coinvolgimento degli enti gestori.
