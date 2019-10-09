@@ -20,7 +20,7 @@ gem 'minima', '2.5.0'
 
 gem 'rest-client'
 
-gem 'html-proofer', '3.11.1'
+gem 'html-proofer', '3.13.0'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
