@@ -28,7 +28,6 @@ timeline:
   - period: Dicembre 2018
     title: Istituzionalizzazione del DAF
     desc: Il DAF diventa una piattaforma istituzionale prima attraverso l'articolo 50-ter del CAD che definisce la Piattaforma Nazionale Digitale Dati e successivamente con il Decreto 14 dicembre 2018 n. 135 che conferisce il progetto ad una nuova società che sarà costituita presso la Presidenza del Consiglio.
-    status: done
   - period: Dicembre 2019
     title: Messa in Produzione del DAF
     desc: Il Team digitale predispone le procedure atte al subentro del futuro owner del DAF che gestirà l’operatività e l’evoluzione del progetto. L’owner del DAF curerà le interazioni con le PA per definire piani di inclusione delle relative basi di dati e casi d’uso. Le PA di volta in volta coinvolte definiranno le modalità di ingestione dei dati e utilizzo del DAF consone alle proprie attività.

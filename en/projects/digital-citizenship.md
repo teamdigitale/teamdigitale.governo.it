@@ -14,16 +14,13 @@ timeline:
     title: Release API Communications and Preferences (beta version)
   - period: January 2018
     title: Release API Communications and Preferences (production)
-  - period: January 2018
-    title: Research, mapping and analysis of citizen needs and the principal digital public services
   - period: July 2018
     title: Testing the IO app prototype
   - period: November 2018
     title: Stakeholders testing the app’s beta version and some demo services
   - period: Spring 2019
     title: Tests by invitation (closed-beta) with citizens and actual services provided by several entities throughout Italy
-    status: todo
-  - period: Autumn 2019
+  - period: End of 2019
     title: The app’s first public release in territories with the largest number of integrated services
     status: todo
 ---

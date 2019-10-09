@@ -20,8 +20,7 @@ timeline:
     title: Test con stakeholder su versione beta dell’app e alcuni servizi demo
   - period: Primavera 2019
     title: Test su invito (closed-beta) con cittadini e servizi reali forniti da alcuni enti distribuiti sul territorio nazionale     
-    status: todo
-  - period: Autunno 2019
+  - period: Fine 2019
     title: Pubblicazione prima release pubblica nei territori con il maggior numero di servizi integrati
     status: todo
 ---

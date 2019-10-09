@@ -42,14 +42,15 @@ timeline:
     title: Developers Italia 2.0
     desc: Le [linee guida](https://developers.italia.it/it/riuso) escono in Gazzetta Ufficiale e la nuova versione di Developers Italia, contenente il catalogo del software open source, va online.
   - period: Q3 2019
-    title: 50 progetti nel catalogo del software
-    desc: Nei primi quattro mesi di vita del modello di riuso basato sull'open source puntiamo al rilascio di almeno 50 soluzioni software della Pubblica Amministrazione, attraverso la nostra attività di contatto, formazione ed accompagnamento.
-  - period: Q3 2019
     title: Completamento dei progetti Google Summer of Code
     desc: Per il secondo anno consecutivo Developers Italia è stata una mentoring org nel programma Google Summer of Code, che ha visto tre studenti lavorare ai progetti open source della community.
   - period: Q3 2019
     title: Avvio della community call
     desc: A settembre partirà una call bisettimanale per coinvolgere la community in uno spazio di confronto regolare e per condividere la roadmap.
+  - period: Q4 2019
+    title: 50 progetti nel catalogo del software
+    desc: Nei primi quattro mesi di vita del modello di riuso basato sull'open source puntiamo al rilascio di almeno 50 soluzioni software della Pubblica Amministrazione, attraverso la nostra attività di contatto, formazione ed accompagnamento.
+    status: todo
   - period: Q4 2019
     title: Nuove piattaforme in community
     desc: Vogliamo portare nella community di Developers Italia altre piattaforme nazionali e locali, con il coinvolgimento degli enti gestori.

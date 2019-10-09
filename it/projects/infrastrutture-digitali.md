@@ -12,7 +12,6 @@ medium_tag: cloudpa
 twitter_tag: cloudpa
 forum_category: piano-triennale/data-center-e-cloud
 forum_limit: 3
-timeline:
 ---
 
 ### In breve
