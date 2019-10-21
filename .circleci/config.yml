@@ -40,13 +40,13 @@ jobs:
 
       - restore_cache:
           keys:
-          - v6-dependencies-ruby-{{ checksum "Gemfile.lock" }}
-          - v6-dependencies-ruby-
+          - v7-dependencies-ruby-{{ checksum "Gemfile.lock" }}
+          - v7-dependencies-ruby-
 
       - run: bundle check || bundle install
 
       - save_cache:
-          key: v6-dependencies-ruby-{{ checksum "Gemfile.lock" }}
+          key: v7-dependencies-ruby-{{ checksum "Gemfile.lock" }}
           paths:
             - vendor/bundle
 
@@ -55,13 +55,13 @@ jobs:
       #
       - restore_cache:
           keys:
-          - v6-dependencies-node-{{ checksum "yarn.lock" }}
-          - v6-dependencies-node-
+          - v7-dependencies-node-{{ checksum "yarn.lock" }}
+          - v7-dependencies-node-
 
       - run: yarn install --cache-folder ~/.cache/yarn
 
       - save_cache:
-          key: v6-dependencies-node-{{ checksum "yarn.lock" }}
+          key: v7-dependencies-node-{{ checksum "yarn.lock" }}
           paths:
             - node_modules
             - ~/.cache/yarn
