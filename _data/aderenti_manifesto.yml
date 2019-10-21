@@ -200,3 +200,8 @@ aderenti_manifesto:
     links:
       - link_label: "anorc.eu"
         link_url: "https://www.anorc.eu/"
+  - name: Palestra per la mente
+    logo: "/images/companies/ppm-logo.png"
+    links:
+      - link_label: "palestraperlamente.org"
+        link_url: "http://www.palestraperlamente.org/"
