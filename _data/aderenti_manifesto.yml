@@ -205,3 +205,8 @@ aderenti_manifesto:
     links:
       - link_label: "palestraperlamente.org"
         link_url: "http://www.palestraperlamente.org/"
+  - name: Camera di Commercio di Verona
+    logo: "/images/companies/camera-commercio-verona-logo.png"
+    links:
+      - link_label: "vr.camcom.it"
+        link_url: "http://www.vr.camcom.it/"
