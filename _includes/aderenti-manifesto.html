@@ -10,7 +10,7 @@
                 <hr class="bar">
                 <h6 class="client-title">{{ aderente.name }}</h6>
                 {%- for link in aderente.links -%}
-                <li><a href="{{ link.link_url }}" target="_blank">{{ link.link_label }}</a></li>
+                <li><a href="{{ link.link_url }}" target="_blank" rel="noopener noreferrer">{{ link.link_label }}</a></li>
                 {%- endfor -%}
                 {%- for project in aderente.projects -%}
                 <li>{{ project }}</li>
