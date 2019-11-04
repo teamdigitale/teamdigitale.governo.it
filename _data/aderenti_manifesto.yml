@@ -216,7 +216,7 @@ aderenti_manifesto:
       - link_label: "digitalinnovationhubvicenza.it"
         link_url: "https://digitalinnovationhubvicenza.it/"
   - name: TOUCH M.E.<br><small>CerTIC Academy</small>
-    logo: "/images/companies/touchme-logo.jpg"
+    logo: "/images/companies/touchme-logo.png"
     links:
       - link_label: "www.certicacademy.it"
         link_url: "https://www.certicacademy.it/"
