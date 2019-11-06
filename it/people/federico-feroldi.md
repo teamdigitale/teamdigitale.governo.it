@@ -10,6 +10,7 @@ linkedin_url: http://linkedin.com/in/feroldi
 ref: federico-feroldi
 parent_ref: team
 start_date: 9 gennaio 2017
+end_date: 4 novembre 2019
 period_provided: fino al 31 dicembre 2019
 annual_compensation: € 100.000
 approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti

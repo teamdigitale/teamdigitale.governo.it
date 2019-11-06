@@ -10,6 +10,7 @@ linkedin_url: https://www.linkedin.com/in/matteodesanti
 ref: matteo-de-santi
 parent_ref: team
 start_date: February 17, 2017
+end_date: November, 4 2019
 period_provided: until December 31, 2019
 annual_compensation: € 95,000
 approved_by_court: The act of appointment is being registered at the Court of Auditors

@@ -10,6 +10,7 @@ linkedin_url: http://linkedin.com/in/feroldi
 ref: federico-feroldi
 parent_ref: team
 start_date: January 9, 2017
+end_date: November, 4 2019
 period_provided: until December 31, 2019
 annual_compensation: € 100,000
 approved_by_court: The act of appointment is being registered at the Court of Auditors
