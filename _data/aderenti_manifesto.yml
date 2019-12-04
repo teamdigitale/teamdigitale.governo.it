@@ -225,3 +225,28 @@ aderenti_manifesto:
     links:
       - link_label: "progettonerd.altervista.org"
         link_url: "http://www.progettonerd.altervista.org/"
+  - name: Consulenti Associati Campania
+    logo: "/images/companies/ca-campania-logo.png"
+    links:
+      - link_label: "ca-campania.com"
+        link_url: "https://www.ca-campania.com/"
+  - name: Domanipress News
+    logo: "/images/companies/domanipress-logo.png"
+    links:
+      - link_label: "domanipress.it"
+        link_url: "https://www.domanipress.it/"
+  - name: Maker Camp
+    logo: "/images/companies/maker-camp-logo.png"
+    links:
+      - link_label: "makercamp.it"
+        link_url: "https://www.makercamp.it/wp/"
+  - name: FamigliAttiva ODV
+    logo: "/images/companies/famigliattiva-logo.jpg"
+    links:
+      - link_label: "famigliattiva.org"
+        link_url: "http://www.famigliattiva.org/"
+  - name: Parole O_Stili
+    logo: "/images/companies/po-logo.png"
+    links:
+      - link_label: "paroleostili.it"
+        link_url: "https://paroleostili.it/"
