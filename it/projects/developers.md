@@ -8,7 +8,7 @@ parent_ref: projects
 parent_menu: projects
 people: [alessandro-ranellucci, leonardo-favario, alessandro-sebastiani, andrea-biancini, giovanni-bajo, riccardo-iaconelli]
 toc: true
-dashboard_url: http://dashboard.pdnd.italia.it/public/dashboard/08665701-33b7-49ac-acd8-dee59a150737
+dashboard_url: https://dashboard.pdnd.italia.it/public/dashboard/08665701-33b7-49ac-acd8-dee59a150737
 twitter_user: developersITA
 medium_tag: developer
 timeline:
