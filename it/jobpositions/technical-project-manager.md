@@ -2,10 +2,10 @@
 title: Technical Program Manager
 lang: it
 permalink: /it/jobpositions/technical-project-manager.htm
-jazz_url: https://teamdigitale.applytojob.com/apply/VYN0UOVD61/Technical-Project-Manager
+#jazz_url: https://teamdigitale.applytojob.com/apply/VYN0UOVD61/Technical-Project-Manager
 iframeheight: 700
 layout: job
-is_new: true
+archived: true
 ref: technical-project-manager
 parent_ref: join-us
 ---

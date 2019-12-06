@@ -6,7 +6,7 @@ layout: job
 ref: devops
 archived: true
 parent_ref: join-us
-jazz_url: https://teamdigitale.applytojob.com/apply/A2lJePQAte/Site-Reliability-Engineer-DevOps-Engineer
+#jazz_url: https://teamdigitale.applytojob.com/apply/A2lJePQAte/Site-Reliability-Engineer-DevOps-Engineer
 iframeheight: 700
 ---
 

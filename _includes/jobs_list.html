@@ -3,6 +3,7 @@
 {% assign jobs_pages = jobs_pages | where_exp: "item", "item.archived == nil" %}
 {% assign sorted_jobs_pages = jobs_pages | sort: "title" %}
 <div class="jobpositions">
+{% if sorted_jobs_pages.size == 0 %}Nessuna posizione aperta{%endif%}
 {% for one_page in sorted_jobs_pages %}
     <hr>
     <div>
@@ -11,6 +12,6 @@
         <span style="font-size:12px;">&nbsp;New</span>
     {% endif %}
     </div>
-    
+
 {% endfor %}
 </div>

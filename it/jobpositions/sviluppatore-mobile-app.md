@@ -6,7 +6,7 @@ layout: job
 ref: sviluppatore-mobile-app
 parent_ref: join-us
 archived: true
-jazz_url: https://teamdigitale.applytojob.com/apply/w9WEk9DfAg/MobileApp-Development
+#jazz_url: https://teamdigitale.applytojob.com/apply/w9WEk9DfAg/MobileApp-Development
 iframeheight: 700
 ---
 

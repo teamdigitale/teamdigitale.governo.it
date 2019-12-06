@@ -2,7 +2,6 @@
 title: Funzionario Amministrativo di supporto alla Segreteria (di ruolo nella pubblica amministrazione centrale o locale)
 lang: it
 permalink: /it/jobpositions/funzionario-amministrativo-segreteria-pa.htm
-jazz_url: 
 archived: true
 layout: job
 parent_ref: join-us
