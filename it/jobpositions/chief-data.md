@@ -2,7 +2,7 @@
 title: Chief Data Product Manager
 lang: it
 permalink: /it/jobpositions/chief-data.htm
-jazz_url: https://teamdigitale.applytojob.com/apply/dCmymlcVb9/Chief-Data-Product-Manager
+#jazz_url: https://teamdigitale.applytojob.com/apply/dCmymlcVb9/Chief-Data-Product-Manager
 iframeheight: 700
 layout: job
 archived: true
