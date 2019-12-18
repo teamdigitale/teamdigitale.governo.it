@@ -268,5 +268,10 @@ aderenti_manifesto:
   - name: Liber Liber
     logo: "liber-liber-logo.jpg"
     links:
-      - link_label: "liberliber.it/"
+      - link_label: "liberliber.it"
         link_url: "https://www.liberliber.it/online/"
+  - name: Sogei
+    logo: "sogei-logo.png"
+    links:
+      - link_label: "sogei.it"
+        link_url: "http://www.sogei.it/"
