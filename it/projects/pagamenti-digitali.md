@@ -82,8 +82,9 @@ Leggi gli ultimi tweet sul progetto [#pagoPA](https://twitter.com/search?f=tweet
 ### Media
 Per ogni richiesta di contatto da parte di media e giornalisti il punto di riferimento è l'[ufficio stampa e comunicazione del Team per la Trasformazione digitale](https://teamdigitale.governo.it/it/contatti).
 
+{% comment %}
 ### Newsletter
-{% include pagopa_newsletter_form.html %}
-
+{% include newsletter_form_pagopa.html %}
+{% endcomment %}
 
 {% include project_timeline.html %}
