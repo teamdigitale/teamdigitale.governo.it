@@ -224,7 +224,7 @@ aderenti_manifesto:
     logo: "nerd-logo.png"
     links:
       - link_label: "progettonerd.altervista.org"
-        link_url: "http://www.progettonerd.altervista.org/"
+        link_url: "https://twitter.com/progetto_nerd"
   - name: Consulenti Associati Campania
     logo: "ca-campania-logo.png"
     links:
@@ -275,3 +275,18 @@ aderenti_manifesto:
     links:
       - link_label: "sogei.it"
         link_url: "http://www.sogei.it/"
+  - name: Chi Odia Paga
+    logo: "cop-logo.png"
+    links:
+      - link_label: "chiodiapaga.it"
+        link_url: "https://chiodiapaga.it/"
+  - name: EGInA
+    logo: "egina-logo.png"
+    links:
+      - link_label: "egina.eu"
+        link_url: "https://egina.eu/index2.html"
+  - name: Istituto Paolo Orsi Siracusa
+    logo: "paolo-orsi-logo.png"
+    links:
+      - link_label: "15icpaolorsi.education"
+        link_url: "https://www.15icpaolorsi.education/"
