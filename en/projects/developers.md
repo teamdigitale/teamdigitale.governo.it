@@ -59,7 +59,7 @@ timeline:
     title: More tools for Public Administration
     desc: We intend to publish more tools and documentation for supporting Public Administrations in managing their open source projects according to the best practice.
     status: todo
-
+redirect_to: https://innovazione.gov.it/it/progetti/developers-italia/
 ---
 
 ### In short

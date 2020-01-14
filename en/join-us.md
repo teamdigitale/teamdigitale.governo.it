@@ -9,6 +9,7 @@ last_modified_by_layout: job
 redirect_from:
   - /join-us
   - /en/43-content.htm
+redirect_to: https://innovazione.gov.it/it/amministrazione-trasparente/selezione-del-personale/reclutamento-del-personale/lavora-con-noi/
 ---
 
 # Join us

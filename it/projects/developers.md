@@ -59,6 +59,7 @@ timeline:
     title: Pubblicazione di ulteriori strumenti per le Pubbliche Amministrazioni
     desc: Entro il 2019 vogliamo completare tutti gli strumenti tecnici e la documentazione a supporto delle Pubbliche Amministrazioni per la corretta gestione dei propri progetti secondo il modello open source.
     status: todo
+redirect_to: https://innovazione.gov.it/it/progetti/developers-italia/
 ---
 
 ### In breve

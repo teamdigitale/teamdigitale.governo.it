@@ -18,6 +18,7 @@ tutte le pagine del sito che:
                   {% if menu_page.parent_ref == nil and menu_page.menu_position != nil %}
                   {% assign sub_pages_query = same_lang_pages | where: "parent_menu", menu_page.ref %}
                   {% assign sub_pages = sub_pages_query | sort: "title" %}
+                    {%- if menu_page.ref != "projects" and menu_page.ref != "join-us" -%}
                     <li class="sidenav-menu-item {{ menu_page.ref }}">
                       {% if sub_pages.size > 0 %}
                         <a href="#">{{ menu_page.title }}</a>
@@ -30,6 +31,7 @@ tutte le pagine del sito che:
                         <a href="{{ menu_page.url }}">{{ menu_page.title }}</a>
                         {% endif %}
                     </li>
+                    {%- endif -%}
                   {% endif %}
                 {% endfor %}
                 {% if page.lang=='en' %}

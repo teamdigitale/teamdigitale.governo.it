@@ -13,6 +13,7 @@ forum_category: cloudpa
 twitter_tag: cloudpa
 forum_limit: 3
 dashboard_url: 
+redirect_to: https://innovazione.gov.it/it/progetti/cloud/
 ---
 
 ### Overview

@@ -12,7 +12,7 @@ medium_tag: piano-triennale
 twitter_tag: piano-triennale
 forum_category: piano-triennale
 forum_limit: 3
-
+redirect_to: https://innovazione.gov.it/it/progetti/piano-triennale/
 ---
 
 ### In breve

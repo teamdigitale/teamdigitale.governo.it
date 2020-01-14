@@ -966,7 +966,7 @@ body.layout-project {
 
   &__buttons {
     margin-top: 0.2em;
-    text-align: center;
+    text-align: right;
 
     & > br {
       @media screen and (max-width: 991px) {
@@ -1000,6 +1000,32 @@ body.layout-project {
 
     svg path {
       fill: white;
+    }
+  }
+
+  .intro-button {
+    margin: 4rem 1.2rem 0;
+    text-transform: none;
+
+    @media screen and (min-width: 992px) {
+      font-size: 1.8rem;
+      padding: 2rem 4rem;
+    }
+
+    &:hover {
+      color: #37474F;
+      background-color: #FFF;
+    }
+    a {
+      text-transform: none;
+      color: #37474F;
+      text-decoration: none;
+      font-size: inherit;
+      font-weight: bold;
+      padding: 0;
+      &:hover {
+        text-decoration: underline;
+      }
     }
   }
 

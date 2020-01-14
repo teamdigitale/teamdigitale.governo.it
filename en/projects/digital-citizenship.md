@@ -23,6 +23,7 @@ timeline:
   - period: End of 2019
     title: The app’s first public release in territories with the largest number of integrated services
     status: todo
+redirect_to: https://innovazione.gov.it/it/progetti/io/
 ---
 
 ### Overview

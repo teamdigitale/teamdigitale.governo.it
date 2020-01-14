@@ -4,7 +4,6 @@ lang: it
 permalink: /it/people/leonardo-favario.html
 layout: people
 role: Open Source Project Leader
-is_new:
 twitter_user:
 medium_user:
 linkedin_url: https://www.linkedin.com/in/favario

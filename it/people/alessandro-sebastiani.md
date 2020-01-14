@@ -4,7 +4,6 @@ lang: it
 permalink: /it/people/alessandro-sebastiani.html
 layout: people
 role: Software Developer
-is_new:
 twitter_user: sebbalex
 medium_user:
 linkedin_url: https://www.linkedin.com/in/alessandrosebastiani

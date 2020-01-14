@@ -4,13 +4,12 @@ lang: it
 permalink: /it/people/alice-casiraghi.html
 layout: people
 role: UX designer
-is_new:
 twitter_user: 
 medium_user:
 linkedin_url: https://www.linkedin.com/in/alicecasiraghi
 ref: alice-casiraghi
 parent_ref: team
-start_date: 30 Aprile 2019
+start_date: 30 aprile 2019
 period_provided: fino al 31 dicembre 2019
 annual_compensation: € 80.000
 approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti

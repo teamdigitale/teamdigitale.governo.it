@@ -35,6 +35,7 @@ timeline:
     title: Ogni Ente potrà avere una sezione dedicata per i propri documenti
     desc: Sarà possibile avere una versione personalizzata dell'interfaccia di Docs Italia per ogni ente
     status: todo
+redirect_to: https://docs.italia.it/
 ---
 
 ### In breve

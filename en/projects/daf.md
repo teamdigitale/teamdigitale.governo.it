@@ -32,6 +32,7 @@ timeline:
     title: Production release of the DAF
     desc: The Digital Team will draw up the procedures for the future owner of the DAF who will manage the operation and the evolution of the project. The owner of the DAF will take care of the interactions with the public administrations to define plans for incorporating their databases and usage cases. From time to time, they will define the data ingestion means and how the DAF is suited to its own activities.
     status: todo
+redirect_to: https://innovazione.gov.it/it/progetti/pdnd/
 ---
 
 ### In short

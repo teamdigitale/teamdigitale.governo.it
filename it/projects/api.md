@@ -28,6 +28,7 @@ timeline:
     title: Marketplace delle API
     desc: Prima versione del Catalogo / Marketplace delle API
     status: todo
+redirect_to: https://innovazione.gov.it/it/progetti/api/
 ---
 
 ### In breve

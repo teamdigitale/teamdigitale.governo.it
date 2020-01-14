@@ -10,8 +10,12 @@ redirect_from:
   - /contatti
   - /it/contatti.htm
 ---
+
+{% assign same_lang_pages = site.pages | where: "lang", page.lang %}
+{% assign team_page = same_lang_pages | where: "ref", "team" | first %}
+
 # Contatti
-Il Team per la Trasformazione Digitale della Presidenza del Consiglio è un [team piccolo e agile](https://teamdigitale.governo.it/it/47-content.htm) che lavora alla trasformazione digitale dei servizi pubblici italiani. Se vuoi proporre il tuo contributo e il tuo punto di vista sui progetti, qui trovi il nostro [forum](https://forum.italia.it/).
+Il Team per la Trasformazione Digitale della Presidenza del Consiglio è stato un [team piccolo e agile]({{team_page.url | relative_url}}) che ha lavorato alla trasformazione digitale dei servizi pubblici italiani. Se vuoi proporre il tuo contributo e il tuo punto di vista sui progetti, qui trovi il nostro [forum](https://forum.italia.it/).
 
 Vuoi scriverci?
 

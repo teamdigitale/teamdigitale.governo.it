@@ -14,6 +14,7 @@ forum_limit: 3
 dashboard_daily: true
 twitter_tag: anpr
 dashboard_url: https://stato-migrazione.anpr.it?lang=en
+redirect_to: https://innovazione.gov.it/it/progetti/anpr/
 ---
 
 ### In short

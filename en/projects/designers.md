@@ -12,6 +12,7 @@ twitter_user: DesignersITA
 medium_tag: design
 forum_category: design
 forum_limit: 3
+redirect_to: https://innovazione.gov.it/it/progetti/designers-italia/
 ---
 
 ### Overview 
