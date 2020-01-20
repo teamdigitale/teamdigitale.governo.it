@@ -3,11 +3,11 @@ title: Software Developers
 lang: en
 permalink: /en/jobpositions/software-developers.htm
 layout: job
-is_new: true
 ref: sviluppatori-software
 parent_ref: join-us
-jazz_url: https://teamdigitale.applytojob.com/apply/Mwa8qGDrSw/Software-Developer
 iframeheight: 700
+archived: true
+# jazz_url: https://teamdigitale.applytojob.com/apply/Mwa8qGDrSw/Software-Developer
 ---
 
 ### Description & Responsibilities

@@ -4,11 +4,10 @@ lang: en
 permalink: /en/jobpositions/ui-designer.htm
 layout: job
 ref: ui-designer
-is_new: true
 parent_ref: join-us
-
-jazz_url: https://teamdigitale.applytojob.com/apply/solcCu6fbF/UI-Designer.html
 iframeheight: 700
+archived: true
+# jazz_url: https://teamdigitale.applytojob.com/apply/solcCu6fbF/UI-Designer.html
 ---
 
 ### Description & Responsibilities
