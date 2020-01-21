@@ -24,6 +24,7 @@ timeline:
   - period: Gennaio 2019
     title: Rilascio WISP 2.0 per tutte le Pubbliche Amministrazioni
 dashboard_url: https://dashboard.pdnd.italia.it/public/dashboard/2c8ee2ee-fa84-4dbf-8b6a-e7fb5f9ca950
+redirect_to: https://innovazione.gov.it/it/progetti/pagopa/
 ---
 
 ### In breve

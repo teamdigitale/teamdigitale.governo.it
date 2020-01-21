@@ -198,8 +198,8 @@ FormatDate:
   en: "%m/%d/%Y"
   it: "%d/%m/%Y"
 Current:
-  en: "current"
-  it: "a oggi"
+  en: "December 31, 2019"
+  it: "31 dicembre 2019"
 FromBlog:
   en: "From the blog"
   it: "Dal blog"
@@ -248,6 +248,9 @@ HomeBannerFuture:
 HomeBannerFutureSubtitle:
   en: "Last update: 30/09/2018"
   it: "Ultimo aggiornamento: 30/09/2018"
+HomeBannerIntro:
+  en: "The team of the <a href='/en/team'>Commissioner for the Digital Agenda</a> ended its mandate on December 31, 2019. Yet, the work goes on! The <a href='https://innovazione.gov.it/' target='_blank'>Minister for technological innovation and digitization</a>, Department for the digital transformation and PagoPA S.p.A. are in charge of managing the digital transformation projects"
+  it: "La struttura del <a href='/it/chi-siamo'>Commissario straordinario per l’attuazione dell’agenda digitale</a> ha concluso il suo mandato il 31 dicembre 2019, ma il nostro lavoro va avanti! I progetti di trasformazione digitale della Pubblica Amministrazione passano in gestione al <a href='https://innovazione.gov.it/' target='_blank'>Ministro per l’innovazione tecnologica e la digitalizzazione</a>, attraverso il Dipartimento per la trasformazione digitale e la società PagoPA S.p.A."
 SignatureFooter:
   en: ""
   it: "Il Team per la Trasformazione Digitale, salvo eccezioni, comunica con le altre Amministrazioni via posta elettronica ordinaria e non posta elettronica certificata, in conformità a quanto previsto dall’art.47 del Codice dell’Amministrazione Digitale."

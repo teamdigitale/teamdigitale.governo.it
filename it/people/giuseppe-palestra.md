@@ -13,7 +13,7 @@ start_date: 23 ottobre 2017
 end_date: 31 luglio 2018
 period_provided: 16 settembre 2018
 annual_compensation: € 60.000
-approved_by_court: 30 Novembre 2017
+approved_by_court: 30 novembre 2017
 ---
 Sono laureato in Informatica e Comunicazione Digitale, ho una Laurea Magistrale in Informatica con lode ed un Master di II livello in 'Sviluppo e Gestione di Data Center per il Calcolo Scientifico ad Alte Prestazioni'. Inoltre, nel 2017 ho ricevuto il titolo di dottore di ricerca (PhD) in Computer Science dal Dipartimento di Informatica dall'Università degli Studi di Bari “A. Moro”. Il focus della mia ricerca ha riguardato l'Intelligenza Artificiale e la Computer Vision. Ho partecipato a diversi corsi di alta formazione, summer school e conferenze.
 

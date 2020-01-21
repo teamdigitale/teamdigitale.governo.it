@@ -35,6 +35,7 @@ timeline:
     title: Each organization may have a dedicated section for its documents
     desc: It will be possible to have a customized version of the Docs Italia interface for each institution
     status: todo
+redirect_to: https://docs.italia.it/
 ---
 
 ### In short

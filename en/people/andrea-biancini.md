@@ -4,7 +4,6 @@ lang: en
 permalink: /en/people/andrea-biancini.html
 layout: people
 role: Open Source Project Leader
-is_new: true
 twitter_user: andreabiancini
 medium_user: andrea.biancini
 linkedin_url: https://www.linkedin.com/in/bianciniandrea/

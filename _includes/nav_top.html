@@ -4,8 +4,8 @@ tutte le pagine del sito che:
 - hanno la stessa lingua della pagina corrente
 - non hanno un "parent_ref" definito
 {% endcomment %}
-{% assign same_lang_pages = (site.html_pages | where: "lang", page.lang %}
-{% assign sorted_pages = (same_lang_pages | sort: "menu_position") %}
+{% assign same_lang_pages = site.html_pages | where: "lang", page.lang %}
+{% assign sorted_pages = same_lang_pages | sort: "menu_position" %}
 {% assign extra_menu = site.data.extra_menu %}
 <div class="container navbar-top-link positionRelative">
   <div class="row">
@@ -15,11 +15,12 @@ tutte le pagine del sito che:
         {% assign sub_pages_query = same_lang_pages | where: "parent_menu", menu_page.ref %}
         {% assign sub_pages = sub_pages_query | sort: "title" %}
         {% assign pagebytwo = sub_pages.size | divided_by:2 %}
-          {% if menu_page.ref == page.ref or menu_page.ref == page.parent_ref %}
-            {% assign isActive = true %}
-          {% else %}
-            {% assign isActive = false %}
-          {% endif %}
+        {% if menu_page.ref == page.ref or menu_page.ref == page.parent_ref %}
+          {% assign isActive = true %}
+        {% else %}
+          {% assign isActive = false %}
+        {% endif %}
+        {%- if menu_page.ref != "projects" and menu_page.ref != "join-us" -%}
           <div class="navbar-top-link__item positionRelative {{ menu_page.ref }}">
             <a href="{{ menu_page.url }}"
             {% if isActive %}class="active"{% endif %}
@@ -50,6 +51,7 @@ tutte le pagine del sito che:
               </div>
             {% endif %}
           </div>
+        {%- endif -%}
       {%- endif -%}
     {%- endfor -%}
     </div>

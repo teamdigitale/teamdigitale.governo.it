@@ -9,6 +9,7 @@ permalink: /it/repubblica-digitale
 redirect_from:
   - /repubblica-digitale
 hide_last_mod_date: true
+redirect_to: https://innovazione.gov.it/it/repubblica-digitale/
 ---
 
 <div class="container repubblica-digitale-header">

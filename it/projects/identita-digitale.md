@@ -13,6 +13,7 @@ forum_category: spid
 twitter_tag: spid
 forum_limit: 3
 dashboard_url: https://dashboard.pdnd.italia.it/public/dashboard/91369902-9c46-42e9-94c6-1a8b1c92d6c4
+redirect_to: https://innovazione.gov.it/it/progetti/spid/
 ---
 
 ### In breve

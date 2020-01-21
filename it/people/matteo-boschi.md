@@ -4,7 +4,6 @@ lang: it
 permalink: /it/people/matteo-boschi.html
 layout: people
 role: Mobile Developer
-is_new:
 twitter_user:
 medium_user:
 linkedin_url: https://www.linkedin.com/in/matteo-boschi

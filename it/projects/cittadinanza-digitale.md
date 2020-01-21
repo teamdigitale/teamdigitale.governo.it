@@ -23,6 +23,7 @@ timeline:
   - period: Fine 2019
     title: Pubblicazione prima release pubblica nei territori con il maggior numero di servizi integrati
     status: todo
+redirect_to: https://innovazione.gov.it/it/progetti/io/
 ---
 
 ### In breve

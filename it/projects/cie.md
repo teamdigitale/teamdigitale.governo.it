@@ -13,6 +13,7 @@ twitter_tag: cie
 forum_category: cie
 forum_limit: 3
 dashboard_url: https://dashboard.pdnd.italia.it/public/dashboard/e155f9b3-7624-4e62-8b29-25e9f7d6dad5
+redirect_to: https://innovazione.gov.it/it/progetti/cie/
 ---
 
 ### In breve

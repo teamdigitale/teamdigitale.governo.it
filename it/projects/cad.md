@@ -11,7 +11,7 @@ toc: true
 medium_tag: legislation
 forum_category:
 forum_limit: 3
-
+redirect_to: https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/
 ---
 
 ### In breve
