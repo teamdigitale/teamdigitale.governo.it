@@ -27,7 +27,7 @@ Once this project for Telecom Italia came to an end, I started to work t as a fu
 
 In recent years, I worked again for Telecom Italia, I led the technical transformation of a project operating on the entire network, leveraging the introduction of innovative open source technologies and Agile development methodologies. I built a strong background on relational databases, NoSQL, BigData and Time-series DB, as well as on different development technologies (microservices) and Javascript and DevOps frameworks.
 
-I was a co-founder member of retisenzafrontiere.org, a non-profit association against the digital divide that aims to provide the most modern connectivity technologies in areas with poor coverage, with a DIY approach. I have a passion for home automation and IoT, on which I invest a large part of my free time.
+I was a co-founder member of retisenzafrontiere, a non-profit association against the digital divide that aims to provide the most modern connectivity technologies in areas with poor coverage, with a DIY approach. I have a passion for home automation and IoT, on which I invest a large part of my free time.
 
 I love practicing sports and I especially love mountain biking. These  hobbies sometimes bring me away from my family that in spite of everything still supports me..
 

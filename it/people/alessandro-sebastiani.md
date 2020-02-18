@@ -27,7 +27,7 @@ Concluso il progetto in Telecom Italia ho iniziato a occuparmi di sviluppo come 
 
 Negli ultimi anni, tornato in Telecom Italia, ho guidato la trasformazione tecnica di un progetto operante sull’intera rete, facendo leva sull’introduzione di tecnologie innovative open source, sul lavoro di squadra e su metodologie di sviluppo Agile. Ho costruito un forte background su database relazionali, NoSQL, BigData e Time-series DB, nonché su diverse tecnologie di sviluppo (a microservizi) e framework Javascript e DevOps.
 
-Sono stato socio fondatore di retisenzafrontiere.org, un’associazione senza scopo di lucro contro il digital divide che ha l’obiettivo di fornire le più moderne tecnologie di connettività nelle zone a scarsa copertura, con approccio DIY. Ho la passione per la Domotica e l’IoT, su cui investo grossa parte del mio tempo libero.
+Sono stato socio fondatore di retisenzafrontiere, un’associazione senza scopo di lucro contro il digital divide che ha l’obiettivo di fornire le più moderne tecnologie di connettività nelle zone a scarsa copertura, con approccio DIY. Ho la passione per la Domotica e l’IoT, su cui investo grossa parte del mio tempo libero.
 
 Da alcuni anni lo sport e la MTB in particolare sono la mia passione. Per inseguirla, di tanto in tanto, devo allontanarmi dalla mia famiglia che, nonostante tutto continua a sopportarmi/supportarmi.
 
