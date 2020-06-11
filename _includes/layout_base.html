@@ -27,6 +27,9 @@
     <meta name="robots" content="noindex">
     {%- endif -%}
 
+    {% comment %} Cloudflare temporary verification token for teamdigitale.governo.it {% endcomment %}
+    <meta name="cf-2fa-verify" content="31b7a70f9e753c2">
+
     <title>{{ page.title }} - {{ site.title[page.lang] }}</title>
 
     {% for other_lang_page in site.pages %}
