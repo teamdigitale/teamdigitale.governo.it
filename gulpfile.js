@@ -15,7 +15,7 @@ var gulp = require('gulp'),
   rsync = require('gulp-rsync'),
   exec = require('gulp-exec'),
   htmlproof_sitefolder = '_site/',
-  htmlproof_params = '--check-html --allow-hash-href --only-4xx --external_only --internal-domains teamdigitale.governo.it ',
+  htmlproof_params = '--check-html --allow-hash-href --only-4xx --external_only --internal-domains teamdigitale.governo.it --url-ignore '/twitter.com/'',
   configFile = path.join(os.homedir(), '.teamdigitale_site.json')
 
 var config = {}
