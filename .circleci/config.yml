@@ -134,7 +134,7 @@ jobs:
       - attach_workspace:
           at: /home/circleci
       - run: bundle install
-      - run: bundle exec htmlproofer ./_site --check-html --allow-hash-href --only-4xx --alt-ignore '/.*/'
+      - run: bundle exec htmlproofer ./_site --check-html --allow-hash-href --only-4xx --alt-ignore '/.*/' --url-ignore '/twitter.com/'
 
 workflows:
   version: 2
