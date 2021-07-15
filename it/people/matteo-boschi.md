@@ -10,6 +10,7 @@ linkedin_url: https://www.linkedin.com/in/matteo-boschi
 ref: matteo-boschi
 parent_ref: team
 start_date: 1 aprile 2019
+end_date: 30 novembre 2019
 period_provided: fino al 31 dicembre 2019
 annual_compensation: € 70.000
 approved_by_court: Il decreto di nomina è in fase di registrazione presso la Corte dei Conti

@@ -10,6 +10,7 @@ linkedin_url: https://www.linkedin.com/in/matteo-boschi
 ref: matteo-boschi
 parent_ref: team
 start_date: April 1, 2019
+end_date: November 30, 2019
 period_provided: until December 31, 2019
 annual_compensation: € 70,000
 approved_by_court: The act of appointment is being registered at the Court of Auditors
