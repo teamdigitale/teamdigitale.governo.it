@@ -4600,83 +4600,7 @@ var _self = "undefined" != typeof window ? window : "undefined" != typeof Worker
                 }, l.send(null)
             })
         }, self.Prism.fileHighlight())
-    }(), ! function (e) {
-        e.cookieBar = function (t, n) {
-            if ("cookies" == t) var i = "cookies";
-            else if ("set" == t) var i = "set";
-            else var i = !1;
-            var o = {
-                message: "We use cookies to track usage and preferences.",
-                acceptButton: !0,
-                acceptText: "I Understand",
-                acceptFunction: !1,
-                declineButton: !1,
-                declineText: "Disable Cookies",
-                declineFunction: !1,
-                policyButton: !1,
-                policyText: "Privacy Policy",
-                policyFunction: !1,
-                policyURL: "/it/privacy-policy.htm",
-                autoEnable: !0,
-                acceptOnContinue: !1,
-                expireDays: 365,
-                forceShow: !1,
-                effect: "slide",
-                element: "body",
-                append: !1,
-                fixed: !1,
-                bottom: !1,
-                customClass: "",
-                zindex: "",
-                redirect: String(window.location.href),
-                domain: String(window.location.hostname),
-                referrer: String(document.referrer)
-            },
-                t = e.extend(o, t),
-                r = new Date;
-            r.setTime(r.getTime() + 24 * t.expireDays * 60 * 60 * 1e3), r = r.toGMTString();
-            var a, s, l = "cb-enabled={value}; expires=" + r + "; path=/",
-                c = "",
-                u = document.cookie.split("; ");
-            for (a = 0; a < u.length; a++) s = u[a].split("="), "cb-enabled" == s[0] && (c = s[1]);
-            if ("" == c && "cookies" != i && t.autoEnable && (c = "enabled", document.cookie = l.replace("{value}", "enabled")), t.acceptOnContinue && t.referrer.indexOf(t.domain) >= 0 && -1 == String(window.location.href).indexOf(t.policyURL) && "cookies" != i && "set" != i && "accepted" != c && "declined" != c && (i = "set", n = "accepted"), "cookies" == i) return "enabled" == c || "accepted" == c ? !0 : !1;
-            if ("set" == i && ("accepted" == n || "declined" == n)) return document.cookie = l.replace("{value}", n), "accepted" == n ? !0 : !1;
-            var d = t.message.replace("{policy_url}", t.policyURL);
-            if (t.acceptButton) var p = '<a href="" class="cb-enable">' + t.acceptText + "</a>";
-            else var p = "";
-            if (t.declineButton) var f = '<a href="" class="cb-disable">' + t.declineText + "</a>";
-            else var f = "";
-            if (t.policyButton) var h = '<a href="' + t.policyURL + '" class="cb-policy">' + t.policyText + "</a>";
-            else var h = "";
-            if (t.fixed)
-                if (t.bottom) var g = ' class="fixed bottom ' + t.customClass + '"';
-                else var g = ' class="fixed ' + t.customClass + '"';
-            else var g = ' class="' + t.customClass + '"';
-            if ("" != t.zindex) var m = ' style="z-index:' + t.zindex + ';"';
-            else var m = "";
-            (t.forceShow || "enabled" == c || "" == c) && (t.append ? e(t.element).append('<div id="cookie-bar"' + g + m + "><p>" + d + p + f + h + "</p></div>") : e(t.element).prepend('<div id="cookie-bar"' + g + m + "><p>" + d + p + f + h + "</p></div>")), e("#cookie-bar .cb-enable").click(function () {
-                return document.cookie = l.replace("{value}", "accepted"), t.acceptFunction && "function" == typeof t.acceptFunction && t.acceptFunction(), "enabled" == c || "accepted" == c || t.redirect === !1 ? ("slide" == t.effect ? e("#cookie-bar").slideUp(300, function () {
-                    e("#cookie-bar").remove()
-                }) : "fade" == t.effect ? e("#cookie-bar").fadeOut(300, function () {
-                    e("#cookie-bar").remove()
-                }) : e("#cookie-bar").hide(0, function () {
-                    e("#cookie-bar").remove()
-                }), !1) : void (window.location = t.redirect)
-            }), e("#cookie-bar .cb-disable").click(function () {
-                var n = new Date;
-                for (n.setTime(n.getTime() - 864e6), n = n.toGMTString(), u = document.cookie.split("; "), a = 0; a < u.length; a++) s = u[a].split("="), s[0].indexOf("_") >= 0 ? document.cookie = s[0] + "=0; expires=" + n + "; domain=" + t.domain.replace("www", "") + "; path=/" : document.cookie = s[0] + "=0; expires=" + n + "; path=/";
-                return document.cookie = l.replace("{value}", "declined"), t.declineFunction && "function" == typeof t.declineFunction && t.declineFunction(), "enabled" != c || "accepted" == c || t.redirect === !1 ? ("slide" == t.effect ? e("#cookie-bar").slideUp(300, function () {
-                    e("#cookie-bar").remove()
-                }) : "fade" == t.effect ? e("#cookie-bar").fadeOut(300, function () {
-                    e("#cookie-bar").remove()
-                }) : e("#cookie-bar").hide(0, function () {
-                    e("#cookie-bar").remove()
-                }), !1) : void (window.location = t.redirect)
-            }), e("#cookie-bar .cb-policy").click(function () {
-                t.policyFunction && "function" == typeof t.policyFunction && t.policyFunction()
-            })
-        }
-    }(jQuery),
+    }(),
     function (e, t) {
         e(document).ready(function () {
             e("html").removeClass("no-js")
@@ -4714,20 +4638,6 @@ var _self = "undefined" != typeof window ? window : "undefined" != typeof Worker
             })
         }), e("article > p > img").on("click", function () {
             e('<img class="lg-modal modal fade" src="' + e(this).attr("src") + '">').modal("show")
-        }), e(document).ready(function () {
-            e.cookieBar({
-                fixed: !0,
-                bottom: !0,
-                message: e(".cookie-message").text(),
-                acceptButton: !0,
-                acceptText: "Ok",
-                policyButton: !0,
-                policyText: "Privacy Policy",
-                policyURL: "/it/privacy-policy.htm",
-                acceptOnContinue: !0,
-                acceptOnScroll: 200,
-                acceptFunction: location.reload
-            })
         }),
             function () {
                 for (var e, t = function () { }, n = ["assert", "clear", "count", "debug", "dir", "dirxml", "error", "exception", "group", "groupCollapsed", "groupEnd", "info", "log", "markTimeline", "profile", "profileEnd", "table", "time", "timeEnd", "timeStamp", "trace", "warn"], i = n.length, o = window.console = window.console || {}; i--;) e = n[i], o[e] || (o[e] = t)
@@ -4775,6 +4685,6 @@ $(document).ready(function () {
         $li.siblings().removeClass('selected');
         $divTarget.removeClass('hidden');
         $divTarget.siblings().addClass('hidden');
-        
+
     });
 });

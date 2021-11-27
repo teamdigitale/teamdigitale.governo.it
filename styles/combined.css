@@ -102,69 +102,9 @@ pre[class*=language-] {
     cursor: help;
 }
 
-#cookie-bar {
-    background: #111;
-    height: auto;
-    min-height: 24px;
-    line-height: 24px;
-    color: #eee;
-    text-align: center;
-    z-index: 10000;
-}
-
-    #cookie-bar.fixed {
-        position: fixed;
-        top: 0;
-        left: 0;
-        width: 100%;
-    }
-
-        #cookie-bar.fixed.bottom {
-            bottom: 0;
-            top: auto;
-        }
-
-    #cookie-bar p {
-        margin: 0;
-        padding: 0;
-    }
-
-    #cookie-bar a {
-        color: #fff;
-        display: inline-block;
-        border-radius: 3px;
-        text-decoration: none;
-        padding: 0 6px;
-        margin-left: 8px;
-    }
-
 hr, img {
     border: 0;
 }
-
-#cookie-bar .cb-enable {
-    background: #070;
-}
-
-    #cookie-bar .cb-enable:hover {
-        background: #090;
-    }
-
-#cookie-bar .cb-disable {
-    background: #900;
-}
-
-    #cookie-bar .cb-disable:hover {
-        background: #b00;
-    }
-
-#cookie-bar .cb-policy {
-    background: #03b;
-}
-
-    #cookie-bar .cb-policy:hover {
-        background: #05d;
-    }
 
 .ita-colore-testo-principale {
     color: #1C2024;
@@ -8529,18 +8469,6 @@ article table {
         animation: octocat-wave 560ms ease-in-out;
     }
 }
-
-#cookie-bar {
-    font-size: 14px;
-    font-size: 1.4rem;
-    padding: 6px;
-    padding: .6rem;
-}
-
-    #cookie-bar .cb-enable {
-        width: 100px;
-        width: 10rem;
-    }
 
 .lg-example-result {
     margin: 20px 0;
