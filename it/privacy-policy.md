@@ -4,7 +4,6 @@ lang: it
 ref: privacy-policy
 permalink: /it/privacy-policy.htm
 layout: default
-last_modified_by_layout: project
 sitemap: false
 index: no-index
 ---
@@ -134,5 +133,3 @@ i cookie, il sito potrebbe non funzionare correttamente.
 * [Safari](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac)
 * [Edge](https://support.microsoft.com/it-it/help/4027947/microsoft-edge-delete-cookies)
 * [Opera](https://help.opera.com/en/latest/web-preferences/#cookies)
-
-*Ultimo aggiornamento: 03/01/2022*
