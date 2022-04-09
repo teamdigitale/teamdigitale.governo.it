@@ -18,6 +18,6 @@
     "gulp-uglify": "^3.0.2"
   },
   "dependencies": {
-    "yarn": "^1.9.4"
+    "yarn": "^1.22.0"
   }
 }
