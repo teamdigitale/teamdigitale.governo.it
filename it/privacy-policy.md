@@ -103,11 +103,7 @@ tecnici al fine di garantire il corretto funzionamento delle procedure e
 migliorare l’esperienza d’uso dei propri visitatori, il cui uso non è
 strumentale alla raccolta di dati personali identificativi dell’utente, nonché
 cookie analitici volti alla raccolta di informazioni, in forma aggregata, sul
-numero degli utenti e su come gli stessi visitano il sito. In particolare,
-utilizziamo il servizio Web Analytics Italia (WAI) fornito da AGID che prevede
-l'anonimizzazione dell'indirizzo IP dell' utente; per maggiori
-informazioni sulle funzionalità di WAI si rimanda alle
-[domande frequenti di AGID](https://webanalytics.italia.it/faq).
+numero degli utenti e su come gli stessi visitano il sito.
 
 ## Come disabilitare i cookie (opt-out) sul proprio dispositivo
 
