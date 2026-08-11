@@ -29,6 +29,31 @@
   white-space: nowrap;
 }
 
+.archive-banner {
+  background-color: #fff;
+  border-bottom: 1px solid #d9dadb;
+  color: #30373d;
+  font-size: 18px;
+  line-height: 1.4;
+  padding: 12px 0;
+  text-align: center;
+
+  p {
+    margin: 0;
+  }
+
+  a {
+    color: #06c;
+    font-weight: 600;
+    text-decoration: underline;
+  }
+
+  @media screen and (max-width: 767px) {
+    font-size: 16px;
+    padding: 10px 0;
+  }
+}
+
 .nav-banner {
   background-color: #06C;
   font-size: 16px;
