@@ -2,6 +2,8 @@
 title: Open Source Project Leader
 lang: it
 permalink: /it/jobpositions/open-source-project-leader.htm
+redirect_from:
+  - /it/jobs/30-detail.htm
 #jazz_url: https://teamdigitale.applytojob.com/apply/ifK3ZuAQtc/2-Open-Source-Project-Leader
 iframeheight: 700
 layout: job
@@ -42,6 +44,5 @@ Siamo alla ricerca di talenti con una solida esperienza nello sviluppo *open sou
 ### Formazione
 - Laurea in Ingegneria, Informatica o affine con almeno 5 anni di esperienza come contributore o *maintainer* di progetti *open source* oppure, in assenza di laurea, almeno 7  anni di esperienza come contributore o *maintainer* di progetti *open source*
 - Ottima conoscenza della lingua inglese
-
 
 

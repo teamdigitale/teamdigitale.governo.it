@@ -2,6 +2,9 @@
 title: Affari legali, giuridici e regolamentari nazionali ed europei
 lang: it
 permalink: /it/jobpositions/affari-legali-giuridici.htm
+redirect_from:
+  - /it/jobs/7-detail.htm
+  - /it/jobpositions/affari-regolamentari.htm
 layout: job
 ref: affari-legali-giuridici
 parent_ref: join-us
@@ -30,6 +33,5 @@ Siamo alla ricerca di talenti che abbiano un’esperienza pluriennale, eventualm
 ### Formazione
 - Laurea in Legge, Informatica giuridica e diritto delle nuove tecnologie (o titoli e specializzazioni accademiche equivalenti) con almeno 7 anni di rilevante esperienza maturata nel settore pubblico e/o nel privato, nel diritto dell’informatica e delle nuove tecnologie nonché nel diritto alla *privacy*, della proprietà intellettuale e delle materie giuridiche connesse all’*e-procurement*, oppure, in assenza di laurea, almeno 9 anni di rilevante esperienza maturata nel settore pubblico e/o nel privato, nel diritto dell’informatica e delle nuove tecnologie nonché nel diritto alla *privacy*, della proprietà intellettuale e delle materie giuridiche connesse all’*e-procurement*  
 - Ottima conoscenza della lingua inglese
-
 
 

@@ -1,4 +1,4 @@
-{% assign posts = site.medium_feed | where: "medium_detected_lang", page.lang | sort: "medium_firstpublished_at" | reverse %}
+{% assign posts = site.medium_feed | where: "medium_detected_lang", page.lang | where: "medium_homepage", true | sort: "medium_order" %}
 {% assign cover_post = posts.first %}
 {% assign max_other_posts = site.medium_posts_per_row | times: site.medium_max_rows %}
 {% assign other_posts = posts | tail | take: max_other_posts %}

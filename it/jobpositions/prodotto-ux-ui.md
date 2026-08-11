@@ -2,6 +2,8 @@
 title: Prodotto e User Experience e User Interface (UX / UI)
 lang: it
 permalink: /it/jobpositions/prodotto-ux-ui.htm
+redirect_from:
+  - /it/jobs/6-detail.htm
 layout: job
 ref: prodotto-ux-ui
 archived: true

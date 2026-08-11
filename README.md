@@ -4,7 +4,7 @@ Sito web del [Team per la Trasformazione Digitale](https://teamdigitale.governo.
 
 |`master` branch|
 |------|
-|[![CircleCI](https://circleci.com/gh/teamdigitale/teamdigitale.governo.it/tree/master.svg?style=svg)](https://circleci.com/gh/teamdigitale/teamdigitale.governo.it/tree/master)|
+|[![Build and deploy site](https://github.com/teamdigitale/teamdigitale.governo.it/actions/workflows/pages.yml/badge.svg?branch=master)](https://github.com/teamdigitale/teamdigitale.governo.it/actions/workflows/pages.yml)|
 
 ## Struttura del sito
 
@@ -177,28 +177,17 @@ $ gulp build
 
 Il risultato della generazione di troverà nella directory `_site`.
 
-### Pubblicare il sito in staging e produzione
+### Pubblicare il sito
 
-Per pubblicare il sito negli ambienti di _staging_ e _produzione_ è
-necessario creare un file _json_ nella propria home directory con questo
-formato:
+Il workflow GitHub Actions in `.github/workflows/pages.yml` genera il sito per
+ogni push e pull request. Il deploy su GitHub Pages viene eseguito soltanto per
+i push sul branch `master` e può essere avviato manualmente dalla sezione
+**Actions** del repository.
 
-```
-{
-  "staging": {
-    "server": "...",
-    "path": "...",
-    "port": ...
-  },
-  "production": {
-    "server": "...",
-    "path": "...",
-    "port": ...
-  },
-}
-```
-
-Dove `server` è nel formato `user@host`, `path` è il percorso completo alla directory di pubblicazione e `port` è la porta SSH per accedere al server (la pubblicazione avviene tramite _rsync_ via SSH).
+Nelle impostazioni del repository, sotto **Settings → Pages**, la sorgente di
+pubblicazione deve essere impostata su **GitHub Actions**. Il dominio
+personalizzato `teamdigitale.governo.it` deve essere configurato nella stessa
+sezione.
 
 ## Come contribuire al codice
 

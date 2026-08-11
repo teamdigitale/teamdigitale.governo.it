@@ -2,6 +2,9 @@
 title: Sviluppo Mobile e App
 lang: it
 permalink: /it/jobpositions/sviluppatore-mobile-app.htm
+redirect_from:
+  - /it/jobs/4-detail.htm
+  - /it/jobpositions/sviluppo-mobile-app.htm
 layout: job
 ref: sviluppatore-mobile-app
 parent_ref: join-us
@@ -38,5 +41,4 @@ Siamo alla ricerca di talenti con una comprovata esperienza nel settore, con una
 ### Formazione
 - Laurea in Informatica o affine con almeno 5 anni di solida esperienza in ambienti di sviluppo *Mobile* e App oppure, in assenza di laurea, almeno 7 anni di solida esperienza in ambienti di sviluppo *Mobile* e App  
 - Ottima conoscenza della lingua inglese
-
 

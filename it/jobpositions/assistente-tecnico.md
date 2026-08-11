@@ -2,6 +2,8 @@
 title: Assistente Tecnico e Coordinatore delle attività
 lang: it
 permalink: /it/jobpositions/assistente-tecnico.htm
+redirect_from:
+  - /it/jobs/14-detail.htm
 layout: job
 ref: assistente-tecnico
 archived: true
@@ -48,4 +50,3 @@ Il candidato ideale dovrà:
 - Laurea in una disciplina quantitativa (preferenza in Informatica ma qualsiasi tipo di disciplina è ben accetta)
 - Studi e/o occasioni di lavoro internazionale
 - Ottima conoscenza della lingua inglese
-

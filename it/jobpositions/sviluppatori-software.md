@@ -2,6 +2,8 @@
 title: Sviluppatori software
 lang: it
 permalink: /it/jobpositions/sviluppatori-software.htm
+redirect_from:
+  - /it/jobs/29-detail.htm
 layout: job
 ref: sviluppatori-software
 parent_ref: join-us
@@ -35,5 +37,4 @@ Siamo alla ricerca di talenti con esperienza nel settore, con una preparazione t
 ### Formazione
 - Laurea in Informatica o affine con almeno 3 anni di esperienza in ambienti di sviluppo di piattaforme digitali, *Mobile* e App, oppure, in assenza di laurea, almeno 5 anni di esperienza in ambienti di sviluppo di piattaforme digitali, *Mobile* e App
 - Ottima conoscenza della lingua inglese
-
 

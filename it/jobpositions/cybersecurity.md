@@ -2,6 +2,8 @@
 title: Cybersecurity
 lang: it
 permalink: /it/jobpositions/cybersecurity.htm
+redirect_from:
+  - /it/jobs/3-detail.htm
 layout: job
 ref: cybersecurity
 parent_ref: join-us
@@ -35,4 +37,3 @@ Siamo alla ricerca di talenti con una comprovata esperienza nel settore, con una
 ### Formazione
 - Laurea in Informatica o affine con almeno 7 anni di solida esperienza in *Security* e *Cybersecurity* per piattaforme digitali oppure, in assenza di laurea, almeno 9 anni di solida esperienza in *Security* e *Cybersecurity* per piattaforme digitali 
 - Ottima conoscenza della lingua inglese
-

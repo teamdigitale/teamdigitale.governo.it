@@ -2,6 +2,8 @@
 title: Big Data Architect
 lang: it
 permalink: /it/jobpositions/big-data-architect.htm
+redirect_from:
+  - /it/jobs/13-detail.htm
 layout: job
 ref: big-data-architect
 archived: true
@@ -29,4 +31,4 @@ Siamo alla ricerca di talenti con una comprovata esperienza nel settore, con una
 
 ### Formazione
 - Master of Science degree in Informatica o affine con almeno dieci anni di rilevante esperienza in ambiente industriale o scientifico oppure dottorato di ricerca in Informatica o affine con almeno cinque anni di rilevante esperienza in ambiente industriale o scientifica
-- Ottima conoscenza della lingua inglese 
+- Ottima conoscenza della lingua inglese

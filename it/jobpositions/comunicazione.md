@@ -2,6 +2,9 @@
 title: Comunicazione
 lang: it
 permalink: /it/jobpositions/comunicazione.htm
+redirect_from:
+  - /it/jobs/11-detail.htm
+  - /it/jobpositions/comunicazione-pr.htm
 layout: job
 archived: true
 ref: comunicazione

@@ -2,6 +2,8 @@
 title: Pagamenti Digitali
 lang: it
 permalink: /it/jobpositions/pagamenti-digitali.htm
+redirect_from:
+  - /it/jobs/5-detail.htm
 layout: job
 ref: pagamenti-digitali
 archived: true

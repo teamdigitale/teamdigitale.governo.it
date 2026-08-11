@@ -2,6 +2,8 @@
 title: Metrics e Analytics
 lang: it
 permalink: /it/jobpositions/metrics-analytics.htm
+redirect_from:
+  - /it/jobs/8-detail.htm
 layout: job
 ref: metrics-analytics
 archived: true
@@ -31,5 +33,4 @@ Siamo alla ricerca di talenti con una solida esperienza nel settore e una forte 
 ### Formazione
 - Laurea in Statistica, Matematica Applicata, Informatica, Ingegneria con almeno tre anni di esperienza in Business Intelligence, Analytics, Sviluppo di Metriche e KPI per piattaforme digitali o, in assenza di laurea, almeno cinque anni di esperienza in Business Intelligence, Analytics, Sviluppo di Metriche e KPI per piattaforme digitali
 - Ottima conoscenza della lingua inglese
-
 

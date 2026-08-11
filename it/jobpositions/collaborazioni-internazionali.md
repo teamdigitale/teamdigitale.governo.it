@@ -2,6 +2,8 @@
 title: Collaborazioni Internazionali
 lang: it
 permalink: /it/jobpositions/collaborazioni-internazionali.htm
+redirect_from:
+  - /it/jobs/12-detail.htm
 layout: job
 ref: collaborazioni-internazionali
 archived: true
@@ -37,4 +39,3 @@ Siamo alla ricerca di un un professionista molto esperto a livello internazional
 ### Formazione
 - MBA o Laurea in Informatica o in discipline quantitative o similari, oppure Laurea in Relazioni Internazionali o similare con almeno 5 anni di rilevante esperienza in relazioni e collaborazioni con l’Unione Europea, gli organismi internazionali e altri uffici digitali di governi in altri Paesi del mondo oppure, in assenza di laurea, almeno 7 anni di rilevante esperienza con l’Ue, con organismi internazionali e con altri uffici digitali di governi in altri Paesi del mondo
 - Ottima conoscenza della lingua inglese
-

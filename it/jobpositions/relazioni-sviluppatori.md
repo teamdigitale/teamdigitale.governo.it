@@ -2,6 +2,8 @@
 title: Relazioni Sviluppatori
 lang: it
 permalink: /it/jobpositions/relazioni-sviluppatori.htm
+redirect_from:
+  - /it/jobs/9-detail.htm
 layout: job
 ref: relazioni-sviluppatori
 archived: true

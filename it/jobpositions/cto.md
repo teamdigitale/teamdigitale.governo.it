@@ -2,6 +2,8 @@
 title: Chief Technology Officer - Tecnologia e Architettura
 lang: it
 permalink: /it/jobpositions/cto.htm
+redirect_from:
+  - /it/jobs/1-detail.htm
 layout: job
 ref: cto
 archived: true
@@ -33,4 +35,3 @@ Siamo alla ricerca di guru e talenti con una comprovata esperienza nel coordinam
 ### Formazione
 - Master of Science o affine con almeno dieci anni di solida esperienza in Software Engineering, Infrastructure Engineering, Infastrutture Cloud-based e tecnologie per sviluppo di applicazioni web e mobile
 - Ottima conoscenza della lingua inglese
-

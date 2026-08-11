@@ -2,6 +2,8 @@
 title: Content designer
 lang: it
 permalink: /it/jobpositions/content-designer.htm
+redirect_from:
+  - /it/jobs/10-detail.htm
 layout: job
 ref: content-designer
 archived: true
@@ -30,5 +32,4 @@ Siamo alla ricerca di talenti con una comprovata esperienza nel settore e una fo
 ### Formazione
 - Master of Science degree in Design/HCI o affine con oltre dieci anni di rilevante esperienza nell’ideazione di contenuti per applicazioni web e mobile e con un portfolio di lavori comprovante la propria esperienza o dottorato di ricerca in Design/HCI o affine con oltre cinque anni di rilevante esperienza nell’ideazione di contenuti per applicazioni web e mobile e con un portfolio di lavori comprovante la propria esperienza
 - Ottima conoscenza della lingua inglese
-
 
