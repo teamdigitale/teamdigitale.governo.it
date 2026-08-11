@@ -10,6 +10,10 @@ on:
 permissions:
   contents: read
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   build:
     name: Build
@@ -34,10 +38,13 @@ jobs:
       - name: Add custom domain
         run: echo "teamdigitale.governo.it" > _site/CNAME
 
-      - name: Upload GitHub Pages artifact
-        uses: actions/upload-pages-artifact@v5
+      - name: Upload site artifact
+        if: github.event_name != 'pull_request' && github.ref == 'refs/heads/master'
+        uses: actions/upload-artifact@v7
         with:
+          name: site
           path: _site
+          retention-days: 1
 
   deploy:
     name: Deploy
@@ -46,18 +53,45 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
+      contents: write
       pages: write
-      id-token: write
-
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-
-    concurrency:
-      group: github-pages
-      cancel-in-progress: false
 
     steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v5
+      - name: Checkout deployment branch
+        uses: actions/checkout@v7
+        with:
+          ref: gh-pages
+          fetch-depth: 0
+
+      - name: Download site artifact
+        uses: actions/download-artifact@v8
+        with:
+          name: site
+          path: ${{ runner.temp }}/site
+
+      - name: Commit site to gh-pages
+        env:
+          SITE_DIR: ${{ runner.temp }}/site
+        run: |
+          set -euo pipefail
+
+          test "$(git branch --show-current)" = "gh-pages"
+          test -f "$SITE_DIR/index.html"
+
+          rsync --archive --delete --exclude='.git/' "$SITE_DIR/" ./
+          touch .nojekyll
+
+          git config user.name "Deploy Bot"
+          git config user.email "no-reply@teamdigitale.governo.it"
+          git add --all
+          git commit --allow-empty -m "Automated deployment to GitHub Pages: ${GITHUB_SHA}"
+          git push origin gh-pages
+
+      - name: Request GitHub Pages build
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh api \
+            --method POST \
+            --header "X-GitHub-Api-Version: 2026-03-10" \
+            "repos/${GITHUB_REPOSITORY}/pages/builds"

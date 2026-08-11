@@ -180,14 +180,19 @@ Il risultato della generazione di troverà nella directory `_site`.
 ### Pubblicare il sito
 
 Il workflow GitHub Actions in `.github/workflows/pages.yml` genera il sito per
-ogni push e pull request. Il deploy su GitHub Pages viene eseguito soltanto per
-i push sul branch `master` e può essere avviato manualmente dalla sezione
-**Actions** del repository.
+le pull request e per i push sul branch `master`. Il deploy viene eseguito
+soltanto da `master`: il contenuto generato viene salvato in un nuovo commit sul
+branch `gh-pages`, preservando la cronologia delle pubblicazioni. Il workflow
+può essere avviato manualmente dalla sezione **Actions** del repository.
 
 Nelle impostazioni del repository, sotto **Settings → Pages**, la sorgente di
-pubblicazione deve essere impostata su **GitHub Actions**. Il dominio
-personalizzato `teamdigitale.governo.it` deve essere configurato nella stessa
-sezione.
+pubblicazione deve essere impostata su **Deploy from a branch**, selezionando il
+branch `gh-pages` e la directory `/ (root)`. Il dominio personalizzato
+`teamdigitale.governo.it` deve essere configurato nella stessa sezione.
+
+Il deploy usa il `GITHUB_TOKEN` generato automaticamente dal workflow per
+aggiornare `gh-pages` e richiedere esplicitamente una nuova build Pages. Non
+sono necessari PAT, deploy key o secret aggiuntivi.
 
 ## Come contribuire al codice
 
