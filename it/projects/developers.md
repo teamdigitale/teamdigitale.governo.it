@@ -8,6 +8,7 @@ parent_ref: projects
 parent_menu: projects
 people: [alessandro-ranellucci, leonardo-favario, alessandro-sebastiani, andrea-biancini, giovanni-bajo, riccardo-iaconelli]
 toc: true
+dashboard_url: https://dashboard.pdnd.italia.it/public/dashboard/08665701-33b7-49ac-acd8-dee59a150737
 twitter_user: developersITA
 medium_tag: developer
 timeline:
@@ -86,6 +87,9 @@ Il catalogo di Developers Italia consente alle amministrazioni di cercare facilm
 Grazie al modello collaborativo e al riuso del software i cittadini possono beneficiare di servizi digitali più maturi, più sicuri, più funzionali, più integrati con le piattaforme abilitanti e più coerenti tra di loro.
 
 La possibilità di accedere al codice sorgente offre maggiore trasparenza e permette ai cittadini di collaborare alla correzione di problemi e al miglioramento del software pubblico.
+
+### I dati
+{% include dashboard.html %}
 
 ### Il ruolo del Team
 
